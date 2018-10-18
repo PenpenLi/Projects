@@ -21,5 +21,5 @@ from gm import views
 urlpatterns = [
     #path('admin/', admin.site.urls),
     url(r'^$',views.sayHello),
-
+    url(r'^showStudents$',views.showStudents),
 ]
