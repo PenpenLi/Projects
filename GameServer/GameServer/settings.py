@@ -20,7 +20,7 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 # See https://docs.djangoproject.com/en/2.1/howto/deployment/checklist/
 
 # SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = 'm+34+w1o%qumb756)cip!5_0r=4kyg5$=zhchhmfonyn-%gb+4'
+SECRET_KEY = 'qb*!3*k_1*)g#ftcu+qc^^j7zhc46&2&p#r)d(h&%7z2cxv=zx'
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
@@ -55,7 +55,7 @@ ROOT_URLCONF = 'GameServer.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': [BASE_DIR+"/templates",],
+        'DIRS': [],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [
@@ -78,12 +78,14 @@ DATABASES = {
     'default': {
         #'ENGINE': 'django.db.backends.sqlite3',
         #'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),
-        'ENGINE': 'django.db.backends.mysql',   #使用数据库的类型
-        'NAME':'webgame',    #数据库名
-        'USER':'root',      #用户名
-        'PASSWORD':'root',  #密码
-        'HOST':'localhost', #主机ip地址
-        'POST':'3306',      #端口
+		
+		'ENGINE': 'django.db.backends.mysql',
+        'NAME': 'webgame',			#数据库的名字
+        'USER': 'root',				#登录数据库的用户名
+        'PASSWORD': 'root',			#登录数据库的密码
+        'HOST': 'localhost',		    #数据库的IP地址
+        'PORT': '3306',				#数据库的端口
+
     }
 }
 
