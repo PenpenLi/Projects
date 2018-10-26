@@ -84,7 +84,7 @@ DATABASES = {
         'NAME': 'webgame',			#数据库的名字
         'USER': 'root',				#登录数据库的用户名
         'PASSWORD': 'root',			#登录数据库的密码
-        'HOST': 'localhost',		#数据库的IP地址
+        'HOST': 'localhost',		    #数据库的IP地址
         'PORT': '3306',				#数据库的端口
     }
 }
