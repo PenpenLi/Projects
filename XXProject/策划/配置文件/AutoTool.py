@@ -32,9 +32,9 @@ def Read_config():
 				#print sheet.name,sheet.nrows,sheet.ncols
 				row = sheet.nrows
 				col = sheet.ncols
-				words_type = sheet.row_values(1)
-				cout_type = sheet.row_values(3)
-				words = sheet.row_values(4)
+				words_type = sheet.row_values(0)
+				cout_type = sheet.row_values(2)
+				words = sheet.row_values(3)
 				findtype = str(cout_type)
 				if findstr(findtype,"Client") or findstr(findtype,"Both") or findstr(findtype,"Server"):
 					#title = WriteTitle(sheetname,sheet,col)
@@ -42,23 +42,12 @@ def Read_config():
 					#file_c = file[0]
 					file_s = file[1] + "</root>"
 					file_j = file[2] + "}"
-					#kmap = Key_map(sheet,col)
-					#test_a = local_m(sheetname)
-					#test_b = Sheetname_getlength(sheetname)
-					#test_c = Sheetname_haskey(sheetname)
-					#test_d = Sheetname_indexOf(sheetname)
-					#test_e = Sheetname_get(sheetname)
-					#test_f = Sheetname_set(sheetname)
-					#test_g = Sheetname_get_index_data(sheetname)
-					#file_c = title[0] + file_c + kmap + test_a + test_b + test_c + test_d + test_e + test_f + test_g
-					#Writefile(line[0:-6],file_c,"lua",".lua")
-					#Writefile(line[0:-6],file_c,path[0],".lua")
 					
 					if findstr(findtype,"Server") or findstr(findtype,"Both"):
-						Writefile(line[0:-6],file_s,"xml",".xml")
+						#Writefile(line[0:-6],file_s,"xml",".xml")
 						Writefile(line[0:-6],file_j,"json",".json")
-						
-						Writefile(line[0:-6],file_s,path[1],".xml")
+			
+						#Writefile(line[0:-6],file_s,path[1],".xml")
 						Writefile(line[0:-6],file_j,path[2],".json")
 
 				endtime = datetime.datetime.now()-starttime
@@ -81,20 +70,14 @@ def Read_excel(excelname,sheet,words_type,cout_type,words,row,col):
 	sheetname = excelname[0:-5]
 	testtitle = sheetname + ' = {\n\t' + '_data = {\n'
 	filelist_c = ""
-	#filelist_s = "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<!-- "
 	filelist_s = "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n"
 	filelist_j="{\n"
 	index_list = "local __index_id = {" + '\n'
-	words_str = sheet.row_values(2)
-	#for i in range(col):
-	#	wordstype =cout_type[i]
-	#	if wordstype in ["both","Both","server","Server"]:
-	#		filelist_s = filelist_s + words[i] +"=" + words_str[i] + " "
-	#filelist_s = filelist_s + "-->\n<root>\n"
+	words_str = sheet.row_values(1)
 	filelist_s = filelist_s + "<root>\n"
 	
 	# 获取整行和整列的值（数组）
-	for i in range(5,row):
+	for i in range(4,row):
 		test_c=""
 		test_s=""
 		test_j=""
@@ -371,6 +354,7 @@ def Sheetname_get_index_data(sheetname):
 
 if __name__ == '__main__':
 	Read_config()
+	os.remove("config.txt")
 	#a=""
 	#c="1|1|1|2|a|4"
 	#a=splitString(c,"|")
