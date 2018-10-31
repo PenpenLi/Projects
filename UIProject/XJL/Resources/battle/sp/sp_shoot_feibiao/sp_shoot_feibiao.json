@@ -1,0 +1,62 @@
+{
+  "图层 2_1" : {
+    "f1" : {
+      "start" : {
+        "x" : "-1",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "1.2",
+        "scaleY" : "1.2",
+        "opacity" : "255"
+      }
+    },
+    "sp" : "sp_shoot_feibiao_tuowei",
+    "useBatchNode" : "true",
+    "order" : "1"
+  },
+  "图层 1_2" : {
+    "f1" : {
+      "start" : {
+        "x" : "-0.5",
+        "y" : "-0.5",
+        "rotation" : "179",
+        "scaleX" : "0.3",
+        "scaleY" : "0.3",
+        "opacity" : "255",
+        "png" : "sp_shoot_feibiao_1.png"
+      },
+      "nextFrame" : "f13",
+      "frames" : "13"
+    },
+    "order" : "0",
+    "f13" : {
+      "start" : {
+        "x" : "-0.5",
+        "y" : "-0.5",
+        "rotation" : "0",
+        "scaleX" : "0.3",
+        "scaleY" : "0.3",
+        "opacity" : "255",
+        "png" : "sp_shoot_feibiao_1.png"
+      },
+      "nextFrame" : "f24",
+      "frames" : "12"
+    },
+    "f24" : {
+      "start" : {
+        "x" : "-0.5",
+        "y" : "-0.5",
+        "rotation" : "-179",
+        "scaleX" : "0.3",
+        "scaleY" : "0.3",
+        "opacity" : "255",
+        "png" : "sp_shoot_feibiao_1.png"
+      }
+    }
+  },
+  "events" : {
+    "f1" : "forever"
+  },
+  "scale" : "2",
+  "png" : "sp_shoot_feibiao.png"
+}

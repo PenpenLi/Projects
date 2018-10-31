@@ -1,0 +1,78 @@
+{
+  "老虎.psd 复制_0" : {
+    "f1" : {
+      "start" : {
+        "x" : "-141.35",
+        "y" : "80.25",
+        "rotation" : "0",
+        "scaleX" : "1.64",
+        "scaleY" : "1.64",
+        "opacity" : "255",
+        "png" : "sp_laohu_1.png"
+      }
+    },
+    "order" : "0",
+    "f2" : {
+      "start" : {
+        "x" : "83.05",
+        "y" : "99.35",
+        "rotation" : "0",
+        "scaleX" : "1.64",
+        "scaleY" : "1.64",
+        "opacity" : "255",
+        "png" : "sp_laohu_2.png"
+      }
+    },
+    "f4" : {
+      "start" : {
+        "x" : "177.6",
+        "y" : "-1.5",
+        "rotation" : "0",
+        "scaleX" : "1.64",
+        "scaleY" : "1.64",
+        "opacity" : "255",
+        "png" : "sp_laohu_3.png"
+      }
+    },
+    "f6" : {
+      "start" : {
+        "x" : "165",
+        "y" : "-122.1",
+        "rotation" : "0",
+        "scaleX" : "1.64",
+        "scaleY" : "1.64",
+        "opacity" : "255",
+        "png" : "sp_laohu_4.png"
+      }
+    },
+    "f8" : {
+      "start" : {
+        "x" : "165",
+        "y" : "-122.1",
+        "rotation" : "0",
+        "scaleX" : "1.64",
+        "scaleY" : "1.64",
+        "opacity" : "255",
+        "png" : "sp_laohu_4.png"
+      },
+      "nextFrame" : "f11",
+      "frames" : "4"
+    },
+    "f11" : {
+      "start" : {
+        "x" : "165",
+        "y" : "-122.1",
+        "rotation" : "0",
+        "scaleX" : "1.64",
+        "scaleY" : "1.64",
+        "opacity" : "0",
+        "png" : "sp_laohu_4.png"
+      }
+    }
+  },
+  "events" : {
+    "f12" : "finish"
+  },
+  "scale" : "2",
+  "png" : "sp_laohu.png"
+}

@@ -1,0 +1,77 @@
+{
+  "btn" : {
+    "f1" : {
+      "start" : {
+        "x" : "0",
+        "y" : "800",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f10",
+      "frames" : "10"
+    },
+    "order" : "2",
+    "f10" : {
+      "start" : {
+        "x" : "0",
+        "y" : "-4",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    }
+  },
+  "shadow" : {
+    "f1" : {
+      "start" : {
+        "x" : "0",
+        "y" : "830",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "76"
+      },
+      "nextFrame" : "f10",
+      "frames" : "10"
+    },
+    "order" : "1",
+    "f10" : {
+      "start" : {
+        "x" : "0",
+        "y" : "50",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "76"
+      },
+      "nextFrame" : "f11",
+      "frames" : "2"
+    },
+    "f11" : {
+      "remove" : "1"
+    }
+  },
+  "effect" : {
+    "f11" : {
+      "start" : {
+        "x" : "0.8",
+        "y" : "6.6",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    },
+    "order" : "0",
+    "f30" : {
+      "remove" : "1"
+    }
+  },
+  "events" : {
+    "f13" : "finish_appear",
+    "f31" : "finish"
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "图层 18    复制 4_1" : {
+    "f15" : {
+      "start" : {
+        "x" : "-156.8",
+        "y" : "96.45",
+        "rotation" : "-52.5",
+        "scaleX" : "0.38",
+        "scaleY" : "0.38",
+        "opacity" : "255",
+        "png" : "effect_mojing_7_1.png"
+      },
+      "nextFrame" : "f20",
+      "frames" : "6"
+    },
+    "order" : "1",
+    "f20" : {
+      "start" : {
+        "x" : "-156.8",
+        "y" : "96.45",
+        "rotation" : "-37.5",
+        "scaleX" : "0.82",
+        "scaleY" : "0.82",
+        "opacity" : "255",
+        "png" : "effect_mojing_7_1.png"
+      },
+      "nextFrame" : "f30",
+      "frames" : "11"
+    },
+    "f30" : {
+      "start" : {
+        "x" : "-156.8",
+        "y" : "96.45",
+        "rotation" : "-7.5",
+        "scaleX" : "0.6",
+        "scaleY" : "0.6",
+        "opacity" : "0",
+        "png" : "effect_mojing_7_1.png"
+      },
+      "nextFrame" : "f31",
+      "frames" : "2"
+    },
+    "f31" : {
+      "remove" : "1"
+    }
+  },
+  "图层 18    复制 4_2" : {
+    "f1" : {
+      "start" : {
+        "x" : "-42.95",
+        "y" : "61.35",
+        "rotation" : "0",
+        "scaleX" : "0.4",
+        "scaleY" : "0.4",
+        "opacity" : "255",
+        "png" : "effect_mojing_7_1.png"
+      },
+      "nextFrame" : "f6",
+      "frames" : "6"
+    },
+    "order" : "0",
+    "f6" : {
+      "start" : {
+        "x" : "-42.95",
+        "y" : "61.35",
+        "rotation" : "15",
+        "scaleX" : "0.88",
+        "scaleY" : "0.88",
+        "opacity" : "255",
+        "png" : "effect_mojing_7_1.png"
+      },
+      "nextFrame" : "f17",
+      "frames" : "12"
+    },
+    "f17" : {
+      "start" : {
+        "x" : "-42.95",
+        "y" : "61.35",
+        "rotation" : "45",
+        "scaleX" : "0.64",
+        "scaleY" : "0.64",
+        "opacity" : "0",
+        "png" : "effect_mojing_7_1.png"
+      },
+      "nextFrame" : "f18",
+      "frames" : "2"
+    },
+    "f18" : {
+      "remove" : "1"
+    }
+  },
+  "events" : {
+    "f121" : "forever"
+  },
+  "scale" : "1",
+  "png" : "effect_mojing_7.png"
+}

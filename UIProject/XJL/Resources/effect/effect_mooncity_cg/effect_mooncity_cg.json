@@ -1,0 +1,148 @@
+{
+  "图层 3 复制_1" : {
+    "f49" : {
+      "start" : {
+        "x" : "-155.15",
+        "y" : "475.45",
+        "rotation" : "0",
+        "scaleX" : "0.83",
+        "scaleY" : "2.23",
+        "opacity" : "5",
+        "png" : "effect_mooncity_cg_1.png"
+      },
+      "nextFrame" : "f130",
+      "frames" : "82"
+    },
+    "order" : "3",
+    "f130" : {
+      "start" : {
+        "x" : "-253.85",
+        "y" : "475.9",
+        "rotation" : "0",
+        "scaleX" : "0.83",
+        "scaleY" : "2.23",
+        "opacity" : "201",
+        "png" : "effect_mooncity_cg_1.png"
+      },
+      "nextFrame" : "f191",
+      "frames" : "62"
+    },
+    "f191" : {
+      "start" : {
+        "x" : "-328.15",
+        "y" : "476.3",
+        "rotation" : "0",
+        "scaleX" : "0.83",
+        "scaleY" : "2.23",
+        "opacity" : "204",
+        "png" : "effect_mooncity_cg_1.png"
+      },
+      "nextFrame" : "f242",
+      "frames" : "52"
+    },
+    "f242" : {
+      "start" : {
+        "x" : "-390.3",
+        "y" : "476.6",
+        "rotation" : "0",
+        "scaleX" : "0.83",
+        "scaleY" : "2.23",
+        "opacity" : "5",
+        "png" : "effect_mooncity_cg_1.png"
+      },
+      "nextFrame" : "f243",
+      "frames" : "2"
+    },
+    "f243" : {
+      "remove" : "1"
+    }
+  },
+  "图层 3_2" : {
+    "f1" : {
+      "start" : {
+        "x" : "-58.05",
+        "y" : "407",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "5",
+        "png" : "effect_mooncity_cg_1.png"
+      },
+      "nextFrame" : "f65",
+      "frames" : "65"
+    },
+    "order" : "2",
+    "f65" : {
+      "start" : {
+        "x" : "-149.5",
+        "y" : "407.85",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "effect_mooncity_cg_1.png"
+      },
+      "nextFrame" : "f144",
+      "frames" : "80"
+    },
+    "f144" : {
+      "start" : {
+        "x" : "-236.8",
+        "y" : "407.75",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "209",
+        "png" : "effect_mooncity_cg_1.png"
+      },
+      "nextFrame" : "f190",
+      "frames" : "47"
+    },
+    "f190" : {
+      "start" : {
+        "x" : "-287.6",
+        "y" : "407.7",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "5",
+        "png" : "effect_mooncity_cg_1.png"
+      }
+    }
+  },
+  "图层 4_3" : {
+    "f1" : {
+      "start" : {
+        "x" : "-205.6",
+        "y" : "432.5",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    },
+    "effect" : "effect_moon_cg",
+    "useBatchNode" : "true",
+    "order" : "1"
+  },
+  "图层 9_4" : {
+    "f1" : {
+      "start" : {
+        "x" : "24.05",
+        "y" : "111.75",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    },
+    "effect" : "effect_glow_cg",
+    "useBatchNode" : "true",
+    "order" : "0"
+  },
+  "events" : {
+    "f320" : "forever"
+  },
+  "scale" : "1",
+  "png" : "effect_mooncity_cg.png"
+}

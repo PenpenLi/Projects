@@ -1,0 +1,95 @@
+{
+  "图层 1_0" : {
+    "f5" : {
+      "start" : {
+        "x" : "-147.15",
+        "y" : "150.85",
+        "rotation" : "-38.43",
+        "scaleX" : "0.34",
+        "scaleY" : "0.34",
+        "opacity" : "255",
+        "png" : "sp_cont_bmfs_start_1_1.png"
+      },
+      "nextFrame" : "f6",
+      "frames" : "2"
+    },
+    "order" : "2",
+    "f6" : {
+      "start" : {
+        "x" : "-165.05",
+        "y" : "199.65",
+        "rotation" : "-25.9",
+        "scaleX" : "0.63",
+        "scaleY" : "0.63",
+        "opacity" : "255",
+        "png" : "sp_cont_bmfs_start_1_1.png"
+      },
+      "nextFrame" : "f7",
+      "frames" : "2"
+    },
+    "f7" : {
+      "start" : {
+        "x" : "-169.4",
+        "y" : "313.7",
+        "rotation" : "0",
+        "scaleX" : "0.77",
+        "scaleY" : "0.77",
+        "opacity" : "255",
+        "png" : "sp_cont_bmfs_start_1_1.png"
+      }
+    },
+    "f8" : {
+      "remove" : "1"
+    }
+  },
+  "shifaguang.psd 复制_1" : {
+    "f1" : {
+      "start" : {
+        "x" : "-24.1",
+        "y" : "206.75",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f5",
+      "frames" : "5"
+    },
+    "sp" : "sp_juguang",
+    "useBatchNode" : "true",
+    "order" : "1",
+    "f5" : {
+      "start" : {
+        "x" : "-104.1",
+        "y" : "166.7",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    },
+    "f6" : {
+      "remove" : "1"
+    }
+  },
+  "图层 9_2" : {
+    "f6" : {
+      "start" : {
+        "x" : "-0.8",
+        "y" : "15.25",
+        "rotation" : "0",
+        "scaleX" : "0.85",
+        "scaleY" : "0.85",
+        "opacity" : "255"
+      }
+    },
+    "sp" : "sp_run_smog",
+    "useBatchNode" : "true",
+    "order" : "0"
+  },
+  "events" : {
+    "f9" : "finish"
+  },
+  "scale" : "2",
+  "png" : "sp_cont_bmfs_start_1.png"
+}

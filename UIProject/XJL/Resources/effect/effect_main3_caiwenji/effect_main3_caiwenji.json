@@ -1,0 +1,36 @@
+{
+  "眨眼_1" : {
+    "f1" : {
+      "start" : {
+        "x" : "19.6",
+        "y" : "66.9",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "216"
+      }
+    },
+    "effect" : "effect_main3_yanjing4",
+    "useBatchNode" : "true",
+    "order" : "1"
+  },
+  "蔡文姬_2" : {
+    "f1" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "216",
+        "png" : "effect_main3_caiwenji_1.png"
+      }
+    },
+    "order" : "0"
+  },
+  "events" : {
+    "f65" : "forever"
+  },
+  "scale" : "1",
+  "png" : "effect_main3_caiwenji.png"
+}

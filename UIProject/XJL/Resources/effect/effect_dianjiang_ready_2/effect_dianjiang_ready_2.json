@@ -1,0 +1,71 @@
+{
+  "图层 4_1" : {
+    "f1" : {
+      "start" : {
+        "x" : "4.35",
+        "y" : "-29.1",
+        "rotation" : "0",
+        "scaleX" : "1.37",
+        "scaleY" : "1.37",
+        "opacity" : "255"
+      }
+    },
+    "effect" : "effect_dianjiang_ready_1",
+    "useBatchNode" : "true",
+    "order" : "3"
+  },
+  "图层 5_2" : {
+    "f1" : {
+      "start" : {
+        "x" : "-0.8",
+        "y" : "67",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    },
+    "effect" : "effect_dianjiang_ready_4",
+    "useBatchNode" : "true",
+    "first_frame" : "80",
+    "loop" : "loop",
+    "order" : "2"
+  },
+  "图层 2_3" : {
+    "f1" : {
+      "start" : {
+        "x" : "-0.8",
+        "y" : "67",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    },
+    "effect" : "effect_dianjiang_ready_5",
+    "useBatchNode" : "true",
+    "first_frame" : "40",
+    "loop" : "loop",
+    "order" : "1"
+  },
+  "图层 3_4" : {
+    "f1" : {
+      "start" : {
+        "x" : "-0.8",
+        "y" : "67",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    },
+    "effect" : "effect_dianjiang_ready_6",
+    "useBatchNode" : "true",
+    "order" : "0"
+  },
+  "events" : {
+    "f120" : "forever"
+  },
+  "scale" : "1",
+  "png" : ""
+}

@@ -1,0 +1,67 @@
+{
+  "Layer 11_0" : {
+    "f1" : {
+      "start" : {
+        "x" : "-24.9",
+        "y" : "13.95",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    },
+    "effect" : "effect_levelup_stars",
+    "useBatchNode" : "true",
+    "order" : "3"
+  },
+  "text_1" : {
+    "f1" : {
+      "start" : {
+        "x" : "1.4",
+        "y" : "-2.65",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    },
+    "effect" : "effect_levelup_text",
+    "useBatchNode" : "true",
+    "order" : "2"
+  },
+  "firework_2" : {
+    "f1" : {
+      "start" : {
+        "x" : "-2.8",
+        "y" : "62.5",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    },
+    "effect" : "effect_levelup_fireworks",
+    "useBatchNode" : "true",
+    "order" : "1"
+  },
+  "Layer 6_3" : {
+    "f1" : {
+      "start" : {
+        "x" : "6.5",
+        "y" : "-21.5",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "0.68",
+        "opacity" : "255"
+      }
+    },
+    "effect" : "effect_levelup_lilght",
+    "useBatchNode" : "true",
+    "order" : "0"
+  },
+  "events" : {
+    "f31" : "finish"
+  },
+  "scale" : "1",
+  "png" : ""
+}

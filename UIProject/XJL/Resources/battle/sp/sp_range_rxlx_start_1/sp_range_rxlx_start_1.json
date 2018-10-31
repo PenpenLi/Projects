@@ -1,0 +1,115 @@
+{
+  "图层 4_0" : {
+    "f3" : {
+      "start" : {
+        "x" : "-1.9",
+        "y" : "118.8",
+        "rotation" : "0",
+        "scaleX" : "0.66",
+        "scaleY" : "0.66",
+        "opacity" : "255"
+      }
+    },
+    "sp" : "sp_shandianqiu",
+    "useBatchNode" : "true",
+    "order" : "2",
+    "f6" : {
+      "start" : {
+        "x" : "-1.9",
+        "y" : "118.8",
+        "rotation" : "0",
+        "scaleX" : "0.66",
+        "scaleY" : "0.66",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f11",
+      "frames" : "6"
+    },
+    "f11" : {
+      "start" : {
+        "x" : "-6.95",
+        "y" : "353.35",
+        "rotation" : "0",
+        "scaleX" : "0.66",
+        "scaleY" : "0.66",
+        "opacity" : "255"
+      }
+    },
+    "f12" : {
+      "remove" : "1"
+    }
+  },
+  "图层 2_1" : {
+    "f1" : {
+      "start" : {
+        "x" : "11.3",
+        "y" : "130.8",
+        "rotation" : "0",
+        "scaleX" : "1.4",
+        "scaleY" : "1.4",
+        "opacity" : "255"
+      }
+    },
+    "sp" : "sp_lmbd",
+    "useBatchNode" : "true",
+    "order" : "1",
+    "f4" : {
+      "start" : {
+        "x" : "2.95",
+        "y" : "109.85",
+        "rotation" : "0",
+        "scaleX" : "0.61",
+        "scaleY" : "0.61",
+        "opacity" : "255"
+      }
+    },
+    "f8" : {
+      "remove" : "1"
+    }
+  },
+  "图层 3_2" : {
+    "f1" : {
+      "start" : {
+        "x" : "2.05",
+        "y" : "2.65",
+        "rotation" : "0",
+        "scaleX" : "0.42",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    },
+    "sp" : "sp_range_tplm_start_1",
+    "useBatchNode" : "true",
+    "order" : "0",
+    "f10" : {
+      "start" : {
+        "x" : "2.05",
+        "y" : "2.65",
+        "rotation" : "0",
+        "scaleX" : "0.42",
+        "scaleY" : "1",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f14",
+      "frames" : "5"
+    },
+    "f14" : {
+      "start" : {
+        "x" : "2.05",
+        "y" : "2.65",
+        "rotation" : "0",
+        "scaleX" : "0.42",
+        "scaleY" : "1",
+        "opacity" : "0"
+      }
+    },
+    "f15" : {
+      "remove" : "1"
+    }
+  },
+  "events" : {
+    "f16" : "finish"
+  },
+  "scale" : "2",
+  "png" : ""
+}

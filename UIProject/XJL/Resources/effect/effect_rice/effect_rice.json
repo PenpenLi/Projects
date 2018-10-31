@@ -1,0 +1,41 @@
+{
+  "effect_rice_light_1" : {
+    "f1" : {
+      "start" : {
+        "x" : "-2",
+        "y" : "-14.2",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    },
+    "effect" : "effect_rice_light",
+    "useBatchNode" : "true",
+    "first_frame" : "12",
+    "loop" : "loop",
+    "order" : "1"
+  },
+  "effect_cs_2" : {
+    "f1" : {
+      "start" : {
+        "x" : "11.4",
+        "y" : "-11.55",
+        "rotation" : "-178.95",
+        "scaleX" : "0.56",
+        "scaleY" : "0.56",
+        "opacity" : "255"
+      }
+    },
+    "effect" : "effect_rice_1",
+    "useBatchNode" : "true",
+    "first_frame" : "12",
+    "loop" : "loop",
+    "order" : "0"
+  },
+  "events" : {
+    "f40" : "forever"
+  },
+  "scale" : "1",
+  "png" : ""
+}

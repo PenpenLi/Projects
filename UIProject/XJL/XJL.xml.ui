@@ -1,25 +1,19 @@
 <?xml version="1.0"?>
 <UIProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <ProjectDir>C:\UIProject\XJL</ProjectDir>
+  <ProjectDir>C:\Projects\UIProject\XJL</ProjectDir>
   <Version>1.6.0.0</Version>
-  <Resources>C:\UIProject\XJL\Resources</Resources>
+  <Resources>C:\Projects\UIProject\XJL\Resources</Resources>
   <Name>XJL</Name>
   <JsonFileName>XJL.json</JsonFileName>
-  <JsonFolder>C:\UIProject\XJL\Json</JsonFolder>
+  <JsonFolder>C:\Projects\UIProject\XJL\Json</JsonFolder>
   <JsonList>
     <string>activity_ActivityBorderButton.json</string>
-    <string>activity_ActivityCaishen.json</string>
-    <string>activity_ActivityDaily.json</string>
-    <string>activity_ActivityDailyCell.json</string>
-    <string>activity_ActivityDailyCellItem.json</string>
-    <string>activity_ActivityDuihuanCell.json</string>
-    <string>activity_ActivityDuihuanHelp.json</string>
   </JsonList>
   <CanvasSize>
-    <Width>480</Width>
-    <Height>320</Height>
+    <Width>640</Width>
+    <Height>1136</Height>
   </CanvasSize>
-  <filePath>C:\UIProject\XJL\XJL.xml.ui</filePath>
+  <filePath>C:\Projects\UIProject\XJL\XJL.xml.ui</filePath>
   <ProjectType>UIProject</ProjectType>
   <ResRelativePath />
   <imageFileList>
@@ -53,11 +47,6 @@
     <string>ui/text/txt/shuiyin_yilingqu.png</string>
     <string>ui/dungeon/qipao.png</string>
     <string>ui/common/common_1.plist</string>
-    <string>ui/activity/meiriqiandao_dijitian.png</string>
-    <string>ui/text/txt-small-btn/qiandao.png</string>
-    <string>ui/text/txt/jqfb_yilingqu.png</string>
-    <string>ui/text/txt/weidacheng.png</string>
-    <string>ui/common/common_1.plist</string>
     <string>ui/text/txt/mrqd_shuangbei_v9.png</string>
     <string>ui/common/common_1.plist</string>
     <string>ui/text/txt/xsyh_zhekou_95.png</string>
@@ -65,7 +54,27 @@
     <string>ui/common/common_1.plist</string>
     <string>ui/text/txt-title/wupinduihuanxianzhi.png</string>
     <string>ui/text/txt/dianjijixu.png</string>
+    <string>ui/background/bg_common.png</string>
+    <string>ui/text/txt/hd_title_chongzhikuizengu.png</string>
+    <string>ui/arena/shop_qipao.png</string>
+    <string>ui/common/common_1.plist</string>
+    <string>ui/text/txt-middle-btn/lingjiang.png</string>
+    <string>ui/tower/zuoxiajiaobg.png</string>
+    <string>ui/dungeon/fuben_baoxiang_bg.png</string>
+    <string>ui/background/bg_common.png</string>
+    <string>ui/text/txt/hd_title_libaofuli.png</string>
+    <string>ui/activity/lipinma_paper.png</string>
+    <string>ui/activity/lipinma_dianjishuru.png</string>
+    <string>ui/activity/lipinma_shurukuang.png</string>
+    <string>ui/common/common_1.plist</string>
+    <string>ui/text/txt-middle-btn/queding.png</string>
+    <string>ui/activity/lipinma_libao.png</string>
+    <string>ui/common/common_1.plist</string>
+    <string>ui/activity/meiriqiandao_dijitian.png</string>
+    <string>ui/text/txt-small-btn/qiandao.png</string>
+    <string>ui/text/txt/jqfb_yilingqu.png</string>
+    <string>ui/text/txt/weidacheng.png</string>
   </imagePngList>
   <JsonSuffix>.json</JsonSuffix>
-  <CurrentUIJson>activity_ActivityDuihuanHelp.json</CurrentUIJson>
+  <CurrentUIJson>activity_ActivityBorderButton.json</CurrentUIJson>
 </UIProject>

@@ -1,0 +1,60 @@
+{
+  "图层 4_1" : {
+    "f1" : {
+      "start" : {
+        "x" : "-353",
+        "y" : "-457",
+        "rotation" : "0",
+        "scaleX" : "1.67",
+        "scaleY" : "1.67",
+        "opacity" : "255",
+        "png" : "effect_signinnew_10_1.png"
+      },
+      "nextFrame" : "f51",
+      "frames" : "51"
+    },
+    "order" : "0",
+    "f51" : {
+      "start" : {
+        "x" : "-353",
+        "y" : "-457",
+        "rotation" : "0",
+        "scaleX" : "1.67",
+        "scaleY" : "1.67",
+        "opacity" : "76",
+        "png" : "effect_signinnew_10_1.png"
+      },
+      "nextFrame" : "f61",
+      "frames" : "11"
+    },
+    "f61" : {
+      "start" : {
+        "x" : "-353",
+        "y" : "-457",
+        "rotation" : "0",
+        "scaleX" : "1.67",
+        "scaleY" : "1.67",
+        "opacity" : "76",
+        "png" : "effect_signinnew_10_1.png"
+      },
+      "nextFrame" : "f120",
+      "frames" : "60"
+    },
+    "f120" : {
+      "start" : {
+        "x" : "-353",
+        "y" : "-457",
+        "rotation" : "0",
+        "scaleX" : "1.67",
+        "scaleY" : "1.67",
+        "opacity" : "255",
+        "png" : "effect_signinnew_10_1.png"
+      }
+    }
+  },
+  "events" : {
+    "f120" : "forever"
+  },
+  "scale" : "1",
+  "png" : "effect_signinnew_10.png"
+}

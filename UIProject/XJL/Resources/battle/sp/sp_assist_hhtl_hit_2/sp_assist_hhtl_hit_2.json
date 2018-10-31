@@ -1,0 +1,40 @@
+{
+  "图层 2_0" : {
+    "f9" : {
+      "start" : {
+        "x" : "13",
+        "y" : "70.45",
+        "rotation" : "0",
+        "scaleX" : "0.8",
+        "scaleY" : "0.8",
+        "opacity" : "255"
+      }
+    },
+    "sp" : "sp_spear_hit_1",
+    "useBatchNode" : "true",
+    "order" : "1"
+  },
+  "图层 1_1" : {
+    "f1" : {
+      "start" : {
+        "x" : "18.4",
+        "y" : "-44.1",
+        "rotation" : "0",
+        "scaleX" : "1.6",
+        "scaleY" : "1.6",
+        "opacity" : "255"
+      }
+    },
+    "sp" : "sp_assist_hhtl_hit_1",
+    "useBatchNode" : "true",
+    "order" : "0",
+    "f11" : {
+      "remove" : "1"
+    }
+  },
+  "events" : {
+    "f14" : "finish"
+  },
+  "scale" : "2",
+  "png" : ""
+}

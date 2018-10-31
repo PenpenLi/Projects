@@ -1,0 +1,79 @@
+{
+  "图层 1_0" : {
+    "f1" : {
+      "start" : {
+        "x" : "8.15",
+        "y" : "-2.85",
+        "rotation" : "0",
+        "scaleX" : "1.72",
+        "scaleY" : "1.72",
+        "color" : {
+          "alpha_original" : "0.8",
+          "alpha" : "0",
+          "red_original" : "1",
+          "red" : "-255",
+          "green_original" : "1",
+          "green" : "0",
+          "blue_original" : "1",
+          "blue" : "255"
+        }
+      }
+    },
+    "sp" : "sp_range_ice_hit_1",
+    "useBatchNode" : "false",
+    "order" : "2",
+    "f9" : {
+      "remove" : "1"
+    }
+  },
+  "图层 7_1" : {
+    "f1" : {
+      "start" : {
+        "x" : "51.95",
+        "y" : "-20.3",
+        "rotation" : "0",
+        "scaleX" : "-1.87",
+        "scaleY" : "1.87",
+        "opacity" : "255"
+      }
+    },
+    "sp" : "sp_shitoubao",
+    "useBatchNode" : "true",
+    "order" : "1",
+    "f10" : {
+      "remove" : "1"
+    }
+  },
+  "图层 6_2" : {
+    "f1" : {
+      "start" : {
+        "x" : "9.55",
+        "y" : "33.05",
+        "rotation" : "19.99",
+        "scaleX" : "1.91",
+        "scaleY" : "1.91",
+        "color" : {
+          "alpha_original" : "0.8",
+          "alpha" : "0",
+          "red_original" : "1",
+          "red" : "-255",
+          "green_original" : "1",
+          "green" : "0",
+          "blue_original" : "1",
+          "blue" : "255"
+        }
+      }
+    },
+    "sp" : "sp_range_fire_hit_1",
+    "useBatchNode" : "false",
+    "order" : "0",
+    "f10" : {
+      "remove" : "1"
+    }
+  },
+  "events" : {
+    "f11" : "finish"
+  },
+  "scale" : "2",
+  "png" : ""
+}

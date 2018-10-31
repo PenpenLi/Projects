@@ -1,0 +1,60 @@
+{
+  "图层 3_1" : {
+    "f1" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "60",
+        "scaleX" : "-0.37",
+        "scaleY" : "0.43",
+        "opacity" : "38",
+        "png" : "effect_star_sub1_1.png"
+      },
+      "nextFrame" : "f9",
+      "frames" : "9"
+    },
+    "order" : "0",
+    "f9" : {
+      "start" : {
+        "x" : "-2.4",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "-1.45",
+        "scaleY" : "1.45",
+        "opacity" : "255",
+        "png" : "effect_star_sub1_1.png"
+      },
+      "nextFrame" : "f25",
+      "frames" : "17"
+    },
+    "f25" : {
+      "start" : {
+        "x" : "2.4",
+        "y" : "0",
+        "rotation" : "-28.83",
+        "scaleX" : "-1.27",
+        "scaleY" : "1.27",
+        "opacity" : "255",
+        "png" : "effect_star_sub1_1.png"
+      },
+      "nextFrame" : "f30",
+      "frames" : "6"
+    },
+    "f30" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "-75.18",
+        "scaleX" : "-1",
+        "scaleY" : "1",
+        "opacity" : "0",
+        "png" : "effect_star_sub1_1.png"
+      }
+    }
+  },
+  "events" : {
+    "f30" : "forever"
+  },
+  "scale" : "1",
+  "png" : "effect_star_sub1.png"
+}

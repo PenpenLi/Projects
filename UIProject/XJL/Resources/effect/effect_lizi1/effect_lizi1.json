@@ -1,0 +1,47 @@
+{
+  "图层 1_0" : {
+    "f1" : {
+      "start" : {
+        "x" : "-0.9",
+        "y" : "56.3",
+        "rotation" : "0",
+        "scaleX" : "3",
+        "scaleY" : "3",
+        "opacity" : "0",
+        "png" : "effect_lizi1_1.png"
+      },
+      "nextFrame" : "f4",
+      "frames" : "4"
+    },
+    "order" : "0",
+    "f4" : {
+      "start" : {
+        "x" : "-0.8",
+        "y" : "-11.35",
+        "rotation" : "0",
+        "scaleX" : "2.75",
+        "scaleY" : "2.75",
+        "opacity" : "201",
+        "png" : "effect_lizi1_1.png"
+      },
+      "nextFrame" : "f10",
+      "frames" : "7"
+    },
+    "f10" : {
+      "start" : {
+        "x" : "-0.6",
+        "y" : "-192.1",
+        "rotation" : "0",
+        "scaleX" : "2.1",
+        "scaleY" : "2.1",
+        "opacity" : "0",
+        "png" : "effect_lizi1_1.png"
+      }
+    }
+  },
+  "events" : {
+    "f11" : "finish"
+  },
+  "scale" : "1",
+  "png" : "effect_lizi1.png"
+}

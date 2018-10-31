@@ -1,0 +1,35 @@
+{
+  "图层 1_0" : {
+    "f1" : {
+      "start" : {
+        "x" : "-135.5",
+        "y" : "-138.5",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "127",
+        "png" : "effect_cmw_water_sub_1.png"
+      }
+    },
+    "order" : "1"
+  },
+  "元件 1_1" : {
+    "f1" : {
+      "start" : {
+        "x" : "203",
+        "y" : "133",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "effect_cmw_water_sub_2.png"
+      }
+    },
+    "order" : "0"
+  },
+  "events" : {
+    "f2" : "finish"
+  },
+  "scale" : "1",
+  "png" : "effect_cmw_water_sub.png"
+}

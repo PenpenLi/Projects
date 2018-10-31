@@ -1,0 +1,34 @@
+{
+  "图层 1_1" : {
+    "f1" : {
+      "start" : {
+        "x" : "0.2",
+        "y" : "-5.5",
+        "rotation" : "0",
+        "scaleX" : "0.2",
+        "scaleY" : "0.2",
+        "opacity" : "255",
+        "png" : "effect_water_2_1.png"
+      },
+      "nextFrame" : "f35",
+      "frames" : "35"
+    },
+    "order" : "0",
+    "f35" : {
+      "start" : {
+        "x" : "0.8",
+        "y" : "-37.45",
+        "rotation" : "0",
+        "scaleX" : "2.05",
+        "scaleY" : "1.05",
+        "opacity" : "0",
+        "png" : "effect_water_2_1.png"
+      }
+    }
+  },
+  "events" : {
+    "f35" : "forever"
+  },
+  "scale" : "1",
+  "png" : "effect_water_2.png"
+}

@@ -1,0 +1,108 @@
+{
+  "图层 3_0" : {
+    "f43" : {
+      "start" : {
+        "x" : "-33.55",
+        "y" : "-130.35",
+        "rotation" : "0",
+        "scaleX" : "1.18",
+        "scaleY" : "1.18",
+        "color" : {
+          "alpha_original" : "1",
+          "alpha" : "0",
+          "red_original" : "1",
+          "red" : "255",
+          "green_original" : "1",
+          "green" : "255",
+          "blue_original" : "1",
+          "blue" : "-255"
+        }
+      }
+    },
+    "sp" : "sp_assist_hjsbp_start_1",
+    "useBatchNode" : "false",
+    "order" : "2",
+    "f76" : {
+      "remove" : "1"
+    }
+  },
+  "图层 4_1" : {
+    "f31" : {
+      "start" : {
+        "x" : "-20.9",
+        "y" : "-255.95",
+        "rotation" : "0",
+        "scaleX" : "0.8",
+        "scaleY" : "0.8",
+        "color" : {
+          "alpha_original" : "1",
+          "alpha" : "0",
+          "red_original" : "1",
+          "red" : "255",
+          "green_original" : "1",
+          "green" : "20",
+          "blue_original" : "1",
+          "blue" : "-255"
+        }
+      },
+      "nextFrame" : "f35",
+      "frames" : "5"
+    },
+    "sp" : "sp_assist_mmww_start_1",
+    "useBatchNode" : "false",
+    "order" : "1",
+    "f35" : {
+      "start" : {
+        "x" : "-17.7",
+        "y" : "-351.7",
+        "rotation" : "0",
+        "scaleX" : "1.66",
+        "scaleY" : "1.66",
+        "color" : {
+          "alpha_original" : "1",
+          "alpha" : "0",
+          "red_original" : "1",
+          "red" : "255",
+          "green_original" : "1",
+          "green" : "20",
+          "blue_original" : "1",
+          "blue" : "-255"
+        }
+      }
+    },
+    "f84" : {
+      "remove" : "1"
+    }
+  },
+  "图层 1_2" : {
+    "f1" : {
+      "start" : {
+        "x" : "-43.85",
+        "y" : "72.4",
+        "rotation" : "0",
+        "scaleX" : "-1.5",
+        "scaleY" : "1.5",
+        "color" : {
+          "alpha_original" : "1",
+          "alpha" : "0",
+          "red_original" : "1",
+          "red" : "255",
+          "green_original" : "1",
+          "green" : "52",
+          "blue_original" : "1",
+          "blue" : "-255"
+        },
+        "png" : "sp_2group_ysjf_start_2_1.png"
+      }
+    },
+    "order" : "0",
+    "f29" : {
+      "remove" : "1"
+    }
+  },
+  "events" : {
+    "f85" : "finish"
+  },
+  "scale" : "1",
+  "png" : "sp_2group_ysjf_start_2.png"
+}

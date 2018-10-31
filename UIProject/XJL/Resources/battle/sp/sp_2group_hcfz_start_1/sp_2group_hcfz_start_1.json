@@ -1,0 +1,61 @@
+{
+  "图层 1_0" : {
+    "f1" : {
+      "start" : {
+        "x" : "24.55",
+        "y" : "92.3",
+        "rotation" : "0",
+        "scaleX" : "1.81",
+        "scaleY" : "1.81",
+        "color" : {
+          "alpha_original" : "1",
+          "alpha" : "0",
+          "red_original" : "1",
+          "red" : "-255",
+          "green_original" : "1",
+          "green" : "125",
+          "blue_original" : "1",
+          "blue" : "255"
+        }
+      }
+    },
+    "sp" : "sp_2group_xhly_start_4",
+    "useBatchNode" : "false",
+    "order" : "1",
+    "f9" : {
+      "remove" : "1"
+    }
+  },
+  "特效上_1" : {
+    "f9" : {
+      "start" : {
+        "x" : "-0.6",
+        "y" : "-24.85",
+        "rotation" : "0",
+        "scaleX" : "1.62",
+        "scaleY" : "1.62",
+        "color" : {
+          "alpha_original" : "1",
+          "alpha" : "0",
+          "red_original" : "1",
+          "red" : "0",
+          "green_original" : "1",
+          "green" : "125",
+          "blue_original" : "1",
+          "blue" : "255"
+        }
+      }
+    },
+    "sp" : "sp_range_stone_start_1",
+    "useBatchNode" : "false",
+    "order" : "0",
+    "f15" : {
+      "remove" : "1"
+    }
+  },
+  "events" : {
+    "f16" : "finish"
+  },
+  "scale" : "2",
+  "png" : ""
+}

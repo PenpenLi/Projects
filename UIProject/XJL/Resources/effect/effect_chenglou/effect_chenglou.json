@@ -1,0 +1,67 @@
+{
+  "effect_luzi_sub3 复制_1" : {
+    "f1" : {
+      "start" : {
+        "x" : "126.4",
+        "y" : "390.2",
+        "rotation" : "0",
+        "scaleX" : "0.53",
+        "scaleY" : "0.8",
+        "opacity" : "255"
+      }
+    },
+    "effect" : "effect_luzi_sub3_cl",
+    "useBatchNode" : "true",
+    "order" : "3"
+  },
+  "effect_luzi_sub3_2" : {
+    "f1" : {
+      "start" : {
+        "x" : "-126.2",
+        "y" : "389.85",
+        "rotation" : "0",
+        "scaleX" : "0.54",
+        "scaleY" : "0.8",
+        "opacity" : "255"
+      }
+    },
+    "effect" : "effect_luzi_sub3_cl",
+    "useBatchNode" : "true",
+    "order" : "2"
+  },
+  "图层 2_3" : {
+    "f1" : {
+      "start" : {
+        "x" : "-239.6",
+        "y" : "295.8",
+        "rotation" : "0",
+        "scaleX" : "1.44",
+        "scaleY" : "1.44",
+        "opacity" : "255"
+      }
+    },
+    "effect" : "effect_bird_sub2_cl",
+    "useBatchNode" : "true",
+    "order" : "1"
+  },
+  "effect_bird_sub1_4" : {
+    "f1" : {
+      "start" : {
+        "x" : "-222.95",
+        "y" : "318.6",
+        "rotation" : "0",
+        "scaleX" : "1.5",
+        "scaleY" : "1.5",
+        "opacity" : "255"
+      }
+    },
+    "effect" : "effect_bird_sub1_cl",
+    "useBatchNode" : "true",
+    "order" : "0"
+  },
+  "events" : {
+    "f150" : "forever"
+  },
+  "scale" : "1",
+  "png" : ""
+}

@@ -1,0 +1,715 @@
+{
+  "图层 15_0" : {
+    "f1" : {
+      "start" : {
+        "x" : "-5.4",
+        "y" : "-83.45",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "effect_levelup_fireworks_1.png"
+      }
+    },
+    "order" : "10",
+    "f3" : {
+      "start" : {
+        "x" : "-1.6",
+        "y" : "-69.45",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "effect_levelup_fireworks_2.png"
+      }
+    },
+    "f5" : {
+      "start" : {
+        "x" : "1.55",
+        "y" : "-74.45",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "effect_levelup_fireworks_3.png"
+      }
+    },
+    "f7" : {
+      "start" : {
+        "x" : "1.55",
+        "y" : "-85.95",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "effect_levelup_fireworks_4.png"
+      }
+    },
+    "f9" : {
+      "start" : {
+        "x" : "11.9",
+        "y" : "-80.45",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "effect_levelup_fireworks_5.png"
+      }
+    },
+    "f11" : {
+      "start" : {
+        "x" : "9.4",
+        "y" : "-65.95",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "effect_levelup_fireworks_6.png"
+      }
+    },
+    "f13" : {
+      "start" : {
+        "x" : "-0.6",
+        "y" : "-68.45",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "effect_levelup_fireworks_7.png"
+      }
+    },
+    "f15" : {
+      "start" : {
+        "x" : "-0.6",
+        "y" : "-68.45",
+        "rotation" : "0",
+        "scaleX" : "1.07",
+        "scaleY" : "1.07",
+        "opacity" : "114",
+        "png" : "effect_levelup_fireworks_7.png"
+      }
+    },
+    "f17" : {
+      "remove" : "1"
+    }
+  },
+  "xinga_1" : {
+    "f10" : {
+      "start" : {
+        "x" : "6.1",
+        "y" : "-98",
+        "rotation" : "144.82",
+        "scaleX" : "0.36",
+        "scaleY" : "0.36",
+        "opacity" : "255",
+        "png" : "effect_levelup_fireworks_8.png"
+      },
+      "nextFrame" : "f17",
+      "frames" : "8"
+    },
+    "order" : "9",
+    "f17" : {
+      "start" : {
+        "x" : "19.65",
+        "y" : "-159.35",
+        "rotation" : "-162",
+        "scaleX" : "0.68",
+        "scaleY" : "0.68",
+        "opacity" : "255",
+        "png" : "effect_levelup_fireworks_8.png"
+      },
+      "nextFrame" : "f25",
+      "frames" : "9"
+    },
+    "f25" : {
+      "start" : {
+        "x" : "24.25",
+        "y" : "-184.05",
+        "rotation" : "-87.28",
+        "scaleX" : "0.68",
+        "scaleY" : "0.68",
+        "opacity" : "0",
+        "png" : "effect_levelup_fireworks_8.png"
+      }
+    },
+    "f29" : {
+      "start" : {
+        "x" : "24.25",
+        "y" : "-184.05",
+        "rotation" : "-87.28",
+        "scaleX" : "0.68",
+        "scaleY" : "0.68",
+        "opacity" : "0",
+        "png" : "effect_levelup_fireworks_8.png"
+      }
+    }
+  },
+  "xingb_2" : {
+    "f10" : {
+      "start" : {
+        "x" : "19.95",
+        "y" : "-30.4",
+        "rotation" : "-21.06",
+        "scaleX" : "0.32",
+        "scaleY" : "0.32",
+        "opacity" : "255",
+        "png" : "effect_levelup_fireworks_8.png"
+      },
+      "nextFrame" : "f17",
+      "frames" : "8"
+    },
+    "order" : "8",
+    "f17" : {
+      "start" : {
+        "x" : "16.45",
+        "y" : "14.25",
+        "rotation" : "-115.76",
+        "scaleX" : "0.55",
+        "scaleY" : "0.55",
+        "opacity" : "255",
+        "png" : "effect_levelup_fireworks_8.png"
+      },
+      "nextFrame" : "f25",
+      "frames" : "9"
+    },
+    "f25" : {
+      "start" : {
+        "x" : "18.25",
+        "y" : "86.75",
+        "rotation" : "144.82",
+        "scaleX" : "0.67",
+        "scaleY" : "0.67",
+        "opacity" : "0",
+        "png" : "effect_levelup_fireworks_8.png"
+      }
+    },
+    "f29" : {
+      "start" : {
+        "x" : "18.25",
+        "y" : "86.75",
+        "rotation" : "144.82",
+        "scaleX" : "0.67",
+        "scaleY" : "0.67",
+        "opacity" : "0",
+        "png" : "effect_levelup_fireworks_8.png"
+      }
+    }
+  },
+  "xingc_3" : {
+    "f10" : {
+      "start" : {
+        "x" : "-40.05",
+        "y" : "-90.75",
+        "rotation" : "-21.06",
+        "scaleX" : "0.32",
+        "scaleY" : "0.32",
+        "opacity" : "255",
+        "png" : "effect_levelup_fireworks_8.png"
+      },
+      "nextFrame" : "f14",
+      "frames" : "5"
+    },
+    "order" : "7",
+    "f14" : {
+      "start" : {
+        "x" : "-71.3",
+        "y" : "-113.2",
+        "rotation" : "-53",
+        "scaleX" : "0.58",
+        "scaleY" : "0.58",
+        "opacity" : "255",
+        "png" : "effect_levelup_fireworks_8.png"
+      },
+      "nextFrame" : "f17",
+      "frames" : "4"
+    },
+    "f17" : {
+      "start" : {
+        "x" : "-117.6",
+        "y" : "-147.45",
+        "rotation" : "-87.74",
+        "scaleX" : "0.74",
+        "scaleY" : "0.74",
+        "opacity" : "255",
+        "png" : "effect_levelup_fireworks_8.png"
+      },
+      "nextFrame" : "f21",
+      "frames" : "5"
+    },
+    "f21" : {
+      "start" : {
+        "x" : "-157.8",
+        "y" : "-171.75",
+        "rotation" : "-110.49",
+        "scaleX" : "0.96",
+        "scaleY" : "0.96",
+        "opacity" : "0",
+        "png" : "effect_levelup_fireworks_8.png"
+      }
+    },
+    "f29" : {
+      "start" : {
+        "x" : "-157.8",
+        "y" : "-171.75",
+        "rotation" : "-110.49",
+        "scaleX" : "0.96",
+        "scaleY" : "0.96",
+        "opacity" : "0",
+        "png" : "effect_levelup_fireworks_8.png"
+      }
+    }
+  },
+  "xingd_4" : {
+    "f10" : {
+      "start" : {
+        "x" : "15.7",
+        "y" : "-38.5",
+        "rotation" : "-104.65",
+        "scaleX" : "0.59",
+        "scaleY" : "0.59",
+        "opacity" : "255",
+        "png" : "effect_levelup_fireworks_8.png"
+      },
+      "nextFrame" : "f15",
+      "frames" : "6"
+    },
+    "order" : "6",
+    "f15" : {
+      "start" : {
+        "x" : "50.4",
+        "y" : "-8.7",
+        "rotation" : "-73.98",
+        "scaleX" : "0.59",
+        "scaleY" : "0.59",
+        "opacity" : "255",
+        "png" : "effect_levelup_fireworks_8.png"
+      },
+      "nextFrame" : "f19",
+      "frames" : "5"
+    },
+    "f19" : {
+      "start" : {
+        "x" : "99",
+        "y" : "40.7",
+        "rotation" : "-25.26",
+        "scaleX" : "0.81",
+        "scaleY" : "0.81",
+        "opacity" : "255",
+        "png" : "effect_levelup_fireworks_8.png"
+      },
+      "nextFrame" : "f22",
+      "frames" : "4"
+    },
+    "f22" : {
+      "start" : {
+        "x" : "111.05",
+        "y" : "53.6",
+        "rotation" : "-21.06",
+        "scaleX" : "0.81",
+        "scaleY" : "0.81",
+        "opacity" : "0",
+        "png" : "effect_levelup_fireworks_8.png"
+      }
+    },
+    "f29" : {
+      "start" : {
+        "x" : "111.05",
+        "y" : "53.6",
+        "rotation" : "-21.06",
+        "scaleX" : "0.81",
+        "scaleY" : "0.81",
+        "opacity" : "0",
+        "png" : "effect_levelup_fireworks_8.png"
+      }
+    }
+  },
+  "xinge_5" : {
+    "f8" : {
+      "start" : {
+        "x" : "21.4",
+        "y" : "-62.65",
+        "rotation" : "-52.18",
+        "scaleX" : "0.25",
+        "scaleY" : "0.25",
+        "opacity" : "255",
+        "png" : "effect_levelup_fireworks_8.png"
+      },
+      "nextFrame" : "f14",
+      "frames" : "7"
+    },
+    "order" : "5",
+    "f14" : {
+      "start" : {
+        "x" : "37.95",
+        "y" : "42.35",
+        "rotation" : "-19.24",
+        "scaleX" : "0.48",
+        "scaleY" : "0.48",
+        "opacity" : "255",
+        "png" : "effect_levelup_fireworks_8.png"
+      },
+      "nextFrame" : "f18",
+      "frames" : "5"
+    },
+    "f18" : {
+      "start" : {
+        "x" : "75.95",
+        "y" : "95.35",
+        "rotation" : "39.54",
+        "scaleX" : "0.58",
+        "scaleY" : "0.58",
+        "opacity" : "255",
+        "png" : "effect_levelup_fireworks_8.png"
+      },
+      "nextFrame" : "f21",
+      "frames" : "4"
+    },
+    "f21" : {
+      "start" : {
+        "x" : "98.95",
+        "y" : "120.75",
+        "rotation" : "78.73",
+        "scaleX" : "0.48",
+        "scaleY" : "0.48",
+        "opacity" : "0",
+        "png" : "effect_levelup_fireworks_8.png"
+      }
+    },
+    "f29" : {
+      "start" : {
+        "x" : "98.95",
+        "y" : "120.75",
+        "rotation" : "78.73",
+        "scaleX" : "0.48",
+        "scaleY" : "0.48",
+        "opacity" : "0",
+        "png" : "effect_levelup_fireworks_8.png"
+      }
+    }
+  },
+  "xingf_6" : {
+    "f8" : {
+      "start" : {
+        "x" : "-4",
+        "y" : "-49.65",
+        "rotation" : "0",
+        "scaleX" : "0.62",
+        "scaleY" : "0.62",
+        "opacity" : "255",
+        "png" : "effect_levelup_fireworks_8.png"
+      },
+      "nextFrame" : "f13",
+      "frames" : "6"
+    },
+    "order" : "4",
+    "f13" : {
+      "start" : {
+        "x" : "-35.3",
+        "y" : "-2.5",
+        "rotation" : "-33.22",
+        "scaleX" : "1.03",
+        "scaleY" : "1.03",
+        "opacity" : "255",
+        "png" : "effect_levelup_fireworks_8.png"
+      },
+      "nextFrame" : "f16",
+      "frames" : "4"
+    },
+    "f16" : {
+      "start" : {
+        "x" : "-48.65",
+        "y" : "42.5",
+        "rotation" : "-67.67",
+        "scaleX" : "1.14",
+        "scaleY" : "1.14",
+        "opacity" : "255",
+        "png" : "effect_levelup_fireworks_8.png"
+      },
+      "nextFrame" : "f20",
+      "frames" : "5"
+    },
+    "f20" : {
+      "start" : {
+        "x" : "-65.75",
+        "y" : "69.5",
+        "rotation" : "-104.65",
+        "scaleX" : "1.14",
+        "scaleY" : "1.14",
+        "opacity" : "0",
+        "png" : "effect_levelup_fireworks_8.png"
+      }
+    },
+    "f29" : {
+      "start" : {
+        "x" : "-65.75",
+        "y" : "69.5",
+        "rotation" : "-104.65",
+        "scaleX" : "1.14",
+        "scaleY" : "1.14",
+        "opacity" : "0",
+        "png" : "effect_levelup_fireworks_8.png"
+      }
+    }
+  },
+  "xingg_7" : {
+    "f8" : {
+      "start" : {
+        "x" : "28.5",
+        "y" : "-104.9",
+        "rotation" : "0",
+        "scaleX" : "0.62",
+        "scaleY" : "0.62",
+        "opacity" : "255",
+        "png" : "effect_levelup_fireworks_8.png"
+      },
+      "nextFrame" : "f12",
+      "frames" : "5"
+    },
+    "order" : "3",
+    "f12" : {
+      "start" : {
+        "x" : "69.8",
+        "y" : "-164.9",
+        "rotation" : "7.72",
+        "scaleX" : "0.73",
+        "scaleY" : "0.73",
+        "opacity" : "255",
+        "png" : "effect_levelup_fireworks_8.png"
+      },
+      "nextFrame" : "f16",
+      "frames" : "5"
+    },
+    "f16" : {
+      "start" : {
+        "x" : "123.3",
+        "y" : "-186.25",
+        "rotation" : "61.66",
+        "scaleX" : "0.81",
+        "scaleY" : "0.81",
+        "opacity" : "255",
+        "png" : "effect_levelup_fireworks_8.png"
+      },
+      "nextFrame" : "f20",
+      "frames" : "5"
+    },
+    "f20" : {
+      "start" : {
+        "x" : "139.3",
+        "y" : "-204.4",
+        "rotation" : "120.64",
+        "scaleX" : "0.81",
+        "scaleY" : "0.81",
+        "opacity" : "0",
+        "png" : "effect_levelup_fireworks_8.png"
+      }
+    },
+    "f29" : {
+      "start" : {
+        "x" : "139.3",
+        "y" : "-204.4",
+        "rotation" : "120.64",
+        "scaleX" : "0.81",
+        "scaleY" : "0.81",
+        "opacity" : "0",
+        "png" : "effect_levelup_fireworks_8.png"
+      }
+    }
+  },
+  "xingh_8" : {
+    "f8" : {
+      "start" : {
+        "x" : "39.2",
+        "y" : "-60.75",
+        "rotation" : "0",
+        "scaleX" : "0.62",
+        "scaleY" : "0.62",
+        "opacity" : "255",
+        "png" : "effect_levelup_fireworks_8.png"
+      },
+      "nextFrame" : "f12",
+      "frames" : "5"
+    },
+    "order" : "2",
+    "f12" : {
+      "start" : {
+        "x" : "99.2",
+        "y" : "-3.45",
+        "rotation" : "31.42",
+        "scaleX" : "0.92",
+        "scaleY" : "0.92",
+        "opacity" : "255",
+        "png" : "effect_levelup_fireworks_8.png"
+      },
+      "nextFrame" : "f16",
+      "frames" : "5"
+    },
+    "f16" : {
+      "start" : {
+        "x" : "124.05",
+        "y" : "21.35",
+        "rotation" : "73.69",
+        "scaleX" : "1.02",
+        "scaleY" : "1.02",
+        "opacity" : "255",
+        "png" : "effect_levelup_fireworks_8.png"
+      },
+      "nextFrame" : "f20",
+      "frames" : "5"
+    },
+    "f20" : {
+      "start" : {
+        "x" : "164.05",
+        "y" : "50.55",
+        "rotation" : "108.84",
+        "scaleX" : "1.02",
+        "scaleY" : "1.02",
+        "opacity" : "0",
+        "png" : "effect_levelup_fireworks_8.png"
+      }
+    },
+    "f29" : {
+      "start" : {
+        "x" : "164.05",
+        "y" : "50.55",
+        "rotation" : "108.84",
+        "scaleX" : "1.02",
+        "scaleY" : "1.02",
+        "opacity" : "0",
+        "png" : "effect_levelup_fireworks_8.png"
+      }
+    }
+  },
+  "xingi_9" : {
+    "f8" : {
+      "start" : {
+        "x" : "-15.4",
+        "y" : "-106.4",
+        "rotation" : "0",
+        "scaleX" : "0.62",
+        "scaleY" : "0.62",
+        "opacity" : "255",
+        "png" : "effect_levelup_fireworks_8.png"
+      },
+      "nextFrame" : "f13",
+      "frames" : "6"
+    },
+    "order" : "1",
+    "f13" : {
+      "start" : {
+        "x" : "-36.6",
+        "y" : "-130.4",
+        "rotation" : "-24.49",
+        "scaleX" : "0.96",
+        "scaleY" : "0.96",
+        "opacity" : "255",
+        "png" : "effect_levelup_fireworks_8.png"
+      },
+      "nextFrame" : "f16",
+      "frames" : "4"
+    },
+    "f16" : {
+      "start" : {
+        "x" : "-61.15",
+        "y" : "-181.3",
+        "rotation" : "-65.68",
+        "scaleX" : "1.06",
+        "scaleY" : "1.06",
+        "opacity" : "255",
+        "png" : "effect_levelup_fireworks_8.png"
+      },
+      "nextFrame" : "f20",
+      "frames" : "5"
+    },
+    "f20" : {
+      "start" : {
+        "x" : "-78.15",
+        "y" : "-213.65",
+        "rotation" : "-111.17",
+        "scaleX" : "1.06",
+        "scaleY" : "1.06",
+        "opacity" : "0",
+        "png" : "effect_levelup_fireworks_8.png"
+      }
+    },
+    "f29" : {
+      "start" : {
+        "x" : "-78.15",
+        "y" : "-213.65",
+        "rotation" : "-111.17",
+        "scaleX" : "1.06",
+        "scaleY" : "1.06",
+        "opacity" : "0",
+        "png" : "effect_levelup_fireworks_8.png"
+      }
+    }
+  },
+  "xingj_10" : {
+    "f8" : {
+      "start" : {
+        "x" : "-28.05",
+        "y" : "-74.2",
+        "rotation" : "0",
+        "scaleX" : "0.62",
+        "scaleY" : "0.62",
+        "opacity" : "255",
+        "png" : "effect_levelup_fireworks_8.png"
+      },
+      "nextFrame" : "f13",
+      "frames" : "6"
+    },
+    "order" : "0",
+    "f13" : {
+      "start" : {
+        "x" : "-112.7",
+        "y" : "-14.25",
+        "rotation" : "-27.18",
+        "scaleX" : "0.81",
+        "scaleY" : "0.81",
+        "opacity" : "255",
+        "png" : "effect_levelup_fireworks_8.png"
+      },
+      "nextFrame" : "f16",
+      "frames" : "4"
+    },
+    "f16" : {
+      "start" : {
+        "x" : "-132.95",
+        "y" : "21.95",
+        "rotation" : "-65.2",
+        "scaleX" : "0.89",
+        "scaleY" : "0.89",
+        "opacity" : "255",
+        "png" : "effect_levelup_fireworks_8.png"
+      },
+      "nextFrame" : "f20",
+      "frames" : "5"
+    },
+    "f20" : {
+      "start" : {
+        "x" : "-157.95",
+        "y" : "37.95",
+        "rotation" : "-101.41",
+        "scaleX" : "0.89",
+        "scaleY" : "0.89",
+        "opacity" : "0",
+        "png" : "effect_levelup_fireworks_8.png"
+      }
+    },
+    "f29" : {
+      "start" : {
+        "x" : "-157.95",
+        "y" : "37.95",
+        "rotation" : "-101.41",
+        "scaleX" : "0.89",
+        "scaleY" : "0.89",
+        "opacity" : "0",
+        "png" : "effect_levelup_fireworks_8.png"
+      }
+    }
+  },
+  "events" : {
+    "f30" : "finish"
+  },
+  "scale" : "1",
+  "png" : "effect_levelup_fireworks.png"
+}

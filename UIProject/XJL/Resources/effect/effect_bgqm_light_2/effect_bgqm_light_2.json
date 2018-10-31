@@ -1,0 +1,114 @@
+{
+  "图层 1_1" : {
+    "f1" : {
+      "start" : {
+        "x" : "7.1",
+        "y" : "6.65",
+        "rotation" : "0",
+        "scaleX" : "1.27",
+        "scaleY" : "1.27",
+        "opacity" : "25",
+        "png" : "effect_bgqm_light_2_1.png"
+      },
+      "nextFrame" : "f15",
+      "frames" : "15"
+    },
+    "order" : "2",
+    "f15" : {
+      "start" : {
+        "x" : "7.1",
+        "y" : "6.65",
+        "rotation" : "0",
+        "scaleX" : "1.27",
+        "scaleY" : "1.27",
+        "opacity" : "255",
+        "png" : "effect_bgqm_light_2_1.png"
+      },
+      "nextFrame" : "f30",
+      "frames" : "16"
+    },
+    "f30" : {
+      "start" : {
+        "x" : "7.1",
+        "y" : "6.65",
+        "rotation" : "0",
+        "scaleX" : "1.27",
+        "scaleY" : "1.27",
+        "opacity" : "25",
+        "png" : "effect_bgqm_light_2_1.png"
+      }
+    }
+  },
+  "图层 6_2" : {
+    "f15" : {
+      "start" : {
+        "x" : "1.5",
+        "y" : "-1.25",
+        "rotation" : "0",
+        "scaleX" : "1.27",
+        "scaleY" : "1.27",
+        "opacity" : "255",
+        "png" : "effect_bgqm_light_2_2.png"
+      },
+      "nextFrame" : "f30",
+      "frames" : "16"
+    },
+    "order" : "1",
+    "f30" : {
+      "start" : {
+        "x" : "1.5",
+        "y" : "-1.25",
+        "rotation" : "0",
+        "scaleX" : "1.76",
+        "scaleY" : "1.76",
+        "opacity" : "0",
+        "png" : "effect_bgqm_light_2_2.png"
+      }
+    }
+  },
+  "图层 7_3" : {
+    "f1" : {
+      "start" : {
+        "x" : "1.5",
+        "y" : "-1.25",
+        "rotation" : "0",
+        "scaleX" : "1.27",
+        "scaleY" : "1.27",
+        "opacity" : "0",
+        "png" : "effect_bgqm_light_2_2.png"
+      },
+      "nextFrame" : "f15",
+      "frames" : "15"
+    },
+    "order" : "0",
+    "f15" : {
+      "start" : {
+        "x" : "1.5",
+        "y" : "-1.25",
+        "rotation" : "0",
+        "scaleX" : "1.27",
+        "scaleY" : "1.27",
+        "opacity" : "255",
+        "png" : "effect_bgqm_light_2_2.png"
+      },
+      "nextFrame" : "f30",
+      "frames" : "16"
+    },
+    "f30" : {
+      "start" : {
+        "x" : "1.5",
+        "y" : "-1.25",
+        "rotation" : "0",
+        "scaleX" : "1.27",
+        "scaleY" : "1.27",
+        "opacity" : "0",
+        "png" : "effect_bgqm_light_2_2.png"
+      }
+    }
+  },
+  "events" : {
+    "f30" : "forever"
+  },
+  "scale" : "1",
+  "png" : "effect_bgqm_light_2.png"
+}

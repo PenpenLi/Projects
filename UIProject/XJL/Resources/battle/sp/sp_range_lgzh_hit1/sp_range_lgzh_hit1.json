@@ -1,0 +1,61 @@
+{
+  "老虎_0" : {
+    "f1" : {
+      "start" : {
+        "x" : "123.7",
+        "y" : "-121.2",
+        "rotation" : "0",
+        "scaleX" : "-1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    },
+    "sp" : "sp_lang",
+    "useBatchNode" : "true",
+    "order" : "2",
+    "f5" : {
+      "remove" : "1"
+    }
+  },
+  "冰HALF_1" : {
+    "f4" : {
+      "start" : {
+        "x" : "104.95",
+        "y" : "-133.2",
+        "rotation" : "0",
+        "scaleX" : "1.14",
+        "scaleY" : "1.13",
+        "opacity" : "255"
+      }
+    },
+    "sp" : "sp_binglianhua",
+    "useBatchNode" : "true",
+    "order" : "1",
+    "f18" : {
+      "remove" : "1"
+    }
+  },
+  "图层 1_2" : {
+    "f1" : {
+      "start" : {
+        "x" : "122",
+        "y" : "-113.95",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    },
+    "sp" : "sp_3",
+    "useBatchNode" : "true",
+    "order" : "0",
+    "f17" : {
+      "remove" : "1"
+    }
+  },
+  "events" : {
+    "f19" : "finish"
+  },
+  "scale" : "2",
+  "png" : ""
+}

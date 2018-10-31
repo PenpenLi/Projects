@@ -1,0 +1,82 @@
+{
+  "元件 5_0" : {
+    "f1" : {
+      "start" : {
+        "x" : "44.25",
+        "y" : "104.35",
+        "rotation" : "0",
+        "scaleX" : "0.4",
+        "scaleY" : "0.4",
+        "opacity" : "255"
+      }
+    },
+    "effect" : "effect_firestone_up_sub2",
+    "useBatchNode" : "true",
+    "order" : "4"
+  },
+  "元件 5_1" : {
+    "f1" : {
+      "start" : {
+        "x" : "146.95",
+        "y" : "72.75",
+        "rotation" : "0",
+        "scaleX" : "-0.64",
+        "scaleY" : "0.64",
+        "opacity" : "107"
+      }
+    },
+    "effect" : "effect_firestone_up_sub3",
+    "useBatchNode" : "true",
+    "order" : "3"
+  },
+  "元件 5_2" : {
+    "f1" : {
+      "start" : {
+        "x" : "71",
+        "y" : "146.6",
+        "rotation" : "0",
+        "scaleX" : "-0.64",
+        "scaleY" : "0.64",
+        "opacity" : "255"
+      }
+    },
+    "effect" : "effect_firestone_up_sub4",
+    "useBatchNode" : "true",
+    "order" : "2"
+  },
+  "元件 5_3" : {
+    "f1" : {
+      "start" : {
+        "x" : "11.75",
+        "y" : "90.55",
+        "rotation" : "0",
+        "scaleX" : "0.64",
+        "scaleY" : "0.64",
+        "opacity" : "76"
+      }
+    },
+    "effect" : "effect_firestone_up_sub5",
+    "useBatchNode" : "true",
+    "order" : "1"
+  },
+  "元件 5_4" : {
+    "f1" : {
+      "start" : {
+        "x" : "52.35",
+        "y" : "102.1",
+        "rotation" : "0",
+        "scaleX" : "0.5",
+        "scaleY" : "0.5",
+        "opacity" : "255"
+      }
+    },
+    "effect" : "effect_firestone_up_sub1",
+    "useBatchNode" : "true",
+    "order" : "0"
+  },
+  "events" : {
+    "f2" : "finish"
+  },
+  "scale" : "1",
+  "png" : ""
+}

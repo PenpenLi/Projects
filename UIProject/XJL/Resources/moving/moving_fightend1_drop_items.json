@@ -1,0 +1,117 @@
+{
+  "box3" : {
+    "f18" : {
+      "start" : {
+        "x" : "157",
+        "y" : "171.05",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "0"
+      },
+      "nextFrame" : "f21",
+      "frames" : "4"
+    },
+    "order" : "3",
+    "f21" : {
+      "start" : {
+        "x" : "157",
+        "y" : "171.05",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    }
+  },
+  "box2" : {
+    "f13" : {
+      "start" : {
+        "x" : "-5.05",
+        "y" : "169.05",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "0"
+      },
+      "nextFrame" : "f16",
+      "frames" : "4"
+    },
+    "order" : "2",
+    "f16" : {
+      "start" : {
+        "x" : "-5.05",
+        "y" : "169.05",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    }
+  },
+  "box1" : {
+    "f8" : {
+      "start" : {
+        "x" : "-163.05",
+        "y" : "167.05",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "0"
+      },
+      "nextFrame" : "f11",
+      "frames" : "4"
+    },
+    "order" : "1",
+    "f11" : {
+      "start" : {
+        "x" : "-163.05",
+        "y" : "167.05",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    }
+  },
+  "title" : {
+    "f1" : {
+      "start" : {
+        "x" : "-2",
+        "y" : "287.5",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "0"
+      },
+      "nextFrame" : "f6",
+      "frames" : "6"
+    },
+    "order" : "0",
+    "f6" : {
+      "start" : {
+        "x" : "-2",
+        "y" : "349.5",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    },
+    "f8" : {
+      "start" : {
+        "x" : "-2",
+        "y" : "295.5",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    }
+  },
+  "events" : {
+    "f11" : "box1",
+    "f16" : "box2",
+    "f21" : "box3"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "self_layer" : {
+    "f1" : [
+      {
+        "action" : "action_range_start_1"
+      }
+    ]
+  },
+  "target_layer" : {
+    "f46" : [
+      {
+        "action" : "action_range_hit_1"
+      }
+    ]
+  },
+  "bullet_layer" : {
+    "f32" : [
+      {
+        "frames" : "19",
+        "spId" : "sp_range_ball_1"
+      }
+    ],
+    "f50" : [
+      {
+        "frames" : "2",
+        "spId" : "sp_range_ball_1"
+      }
+    ]
+  },
+  "events" : {
+    "f50" : "hurt",
+    "f76" : "finish"
+  }
+}

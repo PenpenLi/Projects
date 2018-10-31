@@ -1,0 +1,47 @@
+{
+  "Layer 2_1" : {
+    "f1" : {
+      "start" : {
+        "x" : "14.6",
+        "y" : "-14.2",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "221",
+        "png" : "effect_zrhy_light_1.png"
+      },
+      "nextFrame" : "f46",
+      "frames" : "46"
+    },
+    "order" : "0",
+    "f46" : {
+      "start" : {
+        "x" : "14.6",
+        "y" : "-14.2",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "165",
+        "png" : "effect_zrhy_light_1.png"
+      },
+      "nextFrame" : "f80",
+      "frames" : "35"
+    },
+    "f80" : {
+      "start" : {
+        "x" : "14.6",
+        "y" : "-14.2",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "221",
+        "png" : "effect_zrhy_light_1.png"
+      }
+    }
+  },
+  "events" : {
+    "f80" : "forever"
+  },
+  "scale" : "1",
+  "png" : "effect_zrhy_light.png"
+}

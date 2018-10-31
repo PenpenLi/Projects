@@ -1,0 +1,196 @@
+{
+  "图层 2_0" : {
+    "f10" : {
+      "start" : {
+        "x" : "-79.85",
+        "y" : "28",
+        "rotation" : "-59.7",
+        "scaleX" : "-1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "sp_assist_zldz_start_1_r_1.png"
+      },
+      "nextFrame" : "f12",
+      "frames" : "3"
+    },
+    "order" : "4",
+    "f12" : {
+      "start" : {
+        "x" : "-217.45",
+        "y" : "-48.6",
+        "rotation" : "-60.96",
+        "scaleX" : "-1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "sp_assist_zldz_start_1_r_1.png"
+      },
+      "nextFrame" : "f16",
+      "frames" : "5"
+    },
+    "f16" : {
+      "start" : {
+        "x" : "-255.45",
+        "y" : "-74.6",
+        "rotation" : "-60.96",
+        "scaleX" : "-1",
+        "scaleY" : "1",
+        "opacity" : "0",
+        "png" : "sp_assist_zldz_start_1_r_1.png"
+      },
+      "nextFrame" : "f17",
+      "frames" : "2"
+    },
+    "f17" : {
+      "remove" : "1"
+    }
+  },
+  "图层 3_1" : {
+    "f11" : {
+      "start" : {
+        "x" : "-122.85",
+        "y" : "23.2",
+        "rotation" : "0",
+        "scaleX" : "0.77",
+        "scaleY" : "0.77",
+        "color" : {
+          "alpha_original" : "1",
+          "alpha" : "0",
+          "red_original" : "1",
+          "red" : "-113",
+          "green_original" : "1",
+          "green" : "37",
+          "blue_original" : "1",
+          "blue" : "255"
+        }
+      }
+    },
+    "sp" : "sp_wzhq_asd",
+    "useBatchNode" : "false",
+    "order" : "3",
+    "f16" : {
+      "remove" : "1"
+    }
+  },
+  "图层 6_2" : {
+    "f6" : {
+      "start" : {
+        "x" : "-95.05",
+        "y" : "26.05",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "sp_assist_zldz_start_1_r_1.png"
+      },
+      "nextFrame" : "f8",
+      "frames" : "3"
+    },
+    "order" : "2",
+    "f8" : {
+      "start" : {
+        "x" : "55.95",
+        "y" : "114",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "sp_assist_zldz_start_1_r_1.png"
+      },
+      "nextFrame" : "f12",
+      "frames" : "5"
+    },
+    "f12" : {
+      "start" : {
+        "x" : "102.95",
+        "y" : "144",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "0",
+        "png" : "sp_assist_zldz_start_1_r_1.png"
+      },
+      "nextFrame" : "f13",
+      "frames" : "2"
+    },
+    "f13" : {
+      "remove" : "1"
+    }
+  },
+  "图层 5_3" : {
+    "f3" : {
+      "start" : {
+        "x" : "-125.85",
+        "y" : "13.2",
+        "rotation" : "0",
+        "scaleX" : "0.77",
+        "scaleY" : "0.77",
+        "color" : {
+          "alpha_original" : "1",
+          "alpha" : "0",
+          "red_original" : "1",
+          "red" : "-113",
+          "green_original" : "1",
+          "green" : "37",
+          "blue_original" : "1",
+          "blue" : "255"
+        }
+      }
+    },
+    "sp" : "sp_wzhq_asd",
+    "useBatchNode" : "false",
+    "order" : "1",
+    "f8" : {
+      "remove" : "1"
+    }
+  },
+  "图层 4_4" : {
+    "f1" : {
+      "start" : {
+        "x" : "-8.85",
+        "y" : "78",
+        "rotation" : "-59.7",
+        "scaleX" : "-1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "sp_assist_zldz_start_1_r_1.png"
+      },
+      "nextFrame" : "f4",
+      "frames" : "4"
+    },
+    "order" : "0",
+    "f4" : {
+      "start" : {
+        "x" : "-214.45",
+        "y" : "-50.6",
+        "rotation" : "-60.96",
+        "scaleX" : "-1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "sp_assist_zldz_start_1_r_1.png"
+      },
+      "nextFrame" : "f8",
+      "frames" : "5"
+    },
+    "f8" : {
+      "start" : {
+        "x" : "-269.45",
+        "y" : "-96.55",
+        "rotation" : "-60.96",
+        "scaleX" : "-1",
+        "scaleY" : "1",
+        "opacity" : "0",
+        "png" : "sp_assist_zldz_start_1_r_1.png"
+      },
+      "nextFrame" : "f9",
+      "frames" : "2"
+    },
+    "f9" : {
+      "remove" : "1"
+    }
+  },
+  "events" : {
+    "f18" : "finish"
+  },
+  "scale" : "2",
+  "png" : "sp_assist_zldz_start_1_r.png"
+}
