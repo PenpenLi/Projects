@@ -8,73 +8,48 @@
   <JsonFolder>C:\Projects\UIProject\XJL\Json</JsonFolder>
   <JsonList>
     <string>activity_ActivityBorderButton.json</string>
+    <string>activity_ActivityCaishen.json</string>
+    <string>activity_ActivityDaily.json</string>
+    <string>activity_ActivityDailyCell.json</string>
+    <string>activity_ActivityDailyCellItem.json</string>
+    <string>activity_ActivityDuihuanCell.json</string>
+    <string>activity_ActivityDuihuanHelp.json</string>
+    <string>activity_ActivityFanhuan.json</string>
+    <string>activity_ActivityGiftCode.json</string>
+    <string>activity_ActivityGongGao.json</string>
+    <string>activity_ActivityHoliday.json</string>
+    <string>activity_ActivityHolidayCell.json</string>
+    <string>activity_ActivityInvitedFinalLayer.json</string>
+    <string>legion_DungeonMap.json</string>
+    <string>dungeon_DungeonMainScene.json</string>
+    <string>dungeon_DungeonNpc.json</string>
+    <string>legion_DungeonNewLevel.json</string>
+    <string>dungeon_DungeonGateScene.json</string>
+    <string>dungeon_DungeonOpenNewChpater.json</string>
+    <string>mainscene_zhengzhan.json</string>
+    <string>dailypvp_MainLayer.json</string>
+    <string>expansiondungeon_MainLayer.json</string>
+    <string>city_MainLayer.json</string>
+    <string>mainscene_MainBtns.json</string>
+    <string>mainscene_MainBtnsBak.json</string>
+    <string>mainscene_MainBtnsBak_0.json</string>
+    <string>dungeon_DungeonContinueBattle.json</string>
+    <string>mainscene_MainScene.json</string>
+    <string>mainscene_MainScene_0.json</string>
   </JsonList>
   <CanvasSize>
     <Width>640</Width>
-    <Height>1136</Height>
+    <Height>853</Height>
   </CanvasSize>
   <filePath>C:\Projects\UIProject\XJL\XJL.xml.ui</filePath>
   <ProjectType>UIProject</ProjectType>
   <ResRelativePath />
-  <imageFileList>
-    <string>ui/common/common_1.plist</string>
-  </imageFileList>
+  <imageFileList />
   <imagePngList>
-    <string>ui/background/bg_common.png</string>
-    <string>ui/text/txt/hd_title_yueka.png</string>
-    <string>ui/activity/25yuan_yueka.png</string>
-    <string>ui/common/common_1.plist</string>
-    <string>ui/text/txt-middle-btn/qianwanggoumai.png</string>
-    <string>ui/text/txt/shuiyin_yilingqu.png</string>
-    <string>ui/activity/50yuan_yueka.png</string>
-    <string>ui/activity/caishen.png</string>
-    <string>ui/activity/panzi.png</string>
-    <string>ui/dungeon/qipao.png</string>
-    <string>ui/text/txt/hd_title_yingcaishen.png</string>
-    <string>ui/arena/bg_jingjichang.png</string>
-    <string>ui/common/common_1.plist</string>
-    <string>ui/text/txt-big-btn/yingcaishen.png</string>
-    <string>ui/background/back_mainbt.png</string>
-    <string>ui/dungeon/btn_mingjiangfuben.png</string>
-    <string>ui/dungeon/btn_zhuxianfuben.png</string>
-    <string>ui/text/txt/btn_meiriqiandao.png</string>
-    <string>ui/common/common_1.plist</string>
-    <string>ui/text/txt/btn_haohuaqiandao.png</string>
-    <string>ui/tower/zuoxiajiaobg.png</string>
-    <string>ui/storydungeon/xindi.png</string>
-    <string>ui/text/txt/jinrijiangli.png</string>
-    <string>ui/text/txt-small-btn/lingqu.png</string>
-    <string>ui/text/txt/shuiyin_yilingqu.png</string>
-    <string>ui/dungeon/qipao.png</string>
-    <string>ui/common/common_1.plist</string>
-    <string>ui/text/txt/mrqd_shuangbei_v9.png</string>
-    <string>ui/common/common_1.plist</string>
-    <string>ui/text/txt/xsyh_zhekou_95.png</string>
-    <string>ui/text/txt-small-btn/duihuan.png</string>
-    <string>ui/common/common_1.plist</string>
-    <string>ui/text/txt-title/wupinduihuanxianzhi.png</string>
-    <string>ui/text/txt/dianjijixu.png</string>
-    <string>ui/background/bg_common.png</string>
-    <string>ui/text/txt/hd_title_chongzhikuizengu.png</string>
-    <string>ui/arena/shop_qipao.png</string>
-    <string>ui/common/common_1.plist</string>
-    <string>ui/text/txt-middle-btn/lingjiang.png</string>
-    <string>ui/tower/zuoxiajiaobg.png</string>
-    <string>ui/dungeon/fuben_baoxiang_bg.png</string>
-    <string>ui/background/bg_common.png</string>
-    <string>ui/text/txt/hd_title_libaofuli.png</string>
-    <string>ui/activity/lipinma_paper.png</string>
-    <string>ui/activity/lipinma_dianjishuru.png</string>
-    <string>ui/activity/lipinma_shurukuang.png</string>
-    <string>ui/common/common_1.plist</string>
-    <string>ui/text/txt-middle-btn/queding.png</string>
-    <string>ui/activity/lipinma_libao.png</string>
-    <string>ui/common/common_1.plist</string>
-    <string>ui/activity/meiriqiandao_dijitian.png</string>
-    <string>ui/text/txt-small-btn/qiandao.png</string>
-    <string>ui/text/txt/jqfb_yilingqu.png</string>
-    <string>ui/text/txt/weidacheng.png</string>
+    <string>ui/common/juhua.png</string>
+    <string>ui/mainpage/tips.png</string>
+    <string>ui/mainpage/sy_circle.png</string>
   </imagePngList>
   <JsonSuffix>.json</JsonSuffix>
-  <CurrentUIJson>activity_ActivityBorderButton.json</CurrentUIJson>
+  <CurrentUIJson>mainscene_MainScene_0.json</CurrentUIJson>
 </UIProject>
