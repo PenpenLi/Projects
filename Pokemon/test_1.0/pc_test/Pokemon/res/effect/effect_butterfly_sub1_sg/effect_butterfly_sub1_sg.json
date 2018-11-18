@@ -1,0 +1,149 @@
+{
+  "Layer 7_1" : {
+    "f1" : {
+      "start" : {
+        "x" : "2.05",
+        "y" : "24",
+        "rotation" : "0",
+        "scaleX" : "0.5",
+        "scaleY" : "0.55",
+        "opacity" : "255",
+        "png" : "effect_butterfly_sub1_sg_1.png"
+      },
+      "nextFrame" : "f2",
+      "frames" : "2"
+    },
+    "order" : "2",
+    "f2" : {
+      "start" : {
+        "x" : "1.6",
+        "y" : "28.2",
+        "rotation" : "0",
+        "scaleX" : "0.5",
+        "scaleY" : "0.36",
+        "opacity" : "255",
+        "png" : "effect_butterfly_sub1_sg_1.png"
+      }
+    },
+    "f3" : {
+      "start" : {
+        "x" : "1.1",
+        "y" : "32.4",
+        "rotation" : "0",
+        "scaleX" : "0.5",
+        "scaleY" : "0.17",
+        "opacity" : "255",
+        "png" : "effect_butterfly_sub1_sg_1.png"
+      },
+      "nextFrame" : "f4",
+      "frames" : "2"
+    },
+    "f4" : {
+      "start" : {
+        "x" : "1.1",
+        "y" : "32.4",
+        "rotation" : "0",
+        "scaleX" : "0.5",
+        "scaleY" : "0.17",
+        "opacity" : "255",
+        "png" : "effect_butterfly_sub1_sg_1.png"
+      },
+      "nextFrame" : "f6",
+      "frames" : "3"
+    },
+    "f6" : {
+      "start" : {
+        "x" : "2.05",
+        "y" : "24",
+        "rotation" : "0",
+        "scaleX" : "0.5",
+        "scaleY" : "0.55",
+        "opacity" : "255",
+        "png" : "effect_butterfly_sub1_sg_1.png"
+      }
+    }
+  },
+  "Layer 4_2" : {
+    "f1" : {
+      "start" : {
+        "x" : "4.55",
+        "y" : "41.45",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "effect_butterfly_sub1_sg_2.png"
+      }
+    },
+    "order" : "1"
+  },
+  "Layer 7 复制_3" : {
+    "f1" : {
+      "start" : {
+        "x" : "2.05",
+        "y" : "48.05",
+        "rotation" : "0",
+        "scaleX" : "0.5",
+        "scaleY" : "-0.55",
+        "opacity" : "255",
+        "png" : "effect_butterfly_sub1_sg_1.png"
+      },
+      "nextFrame" : "f2",
+      "frames" : "2"
+    },
+    "order" : "0",
+    "f2" : {
+      "start" : {
+        "x" : "1.6",
+        "y" : "43.85",
+        "rotation" : "0",
+        "scaleX" : "0.5",
+        "scaleY" : "-0.36",
+        "opacity" : "255",
+        "png" : "effect_butterfly_sub1_sg_1.png"
+      }
+    },
+    "f3" : {
+      "start" : {
+        "x" : "1.1",
+        "y" : "39.65",
+        "rotation" : "0",
+        "scaleX" : "0.5",
+        "scaleY" : "-0.17",
+        "opacity" : "255",
+        "png" : "effect_butterfly_sub1_sg_1.png"
+      },
+      "nextFrame" : "f4",
+      "frames" : "2"
+    },
+    "f4" : {
+      "start" : {
+        "x" : "1.1",
+        "y" : "39.65",
+        "rotation" : "0",
+        "scaleX" : "0.5",
+        "scaleY" : "-0.17",
+        "opacity" : "255",
+        "png" : "effect_butterfly_sub1_sg_1.png"
+      },
+      "nextFrame" : "f6",
+      "frames" : "3"
+    },
+    "f6" : {
+      "start" : {
+        "x" : "2.05",
+        "y" : "48.05",
+        "rotation" : "0",
+        "scaleX" : "0.5",
+        "scaleY" : "-0.55",
+        "opacity" : "255",
+        "png" : "effect_butterfly_sub1_sg_1.png"
+      }
+    }
+  },
+  "events" : {
+    "f6" : "forever"
+  },
+  "scale" : "1",
+  "png" : "effect_butterfly_sub1_sg.png"
+}

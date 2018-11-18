@@ -1,0 +1,138 @@
+{
+  "base_layer" : {
+    "f1" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    },
+    "f8" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    },
+    "f11" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    },
+    "f14" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    },
+    "f18" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    }
+  },
+  "card_layer" : {
+    "f1" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    },
+    "f8" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f11",
+      "frames" : "4"
+    },
+    "f11" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "0.83",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f14",
+      "frames" : "4"
+    },
+    "f14" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "1.21",
+        "scaleY" : "1.21",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f18",
+      "frames" : "5"
+    },
+    "f18" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    }
+  },
+  "sp_stage_center_layer" : {
+
+  },
+  "sp_up_layer" : {
+    "f1" : {
+      "start" : {
+        "x" : "-2",
+        "y" : "1.35",
+        "rotation" : "0",
+        "scaleX" : "-1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    },
+    "f88" : {
+      "remove" : "1"
+    },
+    "useBatchNode" : "true",
+    "spId" : "sp_skill_liuxingbaofa"
+  },
+  "sp_down_layer" : {
+
+  },
+  "events" : {
+    "f88" : "finish"
+  }
+}

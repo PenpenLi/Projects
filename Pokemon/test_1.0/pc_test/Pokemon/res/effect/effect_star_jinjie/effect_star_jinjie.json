@@ -1,0 +1,187 @@
+{
+  "图层 18    复制 4_1" : {
+    "f37" : {
+      "start" : {
+        "x" : "-193.25",
+        "y" : "44.9",
+        "rotation" : "-52.5",
+        "scaleX" : "0.38",
+        "scaleY" : "0.38",
+        "opacity" : "255",
+        "png" : "effect_star_jinjie_1.png"
+      },
+      "nextFrame" : "f42",
+      "frames" : "6"
+    },
+    "order" : "3",
+    "f42" : {
+      "start" : {
+        "x" : "-193.25",
+        "y" : "44.9",
+        "rotation" : "-37.5",
+        "scaleX" : "0.82",
+        "scaleY" : "0.82",
+        "opacity" : "255",
+        "png" : "effect_star_jinjie_1.png"
+      },
+      "nextFrame" : "f48",
+      "frames" : "7"
+    },
+    "f48" : {
+      "start" : {
+        "x" : "-193.25",
+        "y" : "44.9",
+        "rotation" : "-7.5",
+        "scaleX" : "0.6",
+        "scaleY" : "0.6",
+        "opacity" : "0",
+        "png" : "effect_star_jinjie_1.png"
+      },
+      "nextFrame" : "f49",
+      "frames" : "2"
+    },
+    "f49" : {
+      "remove" : "1"
+    }
+  },
+  "图层 18   复制 3_2" : {
+    "f84" : {
+      "start" : {
+        "x" : "-69.25",
+        "y" : "7.55",
+        "rotation" : "0",
+        "scaleX" : "0.4",
+        "scaleY" : "0.4",
+        "opacity" : "255",
+        "png" : "effect_star_jinjie_1.png"
+      },
+      "nextFrame" : "f89",
+      "frames" : "6"
+    },
+    "order" : "2",
+    "f89" : {
+      "start" : {
+        "x" : "-69.25",
+        "y" : "7.55",
+        "rotation" : "15",
+        "scaleX" : "0.88",
+        "scaleY" : "0.88",
+        "opacity" : "255",
+        "png" : "effect_star_jinjie_1.png"
+      },
+      "nextFrame" : "f95",
+      "frames" : "7"
+    },
+    "f95" : {
+      "start" : {
+        "x" : "-69.25",
+        "y" : "7.55",
+        "rotation" : "45",
+        "scaleX" : "0.64",
+        "scaleY" : "0.64",
+        "opacity" : "0",
+        "png" : "effect_star_jinjie_1.png"
+      },
+      "nextFrame" : "f96",
+      "frames" : "2"
+    },
+    "f96" : {
+      "remove" : "1"
+    }
+  },
+  "图层 18  复制 2_3" : {
+    "f100" : {
+      "start" : {
+        "x" : "244.5",
+        "y" : "43.65",
+        "rotation" : "45",
+        "scaleX" : "0.27",
+        "scaleY" : "0.27",
+        "opacity" : "255",
+        "png" : "effect_star_jinjie_1.png"
+      },
+      "nextFrame" : "f105",
+      "frames" : "6"
+    },
+    "order" : "1",
+    "f105" : {
+      "start" : {
+        "x" : "244.5",
+        "y" : "43.65",
+        "rotation" : "60",
+        "scaleX" : "0.59",
+        "scaleY" : "0.59",
+        "opacity" : "255",
+        "png" : "effect_star_jinjie_1.png"
+      },
+      "nextFrame" : "f111",
+      "frames" : "7"
+    },
+    "f111" : {
+      "start" : {
+        "x" : "244.5",
+        "y" : "43.65",
+        "rotation" : "90",
+        "scaleX" : "0.43",
+        "scaleY" : "0.43",
+        "opacity" : "0",
+        "png" : "effect_star_jinjie_1.png"
+      },
+      "nextFrame" : "f112",
+      "frames" : "2"
+    },
+    "f112" : {
+      "remove" : "1"
+    }
+  },
+  "图层 18_4" : {
+    "f1" : {
+      "start" : {
+        "x" : "96.45",
+        "y" : "-15.15",
+        "rotation" : "0",
+        "scaleX" : "0.4",
+        "scaleY" : "0.4",
+        "opacity" : "255",
+        "png" : "effect_star_jinjie_1.png"
+      },
+      "nextFrame" : "f6",
+      "frames" : "6"
+    },
+    "order" : "0",
+    "f6" : {
+      "start" : {
+        "x" : "96.45",
+        "y" : "-15.15",
+        "rotation" : "15",
+        "scaleX" : "0.88",
+        "scaleY" : "0.88",
+        "opacity" : "255",
+        "png" : "effect_star_jinjie_1.png"
+      },
+      "nextFrame" : "f12",
+      "frames" : "7"
+    },
+    "f12" : {
+      "start" : {
+        "x" : "96.45",
+        "y" : "-15.15",
+        "rotation" : "45",
+        "scaleX" : "0.64",
+        "scaleY" : "0.64",
+        "opacity" : "0",
+        "png" : "effect_star_jinjie_1.png"
+      },
+      "nextFrame" : "f13",
+      "frames" : "2"
+    },
+    "f13" : {
+      "remove" : "1"
+    }
+  },
+  "events" : {
+    "f144" : "forever"
+  },
+  "scale" : "1",
+  "png" : "effect_star_jinjie.png"
+}

@@ -1,0 +1,166 @@
+{
+  "base_layer" : {
+    "f1" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    },
+    "f5" : {
+      "start" : {
+        "x" : "30",
+        "y" : "-18",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    },
+    "f24" : {
+      "start" : {
+        "x" : "16",
+        "y" : "-11",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f28",
+      "frames" : "5"
+    },
+    "f28" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    }
+  },
+  "card_layer" : {
+    "f1" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    },
+    "f5" : {
+      "start" : {
+        "x" : "80.05",
+        "y" : "-30.45",
+        "rotation" : "-16.27",
+        "scaleX" : "1.1",
+        "scaleY" : "1.1",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f8",
+      "frames" : "4"
+    },
+    "f8" : {
+      "start" : {
+        "x" : "88.4",
+        "y" : "-49.55",
+        "rotation" : "-16.27",
+        "scaleX" : "1.1",
+        "scaleY" : "1.1",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f11",
+      "frames" : "4"
+    },
+    "f11" : {
+      "start" : {
+        "x" : "98.05",
+        "y" : "-30.45",
+        "rotation" : "-16.27",
+        "scaleX" : "1.1",
+        "scaleY" : "1.1",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f14",
+      "frames" : "4"
+    },
+    "f14" : {
+      "start" : {
+        "x" : "108.4",
+        "y" : "-49.55",
+        "rotation" : "-16.27",
+        "scaleX" : "1.1",
+        "scaleY" : "1.1",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f19",
+      "frames" : "6"
+    },
+    "f19" : {
+      "start" : {
+        "x" : "108.4",
+        "y" : "-49.55",
+        "rotation" : "-16.27",
+        "scaleX" : "1.1",
+        "scaleY" : "1.1",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f24",
+      "frames" : "6"
+    },
+    "f24" : {
+      "start" : {
+        "x" : "42.1",
+        "y" : "-3.4",
+        "rotation" : "-3.05",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f28",
+      "frames" : "5"
+    },
+    "f28" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    }
+  },
+  "sp_stage_center_layer" : {
+
+  },
+  "sp_up_layer" : {
+    "f1" : {
+      "start" : {
+        "x" : "-125",
+        "y" : "183.5",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    },
+    "f17" : {
+      "remove" : "1"
+    },
+    "useBatchNode" : "true",
+    "spId" : "sp_range_lgzh_hit_1_r"
+  },
+  "sp_down_layer" : {
+
+  },
+  "events" : {
+    "f29" : "finish"
+  }
+}

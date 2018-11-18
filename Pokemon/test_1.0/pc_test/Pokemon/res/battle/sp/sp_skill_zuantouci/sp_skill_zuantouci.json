@@ -1,0 +1,40 @@
+{
+  "图层 2_0" : {
+    "f31" : {
+      "start" : {
+        "x" : "-2.5",
+        "y" : "1.85",
+        "rotation" : "0",
+        "scaleX" : "1.5",
+        "scaleY" : "-1.5",
+        "opacity" : "255"
+      }
+    },
+    "sp" : "sp_zuantouci_gongji",
+    "useBatchNode" : "true",
+    "order" : "1"
+  },
+  "图层 1_1" : {
+    "f1" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "1.2",
+        "scaleY" : "1.2",
+        "opacity" : "255"
+      }
+    },
+    "sp" : "sp_zuantouci_baoguang",
+    "useBatchNode" : "true",
+    "order" : "0",
+    "f31" : {
+      "remove" : "1"
+    }
+  },
+  "events" : {
+    "f81" : "finish"
+  },
+  "scale" : "2",
+  "png" : ""
+}

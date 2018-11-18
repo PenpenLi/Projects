@@ -1,0 +1,121 @@
+{
+  "base_layer" : {
+    "f1" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    }
+  },
+  "card_layer" : {
+    "f1" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f8",
+      "frames" : "8"
+    },
+    "f8" : {
+      "start" : {
+        "x" : "31.8",
+        "y" : "0.6",
+        "rotation" : "0",
+        "scaleX" : "1.12",
+        "scaleY" : "0.94",
+        "opacity" : "255"
+      }
+    },
+    "f9" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f16",
+      "frames" : "8"
+    },
+    "f16" : {
+      "start" : {
+        "x" : "31.8",
+        "y" : "0.6",
+        "rotation" : "0",
+        "scaleX" : "1.12",
+        "scaleY" : "0.94",
+        "opacity" : "255"
+      }
+    },
+    "f17" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f24",
+      "frames" : "8"
+    },
+    "f24" : {
+      "start" : {
+        "x" : "31.8",
+        "y" : "0.6",
+        "rotation" : "0",
+        "scaleX" : "1.12",
+        "scaleY" : "0.94",
+        "opacity" : "255"
+      }
+    },
+    "f25" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    }
+  },
+  "sp_stage_center_layer" : {
+
+  },
+  "sp_up_layer" : {
+    "f1" : {
+      "start" : {
+        "x" : "29.8",
+        "y" : "108",
+        "rotation" : "-83.23",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    },
+    "f25" : {
+      "remove" : "1"
+    },
+    "useBatchNode" : "true",
+    "spId" : "sp_cont_lzfs_start_1"
+  },
+  "sp_down_layer" : {
+
+  },
+  "events" : {
+    "f9" : "shoot",
+    "f17" : "shoot",
+    "f25" : "shoot",
+    "f26" : "finish"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "2_0" : {
+    "f3" : {
+      "start" : {
+        "x" : "1",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "effect_nan_create_sub_1.png"
+      }
+    },
+    "order" : "1",
+    "f5" : {
+      "remove" : "1"
+    }
+  },
+  "1_1" : {
+    "f1" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "effect_nan_create_sub_2.png"
+      }
+    },
+    "order" : "0",
+    "f3" : {
+      "remove" : "1"
+    }
+  },
+  "events" : {
+    "f107" : "finish"
+  },
+  "scale" : "1",
+  "png" : "effect_nan_create_sub.png"
+}

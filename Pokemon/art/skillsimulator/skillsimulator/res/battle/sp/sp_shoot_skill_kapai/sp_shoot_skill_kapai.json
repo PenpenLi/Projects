@@ -1,0 +1,122 @@
+{
+  "图层 2_1" : {
+    "f1" : {
+      "start" : {
+        "x" : "-1",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "2",
+        "scaleY" : "2",
+        "color" : {
+          "alpha_original" : "1",
+          "alpha" : "0",
+          "red_original" : "0.25",
+          "red" : "191",
+          "green_original" : "0.25",
+          "green" : "191",
+          "blue_original" : "0.25",
+          "blue" : "0"
+        }
+      }
+    },
+    "sp" : "sp_shoot_feibiao_tuowei",
+    "useBatchNode" : "false",
+    "order" : "1"
+  },
+  "图层 1_2" : {
+    "f1" : {
+      "start" : {
+        "x" : "79",
+        "y" : "2.05",
+        "rotation" : "89.99",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    },
+    "sp" : "sp_kapai",
+    "useBatchNode" : "false",
+    "order" : "0",
+    "f6" : {
+      "start" : {
+        "x" : "79",
+        "y" : "2.05",
+        "rotation" : "89.99",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "color" : {
+          "alpha_original" : "1",
+          "alpha" : "0",
+          "red_original" : "0.52",
+          "red" : "122",
+          "green_original" : "0.52",
+          "green" : "122",
+          "blue_original" : "0.52",
+          "blue" : "0"
+        }
+      }
+    },
+    "f11" : {
+      "start" : {
+        "x" : "79",
+        "y" : "2.05",
+        "rotation" : "89.99",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "color" : {
+          "alpha_original" : "1",
+          "alpha" : "0",
+          "red_original" : "0.52",
+          "red" : "0",
+          "green_original" : "0.52",
+          "green" : "122",
+          "blue_original" : "0.52",
+          "blue" : "0"
+        }
+      }
+    },
+    "f16" : {
+      "start" : {
+        "x" : "79",
+        "y" : "2.05",
+        "rotation" : "89.99",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "color" : {
+          "alpha_original" : "1",
+          "alpha" : "0",
+          "red_original" : "0.52",
+          "red" : "0",
+          "green_original" : "0.52",
+          "green" : "0",
+          "blue_original" : "0.52",
+          "blue" : "122"
+        }
+      }
+    },
+    "f21" : {
+      "start" : {
+        "x" : "79",
+        "y" : "2.05",
+        "rotation" : "89.99",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "color" : {
+          "alpha_original" : "1",
+          "alpha" : "0",
+          "red_original" : "0.52",
+          "red" : "122",
+          "green_original" : "0.52",
+          "green" : "0",
+          "blue_original" : "0.52",
+          "blue" : "0"
+        }
+      }
+    }
+  },
+  "events" : {
+    "f1" : "forever"
+  },
+  "scale" : "2",
+  "png" : ""
+}

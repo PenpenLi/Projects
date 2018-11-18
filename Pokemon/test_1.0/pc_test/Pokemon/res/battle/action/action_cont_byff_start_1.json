@@ -1,0 +1,135 @@
+{
+  "base_layer" : {
+    "f1" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    }
+  },
+  "card_layer" : {
+    "f1" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f3",
+      "frames" : "3"
+    },
+    "f3" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "0.85",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f5",
+      "frames" : "3"
+    },
+    "f5" : {
+      "start" : {
+        "x" : "0",
+        "y" : "30",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f8",
+      "frames" : "4"
+    },
+    "f8" : {
+      "start" : {
+        "x" : "13.1",
+        "y" : "261.8",
+        "rotation" : "0",
+        "scaleX" : "-1",
+        "scaleY" : "-1",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f11",
+      "frames" : "4"
+    },
+    "f11" : {
+      "start" : {
+        "x" : "0",
+        "y" : "30",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f13",
+      "frames" : "3"
+    },
+    "f13" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "0.85",
+        "opacity" : "255"
+      }
+    },
+    "f17" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "0.85",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f20",
+      "frames" : "4"
+    },
+    "f20" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    }
+  },
+  "sp_stage_center_layer" : {
+
+  },
+  "sp_up_layer" : {
+    "f5" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    },
+    "f21" : {
+      "remove" : "1"
+    },
+    "useBatchNode" : "true",
+    "spId" : "sp_cont_byff_start_1"
+  },
+  "sp_down_layer" : {
+
+  },
+  "events" : {
+    "f9" : "shoot",
+    "f23" : "finish"
+  }
+}

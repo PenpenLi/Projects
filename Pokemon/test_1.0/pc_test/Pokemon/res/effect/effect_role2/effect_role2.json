@@ -1,0 +1,47 @@
+{
+  "图层 1_1" : {
+    "f1" : {
+      "start" : {
+        "x" : "0",
+        "y" : "64",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "229",
+        "png" : "effect_role2_1.png"
+      },
+      "nextFrame" : "f25",
+      "frames" : "25"
+    },
+    "order" : "0",
+    "f25" : {
+      "start" : {
+        "x" : "0",
+        "y" : "64",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "153",
+        "png" : "effect_role2_1.png"
+      },
+      "nextFrame" : "f45",
+      "frames" : "21"
+    },
+    "f45" : {
+      "start" : {
+        "x" : "0",
+        "y" : "64",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "229",
+        "png" : "effect_role2_1.png"
+      }
+    }
+  },
+  "events" : {
+    "f45" : "forever"
+  },
+  "scale" : "1",
+  "png" : "effect_role2.png"
+}

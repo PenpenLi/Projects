@@ -1,0 +1,199 @@
+{
+  "m_4_1" : {
+    "f1" : {
+      "start" : {
+        "x" : "-91.4",
+        "y" : "-0.75",
+        "rotation" : "0",
+        "scaleX" : "0.9",
+        "scaleY" : "0.9",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f53",
+      "frames" : "53"
+    },
+    "effect" : "effect_poem_sub4_sub1",
+    "useBatchNode" : "true",
+    "order" : "3",
+    "f53" : {
+      "start" : {
+        "x" : "-91.4",
+        "y" : "-0.75",
+        "rotation" : "0",
+        "scaleX" : "0.9",
+        "scaleY" : "0.9",
+        "opacity" : "109"
+      },
+      "nextFrame" : "f110",
+      "frames" : "58"
+    },
+    "f110" : {
+      "start" : {
+        "x" : "-91.4",
+        "y" : "-0.75",
+        "rotation" : "0",
+        "scaleX" : "0.9",
+        "scaleY" : "0.9",
+        "opacity" : "255"
+      }
+    }
+  },
+  "m_3_2" : {
+    "f1" : {
+      "start" : {
+        "x" : "-29.9",
+        "y" : "-0.75",
+        "rotation" : "0",
+        "scaleX" : "0.9",
+        "scaleY" : "0.9",
+        "opacity" : "216"
+      },
+      "nextFrame" : "f39",
+      "frames" : "39"
+    },
+    "effect" : "effect_poem_sub3_sub1",
+    "useBatchNode" : "true",
+    "order" : "2",
+    "f39" : {
+      "start" : {
+        "x" : "-29.9",
+        "y" : "-0.75",
+        "rotation" : "0",
+        "scaleX" : "0.9",
+        "scaleY" : "0.9",
+        "opacity" : "109"
+      },
+      "nextFrame" : "f96",
+      "frames" : "58"
+    },
+    "f96" : {
+      "start" : {
+        "x" : "-29.9",
+        "y" : "-0.75",
+        "rotation" : "0",
+        "scaleX" : "0.9",
+        "scaleY" : "0.9",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f110",
+      "frames" : "15"
+    },
+    "f110" : {
+      "start" : {
+        "x" : "-29.9",
+        "y" : "-0.75",
+        "rotation" : "0",
+        "scaleX" : "0.9",
+        "scaleY" : "0.9",
+        "opacity" : "216"
+      }
+    }
+  },
+  "m_2_3" : {
+    "f1" : {
+      "start" : {
+        "x" : "31.6",
+        "y" : "-0.75",
+        "rotation" : "0",
+        "scaleX" : "0.9",
+        "scaleY" : "0.9",
+        "opacity" : "178"
+      },
+      "nextFrame" : "f26",
+      "frames" : "26"
+    },
+    "effect" : "effect_poem_sub2_sub1",
+    "useBatchNode" : "true",
+    "order" : "1",
+    "f26" : {
+      "start" : {
+        "x" : "31.6",
+        "y" : "-0.75",
+        "rotation" : "0",
+        "scaleX" : "0.9",
+        "scaleY" : "0.9",
+        "opacity" : "109"
+      },
+      "nextFrame" : "f83",
+      "frames" : "58"
+    },
+    "f83" : {
+      "start" : {
+        "x" : "31.6",
+        "y" : "-0.75",
+        "rotation" : "0",
+        "scaleX" : "0.9",
+        "scaleY" : "0.9",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f110",
+      "frames" : "28"
+    },
+    "f110" : {
+      "start" : {
+        "x" : "31.6",
+        "y" : "-0.75",
+        "rotation" : "0",
+        "scaleX" : "0.9",
+        "scaleY" : "0.9",
+        "opacity" : "178"
+      }
+    }
+  },
+  "m_1_4" : {
+    "f1" : {
+      "start" : {
+        "x" : "93.1",
+        "y" : "-0.75",
+        "rotation" : "0",
+        "scaleX" : "0.9",
+        "scaleY" : "0.9",
+        "opacity" : "142"
+      },
+      "nextFrame" : "f13",
+      "frames" : "13"
+    },
+    "effect" : "effect_poem_sub1_sub1",
+    "useBatchNode" : "true",
+    "order" : "0",
+    "f13" : {
+      "start" : {
+        "x" : "93.1",
+        "y" : "-0.75",
+        "rotation" : "0",
+        "scaleX" : "0.9",
+        "scaleY" : "0.9",
+        "opacity" : "109"
+      },
+      "nextFrame" : "f70",
+      "frames" : "58"
+    },
+    "f70" : {
+      "start" : {
+        "x" : "93.1",
+        "y" : "-0.75",
+        "rotation" : "0",
+        "scaleX" : "0.9",
+        "scaleY" : "0.9",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f110",
+      "frames" : "41"
+    },
+    "f110" : {
+      "start" : {
+        "x" : "93.1",
+        "y" : "-0.75",
+        "rotation" : "0",
+        "scaleX" : "0.9",
+        "scaleY" : "0.9",
+        "opacity" : "142"
+      }
+    }
+  },
+  "events" : {
+    "f110" : "forever"
+  },
+  "scale" : "1",
+  "png" : ""
+}

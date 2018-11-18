@@ -1,0 +1,37 @@
+{
+  "effect_juntuan_yan_1" : {
+    "f1" : {
+      "start" : {
+        "x" : "61.85",
+        "y" : "414.4",
+        "rotation" : "0",
+        "scaleX" : "2.91",
+        "scaleY" : "2.91",
+        "opacity" : "155"
+      }
+    },
+    "effect" : "effect_juntuan_yan",
+    "useBatchNode" : "true",
+    "order" : "1"
+  },
+  "effect_juntuan_yan_2" : {
+    "f1" : {
+      "start" : {
+        "x" : "289.25",
+        "y" : "-150",
+        "rotation" : "0",
+        "scaleX" : "4.05",
+        "scaleY" : "4.05",
+        "opacity" : "255"
+      }
+    },
+    "effect" : "effect_juntuan_yan",
+    "useBatchNode" : "true",
+    "order" : "0"
+  },
+  "events" : {
+    "f130" : "forever"
+  },
+  "scale" : "1",
+  "png" : ""
+}

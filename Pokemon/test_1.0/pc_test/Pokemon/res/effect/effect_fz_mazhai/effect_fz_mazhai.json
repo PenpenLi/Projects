@@ -1,0 +1,47 @@
+{
+  "图层 1_1" : {
+    "f1" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "effect_fz_mazhai_1.png"
+      },
+      "nextFrame" : "f17",
+      "frames" : "17"
+    },
+    "order" : "0",
+    "f17" : {
+      "start" : {
+        "x" : "0",
+        "y" : "3",
+        "rotation" : "0",
+        "scaleX" : "1.04",
+        "scaleY" : "1.04",
+        "opacity" : "255",
+        "png" : "effect_fz_mazhai_1.png"
+      },
+      "nextFrame" : "f30",
+      "frames" : "14"
+    },
+    "f30" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "effect_fz_mazhai_1.png"
+      }
+    }
+  },
+  "events" : {
+    "f30" : "forever"
+  },
+  "scale" : "1",
+  "png" : "effect_fz_mazhai.png"
+}

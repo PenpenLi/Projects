@@ -1,0 +1,64 @@
+{
+  "sadf_0" : {
+    "f1" : {
+      "start" : {
+        "x" : "-59.7",
+        "y" : "37.5",
+        "rotation" : "116.24",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f6",
+      "frames" : "6"
+    },
+    "sp" : "sp_range_bow_start_2",
+    "useBatchNode" : "true",
+    "order" : "1",
+    "f6" : {
+      "start" : {
+        "x" : "-85.45",
+        "y" : "3.55",
+        "rotation" : "116.24",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    },
+    "f9" : {
+      "remove" : "1"
+    }
+  },
+  "asdf_1" : {
+    "f9" : {
+      "start" : {
+        "x" : "-59.2",
+        "y" : "-60.9",
+        "rotation" : "-2.74",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f11",
+      "frames" : "3"
+    },
+    "sp" : "sp_spear_start_1",
+    "useBatchNode" : "true",
+    "order" : "0",
+    "f11" : {
+      "start" : {
+        "x" : "66.8",
+        "y" : "71",
+        "rotation" : "-2.74",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    }
+  },
+  "events" : {
+    "f15" : "finish"
+  },
+  "scale" : "2",
+  "png" : ""
+}

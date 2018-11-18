@@ -1,0 +1,70 @@
+{
+  "effect_card_dust" : {
+    "f4" : {
+      "start" : {
+        "x" : "16.45",
+        "y" : "63",
+        "rotation" : "0",
+        "scaleX" : "1.79",
+        "scaleY" : "1.79",
+        "opacity" : "255"
+      }
+    },
+    "order" : "1",
+    "f10" : {
+      "remove" : "1"
+    }
+  },
+  "char" : {
+    "f1" : {
+      "start" : {
+        "x" : "22",
+        "y" : "76",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f4",
+      "frames" : "4"
+    },
+    "order" : "0",
+    "f4" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f8",
+      "frames" : "5"
+    },
+    "f8" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "1.02",
+        "scaleY" : "0.93",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f12",
+      "frames" : "5"
+    },
+    "f12" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    }
+  },
+  "events" : {
+    "f13" : "finish"
+  }
+}

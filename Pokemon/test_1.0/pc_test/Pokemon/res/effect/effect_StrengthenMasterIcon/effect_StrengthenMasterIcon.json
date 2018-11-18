@@ -1,0 +1,306 @@
+{
+  "图层 1_1" : {
+    "f32" : {
+      "start" : {
+        "x" : "-13.4",
+        "y" : "17.25",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "effect_StrengthenMasterIcon_1.png"
+      }
+    },
+    "order" : "3",
+    "f33" : {
+      "start" : {
+        "x" : "-16.35",
+        "y" : "18.05",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "effect_StrengthenMasterIcon_2.png"
+      }
+    },
+    "f35" : {
+      "start" : {
+        "x" : "-13.95",
+        "y" : "14.8",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "effect_StrengthenMasterIcon_3.png"
+      }
+    },
+    "f37" : {
+      "start" : {
+        "x" : "-14.65",
+        "y" : "12.2",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "effect_StrengthenMasterIcon_4.png"
+      }
+    },
+    "f39" : {
+      "remove" : "1"
+    }
+  },
+  "图层 2_2" : {
+    "f12" : {
+      "start" : {
+        "x" : "-13.4",
+        "y" : "17.25",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "effect_StrengthenMasterIcon_1.png"
+      }
+    },
+    "order" : "2",
+    "f13" : {
+      "start" : {
+        "x" : "-16.35",
+        "y" : "18.05",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "effect_StrengthenMasterIcon_2.png"
+      }
+    },
+    "f15" : {
+      "start" : {
+        "x" : "-13.95",
+        "y" : "14.8",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "effect_StrengthenMasterIcon_3.png"
+      }
+    },
+    "f17" : {
+      "start" : {
+        "x" : "-14.65",
+        "y" : "12.2",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "effect_StrengthenMasterIcon_4.png"
+      }
+    },
+    "f19" : {
+      "remove" : "1"
+    }
+  },
+  "图层 3_3" : {
+    "f1" : {
+      "start" : {
+        "x" : "18.1",
+        "y" : "18.25",
+        "rotation" : "39.96",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f5",
+      "frames" : "5"
+    },
+    "effect" : "effect_Symbol_2",
+    "useBatchNode" : "true",
+    "order" : "1",
+    "f5" : {
+      "start" : {
+        "x" : "27.5",
+        "y" : "42.5",
+        "rotation" : "39.88",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f8",
+      "frames" : "4"
+    },
+    "first_frame" : "5",
+    "loop" : "loop",
+    "f8" : {
+      "start" : {
+        "x" : "34.1",
+        "y" : "48.2",
+        "rotation" : "60.57",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f10",
+      "frames" : "3"
+    },
+    "f10" : {
+      "start" : {
+        "x" : "34.1",
+        "y" : "48.2",
+        "rotation" : "60.57",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f12",
+      "frames" : "3"
+    },
+    "f12" : {
+      "start" : {
+        "x" : "11.25",
+        "y" : "12.7",
+        "rotation" : "6.01",
+        "scaleX" : "1",
+        "scaleY" : "0.8",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f14",
+      "frames" : "3"
+    },
+    "f14" : {
+      "start" : {
+        "x" : "22.4",
+        "y" : "25.3",
+        "rotation" : "54.16",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f19",
+      "frames" : "6"
+    },
+    "f19" : {
+      "start" : {
+        "x" : "18.1",
+        "y" : "18.25",
+        "rotation" : "39.96",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f21",
+      "frames" : "3"
+    },
+    "f21" : {
+      "start" : {
+        "x" : "18.1",
+        "y" : "18.25",
+        "rotation" : "39.96",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f25",
+      "frames" : "5"
+    },
+    "f25" : {
+      "start" : {
+        "x" : "27.5",
+        "y" : "42.5",
+        "rotation" : "39.88",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f28",
+      "frames" : "4"
+    },
+    "f28" : {
+      "start" : {
+        "x" : "34.1",
+        "y" : "48.2",
+        "rotation" : "60.57",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f30",
+      "frames" : "3"
+    },
+    "f30" : {
+      "start" : {
+        "x" : "34.1",
+        "y" : "48.2",
+        "rotation" : "60.57",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f32",
+      "frames" : "3"
+    },
+    "f32" : {
+      "start" : {
+        "x" : "11.25",
+        "y" : "12.7",
+        "rotation" : "6.01",
+        "scaleX" : "1",
+        "scaleY" : "0.8",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f34",
+      "frames" : "3"
+    },
+    "f34" : {
+      "start" : {
+        "x" : "22.4",
+        "y" : "25.3",
+        "rotation" : "54.16",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f39",
+      "frames" : "6"
+    },
+    "f39" : {
+      "start" : {
+        "x" : "18.1",
+        "y" : "18.25",
+        "rotation" : "39.96",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f130",
+      "frames" : "92"
+    },
+    "f130" : {
+      "start" : {
+        "x" : "18.1",
+        "y" : "18.25",
+        "rotation" : "39.96",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    }
+  },
+  "图层 4_4" : {
+    "f1" : {
+      "start" : {
+        "x" : "-1.35",
+        "y" : "-14.95",
+        "rotation" : "0",
+        "scaleX" : "1.02",
+        "scaleY" : "1.02",
+        "opacity" : "255",
+        "png" : "effect_StrengthenMasterIcon_5.png"
+      }
+    },
+    "order" : "0"
+  },
+  "events" : {
+    "f130" : "forever"
+  },
+  "scale" : "1",
+  "png" : "effect_StrengthenMasterIcon.png"
+}

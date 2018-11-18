@@ -1,0 +1,43 @@
+{
+  "图层 1_0" : {
+    "f1" : {
+      "start" : {
+        "x" : "0.6",
+        "y" : "-0.25",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    },
+    "effect" : "effect_shoulan_shenlian_a",
+    "useBatchNode" : "true",
+    "order" : "1",
+    "f35" : {
+      "remove" : "1"
+    }
+  },
+  "图层 2_1" : {
+    "f22" : {
+      "start" : {
+        "x" : "1.05",
+        "y" : "0.2",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    },
+    "effect" : "effect_shoulan_shenlian_b",
+    "useBatchNode" : "true",
+    "order" : "0",
+    "f47" : {
+      "remove" : "1"
+    }
+  },
+  "events" : {
+    "f48" : "finish"
+  },
+  "scale" : "1",
+  "png" : ""
+}

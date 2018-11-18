@@ -1,0 +1,164 @@
+{
+  "base_layer" : {
+    "f1" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    },
+    "f12" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f15",
+      "frames" : "4"
+    },
+    "f15" : {
+      "start" : {
+        "x" : "19.85",
+        "y" : "-42.15",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "0"
+      }
+    },
+    "f55" : {
+      "start" : {
+        "x" : "-12.15",
+        "y" : "-33.4",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "0"
+      },
+      "nextFrame" : "f57",
+      "frames" : "3"
+    },
+    "f57" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    }
+  },
+  "card_layer" : {
+    "f1" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    },
+    "f12" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f15",
+      "frames" : "4"
+    },
+    "f15" : {
+      "start" : {
+        "x" : "19.85",
+        "y" : "-48.15",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "0"
+      }
+    },
+    "f55" : {
+      "start" : {
+        "x" : "-11.65",
+        "y" : "-39.4",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "0"
+      },
+      "nextFrame" : "f57",
+      "frames" : "3"
+    },
+    "f57" : {
+      "start" : {
+        "x" : "1.5",
+        "y" : "-2.25",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f60",
+      "frames" : "4"
+    },
+    "f60" : {
+      "start" : {
+        "x" : "1.5",
+        "y" : "-2.25",
+        "rotation" : "0",
+        "scaleX" : "1.11",
+        "scaleY" : "0.92",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f63",
+      "frames" : "4"
+    },
+    "f63" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    }
+  },
+  "sp_stage_center_layer" : {
+
+  },
+  "sp_up_layer" : {
+    "f9" : {
+      "start" : {
+        "x" : "19.1",
+        "y" : "60.5",
+        "rotation" : "0",
+        "scaleX" : "-1",
+        "scaleY" : "-1",
+        "opacity" : "255"
+      }
+    },
+    "f61" : {
+      "remove" : "1"
+    },
+    "useBatchNode" : "true",
+    "spId" : "sp_2group_nztx_start_2_r"
+  },
+  "sp_down_layer" : {
+
+  },
+  "events" : {
+    "f64" : "finish"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "循环_0" : {
+    "f271" : {
+      "start" : {
+        "x" : "0.8",
+        "y" : "-0.3",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    },
+    "effect" : "effect_poem_loop",
+    "useBatchNode" : "true",
+    "order" : "1"
+  },
+  "图层 1_1" : {
+    "f1" : {
+      "start" : {
+        "x" : "0.8",
+        "y" : "-0.3",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    },
+    "effect" : "effect_poem_1",
+    "useBatchNode" : "true",
+    "order" : "0",
+    "f271" : {
+      "remove" : "1"
+    }
+  },
+  "events" : {
+    "f272" : "finish"
+  },
+  "scale" : "1",
+  "png" : ""
+}

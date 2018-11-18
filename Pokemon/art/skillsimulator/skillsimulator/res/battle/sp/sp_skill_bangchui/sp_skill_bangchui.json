@@ -1,0 +1,303 @@
+{
+  "图层 2_0" : {
+    "f1" : {
+      "start" : {
+        "x" : "-1.2",
+        "y" : "0.35",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    },
+    "sp" : "sp_skill_lianda_baoguang",
+    "useBatchNode" : "true",
+    "order" : "5",
+    "f43" : {
+      "remove" : "1"
+    }
+  },
+  "图层 3  复制 2_1" : {
+    "f36" : {
+      "start" : {
+        "x" : "1",
+        "y" : "1.3",
+        "rotation" : "-120.06",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f41",
+      "frames" : "6"
+    },
+    "sp" : "sp_skill_huiji_daoguang",
+    "useBatchNode" : "true",
+    "order" : "4",
+    "f41" : {
+      "start" : {
+        "x" : "0.45",
+        "y" : "0.05",
+        "rotation" : "-26.3",
+        "scaleX" : "1.3",
+        "scaleY" : "1",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f47",
+      "frames" : "7"
+    },
+    "first_frame" : "12",
+    "loop" : "loop",
+    "f47" : {
+      "start" : {
+        "x" : "0.3",
+        "y" : "0",
+        "rotation" : "-18.59",
+        "scaleX" : "1.3",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    },
+    "f49" : {
+      "remove" : "1"
+    }
+  },
+  "图层 3 复制_2" : {
+    "f54" : {
+      "start" : {
+        "x" : "136.9",
+        "y" : "402.95",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "-1",
+        "opacity" : "255"
+      }
+    },
+    "sp" : "sp_skill_huiji_daoguang",
+    "useBatchNode" : "true",
+    "order" : "3",
+    "f56" : {
+      "start" : {
+        "x" : "-22.05",
+        "y" : "232.4",
+        "rotation" : "121.51",
+        "scaleX" : "-1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    },
+    "first_frame" : "5",
+    "loop" : "loop",
+    "f57" : {
+      "start" : {
+        "x" : "-196.25",
+        "y" : "187.8",
+        "rotation" : "86.56",
+        "scaleX" : "-1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    },
+    "f58" : {
+      "start" : {
+        "x" : "-151.65",
+        "y" : "30.9",
+        "rotation" : "28.61",
+        "scaleX" : "-1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    },
+    "f66" : {
+      "remove" : "1"
+    }
+  },
+  "图层 4_3" : {
+    "f73" : {
+      "start" : {
+        "x" : "267.55",
+        "y" : "107.15",
+        "rotation" : "11.54",
+        "scaleX" : "-1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    },
+    "sp" : "sp_skill_huiji_daoguang",
+    "useBatchNode" : "true",
+    "order" : "2",
+    "f86" : {
+      "remove" : "1"
+    }
+  },
+  "图层 3_4" : {
+    "f76" : {
+      "start" : {
+        "x" : "-0.15",
+        "y" : "0.8",
+        "rotation" : "0",
+        "scaleX" : "1.5",
+        "scaleY" : "1.5",
+        "opacity" : "255"
+      }
+    },
+    "sp" : "sp_skill_dibao",
+    "useBatchNode" : "true",
+    "order" : "1",
+    "f89" : {
+      "start" : {
+        "x" : "-0.15",
+        "y" : "0.8",
+        "rotation" : "0",
+        "scaleX" : "1.5",
+        "scaleY" : "1.5",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f94",
+      "frames" : "6"
+    },
+    "first_frame" : "19",
+    "loop" : "loop",
+    "f94" : {
+      "start" : {
+        "x" : "-0.15",
+        "y" : "0.8",
+        "rotation" : "0",
+        "scaleX" : "1.5",
+        "scaleY" : "1.5",
+        "opacity" : "0"
+      }
+    },
+    "f95" : {
+      "remove" : "1"
+    }
+  },
+  "图层 1_5" : {
+    "f33" : {
+      "start" : {
+        "x" : "0",
+        "y" : "1.05",
+        "rotation" : "-116.8",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "0"
+      },
+      "nextFrame" : "f36",
+      "frames" : "4"
+    },
+    "sp" : "sp_skill_bangchui_model",
+    "useBatchNode" : "true",
+    "order" : "0",
+    "f36" : {
+      "start" : {
+        "x" : "0",
+        "y" : "1.05",
+        "rotation" : "-116.8",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f41",
+      "frames" : "6"
+    },
+    "f41" : {
+      "start" : {
+        "x" : "0",
+        "y" : "1",
+        "rotation" : "8.43",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f47",
+      "frames" : "7"
+    },
+    "f47" : {
+      "start" : {
+        "x" : "0",
+        "y" : "1",
+        "rotation" : "12.25",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "153"
+      },
+      "nextFrame" : "f50",
+      "frames" : "4"
+    },
+    "f50" : {
+      "start" : {
+        "x" : "0",
+        "y" : "1",
+        "rotation" : "13.86",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "0"
+      }
+    },
+    "f52" : {
+      "start" : {
+        "x" : "0",
+        "y" : "1",
+        "rotation" : "8.43",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "0"
+      },
+      "nextFrame" : "f55",
+      "frames" : "4"
+    },
+    "f55" : {
+      "start" : {
+        "x" : "0",
+        "y" : "1",
+        "rotation" : "8.43",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f58",
+      "frames" : "4"
+    },
+    "f58" : {
+      "start" : {
+        "x" : "0",
+        "y" : "1",
+        "rotation" : "-105.59",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f63",
+      "frames" : "6"
+    },
+    "f63" : {
+      "start" : {
+        "x" : "0",
+        "y" : "1",
+        "rotation" : "-111.28",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f65",
+      "frames" : "3"
+    },
+    "f65" : {
+      "start" : {
+        "x" : "0",
+        "y" : "1",
+        "rotation" : "-111.28",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "0"
+      }
+    },
+    "f67" : {
+      "remove" : "1"
+    }
+  },
+  "events" : {
+    "f96" : "finish"
+  },
+  "scale" : "2",
+  "png" : ""
+}

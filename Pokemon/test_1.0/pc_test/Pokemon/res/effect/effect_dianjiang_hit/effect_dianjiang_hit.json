@@ -1,0 +1,100 @@
+{
+  "图层 1_0" : {
+    "f4" : {
+      "start" : {
+        "x" : "-11.3",
+        "y" : "-0.9",
+        "rotation" : "0",
+        "scaleX" : "1.7",
+        "scaleY" : "1.32",
+        "opacity" : "0"
+      },
+      "nextFrame" : "f7",
+      "frames" : "4"
+    },
+    "effect" : "effect_dianjiang_hit_1",
+    "useBatchNode" : "true",
+    "order" : "1",
+    "f7" : {
+      "start" : {
+        "x" : "-20.1",
+        "y" : "-4.5",
+        "rotation" : "0",
+        "scaleX" : "2.84",
+        "scaleY" : "2.2",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f9",
+      "frames" : "3"
+    },
+    "f9" : {
+      "start" : {
+        "x" : "-24.5",
+        "y" : "-6.3",
+        "rotation" : "0",
+        "scaleX" : "3.4",
+        "scaleY" : "2.65",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f11",
+      "frames" : "3"
+    },
+    "f11" : {
+      "start" : {
+        "x" : "-29.8",
+        "y" : "-8.45",
+        "rotation" : "0",
+        "scaleX" : "4.08",
+        "scaleY" : "3.17",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f14",
+      "frames" : "4"
+    },
+    "f14" : {
+      "start" : {
+        "x" : "-36.15",
+        "y" : "-11.05",
+        "rotation" : "0",
+        "scaleX" : "4.9",
+        "scaleY" : "3.81",
+        "opacity" : "0"
+      }
+    },
+    "f15" : {
+      "remove" : "1"
+    }
+  },
+  "图层 2_1" : {
+    "f1" : {
+      "start" : {
+        "x" : "24.75",
+        "y" : "37.95",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "color" : {
+          "alpha_original" : "1",
+          "alpha" : "0",
+          "red_original" : "1",
+          "red" : "255",
+          "green_original" : "1",
+          "green" : "0",
+          "blue_original" : "1",
+          "blue" : "255"
+        }
+      }
+    },
+    "effect" : "effect_xipai_1",
+    "useBatchNode" : "false",
+    "order" : "0",
+    "f17" : {
+      "remove" : "1"
+    }
+  },
+  "events" : {
+    "f18" : "finish"
+  },
+  "scale" : "1",
+  "png" : ""
+}

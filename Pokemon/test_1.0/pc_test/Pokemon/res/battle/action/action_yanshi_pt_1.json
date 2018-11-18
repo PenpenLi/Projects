@@ -1,0 +1,136 @@
+{
+  "base_layer" : {
+    "f1" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    }
+  },
+  "card_layer" : {
+    "f1" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f6",
+      "frames" : "6"
+    },
+    "f6" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "0.96",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f9",
+      "frames" : "4"
+    },
+    "f9" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "0.85",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f13",
+      "frames" : "5"
+    },
+    "f13" : {
+      "start" : {
+        "x" : "0",
+        "y" : "30",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f18",
+      "frames" : "6"
+    },
+    "f18" : {
+      "start" : {
+        "x" : "0",
+        "y" : "30",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f22",
+      "frames" : "5"
+    },
+    "f22" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "0.85",
+        "opacity" : "255"
+      }
+    },
+    "f26" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "0.85",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f30",
+      "frames" : "5"
+    },
+    "f30" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    }
+  },
+  "sp_stage_center_layer" : {
+
+  },
+  "sp_up_layer" : {
+    "f4" : {
+      "start" : {
+        "x" : "-0.5",
+        "y" : "79.4",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    },
+    "f34" : {
+      "remove" : "1"
+    },
+    "useBatchNode" : "true",
+    "spId" : "sp_yanshi_pt_01"
+  },
+  "sp_down_layer" : {
+
+  },
+  "events" : {
+    "f27" : "hit",
+    "f28" : "hurt",
+    "f35" : "finish"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "图层 2_1" : {
+    "f1" : {
+      "start" : {
+        "x" : "-0.8",
+        "y" : "0.55",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "effect_signinnew_5_1.png"
+      },
+      "nextFrame" : "f41",
+      "frames" : "41"
+    },
+    "order" : "0",
+    "f41" : {
+      "start" : {
+        "x" : "-0.8",
+        "y" : "0.55",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "0",
+        "png" : "effect_signinnew_5_1.png"
+      },
+      "nextFrame" : "f55",
+      "frames" : "15"
+    },
+    "f55" : {
+      "start" : {
+        "x" : "-0.8",
+        "y" : "0.55",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "0",
+        "png" : "effect_signinnew_5_1.png"
+      },
+      "nextFrame" : "f100",
+      "frames" : "46"
+    },
+    "f100" : {
+      "start" : {
+        "x" : "-0.8",
+        "y" : "0.55",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "effect_signinnew_5_1.png"
+      }
+    }
+  },
+  "events" : {
+    "f100" : "forever"
+  },
+  "scale" : "1",
+  "png" : "effect_signinnew_5.png"
+}

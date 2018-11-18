@@ -1,0 +1,121 @@
+{
+  "base_layer" : {
+    "f1" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    }
+  },
+  "card_layer" : {
+    "f1" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f4",
+      "frames" : "4"
+    },
+    "f4" : {
+      "start" : {
+        "x" : "-1",
+        "y" : "-32.5",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "0.9",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f6",
+      "frames" : "3"
+    },
+    "f6" : {
+      "start" : {
+        "x" : "-1",
+        "y" : "-32.5",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "0.9",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f11",
+      "frames" : "6"
+    },
+    "f11" : {
+      "start" : {
+        "x" : "0",
+        "y" : "104",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    },
+    "f12" : {
+      "start" : {
+        "x" : "0",
+        "y" : "104",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "0"
+      }
+    },
+    "f16" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "0"
+      },
+      "nextFrame" : "f21",
+      "frames" : "6"
+    },
+    "f21" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    }
+  },
+  "sp_stage_center_layer" : {
+
+  },
+  "sp_up_layer" : {
+    "f1" : {
+      "start" : {
+        "x" : "0",
+        "y" : "100",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    },
+    "f16" : {
+      "remove" : "1"
+    },
+    "useBatchNode" : "true",
+    "spId" : "sp_range_hglx_start_1"
+  },
+  "sp_down_layer" : {
+
+  },
+  "events" : {
+    "f11" : "shoot",
+    "f22" : "finish"
+  }
+}

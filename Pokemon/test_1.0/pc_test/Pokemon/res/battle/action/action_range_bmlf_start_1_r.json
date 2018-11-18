@@ -1,0 +1,221 @@
+{
+  "base_layer" : {
+    "f1" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    }
+  },
+  "card_layer" : {
+    "f1" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f4",
+      "frames" : "4"
+    },
+    "f4" : {
+      "start" : {
+        "x" : "22",
+        "y" : "11",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    },
+    "f5" : {
+      "start" : {
+        "x" : "35.1",
+        "y" : "11",
+        "rotation" : "0",
+        "scaleX" : "-1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    },
+    "f8" : {
+      "start" : {
+        "x" : "-40",
+        "y" : "-30",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    },
+    "f9" : {
+      "start" : {
+        "x" : "-92",
+        "y" : "28.85",
+        "rotation" : "38.79",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    },
+    "f10" : {
+      "start" : {
+        "x" : "-9.9",
+        "y" : "28",
+        "rotation" : "0",
+        "scaleX" : "-1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    },
+    "f11" : {
+      "start" : {
+        "x" : "30.1",
+        "y" : "18",
+        "rotation" : "0",
+        "scaleX" : "-1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    },
+    "f14" : {
+      "start" : {
+        "x" : "-40",
+        "y" : "-30",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    },
+    "f15" : {
+      "start" : {
+        "x" : "-92",
+        "y" : "28.85",
+        "rotation" : "38.79",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    },
+    "f16" : {
+      "start" : {
+        "x" : "-9.9",
+        "y" : "28",
+        "rotation" : "0",
+        "scaleX" : "-1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    },
+    "f17" : {
+      "start" : {
+        "x" : "28.1",
+        "y" : "7",
+        "rotation" : "0",
+        "scaleX" : "-1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f22",
+      "frames" : "6"
+    },
+    "f22" : {
+      "start" : {
+        "x" : "43.1",
+        "y" : "10",
+        "rotation" : "0",
+        "scaleX" : "-1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    },
+    "f23" : {
+      "start" : {
+        "x" : "-40",
+        "y" : "-30",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    },
+    "f24" : {
+      "start" : {
+        "x" : "-92",
+        "y" : "28.85",
+        "rotation" : "38.79",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    },
+    "f25" : {
+      "start" : {
+        "x" : "-9.9",
+        "y" : "28",
+        "rotation" : "0",
+        "scaleX" : "-1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    },
+    "f26" : {
+      "start" : {
+        "x" : "0",
+        "y" : "12",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f27",
+      "frames" : "2"
+    },
+    "f27" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    }
+  },
+  "sp_stage_center_layer" : {
+
+  },
+  "sp_up_layer" : {
+    "f1" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    },
+    "f28" : {
+      "remove" : "1"
+    },
+    "useBatchNode" : "true",
+    "spId" : "sp_range_bmlf_start_1"
+  },
+  "sp_down_layer" : {
+
+  },
+  "events" : {
+    "f8" : "shoot",
+    "f14" : "shoot",
+    "f23" : "shoot",
+    "f28" : "finish"
+  }
+}

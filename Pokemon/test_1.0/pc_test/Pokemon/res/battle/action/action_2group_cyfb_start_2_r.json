@@ -1,0 +1,214 @@
+{
+  "base_layer" : {
+    "f1" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    },
+    "f55" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f57",
+      "frames" : "3"
+    },
+    "f57" : {
+      "start" : {
+        "x" : "177.2",
+        "y" : "-184.95",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f61",
+      "frames" : "5"
+    },
+    "f61" : {
+      "start" : {
+        "x" : "388.95",
+        "y" : "-421.65",
+        "rotation" : "0",
+        "scaleX" : "1.1",
+        "scaleY" : "1.1",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f66",
+      "frames" : "6"
+    },
+    "f66" : {
+      "start" : {
+        "x" : "-56.55",
+        "y" : "-344.05",
+        "rotation" : "0",
+        "scaleX" : "1.1",
+        "scaleY" : "1.1",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f69",
+      "frames" : "4"
+    },
+    "f69" : {
+      "start" : {
+        "x" : "-130.3",
+        "y" : "-217.1",
+        "rotation" : "0",
+        "scaleX" : "1.1",
+        "scaleY" : "1.1",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f71",
+      "frames" : "3"
+    },
+    "f71" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    }
+  },
+  "card_layer" : {
+    "f1" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    },
+    "f43" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f53",
+      "frames" : "11"
+    },
+    "f53" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "1.04",
+        "scaleY" : "0.93",
+        "opacity" : "255"
+      }
+    },
+    "f55" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "1.04",
+        "scaleY" : "0.93",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f57",
+      "frames" : "3"
+    },
+    "f57" : {
+      "start" : {
+        "x" : "177.2",
+        "y" : "-184.95",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f61",
+      "frames" : "5"
+    },
+    "f61" : {
+      "start" : {
+        "x" : "388.95",
+        "y" : "-421.65",
+        "rotation" : "0",
+        "scaleX" : "1.1",
+        "scaleY" : "1.1",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f66",
+      "frames" : "6"
+    },
+    "f66" : {
+      "start" : {
+        "x" : "-56.55",
+        "y" : "-344.05",
+        "rotation" : "0",
+        "scaleX" : "1.1",
+        "scaleY" : "1.1",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f69",
+      "frames" : "4"
+    },
+    "f69" : {
+      "start" : {
+        "x" : "-130.3",
+        "y" : "-217.1",
+        "rotation" : "0",
+        "scaleX" : "1.1",
+        "scaleY" : "1.1",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f71",
+      "frames" : "3"
+    },
+    "f71" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    }
+  },
+  "sp_stage_center_layer" : {
+
+  },
+  "sp_up_layer" : {
+    "f43" : {
+      "start" : {
+        "x" : "128.9",
+        "y" : "-309.65",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    },
+    "f72" : {
+      "remove" : "1"
+    },
+    "useBatchNode" : "true",
+    "spId" : "sp_2group_cyfb_start_2_r"
+  },
+  "sp_down_layer" : {
+
+  },
+  "events" : {
+    "f72" : "finish"
+  }
+}

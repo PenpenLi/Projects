@@ -1,0 +1,211 @@
+{
+  "base_layer" : {
+    "f1" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    },
+    "f4" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f7",
+      "frames" : "4"
+    },
+    "f7" : {
+      "start" : {
+        "x" : "-425.5",
+        "y" : "82.95",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "0"
+      }
+    },
+    "f9" : {
+      "start" : {
+        "x" : "-425.5",
+        "y" : "82.95",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f13",
+      "frames" : "5"
+    },
+    "f13" : {
+      "start" : {
+        "x" : "404.5",
+        "y" : "82.95",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    },
+    "f14" : {
+      "start" : {
+        "x" : "404.5",
+        "y" : "82.95",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "0"
+      }
+    },
+    "f16" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "0"
+      },
+      "nextFrame" : "f22",
+      "frames" : "7"
+    },
+    "f22" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    }
+  },
+  "card_layer" : {
+    "f1" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f4",
+      "frames" : "4"
+    },
+    "f4" : {
+      "start" : {
+        "x" : "-18.8",
+        "y" : "4.85",
+        "rotation" : "17.24",
+        "scaleX" : "1",
+        "scaleY" : "0.85",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f7",
+      "frames" : "4"
+    },
+    "f7" : {
+      "start" : {
+        "x" : "-476.95",
+        "y" : "90.4",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "0"
+      }
+    },
+    "f9" : {
+      "start" : {
+        "x" : "-425.95",
+        "y" : "80",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f13",
+      "frames" : "5"
+    },
+    "f13" : {
+      "start" : {
+        "x" : "408",
+        "y" : "80",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    },
+    "f14" : {
+      "start" : {
+        "x" : "398",
+        "y" : "80",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "0"
+      }
+    },
+    "f16" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "0.9",
+        "opacity" : "0"
+      },
+      "nextFrame" : "f22",
+      "frames" : "7"
+    },
+    "f22" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    }
+  },
+  "sp_stage_center_layer" : {
+
+  },
+  "sp_up_layer" : {
+    "f9" : {
+      "start" : {
+        "x" : "-6.85",
+        "y" : "53.95",
+        "rotation" : "0",
+        "scaleX" : "-1",
+        "scaleY" : "0.67",
+        "opacity" : "255"
+      }
+    },
+    "f15" : {
+      "remove" : "1"
+    },
+    "f23" : {
+      "remove" : "1"
+    },
+    "useBatchNode" : "true",
+    "spId" : "sp_cont_jch_q_start_1"
+  },
+  "sp_down_layer" : {
+
+  },
+  "events" : {
+    "f10" : "hit",
+    "f11" : "hurt",
+    "f23" : "finish"
+  }
+}

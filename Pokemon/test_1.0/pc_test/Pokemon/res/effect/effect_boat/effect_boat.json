@@ -1,0 +1,354 @@
+{
+  "元件 8_1" : {
+    "f1" : {
+      "start" : {
+        "x" : "181.7",
+        "y" : "484.6",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    },
+    "effect" : "effect_boat_fire_1",
+    "useBatchNode" : "true",
+    "order" : "10"
+  },
+  "元件 8_2" : {
+    "f1" : {
+      "start" : {
+        "x" : "-187",
+        "y" : "484.2",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    },
+    "effect" : "effect_boat_fire_1",
+    "useBatchNode" : "true",
+    "order" : "9"
+  },
+  "图层 2_3" : {
+    "f1" : {
+      "start" : {
+        "x" : "-2.15",
+        "y" : "815.45",
+        "rotation" : "-4.49",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "effect_boat_1.png"
+      },
+      "nextFrame" : "f48",
+      "frames" : "48"
+    },
+    "order" : "8",
+    "f48" : {
+      "start" : {
+        "x" : "-0.85",
+        "y" : "812.3",
+        "rotation" : "-3.08",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "effect_boat_1.png"
+      },
+      "nextFrame" : "f100",
+      "frames" : "53"
+    },
+    "f100" : {
+      "start" : {
+        "x" : "-2.15",
+        "y" : "815.45",
+        "rotation" : "-4.49",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "effect_boat_1.png"
+      }
+    }
+  },
+  "位图 4_4" : {
+    "f1" : {
+      "start" : {
+        "x" : "245.5",
+        "y" : "757.35",
+        "rotation" : "17.77",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "effect_boat_2.png"
+      },
+      "nextFrame" : "f35",
+      "frames" : "35"
+    },
+    "order" : "7",
+    "f35" : {
+      "start" : {
+        "x" : "240.75",
+        "y" : "758.25",
+        "rotation" : "6.21",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "effect_boat_2.png"
+      },
+      "nextFrame" : "f100",
+      "frames" : "66"
+    },
+    "f100" : {
+      "start" : {
+        "x" : "245.55",
+        "y" : "757.4",
+        "rotation" : "17.97",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "effect_boat_2.png"
+      }
+    }
+  },
+  "位图 8_5" : {
+    "f1" : {
+      "start" : {
+        "x" : "-33.95",
+        "y" : "712.3",
+        "rotation" : "0.76",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "effect_boat_3.png"
+      },
+      "nextFrame" : "f24",
+      "frames" : "24"
+    },
+    "order" : "6",
+    "f24" : {
+      "start" : {
+        "x" : "-32",
+        "y" : "712.3",
+        "rotation" : "6.75",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "effect_boat_3.png"
+      },
+      "nextFrame" : "f75",
+      "frames" : "52"
+    },
+    "f75" : {
+      "start" : {
+        "x" : "-36.9",
+        "y" : "712.15",
+        "rotation" : "-8.9",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "effect_boat_3.png"
+      },
+      "nextFrame" : "f100",
+      "frames" : "26"
+    },
+    "f100" : {
+      "start" : {
+        "x" : "-33.95",
+        "y" : "712.3",
+        "rotation" : "0.76",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "effect_boat_3.png"
+      }
+    }
+  },
+  "位图 1_6" : {
+    "f1" : {
+      "start" : {
+        "x" : "-154.5",
+        "y" : "677.7",
+        "rotation" : "-5.69",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "effect_boat_4.png"
+      },
+      "nextFrame" : "f67",
+      "frames" : "67"
+    },
+    "order" : "5",
+    "f67" : {
+      "start" : {
+        "x" : "-150.65",
+        "y" : "676.9",
+        "rotation" : "11.42",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "effect_boat_4.png"
+      },
+      "nextFrame" : "f100",
+      "frames" : "34"
+    },
+    "f100" : {
+      "start" : {
+        "x" : "-154.5",
+        "y" : "677.7",
+        "rotation" : "-5.69",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "effect_boat_4.png"
+      }
+    }
+  },
+  "位图 5_7" : {
+    "f1" : {
+      "start" : {
+        "x" : "-141.2",
+        "y" : "673.55",
+        "rotation" : "-2",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "effect_boat_5.png"
+      },
+      "nextFrame" : "f10",
+      "frames" : "10"
+    },
+    "order" : "4",
+    "f10" : {
+      "start" : {
+        "x" : "-140.75",
+        "y" : "673.4",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "effect_boat_5.png"
+      },
+      "nextFrame" : "f71",
+      "frames" : "62"
+    },
+    "f71" : {
+      "start" : {
+        "x" : "-142.55",
+        "y" : "674",
+        "rotation" : "-8.45",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "effect_boat_5.png"
+      },
+      "nextFrame" : "f100",
+      "frames" : "30"
+    },
+    "f100" : {
+      "start" : {
+        "x" : "-141.2",
+        "y" : "673.55",
+        "rotation" : "-2",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "effect_boat_5.png"
+      }
+    }
+  },
+  "图层 4_8" : {
+    "f1" : {
+      "start" : {
+        "x" : "-28.5",
+        "y" : "766.45",
+        "rotation" : "0.94",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "effect_boat_6.png"
+      },
+      "nextFrame" : "f60",
+      "frames" : "60"
+    },
+    "order" : "3",
+    "f60" : {
+      "start" : {
+        "x" : "-22.45",
+        "y" : "766.15",
+        "rotation" : "0.95",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "effect_boat_6.png"
+      },
+      "nextFrame" : "f100",
+      "frames" : "41"
+    },
+    "f100" : {
+      "start" : {
+        "x" : "-28.5",
+        "y" : "766.45",
+        "rotation" : "0.94",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "effect_boat_6.png"
+      }
+    }
+  },
+  "图层 16 复制_9" : {
+    "f42" : {
+      "start" : {
+        "x" : "123.35",
+        "y" : "766.15",
+        "rotation" : "141.96",
+        "scaleX" : "0.91",
+        "scaleY" : "0.79",
+        "opacity" : "255"
+      }
+    },
+    "effect" : "effect_waterfly_1",
+    "useBatchNode" : "true",
+    "order" : "2",
+    "f100" : {
+      "remove" : "1"
+    }
+  },
+  "图层 16  复制 2_10" : {
+    "f22" : {
+      "start" : {
+        "x" : "-36.3",
+        "y" : "759.25",
+        "rotation" : "-172.91",
+        "scaleX" : "2.27",
+        "scaleY" : "1.5",
+        "opacity" : "124"
+      }
+    },
+    "effect" : "effect_waterfly_1",
+    "useBatchNode" : "true",
+    "order" : "1",
+    "f100" : {
+      "remove" : "1"
+    }
+  },
+  "图层 16_11" : {
+    "f1" : {
+      "start" : {
+        "x" : "-123.05",
+        "y" : "778.5",
+        "rotation" : "-158.57",
+        "scaleX" : "1.32",
+        "scaleY" : "1.12",
+        "opacity" : "255"
+      }
+    },
+    "effect" : "effect_waterfly_1",
+    "useBatchNode" : "true",
+    "order" : "0"
+  },
+  "events" : {
+    "f100" : "forever"
+  },
+  "scale" : "1",
+  "png" : "effect_boat.png"
+}

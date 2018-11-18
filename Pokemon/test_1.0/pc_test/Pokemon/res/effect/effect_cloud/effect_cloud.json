@@ -1,0 +1,360 @@
+{
+  "元件 3 复制_1" : {
+    "f1" : {
+      "start" : {
+        "x" : "48.5",
+        "y" : "391.3",
+        "rotation" : "0",
+        "scaleX" : "0.86",
+        "scaleY" : "0.86",
+        "opacity" : "68",
+        "png" : "effect_cloud_1.png"
+      },
+      "nextFrame" : "f92",
+      "frames" : "92"
+    },
+    "order" : "5",
+    "f92" : {
+      "start" : {
+        "x" : "16.95",
+        "y" : "391.3",
+        "rotation" : "0",
+        "scaleX" : "0.86",
+        "scaleY" : "0.86",
+        "opacity" : "0",
+        "png" : "effect_cloud_1.png"
+      },
+      "nextFrame" : "f93",
+      "frames" : "2"
+    },
+    "f93" : {
+      "start" : {
+        "x" : "133.3",
+        "y" : "391.3",
+        "rotation" : "0",
+        "scaleX" : "0.86",
+        "scaleY" : "0.86",
+        "opacity" : "0",
+        "png" : "effect_cloud_1.png"
+      },
+      "nextFrame" : "f207",
+      "frames" : "115"
+    },
+    "f207" : {
+      "start" : {
+        "x" : "84.75",
+        "y" : "391.3",
+        "rotation" : "0",
+        "scaleX" : "0.86",
+        "scaleY" : "0.86",
+        "opacity" : "102",
+        "png" : "effect_cloud_1.png"
+      },
+      "nextFrame" : "f300",
+      "frames" : "94"
+    },
+    "f300" : {
+      "start" : {
+        "x" : "48.5",
+        "y" : "391.3",
+        "rotation" : "0",
+        "scaleX" : "0.86",
+        "scaleY" : "0.86",
+        "opacity" : "68",
+        "png" : "effect_cloud_1.png"
+      }
+    }
+  },
+  "元件 6_2" : {
+    "f1" : {
+      "start" : {
+        "x" : "132.15",
+        "y" : "-157.8",
+        "rotation" : "0",
+        "scaleX" : "2.53",
+        "scaleY" : "2.53",
+        "opacity" : "0",
+        "png" : "effect_cloud_2.png"
+      },
+      "nextFrame" : "f115",
+      "frames" : "115"
+    },
+    "order" : "4",
+    "f115" : {
+      "start" : {
+        "x" : "60.25",
+        "y" : "-157.8",
+        "rotation" : "0",
+        "scaleX" : "2.53",
+        "scaleY" : "2.53",
+        "opacity" : "102",
+        "png" : "effect_cloud_2.png"
+      },
+      "nextFrame" : "f242",
+      "frames" : "128"
+    },
+    "f242" : {
+      "start" : {
+        "x" : "18.6",
+        "y" : "-157.8",
+        "rotation" : "0",
+        "scaleX" : "2.53",
+        "scaleY" : "2.53",
+        "opacity" : "33",
+        "png" : "effect_cloud_2.png"
+      },
+      "nextFrame" : "f300",
+      "frames" : "59"
+    },
+    "f300" : {
+      "start" : {
+        "x" : "-0.4",
+        "y" : "-157.8",
+        "rotation" : "0",
+        "scaleX" : "2.53",
+        "scaleY" : "2.53",
+        "opacity" : "0",
+        "png" : "effect_cloud_2.png"
+      }
+    }
+  },
+  "元件 5_3" : {
+    "f1" : {
+      "start" : {
+        "x" : "-171.8",
+        "y" : "-486.9",
+        "rotation" : "0",
+        "scaleX" : "2",
+        "scaleY" : "2",
+        "opacity" : "0",
+        "png" : "effect_cloud_3.png"
+      },
+      "nextFrame" : "f133",
+      "frames" : "133"
+    },
+    "order" : "3",
+    "f133" : {
+      "start" : {
+        "x" : "-106.1",
+        "y" : "-486.9",
+        "rotation" : "0",
+        "scaleX" : "2",
+        "scaleY" : "2",
+        "opacity" : "102",
+        "png" : "effect_cloud_3.png"
+      },
+      "nextFrame" : "f300",
+      "frames" : "168"
+    },
+    "f300" : {
+      "start" : {
+        "x" : "-47.3",
+        "y" : "-486.9",
+        "rotation" : "0",
+        "scaleX" : "2",
+        "scaleY" : "2",
+        "opacity" : "0",
+        "png" : "effect_cloud_3.png"
+      }
+    }
+  },
+  "元件 4_4" : {
+    "f1" : {
+      "start" : {
+        "x" : "74.1",
+        "y" : "206.15",
+        "rotation" : "0",
+        "scaleX" : "1.56",
+        "scaleY" : "1.56",
+        "opacity" : "51",
+        "png" : "effect_cloud_4.png"
+      },
+      "nextFrame" : "f114",
+      "frames" : "114"
+    },
+    "order" : "2",
+    "f114" : {
+      "start" : {
+        "x" : "143.45",
+        "y" : "206.15",
+        "rotation" : "0",
+        "scaleX" : "1.56",
+        "scaleY" : "1.56",
+        "opacity" : "0",
+        "png" : "effect_cloud_4.png"
+      }
+    },
+    "f115" : {
+      "start" : {
+        "x" : "-39.6",
+        "y" : "206.15",
+        "rotation" : "0",
+        "scaleX" : "1.56",
+        "scaleY" : "1.56",
+        "opacity" : "0",
+        "png" : "effect_cloud_4.png"
+      },
+      "nextFrame" : "f245",
+      "frames" : "131"
+    },
+    "f245" : {
+      "start" : {
+        "x" : "51.9",
+        "y" : "206.15",
+        "rotation" : "0",
+        "scaleX" : "1.56",
+        "scaleY" : "1.56",
+        "opacity" : "96",
+        "png" : "effect_cloud_4.png"
+      },
+      "nextFrame" : "f300",
+      "frames" : "56"
+    },
+    "f300" : {
+      "start" : {
+        "x" : "74.1",
+        "y" : "206.15",
+        "rotation" : "0",
+        "scaleX" : "1.56",
+        "scaleY" : "1.56",
+        "opacity" : "51",
+        "png" : "effect_cloud_4.png"
+      }
+    }
+  },
+  "元件 3_5" : {
+    "f1" : {
+      "start" : {
+        "x" : "1.4",
+        "y" : "189.85",
+        "rotation" : "0",
+        "scaleX" : "1.29",
+        "scaleY" : "1.29",
+        "opacity" : "89",
+        "png" : "effect_cloud_1.png"
+      },
+      "nextFrame" : "f92",
+      "frames" : "92"
+    },
+    "order" : "1",
+    "f92" : {
+      "start" : {
+        "x" : "58",
+        "y" : "189.85",
+        "rotation" : "0",
+        "scaleX" : "1.29",
+        "scaleY" : "1.29",
+        "opacity" : "0",
+        "png" : "effect_cloud_1.png"
+      }
+    },
+    "f93" : {
+      "start" : {
+        "x" : "-153.35",
+        "y" : "189.85",
+        "rotation" : "0",
+        "scaleX" : "1.29",
+        "scaleY" : "1.29",
+        "opacity" : "0",
+        "png" : "effect_cloud_1.png"
+      },
+      "nextFrame" : "f217",
+      "frames" : "125"
+    },
+    "f217" : {
+      "start" : {
+        "x" : "-54.1",
+        "y" : "189.85",
+        "rotation" : "0",
+        "scaleX" : "1.29",
+        "scaleY" : "1.29",
+        "opacity" : "81",
+        "png" : "effect_cloud_1.png"
+      },
+      "nextFrame" : "f300",
+      "frames" : "84"
+    },
+    "f300" : {
+      "start" : {
+        "x" : "1.4",
+        "y" : "189.85",
+        "rotation" : "0",
+        "scaleX" : "1.29",
+        "scaleY" : "1.29",
+        "opacity" : "89",
+        "png" : "effect_cloud_1.png"
+      }
+    }
+  },
+  "元件 3_6" : {
+    "f1" : {
+      "start" : {
+        "x" : "84",
+        "y" : "-134.65",
+        "rotation" : "0",
+        "scaleX" : "0.99",
+        "scaleY" : "0.99",
+        "opacity" : "56",
+        "png" : "effect_cloud_1.png"
+      },
+      "nextFrame" : "f82",
+      "frames" : "82"
+    },
+    "order" : "0",
+    "f82" : {
+      "start" : {
+        "x" : "43.5",
+        "y" : "-134.65",
+        "rotation" : "0",
+        "scaleX" : "0.99",
+        "scaleY" : "0.99",
+        "opacity" : "0",
+        "png" : "effect_cloud_1.png"
+      },
+      "nextFrame" : "f83",
+      "frames" : "2"
+    },
+    "f83" : {
+      "start" : {
+        "x" : "244.9",
+        "y" : "-134.65",
+        "rotation" : "0",
+        "scaleX" : "0.99",
+        "scaleY" : "0.99",
+        "opacity" : "0",
+        "png" : "effect_cloud_1.png"
+      },
+      "nextFrame" : "f194",
+      "frames" : "112"
+    },
+    "f194" : {
+      "start" : {
+        "x" : "153.05",
+        "y" : "-134.65",
+        "rotation" : "0",
+        "scaleX" : "0.99",
+        "scaleY" : "0.99",
+        "opacity" : "66",
+        "png" : "effect_cloud_1.png"
+      },
+      "nextFrame" : "f300",
+      "frames" : "107"
+    },
+    "f300" : {
+      "start" : {
+        "x" : "84",
+        "y" : "-134.65",
+        "rotation" : "0",
+        "scaleX" : "0.99",
+        "scaleY" : "0.99",
+        "opacity" : "56",
+        "png" : "effect_cloud_1.png"
+      }
+    }
+  },
+  "events" : {
+    "f300" : "forever"
+  },
+  "scale" : "1",
+  "png" : "effect_cloud.png"
+}

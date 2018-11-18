@@ -1,0 +1,124 @@
+{
+  "star3" : {
+    "f20" : {
+      "start" : {
+        "x" : "81",
+        "y" : "-2.75",
+        "rotation" : "0",
+        "scaleX" : "7.14",
+        "scaleY" : "7.14",
+        "opacity" : "20"
+      },
+      "nextFrame" : "f24",
+      "frames" : "5"
+    },
+    "order" : "5",
+    "f24" : {
+      "start" : {
+        "x" : "84.25",
+        "y" : "-6",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    }
+  },
+  "star2" : {
+    "f10" : {
+      "start" : {
+        "x" : "0",
+        "y" : "-0.8",
+        "rotation" : "0",
+        "scaleX" : "7.14",
+        "scaleY" : "7.14",
+        "opacity" : "20"
+      },
+      "nextFrame" : "f14",
+      "frames" : "5"
+    },
+    "order" : "4",
+    "f14" : {
+      "start" : {
+        "x" : "2",
+        "y" : "-7",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    }
+  },
+  "star1" : {
+    "f1" : {
+      "start" : {
+        "x" : "-82",
+        "y" : "-4.95",
+        "rotation" : "0",
+        "scaleX" : "7.14",
+        "scaleY" : "7.14",
+        "opacity" : "20"
+      },
+      "nextFrame" : "f5",
+      "frames" : "5"
+    },
+    "order" : "3",
+    "f5" : {
+      "start" : {
+        "x" : "-82",
+        "y" : "-8",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    }
+  },
+  "gstar3" : {
+    "f1" : {
+      "start" : {
+        "x" : "82.25",
+        "y" : "-5",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    },
+    "order" : "2"
+  },
+  "gstar2" : {
+    "f1" : {
+      "start" : {
+        "x" : "1.25",
+        "y" : "-5",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    },
+    "order" : "1"
+  },
+  "gstar1" : {
+    "f1" : {
+      "start" : {
+        "x" : "-82.8",
+        "y" : "-6",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    },
+    "order" : "0"
+  },
+  "events" : {
+    "f5" : "star1_ok",
+    "f8" : "star1",
+    "f14" : "star2_ok",
+    "f18" : "star2",
+    "f24" : "star3_ok",
+    "f28" : "star3"
+  }
+}

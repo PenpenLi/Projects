@@ -1,0 +1,121 @@
+{
+  "图层 3_0" : {
+    "f1" : {
+      "start" : {
+        "x" : "129.3",
+        "y" : "286.75",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f5",
+      "frames" : "5"
+    },
+    "sp" : "sp_xuanfeng",
+    "useBatchNode" : "true",
+    "order" : "1",
+    "f5" : {
+      "start" : {
+        "x" : "-44.35",
+        "y" : "219.85",
+        "rotation" : "0",
+        "scaleX" : "1.24",
+        "scaleY" : "1.24",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f7",
+      "frames" : "3"
+    },
+    "f7" : {
+      "start" : {
+        "x" : "-112.05",
+        "y" : "208.85",
+        "rotation" : "0",
+        "scaleX" : "1.24",
+        "scaleY" : "1.24",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f10",
+      "frames" : "4"
+    },
+    "f10" : {
+      "start" : {
+        "x" : "-73.05",
+        "y" : "138.85",
+        "rotation" : "0",
+        "scaleX" : "1.24",
+        "scaleY" : "1.24",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f12",
+      "frames" : "3"
+    },
+    "f12" : {
+      "start" : {
+        "x" : "13.55",
+        "y" : "128.85",
+        "rotation" : "0",
+        "scaleX" : "1.24",
+        "scaleY" : "1.24",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f15",
+      "frames" : "4"
+    },
+    "f15" : {
+      "start" : {
+        "x" : "93.35",
+        "y" : "153.85",
+        "rotation" : "0",
+        "scaleX" : "1.24",
+        "scaleY" : "1.24",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f17",
+      "frames" : "3"
+    },
+    "f17" : {
+      "start" : {
+        "x" : "102.35",
+        "y" : "213.85",
+        "rotation" : "0",
+        "scaleX" : "1.24",
+        "scaleY" : "1.24",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f19",
+      "frames" : "3"
+    },
+    "f19" : {
+      "start" : {
+        "x" : "9.4",
+        "y" : "231.85",
+        "rotation" : "0",
+        "scaleX" : "1.24",
+        "scaleY" : "1.24",
+        "opacity" : "255"
+      }
+    }
+  },
+  "图层 2_1" : {
+    "f5" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    },
+    "sp" : "sp_bmlf_shouji2",
+    "useBatchNode" : "true",
+    "order" : "0"
+  },
+  "events" : {
+    "f20" : "finish"
+  },
+  "scale" : "2",
+  "png" : ""
+}

@@ -1,0 +1,47 @@
+{
+  "特效1_1" : {
+    "f1" : {
+      "start" : {
+        "x" : "-9",
+        "y" : "373",
+        "rotation" : "0",
+        "scaleX" : "2.07",
+        "scaleY" : "2.14",
+        "opacity" : "127",
+        "png" : "effect_zhanchongguang_hyd_ready_1.png"
+      },
+      "nextFrame" : "f31",
+      "frames" : "31"
+    },
+    "order" : "0",
+    "f31" : {
+      "start" : {
+        "x" : "-9",
+        "y" : "338.45",
+        "rotation" : "0",
+        "scaleX" : "2.07",
+        "scaleY" : "1.99",
+        "opacity" : "0",
+        "png" : "effect_zhanchongguang_hyd_ready_1.png"
+      },
+      "nextFrame" : "f58",
+      "frames" : "28"
+    },
+    "f58" : {
+      "start" : {
+        "x" : "-9",
+        "y" : "373",
+        "rotation" : "0",
+        "scaleX" : "2.07",
+        "scaleY" : "2.14",
+        "opacity" : "127",
+        "png" : "effect_zhanchongguang_hyd_ready_1.png"
+      }
+    }
+  },
+  "events" : {
+    "f58" : "forever"
+  },
+  "scale" : "1",
+  "png" : "effect_zhanchongguang_hyd_ready.png"
+}

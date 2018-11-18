@@ -1,0 +1,55 @@
+{
+  "mask_rect_0" : {
+    "f1" : {
+      "start" : {
+        "x" : "-1.9",
+        "y" : "226.7",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : ""
+      },
+      "nextFrame" : "f45",
+      "frames" : "45"
+    },
+    "order" : "1",
+    "f45" : {
+      "start" : {
+        "x" : "-1.9",
+        "y" : "-21.8",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : ""
+      }
+    },
+    "mask_info" : {
+      "width" : "44",
+      "height" : "249",
+      "mask_type" : "rect"
+    }
+  },
+  "借_1" : {
+    "mask" : "mask_rect_0",
+    "f1" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    },
+    "effect" : "effect_poem_sub3_sub1",
+    "useBatchNode" : "true",
+    "order" : "0"
+  },
+  "events" : {
+    "f46" : "finish"
+  },
+  "scale" : "1",
+  "png" : ""
+}

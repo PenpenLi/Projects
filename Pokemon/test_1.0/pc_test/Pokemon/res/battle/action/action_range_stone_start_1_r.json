@@ -1,0 +1,113 @@
+{
+  "base_layer" : {
+    "f1" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    }
+  },
+  "card_layer" : {
+    "f1" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f5",
+      "frames" : "5"
+    },
+    "f5" : {
+      "start" : {
+        "x" : "0",
+        "y" : "-0.75",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "0.95",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f7",
+      "frames" : "3"
+    },
+    "f7" : {
+      "start" : {
+        "x" : "0",
+        "y" : "32.15",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f16",
+      "frames" : "10"
+    },
+    "f16" : {
+      "start" : {
+        "x" : "0",
+        "y" : "20.15",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f25",
+      "frames" : "10"
+    },
+    "f25" : {
+      "start" : {
+        "x" : "0",
+        "y" : "30.15",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f31",
+      "frames" : "7"
+    },
+    "f31" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    }
+  },
+  "sp_stage_center_layer" : {
+
+  },
+  "sp_up_layer" : {
+    "f7" : {
+      "start" : {
+        "x" : "1",
+        "y" : "44.2",
+        "rotation" : "0",
+        "scaleX" : "-1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    },
+    "f25" : {
+      "remove" : "1"
+    },
+    "spId" : "sp_range_stone_start_1"
+  },
+  "sp_down_layer" : {
+
+  },
+  "events" : {
+    "f14" : "hit",
+    "f15" : "hurt",
+    "f31" : "finish"
+  }
+}

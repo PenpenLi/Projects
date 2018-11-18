@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- id=id dungeon_type=所属类型 expend=每次消耗体力数 level_1=难度1开启等级 monster_team_id_1=难度1怪物组ID level_2=难度2开启等级 monster_team_id_2=难度2怪物组id level_3=难度3开启等级 monster_team_id_3=难度3怪物id level_4=难度4开启等级 monster_team_id_4=难度4怪物id level_5=难度5开启等级 monster_team_id_5=难度5怪物id level_6=难度6开启等级 monster_team_id_6=难度6怪物id -->
+<root>
+    <data id="101" dungeon_type="1" expend="30" level_1="50" monster_team_id_1="71001" level_2="70" monster_team_id_2="71002" level_3="85" monster_team_id_3="71003" level_4="105" monster_team_id_4="71004" level_5="125" monster_team_id_5="71005" level_6="150" monster_team_id_6="71006" />
+    <data id="102" dungeon_type="1" expend="10" level_1="25" monster_team_id_1="75001" level_2="50" monster_team_id_2="75002" level_3="75" monster_team_id_3="75003" level_4="100" monster_team_id_4="75004" level_5="125" monster_team_id_5="75005" level_6="150" monster_team_id_6="75006" />
+    <data id="103" dungeon_type="1" expend="20" level_1="35" monster_team_id_1="73001" level_2="60" monster_team_id_2="73002" level_3="80" monster_team_id_3="73003" level_4="105" monster_team_id_4="73004" level_5="125" monster_team_id_5="73005" level_6="150" monster_team_id_6="73006" />
+    <data id="201" dungeon_type="2" expend="20" level_1="35" monster_team_id_1="74001" level_2="60" monster_team_id_2="74002" level_3="80" monster_team_id_3="74003" level_4="105" monster_team_id_4="74004" level_5="125" monster_team_id_5="74005" level_6="150" monster_team_id_6="74006" />
+    <data id="202" dungeon_type="2" expend="10" level_1="25" monster_team_id_1="72001" level_2="50" monster_team_id_2="72002" level_3="75" monster_team_id_3="72003" level_4="100" monster_team_id_4="72004" level_5="125" monster_team_id_5="72005" level_6="150" monster_team_id_6="72006" />
+    <data id="203" dungeon_type="2" expend="30" level_1="50" monster_team_id_1="76001" level_2="70" monster_team_id_2="76002" level_3="85" monster_team_id_3="76003" level_4="105" monster_team_id_4="76004" level_5="125" monster_team_id_5="76005" level_6="150" monster_team_id_6="76006" />
+</root>

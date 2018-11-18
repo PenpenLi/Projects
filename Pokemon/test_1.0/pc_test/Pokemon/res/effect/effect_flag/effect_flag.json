@@ -1,0 +1,37 @@
+{
+  "元件 1_1" : {
+    "f1" : {
+      "start" : {
+        "x" : "204.7",
+        "y" : "378.1",
+        "rotation" : "-21.47",
+        "scaleX" : "0.88",
+        "scaleY" : "0.88",
+        "opacity" : "255"
+      }
+    },
+    "effect" : "effect_flag_sub",
+    "useBatchNode" : "true",
+    "order" : "1"
+  },
+  "元件 1_2" : {
+    "f1" : {
+      "start" : {
+        "x" : "-247.4",
+        "y" : "375.2",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    },
+    "effect" : "effect_flag_sub",
+    "useBatchNode" : "true",
+    "order" : "0"
+  },
+  "events" : {
+    "f18" : "forever"
+  },
+  "scale" : "1",
+  "png" : ""
+}

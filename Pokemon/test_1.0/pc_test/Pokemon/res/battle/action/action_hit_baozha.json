@@ -1,0 +1,111 @@
+{
+  "base_layer" : {
+    "f1" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    }
+  },
+  "card_layer" : {
+    "f1" : {
+      "start" : {
+        "x" : "-12.6",
+        "y" : "36.25",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    },
+    "f7" : {
+      "start" : {
+        "x" : "-8.4",
+        "y" : "43.2",
+        "rotation" : "20.19",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "color" : {
+          "alpha_original" : "1",
+          "alpha" : "0",
+          "red_original" : "1",
+          "red" : "75",
+          "green_original" : "1",
+          "green" : "0",
+          "blue_original" : "1",
+          "blue" : "0"
+        }
+      }
+    },
+    "f12" : {
+      "start" : {
+        "x" : "-8.4",
+        "y" : "43.2",
+        "rotation" : "20.19",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "color" : {
+          "alpha_original" : "1",
+          "alpha" : "0",
+          "red_original" : "1",
+          "red" : "75",
+          "green_original" : "1",
+          "green" : "0",
+          "blue_original" : "1",
+          "blue" : "0"
+        }
+      },
+      "nextFrame" : "f15",
+      "frames" : "4"
+    },
+    "f15" : {
+      "start" : {
+        "x" : "-12.6",
+        "y" : "36.25",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "color" : {
+          "alpha_original" : "1",
+          "alpha" : "0",
+          "red_original" : "1",
+          "red" : "0",
+          "green_original" : "1",
+          "green" : "0",
+          "blue_original" : "1",
+          "blue" : "0"
+        }
+      }
+    }
+  },
+  "sp_stage_center_layer" : {
+
+  },
+  "sp_up_layer" : {
+    "f3" : {
+      "start" : {
+        "x" : "-1",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "1.25",
+        "scaleY" : "1.25",
+        "opacity" : "255"
+      }
+    },
+    "f30" : {
+      "remove" : "1"
+    },
+    "useBatchNode" : "true",
+    "spId" : "sp_hit_baozha"
+  },
+  "sp_down_layer" : {
+
+  },
+  "events" : {
+    "f32" : "finish"
+  }
+}

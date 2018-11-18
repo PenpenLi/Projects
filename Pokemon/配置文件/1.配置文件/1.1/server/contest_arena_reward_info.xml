@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- id=id rank_min=排名（下限） rank_max=排名（上限） win_reward=勋章数量（战斗胜利） lose_reward=勋章数量（战斗失败） -->
+<root>
+    <data id="1" rank_min="1" rank_max="10" win_reward="500" lose_reward="250" />
+    <data id="2" rank_min="11" rank_max="50" win_reward="450" lose_reward="225" />
+    <data id="3" rank_min="51" rank_max="300" win_reward="400" lose_reward="200" />
+    <data id="4" rank_min="301" rank_max="1000" win_reward="350" lose_reward="175" />
+    <data id="5" rank_min="1001" rank_max="9999" win_reward="300" lose_reward="150" />
+</root>

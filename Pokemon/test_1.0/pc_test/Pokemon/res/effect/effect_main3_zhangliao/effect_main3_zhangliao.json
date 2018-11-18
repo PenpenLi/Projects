@@ -1,0 +1,47 @@
+{
+  "图层 1_1" : {
+    "f1" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "204",
+        "png" : "effect_main3_zhangliao_1.png"
+      },
+      "nextFrame" : "f35",
+      "frames" : "35"
+    },
+    "order" : "0",
+    "f35" : {
+      "start" : {
+        "x" : "0",
+        "y" : "-6",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "204",
+        "png" : "effect_main3_zhangliao_1.png"
+      },
+      "nextFrame" : "f66",
+      "frames" : "32"
+    },
+    "f66" : {
+      "start" : {
+        "x" : "0",
+        "y" : "-0.2",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "204",
+        "png" : "effect_main3_zhangliao_1.png"
+      }
+    }
+  },
+  "events" : {
+    "f66" : "forever"
+  },
+  "scale" : "1",
+  "png" : "effect_main3_zhangliao.png"
+}

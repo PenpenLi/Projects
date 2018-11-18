@@ -1,0 +1,200 @@
+{
+  "sp_range_ice_hit_1_0" : {
+    "f8" : {
+      "start" : {
+        "x" : "-279",
+        "y" : "358.6",
+        "rotation" : "0",
+        "scaleX" : "1.06",
+        "scaleY" : "1.06",
+        "color" : {
+          "alpha_original" : "1",
+          "alpha" : "0",
+          "red_original" : "0",
+          "red" : "255",
+          "green_original" : "0",
+          "green" : "245",
+          "blue_original" : "0",
+          "blue" : "-255"
+        }
+      }
+    },
+    "sp" : "sp_range_ice_hit_1",
+    "useBatchNode" : "false",
+    "order" : "7",
+    "f16" : {
+      "remove" : "1"
+    }
+  },
+  "sp_shitoubao_1" : {
+    "f8" : {
+      "start" : {
+        "x" : "-252.05",
+        "y" : "347.85",
+        "rotation" : "0",
+        "scaleX" : "-1.15",
+        "scaleY" : "1.15",
+        "opacity" : "255"
+      }
+    },
+    "sp" : "sp_shitoubao",
+    "useBatchNode" : "true",
+    "order" : "6",
+    "f17" : {
+      "remove" : "1"
+    }
+  },
+  "sp_range_fire_hit_1_2" : {
+    "f8" : {
+      "start" : {
+        "x" : "-278.1",
+        "y" : "380.65",
+        "rotation" : "19.99",
+        "scaleX" : "1.17",
+        "scaleY" : "1.17",
+        "opacity" : "204"
+      }
+    },
+    "sp" : "sp_range_fire_hit_1",
+    "useBatchNode" : "true",
+    "order" : "5",
+    "f17" : {
+      "remove" : "1"
+    }
+  },
+  "sp_range_ice_hit_1_3" : {
+    "f7" : {
+      "start" : {
+        "x" : "-140.35",
+        "y" : "323",
+        "rotation" : "0",
+        "scaleX" : "1.32",
+        "scaleY" : "1.32",
+        "color" : {
+          "alpha_original" : "1",
+          "alpha" : "0",
+          "red_original" : "0",
+          "red" : "255",
+          "green_original" : "0",
+          "green" : "245",
+          "blue_original" : "0",
+          "blue" : "-255"
+        }
+      }
+    },
+    "sp" : "sp_range_ice_hit_1",
+    "useBatchNode" : "false",
+    "order" : "4",
+    "f15" : {
+      "remove" : "1"
+    }
+  },
+  "sp_shitoubao_4" : {
+    "f7" : {
+      "start" : {
+        "x" : "-106.7",
+        "y" : "309.6",
+        "rotation" : "0",
+        "scaleX" : "-1.44",
+        "scaleY" : "1.44",
+        "opacity" : "255"
+      }
+    },
+    "sp" : "sp_shitoubao",
+    "useBatchNode" : "true",
+    "order" : "3",
+    "f16" : {
+      "remove" : "1"
+    }
+  },
+  "sp_range_fire_hit_1_5" : {
+    "f7" : {
+      "start" : {
+        "x" : "-139.3",
+        "y" : "350.55",
+        "rotation" : "19.99",
+        "scaleX" : "1.46",
+        "scaleY" : "1.46",
+        "opacity" : "204"
+      }
+    },
+    "sp" : "sp_range_fire_hit_1",
+    "useBatchNode" : "true",
+    "order" : "2",
+    "f16" : {
+      "remove" : "1"
+    }
+  },
+  "图层 3_6" : {
+    "f1" : {
+      "start" : {
+        "x" : "29.65",
+        "y" : "-91.7",
+        "rotation" : "-23.72",
+        "scaleX" : "-1",
+        "scaleY" : "1",
+        "color" : {
+          "alpha_original" : "1",
+          "alpha" : "0",
+          "red_original" : "1",
+          "red" : "255",
+          "green_original" : "1",
+          "green" : "-50",
+          "blue_original" : "1",
+          "blue" : "-255"
+        }
+      }
+    },
+    "sp" : "sp_2group_yinlong",
+    "useBatchNode" : "false",
+    "order" : "1",
+    "f12" : {
+      "remove" : "1"
+    }
+  },
+  "图层 2_7" : {
+    "f1" : {
+      "start" : {
+        "x" : "46.25",
+        "y" : "-104.05",
+        "rotation" : "-21",
+        "scaleX" : "1.95",
+        "scaleY" : "1.95",
+        "opacity" : "255"
+      }
+    },
+    "sp" : "sp_2group_zycj_start_1",
+    "useBatchNode" : "true",
+    "order" : "0",
+    "f4" : {
+      "start" : {
+        "x" : "46.25",
+        "y" : "-104.05",
+        "rotation" : "-21",
+        "scaleX" : "1.95",
+        "scaleY" : "1.95",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f8",
+      "frames" : "5"
+    },
+    "f8" : {
+      "start" : {
+        "x" : "1.25",
+        "y" : "16.05",
+        "rotation" : "-21",
+        "scaleX" : "1.95",
+        "scaleY" : "1.95",
+        "opacity" : "255"
+      }
+    },
+    "f9" : {
+      "remove" : "1"
+    }
+  },
+  "events" : {
+    "f18" : "finish"
+  },
+  "scale" : "2",
+  "png" : ""
+}
