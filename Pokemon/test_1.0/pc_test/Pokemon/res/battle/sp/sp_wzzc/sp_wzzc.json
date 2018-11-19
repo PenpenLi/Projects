@@ -1,0 +1,126 @@
+{
+  "施法书.psd_0" : {
+    "f1" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "sp_wzzc_1.png"
+      }
+    },
+    "order" : "0",
+    "f2" : {
+      "start" : {
+        "x" : "-1",
+        "y" : "-3",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "sp_wzzc_2.png"
+      }
+    },
+    "f3" : {
+      "start" : {
+        "x" : "1.5",
+        "y" : "-13.5",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "sp_wzzc_3.png"
+      }
+    },
+    "f4" : {
+      "start" : {
+        "x" : "1.5",
+        "y" : "-14",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "sp_wzzc_4.png"
+      }
+    },
+    "f5" : {
+      "start" : {
+        "x" : "1.5",
+        "y" : "-14",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "sp_wzzc_5.png"
+      }
+    },
+    "f6" : {
+      "start" : {
+        "x" : "8.5",
+        "y" : "-14.5",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "sp_wzzc_6.png"
+      }
+    },
+    "f7" : {
+      "start" : {
+        "x" : "2",
+        "y" : "-30",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "sp_wzzc_7.png"
+      },
+      "nextFrame" : "f9",
+      "frames" : "3"
+    },
+    "f9" : {
+      "start" : {
+        "x" : "2",
+        "y" : "-18",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "sp_wzzc_7.png"
+      },
+      "nextFrame" : "f11",
+      "frames" : "3"
+    },
+    "f11" : {
+      "start" : {
+        "x" : "2",
+        "y" : "-26",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "sp_wzzc_7.png"
+      },
+      "nextFrame" : "f13",
+      "frames" : "3"
+    },
+    "f13" : {
+      "start" : {
+        "x" : "2",
+        "y" : "-26",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "0",
+        "png" : "sp_wzzc_7.png"
+      }
+    }
+  },
+  "events" : {
+    "f14" : "finish"
+  },
+  "scale" : "2",
+  "png" : "sp_wzzc.png"
+}

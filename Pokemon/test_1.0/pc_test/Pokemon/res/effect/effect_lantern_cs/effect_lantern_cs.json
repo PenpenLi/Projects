@@ -1,0 +1,113 @@
+{
+  "图层 6 复制_1" : {
+    "f1" : {
+      "start" : {
+        "x" : "481.1",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "2",
+        "scaleY" : "2",
+        "opacity" : "28",
+        "png" : "effect_lantern_cs_1.png"
+      },
+      "nextFrame" : "f5",
+      "frames" : "5"
+    },
+    "order" : "1",
+    "f5" : {
+      "start" : {
+        "x" : "481.15",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "2",
+        "scaleY" : "2",
+        "opacity" : "2",
+        "png" : "effect_lantern_cs_1.png"
+      },
+      "nextFrame" : "f6",
+      "frames" : "2"
+    },
+    "f6" : {
+      "start" : {
+        "x" : "481.15",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "2",
+        "scaleY" : "2",
+        "opacity" : "2",
+        "png" : "effect_lantern_cs_1.png"
+      },
+      "nextFrame" : "f25",
+      "frames" : "20"
+    },
+    "f25" : {
+      "start" : {
+        "x" : "481.15",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "2",
+        "scaleY" : "2",
+        "opacity" : "102",
+        "png" : "effect_lantern_cs_1.png"
+      },
+      "nextFrame" : "f40",
+      "frames" : "16"
+    },
+    "f40" : {
+      "start" : {
+        "x" : "481.1",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "2",
+        "scaleY" : "2",
+        "opacity" : "28",
+        "png" : "effect_lantern_cs_1.png"
+      }
+    }
+  },
+  "图层 6_2" : {
+    "f1" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "2",
+        "scaleY" : "2",
+        "opacity" : "2",
+        "png" : "effect_lantern_cs_1.png"
+      },
+      "nextFrame" : "f20",
+      "frames" : "20"
+    },
+    "order" : "0",
+    "f20" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "2",
+        "scaleY" : "2",
+        "opacity" : "102",
+        "png" : "effect_lantern_cs_1.png"
+      },
+      "nextFrame" : "f40",
+      "frames" : "21"
+    },
+    "f40" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "2",
+        "scaleY" : "2",
+        "opacity" : "2",
+        "png" : "effect_lantern_cs_1.png"
+      }
+    }
+  },
+  "events" : {
+    "f40" : "forever"
+  },
+  "scale" : "1",
+  "png" : "effect_lantern_cs.png"
+}

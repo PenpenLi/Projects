@@ -1,0 +1,190 @@
+{
+  "base_layer" : {
+    "f1" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    },
+    "f4" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f7",
+      "frames" : "4"
+    },
+    "f7" : {
+      "start" : {
+        "x" : "-165.05",
+        "y" : "-158.05",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f10",
+      "frames" : "4"
+    },
+    "f10" : {
+      "start" : {
+        "x" : "-25.05",
+        "y" : "-58.05",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "0"
+      }
+    },
+    "f19" : {
+      "start" : {
+        "x" : "1",
+        "y" : "40",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "0"
+      },
+      "nextFrame" : "f21",
+      "frames" : "3"
+    },
+    "f21" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    }
+  },
+  "card_layer" : {
+    "f1" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    },
+    "f4" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "1.06",
+        "scaleY" : "0.88",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f7",
+      "frames" : "4"
+    },
+    "f7" : {
+      "start" : {
+        "x" : "-165.05",
+        "y" : "-158.05",
+        "rotation" : "0",
+        "scaleX" : "1.06",
+        "scaleY" : "0.88",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f10",
+      "frames" : "4"
+    },
+    "f10" : {
+      "start" : {
+        "x" : "-25.05",
+        "y" : "-58.05",
+        "rotation" : "0",
+        "scaleX" : "1.06",
+        "scaleY" : "0.88",
+        "opacity" : "0"
+      }
+    },
+    "f19" : {
+      "start" : {
+        "x" : "1",
+        "y" : "40",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "0"
+      },
+      "nextFrame" : "f21",
+      "frames" : "3"
+    },
+    "f21" : {
+      "start" : {
+        "x" : "1",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f23",
+      "frames" : "3"
+    },
+    "f23" : {
+      "start" : {
+        "x" : "1",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "1.03",
+        "scaleY" : "0.94",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f26",
+      "frames" : "4"
+    },
+    "f26" : {
+      "start" : {
+        "x" : "1",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    }
+  },
+  "sp_stage_center_layer" : {
+
+  },
+  "sp_up_layer" : {
+    "f8" : {
+      "start" : {
+        "x" : "-72.75",
+        "y" : "-53.5",
+        "rotation" : "42.46",
+        "scaleX" : "0.63",
+        "scaleY" : "0.63",
+        "opacity" : "255"
+      }
+    },
+    "f23" : {
+      "remove" : "1"
+    },
+    "useBatchNode" : "true",
+    "spId" : "sp_spear_yjdx_start_1"
+  },
+  "sp_down_layer" : {
+
+  },
+  "events" : {
+    "f9" : "hit",
+    "f10" : "hurt",
+    "f27" : "finish"
+  }
+}

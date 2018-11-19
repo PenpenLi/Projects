@@ -1,0 +1,41 @@
+{
+  "mask_circle_0" : {
+    "f1" : {
+      "start" : {
+        "x" : "2.45",
+        "y" : "-2.8",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : ""
+      }
+    },
+    "order" : "1",
+    "mask_info" : {
+      "width" : "104.55",
+      "height" : "104.55",
+      "mask_type" : "circle"
+    }
+  },
+  "water_1" : {
+    "mask" : "mask_circle_0",
+    "f1" : {
+      "start" : {
+        "x" : "0",
+        "y" : "-16",
+        "rotation" : "0",
+        "scaleX" : "0.53",
+        "scaleY" : "0.53",
+        "opacity" : "255"
+      }
+    },
+    "effect" : "effect_bubble_sub3",
+    "order" : "0"
+  },
+  "events" : {
+    "f2" : "finish"
+  },
+  "scale" : "1",
+  "png" : ""
+}

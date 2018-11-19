@@ -1,0 +1,1708 @@
+{
+  "1_xiong jia_1" : {
+    "f1" : {
+      "start" : {
+        "x" : "-157.8",
+        "y" : "274.35",
+        "rotation" : "-25.77",
+        "scaleX" : "0.52",
+        "scaleY" : "0.47",
+        "color" : {
+          "alpha_original" : "1",
+          "alpha" : "0",
+          "red_original" : "1",
+          "red" : "255",
+          "green_original" : "1",
+          "green" : "-67",
+          "blue_original" : "1",
+          "blue" : "-242"
+        }
+      }
+    },
+    "sp" : "sp_2group_yinlong_yanwu",
+    "useBatchNode" : "false",
+    "first_frame" : "4",
+    "loop" : "loop",
+    "order" : "31",
+    "f10" : {
+      "remove" : "1"
+    }
+  },
+  "2_xiong jia_2" : {
+    "f6" : {
+      "start" : {
+        "x" : "-209.8",
+        "y" : "82.9",
+        "rotation" : "-144.54",
+        "scaleX" : "1",
+        "scaleY" : "0.7",
+        "color" : {
+          "alpha_original" : "1",
+          "alpha" : "0",
+          "red_original" : "1",
+          "red" : "255",
+          "green_original" : "1",
+          "green" : "-67",
+          "blue_original" : "1",
+          "blue" : "-242"
+        }
+      },
+      "nextFrame" : "f9",
+      "frames" : "4"
+    },
+    "sp" : "sp_2group_yinlong_yanwu",
+    "useBatchNode" : "false",
+    "order" : "30",
+    "f9" : {
+      "start" : {
+        "x" : "-149",
+        "y" : "167.7",
+        "rotation" : "-131.83",
+        "scaleX" : "0.39",
+        "scaleY" : "0.4",
+        "color" : {
+          "alpha_original" : "1",
+          "alpha" : "0",
+          "red_original" : "1",
+          "red" : "255",
+          "green_original" : "1",
+          "green" : "-67",
+          "blue_original" : "1",
+          "blue" : "-242"
+        }
+      }
+    },
+    "first_frame" : "4",
+    "loop" : "loop",
+    "f18" : {
+      "remove" : "1"
+    }
+  },
+  "3_shengzi_3" : {
+    "f1" : {
+      "start" : {
+        "x" : "73.7",
+        "y" : "232.35",
+        "rotation" : "33.67",
+        "scaleX" : "0.86",
+        "scaleY" : "0.59",
+        "color" : {
+          "alpha_original" : "1",
+          "alpha" : "0",
+          "red_original" : "1",
+          "red" : "255",
+          "green_original" : "1",
+          "green" : "-67",
+          "blue_original" : "1",
+          "blue" : "-242"
+        }
+      }
+    },
+    "sp" : "sp_2group_yinlong_yanwu",
+    "useBatchNode" : "false",
+    "order" : "29",
+    "f10" : {
+      "remove" : "1"
+    }
+  },
+  "4_zuo shou01_4" : {
+    "f6" : {
+      "start" : {
+        "x" : "161.35",
+        "y" : "88.3",
+        "rotation" : "151.75",
+        "scaleX" : "1",
+        "scaleY" : "0.7",
+        "color" : {
+          "alpha_original" : "1",
+          "alpha" : "0",
+          "red_original" : "1",
+          "red" : "255",
+          "green_original" : "1",
+          "green" : "-67",
+          "blue_original" : "1",
+          "blue" : "-242"
+        }
+      },
+      "nextFrame" : "f15",
+      "frames" : "10"
+    },
+    "sp" : "sp_2group_yinlong_yanwu",
+    "useBatchNode" : "false",
+    "order" : "28",
+    "f15" : {
+      "start" : {
+        "x" : "101.3",
+        "y" : "34.3",
+        "rotation" : "151.75",
+        "scaleX" : "1",
+        "scaleY" : "0.7",
+        "color" : {
+          "alpha_original" : "1",
+          "alpha" : "0",
+          "red_original" : "1",
+          "red" : "255",
+          "green_original" : "1",
+          "green" : "-67",
+          "blue_original" : "1",
+          "blue" : "-242"
+        }
+      }
+    },
+    "first_frame" : "10",
+    "loop" : "loop",
+    "f18" : {
+      "remove" : "1"
+    }
+  },
+  "12_zuoshou_5" : {
+    "f1" : {
+      "start" : {
+        "x" : "-54.75",
+        "y" : "254.75",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "sp_zhanchong_qqf_attack_1.png"
+      },
+      "nextFrame" : "f17",
+      "frames" : "17"
+    },
+    "order" : "27",
+    "f17" : {
+      "start" : {
+        "x" : "-44.75",
+        "y" : "260.75",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "sp_zhanchong_qqf_attack_1.png"
+      },
+      "nextFrame" : "f32",
+      "frames" : "16"
+    },
+    "f32" : {
+      "start" : {
+        "x" : "-54.75",
+        "y" : "254.75",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "sp_zhanchong_qqf_attack_1.png"
+      }
+    }
+  },
+  "13_zuoxiaobi_6" : {
+    "f1" : {
+      "start" : {
+        "x" : "-37.8",
+        "y" : "144.05",
+        "rotation" : "-12.21",
+        "scaleX" : "1.3",
+        "scaleY" : "1.3",
+        "opacity" : "255",
+        "png" : "sp_zhanchong_qqf_attack_2.png"
+      },
+      "nextFrame" : "f17",
+      "frames" : "17"
+    },
+    "order" : "26",
+    "f17" : {
+      "start" : {
+        "x" : "-30.65",
+        "y" : "154.65",
+        "rotation" : "-3.61",
+        "scaleX" : "1.3",
+        "scaleY" : "1.3",
+        "opacity" : "255",
+        "png" : "sp_zhanchong_qqf_attack_2.png"
+      },
+      "nextFrame" : "f32",
+      "frames" : "16"
+    },
+    "f32" : {
+      "start" : {
+        "x" : "-37.8",
+        "y" : "144.05",
+        "rotation" : "-12.21",
+        "scaleX" : "1.3",
+        "scaleY" : "1.3",
+        "opacity" : "255",
+        "png" : "sp_zhanchong_qqf_attack_2.png"
+      }
+    }
+  },
+  "15_youtui_7" : {
+    "f22" : {
+      "start" : {
+        "x" : "104.15",
+        "y" : "219.85",
+        "rotation" : "-29.86",
+        "scaleX" : "1.42",
+        "scaleY" : "1.42",
+        "opacity" : "255",
+        "png" : "sp_zhanchong_qqf_cont_3.png"
+      },
+      "nextFrame" : "f24",
+      "frames" : "3"
+    },
+    "order" : "25",
+    "f24" : {
+      "start" : {
+        "x" : "95.5",
+        "y" : "236.4",
+        "rotation" : "-41.38",
+        "scaleX" : "1.42",
+        "scaleY" : "1.42",
+        "opacity" : "255",
+        "png" : "sp_zhanchong_qqf_cont_3.png"
+      }
+    },
+    "f25" : {
+      "start" : {
+        "x" : "86.45",
+        "y" : "255.5",
+        "rotation" : "-51.66",
+        "scaleX" : "1.42",
+        "scaleY" : "1.42",
+        "opacity" : "255",
+        "png" : "sp_zhanchong_qqf_cont_3.png"
+      }
+    },
+    "f26" : {
+      "remove" : "1"
+    }
+  },
+  "16_youdatui_8" : {
+    "f15" : {
+      "start" : {
+        "x" : "-21.7",
+        "y" : "58.65",
+        "rotation" : "39.11",
+        "scaleX" : "1.44",
+        "scaleY" : "1.44",
+        "opacity" : "255",
+        "png" : "sp_zhanchong_qqf_attack_3.png"
+      },
+      "nextFrame" : "f17",
+      "frames" : "3"
+    },
+    "order" : "24",
+    "f17" : {
+      "start" : {
+        "x" : "43.05",
+        "y" : "69.35",
+        "rotation" : "10.05",
+        "scaleX" : "1.44",
+        "scaleY" : "1.44",
+        "opacity" : "255",
+        "png" : "sp_zhanchong_qqf_attack_3.png"
+      },
+      "nextFrame" : "f18",
+      "frames" : "2"
+    },
+    "f18" : {
+      "start" : {
+        "x" : "84.95",
+        "y" : "101.65",
+        "rotation" : "-16.03",
+        "scaleX" : "1.44",
+        "scaleY" : "1.44",
+        "opacity" : "255",
+        "png" : "sp_zhanchong_qqf_attack_3.png"
+      },
+      "nextFrame" : "f19",
+      "frames" : "2"
+    },
+    "f19" : {
+      "start" : {
+        "x" : "110.85",
+        "y" : "149.85",
+        "rotation" : "-42.4",
+        "scaleX" : "1.44",
+        "scaleY" : "1.44",
+        "opacity" : "255",
+        "png" : "sp_zhanchong_qqf_attack_3.png"
+      },
+      "nextFrame" : "f21",
+      "frames" : "3"
+    },
+    "f21" : {
+      "start" : {
+        "x" : "116.25",
+        "y" : "190.95",
+        "rotation" : "-63.94",
+        "scaleX" : "1.44",
+        "scaleY" : "1.44",
+        "opacity" : "255",
+        "png" : "sp_zhanchong_qqf_attack_3.png"
+      }
+    },
+    "f22" : {
+      "remove" : "1"
+    }
+  },
+  "17_youzhongtui_9" : {
+    "f1" : {
+      "start" : {
+        "x" : "-49.25",
+        "y" : "186.25",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "sp_zhanchong_qqf_attack_4.png"
+      },
+      "nextFrame" : "f17",
+      "frames" : "17"
+    },
+    "order" : "23",
+    "f17" : {
+      "start" : {
+        "x" : "-44.45",
+        "y" : "195",
+        "rotation" : "-1.24",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "sp_zhanchong_qqf_attack_4.png"
+      },
+      "nextFrame" : "f32",
+      "frames" : "16"
+    },
+    "f32" : {
+      "start" : {
+        "x" : "-49.25",
+        "y" : "186.25",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "sp_zhanchong_qqf_attack_4.png"
+      }
+    }
+  },
+  "18_youjiao_10" : {
+    "f1" : {
+      "start" : {
+        "x" : "86.2",
+        "y" : "255.45",
+        "rotation" : "-16.77",
+        "scaleX" : "1.4",
+        "scaleY" : "1.4",
+        "opacity" : "255",
+        "png" : "sp_zhanchong_qqf_attack_5.png"
+      },
+      "nextFrame" : "f2",
+      "frames" : "2"
+    },
+    "order" : "22",
+    "f2" : {
+      "start" : {
+        "x" : "99.7",
+        "y" : "235.8",
+        "rotation" : "-6.01",
+        "scaleX" : "1.4",
+        "scaleY" : "1.4",
+        "opacity" : "255",
+        "png" : "sp_zhanchong_qqf_attack_5.png"
+      },
+      "nextFrame" : "f3",
+      "frames" : "2"
+    },
+    "f3" : {
+      "start" : {
+        "x" : "99.7",
+        "y" : "235.8",
+        "rotation" : "-6.01",
+        "scaleX" : "1.4",
+        "scaleY" : "1.4",
+        "opacity" : "0",
+        "png" : "sp_zhanchong_qqf_attack_5.png"
+      }
+    },
+    "f26" : {
+      "start" : {
+        "x" : "74.85",
+        "y" : "300.65",
+        "rotation" : "-30.35",
+        "scaleX" : "1.4",
+        "scaleY" : "1.4",
+        "opacity" : "255",
+        "png" : "sp_zhanchong_qqf_attack_5.png"
+      },
+      "nextFrame" : "f29",
+      "frames" : "4"
+    },
+    "f29" : {
+      "start" : {
+        "x" : "43.1",
+        "y" : "316",
+        "rotation" : "-47.66",
+        "scaleX" : "1.4",
+        "scaleY" : "1.4",
+        "opacity" : "255",
+        "png" : "sp_zhanchong_qqf_attack_5.png"
+      },
+      "nextFrame" : "f31",
+      "frames" : "3"
+    },
+    "f31" : {
+      "start" : {
+        "x" : "73.85",
+        "y" : "294.65",
+        "rotation" : "-30.35",
+        "scaleX" : "1.4",
+        "scaleY" : "1.4",
+        "opacity" : "255",
+        "png" : "sp_zhanchong_qqf_attack_5.png"
+      },
+      "nextFrame" : "f32",
+      "frames" : "2"
+    },
+    "f32" : {
+      "start" : {
+        "x" : "85.5",
+        "y" : "281.65",
+        "rotation" : "-22.09",
+        "scaleX" : "1.4",
+        "scaleY" : "1.4",
+        "opacity" : "255",
+        "png" : "sp_zhanchong_qqf_attack_5.png"
+      }
+    }
+  },
+  "19_youxiaotui_11" : {
+    "f3" : {
+      "start" : {
+        "x" : "126.15",
+        "y" : "252.6",
+        "rotation" : "-32.61",
+        "scaleX" : "1.3",
+        "scaleY" : "1.3",
+        "opacity" : "255",
+        "png" : "sp_zhanchong_qqf_attack_6.png"
+      },
+      "nextFrame" : "f6",
+      "frames" : "4"
+    },
+    "order" : "21",
+    "f6" : {
+      "start" : {
+        "x" : "145.25",
+        "y" : "210.4",
+        "rotation" : "-13.07",
+        "scaleX" : "1.3",
+        "scaleY" : "1.3",
+        "opacity" : "255",
+        "png" : "sp_zhanchong_qqf_attack_6.png"
+      },
+      "nextFrame" : "f9",
+      "frames" : "4"
+    },
+    "f9" : {
+      "start" : {
+        "x" : "137.2",
+        "y" : "142.05",
+        "rotation" : "13.82",
+        "scaleX" : "1.3",
+        "scaleY" : "1.3",
+        "opacity" : "255",
+        "png" : "sp_zhanchong_qqf_attack_6.png"
+      },
+      "nextFrame" : "f12",
+      "frames" : "4"
+    },
+    "f12" : {
+      "start" : {
+        "x" : "74.45",
+        "y" : "41.7",
+        "rotation" : "56.65",
+        "scaleX" : "1.3",
+        "scaleY" : "1.3",
+        "opacity" : "255",
+        "png" : "sp_zhanchong_qqf_attack_6.png"
+      },
+      "nextFrame" : "f14",
+      "frames" : "3"
+    },
+    "f14" : {
+      "start" : {
+        "x" : "7.8",
+        "y" : "21.6",
+        "rotation" : "81.7",
+        "scaleX" : "1.3",
+        "scaleY" : "1.3",
+        "opacity" : "255",
+        "png" : "sp_zhanchong_qqf_attack_6.png"
+      }
+    },
+    "f15" : {
+      "remove" : "1"
+    }
+  },
+  "20_weiba_12" : {
+    "f1" : {
+      "start" : {
+        "x" : "16.25",
+        "y" : "103.75",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "sp_zhanchong_qqf_attack_7.png"
+      },
+      "nextFrame" : "f17",
+      "frames" : "17"
+    },
+    "order" : "20",
+    "f17" : {
+      "start" : {
+        "x" : "36.85",
+        "y" : "133.6",
+        "rotation" : "-21.47",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "sp_zhanchong_qqf_attack_7.png"
+      },
+      "nextFrame" : "f32",
+      "frames" : "16"
+    },
+    "f32" : {
+      "start" : {
+        "x" : "16.25",
+        "y" : "103.75",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "sp_zhanchong_qqf_attack_7.png"
+      }
+    }
+  },
+  "20_weiba_13" : {
+    "f1" : {
+      "start" : {
+        "x" : "-24.25",
+        "y" : "39.75",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "sp_zhanchong_qqf_attack_8.png"
+      },
+      "nextFrame" : "f17",
+      "frames" : "17"
+    },
+    "order" : "19",
+    "f17" : {
+      "start" : {
+        "x" : "-2.55",
+        "y" : "80.15",
+        "rotation" : "22.46",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "sp_zhanchong_qqf_attack_8.png"
+      },
+      "nextFrame" : "f32",
+      "frames" : "16"
+    },
+    "f32" : {
+      "start" : {
+        "x" : "-24.25",
+        "y" : "39.75",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "sp_zhanchong_qqf_attack_8.png"
+      }
+    }
+  },
+  "20_weiba_14" : {
+    "f1" : {
+      "start" : {
+        "x" : "63.25",
+        "y" : "108.75",
+        "rotation" : "-29.22",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "sp_zhanchong_qqf_attack_9.png"
+      },
+      "nextFrame" : "f17",
+      "frames" : "17"
+    },
+    "order" : "18",
+    "f17" : {
+      "start" : {
+        "x" : "66.7",
+        "y" : "112.05",
+        "rotation" : "-6.97",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "sp_zhanchong_qqf_attack_9.png"
+      },
+      "nextFrame" : "f32",
+      "frames" : "16"
+    },
+    "f32" : {
+      "start" : {
+        "x" : "63.25",
+        "y" : "108.75",
+        "rotation" : "-29.22",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "sp_zhanchong_qqf_attack_9.png"
+      }
+    }
+  },
+  "图层66_15" : {
+    "f1" : {
+      "start" : {
+        "x" : "-8.75",
+        "y" : "141.25",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "sp_zhanchong_qqf_attack_10.png"
+      },
+      "nextFrame" : "f17",
+      "frames" : "17"
+    },
+    "order" : "17",
+    "f17" : {
+      "start" : {
+        "x" : "-1.2",
+        "y" : "156.65",
+        "rotation" : "-6.97",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "sp_zhanchong_qqf_attack_10.png"
+      },
+      "nextFrame" : "f32",
+      "frames" : "16"
+    },
+    "f32" : {
+      "start" : {
+        "x" : "-8.75",
+        "y" : "141.25",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "sp_zhanchong_qqf_attack_10.png"
+      }
+    }
+  },
+  "图层92_16" : {
+    "f22" : {
+      "start" : {
+        "x" : "-108.4",
+        "y" : "206.65",
+        "rotation" : "29.35",
+        "scaleX" : "1.2",
+        "scaleY" : "1.2",
+        "opacity" : "255",
+        "png" : "sp_zhanchong_qqf_cont_4.png"
+      },
+      "nextFrame" : "f24",
+      "frames" : "3"
+    },
+    "order" : "16",
+    "f24" : {
+      "start" : {
+        "x" : "-98.35",
+        "y" : "214.05",
+        "rotation" : "41.12",
+        "scaleX" : "1.2",
+        "scaleY" : "1.2",
+        "opacity" : "255",
+        "png" : "sp_zhanchong_qqf_cont_4.png"
+      }
+    },
+    "f25" : {
+      "start" : {
+        "x" : "-105.35",
+        "y" : "229",
+        "rotation" : "53.9",
+        "scaleX" : "1.2",
+        "scaleY" : "1.2",
+        "opacity" : "255",
+        "png" : "sp_zhanchong_qqf_cont_4.png"
+      }
+    },
+    "f26" : {
+      "remove" : "1"
+    }
+  },
+  "图层93_17" : {
+    "f15" : {
+      "start" : {
+        "x" : "-71.75",
+        "y" : "97.5",
+        "rotation" : "-38.86",
+        "scaleX" : "1.3",
+        "scaleY" : "1.3",
+        "opacity" : "255",
+        "png" : "sp_zhanchong_qqf_attack_11.png"
+      },
+      "nextFrame" : "f17",
+      "frames" : "3"
+    },
+    "order" : "15",
+    "f17" : {
+      "start" : {
+        "x" : "-86.45",
+        "y" : "98.05",
+        "rotation" : "-16.82",
+        "scaleX" : "1.3",
+        "scaleY" : "1.3",
+        "opacity" : "255",
+        "png" : "sp_zhanchong_qqf_attack_11.png"
+      },
+      "nextFrame" : "f19",
+      "frames" : "3"
+    },
+    "f19" : {
+      "start" : {
+        "x" : "-115.85",
+        "y" : "133",
+        "rotation" : "26.85",
+        "scaleX" : "1.3",
+        "scaleY" : "1.3",
+        "opacity" : "255",
+        "png" : "sp_zhanchong_qqf_attack_11.png"
+      },
+      "nextFrame" : "f21",
+      "frames" : "3"
+    },
+    "f21" : {
+      "start" : {
+        "x" : "-138.7",
+        "y" : "187.7",
+        "rotation" : "60.68",
+        "scaleX" : "1.3",
+        "scaleY" : "1.3",
+        "opacity" : "255",
+        "png" : "sp_zhanchong_qqf_attack_11.png"
+      }
+    },
+    "f22" : {
+      "remove" : "1"
+    }
+  },
+  "图层55_18" : {
+    "f1" : {
+      "start" : {
+        "x" : "-89.65",
+        "y" : "254.6",
+        "rotation" : "-0.78",
+        "scaleX" : "1.3",
+        "scaleY" : "1.3",
+        "opacity" : "255",
+        "png" : "sp_zhanchong_qqf_attack_12.png"
+      },
+      "nextFrame" : "f2",
+      "frames" : "2"
+    },
+    "order" : "14",
+    "f2" : {
+      "start" : {
+        "x" : "-102.25",
+        "y" : "226.7",
+        "rotation" : "-12.29",
+        "scaleX" : "1.3",
+        "scaleY" : "1.3",
+        "opacity" : "255",
+        "png" : "sp_zhanchong_qqf_attack_12.png"
+      }
+    },
+    "f3" : {
+      "start" : {
+        "x" : "-102.25",
+        "y" : "226.7",
+        "rotation" : "-12.29",
+        "scaleX" : "1.3",
+        "scaleY" : "1.3",
+        "opacity" : "0",
+        "png" : "sp_zhanchong_qqf_attack_12.png"
+      }
+    },
+    "f26" : {
+      "start" : {
+        "x" : "-88",
+        "y" : "275.4",
+        "rotation" : "8.53",
+        "scaleX" : "1.3",
+        "scaleY" : "1.3",
+        "opacity" : "255",
+        "png" : "sp_zhanchong_qqf_attack_12.png"
+      },
+      "nextFrame" : "f29",
+      "frames" : "4"
+    },
+    "f29" : {
+      "start" : {
+        "x" : "-53.2",
+        "y" : "287.75",
+        "rotation" : "26.3",
+        "scaleX" : "1.3",
+        "scaleY" : "1.3",
+        "opacity" : "255",
+        "png" : "sp_zhanchong_qqf_attack_12.png"
+      },
+      "nextFrame" : "f31",
+      "frames" : "3"
+    },
+    "f31" : {
+      "start" : {
+        "x" : "-78",
+        "y" : "265.4",
+        "rotation" : "8.53",
+        "scaleX" : "1.3",
+        "scaleY" : "1.3",
+        "opacity" : "255",
+        "png" : "sp_zhanchong_qqf_attack_12.png"
+      },
+      "nextFrame" : "f32",
+      "frames" : "2"
+    },
+    "f32" : {
+      "start" : {
+        "x" : "-89.65",
+        "y" : "254.6",
+        "rotation" : "-0.78",
+        "scaleX" : "1.3",
+        "scaleY" : "1.3",
+        "opacity" : "255",
+        "png" : "sp_zhanchong_qqf_attack_12.png"
+      }
+    }
+  },
+  "图层95_19" : {
+    "f3" : {
+      "start" : {
+        "x" : "-96.55",
+        "y" : "246.95",
+        "rotation" : "35.17",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "sp_zhanchong_qqf_attack_13.png"
+      },
+      "nextFrame" : "f6",
+      "frames" : "4"
+    },
+    "order" : "13",
+    "f6" : {
+      "start" : {
+        "x" : "-131.3",
+        "y" : "222.2",
+        "rotation" : "4.95",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "sp_zhanchong_qqf_attack_13.png"
+      },
+      "nextFrame" : "f9",
+      "frames" : "4"
+    },
+    "f9" : {
+      "start" : {
+        "x" : "-154.95",
+        "y" : "179.85",
+        "rotation" : "-28.95",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "sp_zhanchong_qqf_attack_13.png"
+      },
+      "nextFrame" : "f12",
+      "frames" : "4"
+    },
+    "f12" : {
+      "start" : {
+        "x" : "-152.05",
+        "y" : "141.85",
+        "rotation" : "-52.92",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "sp_zhanchong_qqf_attack_13.png"
+      },
+      "nextFrame" : "f14",
+      "frames" : "3"
+    },
+    "f14" : {
+      "start" : {
+        "x" : "-141.2",
+        "y" : "113.55",
+        "rotation" : "-68.12",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "sp_zhanchong_qqf_attack_13.png"
+      }
+    },
+    "f15" : {
+      "remove" : "1"
+    }
+  },
+  "图层96_20" : {
+    "f1" : {
+      "start" : {
+        "x" : "-18.45",
+        "y" : "122.3",
+        "rotation" : "-6.78",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "sp_zhanchong_qqf_attack_14.png"
+      },
+      "nextFrame" : "f5",
+      "frames" : "5"
+    },
+    "order" : "12",
+    "f5" : {
+      "start" : {
+        "x" : "-25.25",
+        "y" : "117.25",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "sp_zhanchong_qqf_attack_14.png"
+      }
+    },
+    "f6" : {
+      "start" : {
+        "x" : "-25.25",
+        "y" : "117.25",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "sp_zhanchong_qqf_attack_14.png"
+      },
+      "nextFrame" : "f22",
+      "frames" : "17"
+    },
+    "f22" : {
+      "start" : {
+        "x" : "0.2",
+        "y" : "136.25",
+        "rotation" : "-25.67",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "sp_zhanchong_qqf_attack_14.png"
+      },
+      "nextFrame" : "f32",
+      "frames" : "11"
+    },
+    "f32" : {
+      "start" : {
+        "x" : "-16.7",
+        "y" : "123.6",
+        "rotation" : "-8.52",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "sp_zhanchong_qqf_attack_14.png"
+      }
+    }
+  },
+  "图层97_21" : {
+    "f1" : {
+      "start" : {
+        "x" : "-72.95",
+        "y" : "63.15",
+        "rotation" : "4.76",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "sp_zhanchong_qqf_attack_15.png"
+      },
+      "nextFrame" : "f5",
+      "frames" : "5"
+    },
+    "order" : "11",
+    "f5" : {
+      "start" : {
+        "x" : "-83.25",
+        "y" : "55.25",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "sp_zhanchong_qqf_attack_15.png"
+      }
+    },
+    "f6" : {
+      "start" : {
+        "x" : "-83.25",
+        "y" : "55.25",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "sp_zhanchong_qqf_attack_15.png"
+      },
+      "nextFrame" : "f22",
+      "frames" : "17"
+    },
+    "f22" : {
+      "start" : {
+        "x" : "-44.9",
+        "y" : "84.65",
+        "rotation" : "17.98",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "sp_zhanchong_qqf_attack_15.png"
+      },
+      "nextFrame" : "f32",
+      "frames" : "11"
+    },
+    "f32" : {
+      "start" : {
+        "x" : "-70.5",
+        "y" : "65.1",
+        "rotation" : "5.81",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "sp_zhanchong_qqf_attack_15.png"
+      }
+    }
+  },
+  "图层54_22" : {
+    "f1" : {
+      "start" : {
+        "x" : "73",
+        "y" : "72.2",
+        "rotation" : "-15.53",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "sp_zhanchong_qqf_attack_16.png"
+      },
+      "nextFrame" : "f5",
+      "frames" : "5"
+    },
+    "order" : "10",
+    "f5" : {
+      "start" : {
+        "x" : "71.45",
+        "y" : "76.7",
+        "rotation" : "-20.5",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "sp_zhanchong_qqf_attack_16.png"
+      }
+    },
+    "f6" : {
+      "start" : {
+        "x" : "71.45",
+        "y" : "77.6",
+        "rotation" : "-20.5",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "sp_zhanchong_qqf_attack_16.png"
+      },
+      "nextFrame" : "f22",
+      "frames" : "17"
+    },
+    "f22" : {
+      "start" : {
+        "x" : "77.35",
+        "y" : "71.3",
+        "rotation" : "-1.96",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "sp_zhanchong_qqf_attack_16.png"
+      },
+      "nextFrame" : "f32",
+      "frames" : "11"
+    },
+    "f32" : {
+      "start" : {
+        "x" : "73.4",
+        "y" : "73.7",
+        "rotation" : "-14.28",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "sp_zhanchong_qqf_attack_16.png"
+      }
+    }
+  },
+  "图层98_23" : {
+    "f1" : {
+      "start" : {
+        "x" : "97.7",
+        "y" : "16.8",
+        "rotation" : "-15.53",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "sp_zhanchong_qqf_attack_17.png"
+      },
+      "nextFrame" : "f5",
+      "frames" : "5"
+    },
+    "order" : "9",
+    "f5" : {
+      "start" : {
+        "x" : "101.1",
+        "y" : "23.15",
+        "rotation" : "-20.5",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "sp_zhanchong_qqf_attack_17.png"
+      }
+    },
+    "f6" : {
+      "start" : {
+        "x" : "101.1",
+        "y" : "24.05",
+        "rotation" : "-20.5",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "sp_zhanchong_qqf_attack_17.png"
+      },
+      "nextFrame" : "f22",
+      "frames" : "17"
+    },
+    "f22" : {
+      "start" : {
+        "x" : "88.4",
+        "y" : "11.2",
+        "rotation" : "-1.96",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "sp_zhanchong_qqf_attack_17.png"
+      },
+      "nextFrame" : "f32",
+      "frames" : "11"
+    },
+    "f32" : {
+      "start" : {
+        "x" : "96.8",
+        "y" : "17.95",
+        "rotation" : "-14.28",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "sp_zhanchong_qqf_attack_17.png"
+      }
+    }
+  },
+  "图层99_24" : {
+    "f1" : {
+      "start" : {
+        "x" : "134.15",
+        "y" : "14.7",
+        "rotation" : "-15.53",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "sp_zhanchong_qqf_attack_18.png"
+      },
+      "nextFrame" : "f5",
+      "frames" : "5"
+    },
+    "order" : "8",
+    "f5" : {
+      "start" : {
+        "x" : "138.1",
+        "y" : "24.2",
+        "rotation" : "-20.5",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "sp_zhanchong_qqf_attack_18.png"
+      }
+    },
+    "f6" : {
+      "start" : {
+        "x" : "138.1",
+        "y" : "25.1",
+        "rotation" : "-20.5",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "sp_zhanchong_qqf_attack_18.png"
+      },
+      "nextFrame" : "f22",
+      "frames" : "17"
+    },
+    "f22" : {
+      "start" : {
+        "x" : "123.75",
+        "y" : "0.35",
+        "rotation" : "-1.96",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "sp_zhanchong_qqf_attack_18.png"
+      },
+      "nextFrame" : "f32",
+      "frames" : "11"
+    },
+    "f32" : {
+      "start" : {
+        "x" : "133.3",
+        "y" : "15.1",
+        "rotation" : "-14.28",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "sp_zhanchong_qqf_attack_18.png"
+      }
+    }
+  },
+  "图层56_25" : {
+    "f1" : {
+      "start" : {
+        "x" : "39",
+        "y" : "80.6",
+        "rotation" : "-30.8",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "sp_zhanchong_qqf_attack_19.png"
+      },
+      "nextFrame" : "f5",
+      "frames" : "5"
+    },
+    "order" : "7",
+    "f5" : {
+      "start" : {
+        "x" : "38.5",
+        "y" : "83.4",
+        "rotation" : "-41.24",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "sp_zhanchong_qqf_attack_19.png"
+      }
+    },
+    "f6" : {
+      "start" : {
+        "x" : "38.5",
+        "y" : "84.3",
+        "rotation" : "-41.24",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "sp_zhanchong_qqf_attack_19.png"
+      },
+      "nextFrame" : "f22",
+      "frames" : "17"
+    },
+    "f22" : {
+      "start" : {
+        "x" : "40.35",
+        "y" : "84.6",
+        "rotation" : "-1.96",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "sp_zhanchong_qqf_attack_19.png"
+      },
+      "nextFrame" : "f32",
+      "frames" : "11"
+    },
+    "f32" : {
+      "start" : {
+        "x" : "39.1",
+        "y" : "82.6",
+        "rotation" : "-28.08",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "sp_zhanchong_qqf_attack_19.png"
+      }
+    }
+  },
+  "尾巴b2_26" : {
+    "f1" : {
+      "start" : {
+        "x" : "50.6",
+        "y" : "3.95",
+        "rotation" : "-30.8",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "sp_zhanchong_qqf_attack_20.png"
+      },
+      "nextFrame" : "f5",
+      "frames" : "5"
+    },
+    "order" : "6",
+    "f5" : {
+      "start" : {
+        "x" : "64.65",
+        "y" : "6.55",
+        "rotation" : "-41.24",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "sp_zhanchong_qqf_attack_20.png"
+      }
+    },
+    "f6" : {
+      "start" : {
+        "x" : "64.65",
+        "y" : "7.45",
+        "rotation" : "-41.24",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "sp_zhanchong_qqf_attack_20.png"
+      },
+      "nextFrame" : "f22",
+      "frames" : "17"
+    },
+    "f22" : {
+      "start" : {
+        "x" : "12",
+        "y" : "8.55",
+        "rotation" : "-1.96",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "sp_zhanchong_qqf_attack_20.png"
+      },
+      "nextFrame" : "f32",
+      "frames" : "11"
+    },
+    "f32" : {
+      "start" : {
+        "x" : "47.1",
+        "y" : "6",
+        "rotation" : "-28.08",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "sp_zhanchong_qqf_attack_20.png"
+      }
+    }
+  },
+  "尾巴b3_27" : {
+    "f1" : {
+      "start" : {
+        "x" : "86.15",
+        "y" : "-47.65",
+        "rotation" : "-30.8",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "sp_zhanchong_qqf_attack_21.png"
+      },
+      "nextFrame" : "f5",
+      "frames" : "5"
+    },
+    "order" : "5",
+    "f5" : {
+      "start" : {
+        "x" : "110.85",
+        "y" : "-40.05",
+        "rotation" : "-41.24",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "sp_zhanchong_qqf_attack_21.png"
+      }
+    },
+    "f6" : {
+      "start" : {
+        "x" : "110.85",
+        "y" : "-39.15",
+        "rotation" : "-41.24",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "sp_zhanchong_qqf_attack_21.png"
+      },
+      "nextFrame" : "f22",
+      "frames" : "17"
+    },
+    "f22" : {
+      "start" : {
+        "x" : "18.2",
+        "y" : "-56.75",
+        "rotation" : "-1.96",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "sp_zhanchong_qqf_attack_21.png"
+      },
+      "nextFrame" : "f32",
+      "frames" : "11"
+    },
+    "f32" : {
+      "start" : {
+        "x" : "79.95",
+        "y" : "-46.8",
+        "rotation" : "-28.08",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "sp_zhanchong_qqf_attack_21.png"
+      }
+    }
+  },
+  "尾巴c1_28" : {
+    "f1" : {
+      "start" : {
+        "x" : "11.6",
+        "y" : "79",
+        "rotation" : "-41.88",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "sp_zhanchong_qqf_attack_22.png"
+      },
+      "nextFrame" : "f5",
+      "frames" : "5"
+    },
+    "order" : "4",
+    "f5" : {
+      "start" : {
+        "x" : "14.45",
+        "y" : "79.3",
+        "rotation" : "-56.47",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "sp_zhanchong_qqf_attack_22.png"
+      }
+    },
+    "f6" : {
+      "start" : {
+        "x" : "14.45",
+        "y" : "80.2",
+        "rotation" : "-56.47",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "sp_zhanchong_qqf_attack_22.png"
+      },
+      "nextFrame" : "f22",
+      "frames" : "17"
+    },
+    "f22" : {
+      "start" : {
+        "x" : "3.7",
+        "y" : "89.85",
+        "rotation" : "-1.96",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "sp_zhanchong_qqf_attack_22.png"
+      },
+      "nextFrame" : "f32",
+      "frames" : "11"
+    },
+    "f32" : {
+      "start" : {
+        "x" : "10.8",
+        "y" : "81.6",
+        "rotation" : "-38.33",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "sp_zhanchong_qqf_attack_22.png"
+      }
+    }
+  },
+  "尾巴c2_29" : {
+    "f1" : {
+      "start" : {
+        "x" : "28.05",
+        "y" : "2.6",
+        "rotation" : "-41.88",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "sp_zhanchong_qqf_attack_23.png"
+      },
+      "nextFrame" : "f5",
+      "frames" : "5"
+    },
+    "order" : "3",
+    "f5" : {
+      "start" : {
+        "x" : "51.7",
+        "y" : "2.5",
+        "rotation" : "-56.47",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "sp_zhanchong_qqf_attack_23.png"
+      }
+    },
+    "f6" : {
+      "start" : {
+        "x" : "51.7",
+        "y" : "3.4",
+        "rotation" : "-56.47",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "sp_zhanchong_qqf_attack_23.png"
+      },
+      "nextFrame" : "f22",
+      "frames" : "17"
+    },
+    "f22" : {
+      "start" : {
+        "x" : "-37.3",
+        "y" : "14.85",
+        "rotation" : "-1.96",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "sp_zhanchong_qqf_attack_23.png"
+      },
+      "nextFrame" : "f32",
+      "frames" : "11"
+    },
+    "f32" : {
+      "start" : {
+        "x" : "22.1",
+        "y" : "5.4",
+        "rotation" : "-38.33",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "sp_zhanchong_qqf_attack_23.png"
+      }
+    }
+  },
+  "尾巴c3_30" : {
+    "f1" : {
+      "start" : {
+        "x" : "75.5",
+        "y" : "-14.4",
+        "rotation" : "-41.88",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "sp_zhanchong_qqf_attack_24.png"
+      },
+      "nextFrame" : "f5",
+      "frames" : "5"
+    },
+    "order" : "2",
+    "f5" : {
+      "start" : {
+        "x" : "106.65",
+        "y" : "-3.35",
+        "rotation" : "-56.47",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "sp_zhanchong_qqf_attack_24.png"
+      }
+    },
+    "f6" : {
+      "start" : {
+        "x" : "106.65",
+        "y" : "-2.45",
+        "rotation" : "-56.47",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "sp_zhanchong_qqf_attack_24.png"
+      },
+      "nextFrame" : "f22",
+      "frames" : "17"
+    },
+    "f22" : {
+      "start" : {
+        "x" : "-10.15",
+        "y" : "-33.25",
+        "rotation" : "-1.96",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "sp_zhanchong_qqf_attack_24.png"
+      },
+      "nextFrame" : "f32",
+      "frames" : "11"
+    },
+    "f32" : {
+      "start" : {
+        "x" : "67.65",
+        "y" : "-14.5",
+        "rotation" : "-38.33",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "sp_zhanchong_qqf_attack_24.png"
+      }
+    }
+  },
+  "yinying_31" : {
+    "f1" : {
+      "start" : {
+        "x" : "-5.3",
+        "y" : "-44.4",
+        "rotation" : "0",
+        "scaleX" : "4.1",
+        "scaleY" : "1.66",
+        "opacity" : "127",
+        "png" : "sp_zhanchong_qqf_attack_25.png"
+      }
+    },
+    "order" : "1"
+  },
+  "特效1_32" : {
+    "f1" : {
+      "start" : {
+        "x" : "-8.35",
+        "y" : "117.3",
+        "rotation" : "0",
+        "scaleX" : "2.36",
+        "scaleY" : "1.86",
+        "color" : {
+          "alpha_original" : "1",
+          "alpha" : "0",
+          "red_original" : "1",
+          "red" : "61",
+          "green_original" : "1",
+          "green" : "41",
+          "blue_original" : "1",
+          "blue" : "15"
+        }
+      }
+    },
+    "sp" : "sp_boss_fire",
+    "useBatchNode" : "false",
+    "order" : "0"
+  },
+  "events" : {
+    "f32" : "forever"
+  },
+  "scale" : "2",
+  "png" : "sp_zhanchong_qqf.png"
+}

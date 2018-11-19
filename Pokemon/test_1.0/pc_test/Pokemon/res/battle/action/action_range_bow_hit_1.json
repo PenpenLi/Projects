@@ -1,0 +1,86 @@
+{
+  "base_layer" : {
+    "f1" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    }
+  },
+  "card_layer" : {
+    "f1" : {
+      "start" : {
+        "x" : "16.25",
+        "y" : "8.8",
+        "rotation" : "16.94",
+        "scaleX" : "1",
+        "scaleY" : "1.09",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f4",
+      "frames" : "4"
+    },
+    "f4" : {
+      "start" : {
+        "x" : "17.1",
+        "y" : "6.05",
+        "rotation" : "22.39",
+        "scaleX" : "1",
+        "scaleY" : "1.09",
+        "opacity" : "255"
+      }
+    },
+    "f8" : {
+      "start" : {
+        "x" : "16.25",
+        "y" : "8.8",
+        "rotation" : "16.94",
+        "scaleX" : "1",
+        "scaleY" : "1.09",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f10",
+      "frames" : "3"
+    },
+    "f10" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    }
+  },
+  "sp_stage_center_layer" : {
+
+  },
+  "sp_up_layer" : {
+    "f1" : {
+      "start" : {
+        "x" : "14",
+        "y" : "98.8",
+        "rotation" : "42.42",
+        "scaleX" : "-1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    },
+    "f10" : {
+      "remove" : "1"
+    },
+    "useBatchNode" : "true",
+    "spId" : "sp_range_bow_hit_1"
+  },
+  "sp_down_layer" : {
+
+  },
+  "events" : {
+    "f11" : "finish"
+  }
+}

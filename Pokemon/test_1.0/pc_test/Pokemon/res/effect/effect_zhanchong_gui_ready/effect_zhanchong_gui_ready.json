@@ -1,0 +1,782 @@
+{
+  "灯发光_1" : {
+    "f1" : {
+      "start" : {
+        "x" : "68.3",
+        "y" : "92",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "150",
+        "png" : "effect_zhanchong_gui_ready_1.png"
+      },
+      "nextFrame" : "f11",
+      "frames" : "11"
+    },
+    "order" : "18",
+    "f11" : {
+      "start" : {
+        "x" : "64.3",
+        "y" : "93.55",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "effect_zhanchong_gui_ready_1.png"
+      },
+      "nextFrame" : "f12",
+      "frames" : "2"
+    },
+    "f12" : {
+      "start" : {
+        "x" : "64.3",
+        "y" : "93.55",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "effect_zhanchong_gui_ready_1.png"
+      },
+      "nextFrame" : "f31",
+      "frames" : "20"
+    },
+    "f31" : {
+      "start" : {
+        "x" : "57.7",
+        "y" : "104",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "94",
+        "png" : "effect_zhanchong_gui_ready_1.png"
+      },
+      "nextFrame" : "f42",
+      "frames" : "12"
+    },
+    "f42" : {
+      "start" : {
+        "x" : "62.3",
+        "y" : "96.55",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "0",
+        "png" : "effect_zhanchong_gui_ready_1.png"
+      },
+      "nextFrame" : "f58",
+      "frames" : "17"
+    },
+    "f58" : {
+      "start" : {
+        "x" : "68.3",
+        "y" : "92",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "150",
+        "png" : "effect_zhanchong_gui_ready_1.png"
+      }
+    }
+  },
+  "头_2" : {
+    "f1" : {
+      "start" : {
+        "x" : "78.7",
+        "y" : "340.5",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "effect_zhanchong_gui_ready_2.png"
+      },
+      "nextFrame" : "f31",
+      "frames" : "31"
+    },
+    "order" : "17",
+    "f31" : {
+      "start" : {
+        "x" : "65.35",
+        "y" : "371.35",
+        "rotation" : "6.74",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "effect_zhanchong_gui_ready_2.png"
+      },
+      "nextFrame" : "f58",
+      "frames" : "28"
+    },
+    "f58" : {
+      "start" : {
+        "x" : "78.7",
+        "y" : "340.5",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "effect_zhanchong_gui_ready_2.png"
+      }
+    }
+  },
+  "下颚_3" : {
+    "f1" : {
+      "start" : {
+        "x" : "114.2",
+        "y" : "253.5",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "effect_zhanchong_gui_ready_3.png"
+      },
+      "nextFrame" : "f31",
+      "frames" : "31"
+    },
+    "order" : "16",
+    "f31" : {
+      "start" : {
+        "x" : "90.4",
+        "y" : "280.75",
+        "rotation" : "6.74",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "effect_zhanchong_gui_ready_3.png"
+      },
+      "nextFrame" : "f58",
+      "frames" : "28"
+    },
+    "f58" : {
+      "start" : {
+        "x" : "114.2",
+        "y" : "253.5",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "effect_zhanchong_gui_ready_3.png"
+      }
+    }
+  },
+  "眼球半_4" : {
+    "f1" : {
+      "start" : {
+        "x" : "-92.8",
+        "y" : "283.5",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "effect_zhanchong_gui_ready_4.png"
+      },
+      "nextFrame" : "f31",
+      "frames" : "31"
+    },
+    "order" : "15",
+    "f31" : {
+      "start" : {
+        "x" : "-102.8",
+        "y" : "288.5",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "effect_zhanchong_gui_ready_4.png"
+      },
+      "nextFrame" : "f58",
+      "frames" : "28"
+    },
+    "f58" : {
+      "start" : {
+        "x" : "-92.8",
+        "y" : "283.5",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "effect_zhanchong_gui_ready_4.png"
+      }
+    }
+  },
+  "眼白_5" : {
+    "f1" : {
+      "start" : {
+        "x" : "-92.8",
+        "y" : "286",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "effect_zhanchong_gui_ready_5.png"
+      },
+      "nextFrame" : "f31",
+      "frames" : "31"
+    },
+    "order" : "14",
+    "f31" : {
+      "start" : {
+        "x" : "-102.8",
+        "y" : "291",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "effect_zhanchong_gui_ready_5.png"
+      },
+      "nextFrame" : "f58",
+      "frames" : "28"
+    },
+    "f58" : {
+      "start" : {
+        "x" : "-92.8",
+        "y" : "286",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "effect_zhanchong_gui_ready_5.png"
+      }
+    }
+  },
+  "头小_6" : {
+    "f1" : {
+      "start" : {
+        "x" : "-90.3",
+        "y" : "281.5",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "effect_zhanchong_gui_ready_6.png"
+      },
+      "nextFrame" : "f31",
+      "frames" : "31"
+    },
+    "order" : "13",
+    "f31" : {
+      "start" : {
+        "x" : "-100.3",
+        "y" : "286.5",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "effect_zhanchong_gui_ready_6.png"
+      },
+      "nextFrame" : "f58",
+      "frames" : "28"
+    },
+    "f58" : {
+      "start" : {
+        "x" : "-90.3",
+        "y" : "281.5",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "effect_zhanchong_gui_ready_6.png"
+      }
+    }
+  },
+  "小龟身体_7" : {
+    "f1" : {
+      "start" : {
+        "x" : "-63.8",
+        "y" : "305",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "effect_zhanchong_gui_ready_7.png"
+      },
+      "nextFrame" : "f31",
+      "frames" : "31"
+    },
+    "order" : "12",
+    "f31" : {
+      "start" : {
+        "x" : "-73.8",
+        "y" : "310",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "effect_zhanchong_gui_ready_7.png"
+      },
+      "nextFrame" : "f58",
+      "frames" : "28"
+    },
+    "f58" : {
+      "start" : {
+        "x" : "-63.8",
+        "y" : "305",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "effect_zhanchong_gui_ready_7.png"
+      }
+    }
+  },
+  "灯_8" : {
+    "f1" : {
+      "start" : {
+        "x" : "64.7",
+        "y" : "99",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "effect_zhanchong_gui_ready_8.png"
+      },
+      "nextFrame" : "f31",
+      "frames" : "31"
+    },
+    "order" : "11",
+    "f31" : {
+      "start" : {
+        "x" : "54.7",
+        "y" : "110",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "effect_zhanchong_gui_ready_8.png"
+      },
+      "nextFrame" : "f58",
+      "frames" : "28"
+    },
+    "f58" : {
+      "start" : {
+        "x" : "64.7",
+        "y" : "99",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "effect_zhanchong_gui_ready_8.png"
+      }
+    }
+  },
+  "灯穗子_9" : {
+    "f1" : {
+      "start" : {
+        "x" : "73.7",
+        "y" : "64",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "effect_zhanchong_gui_ready_9.png"
+      },
+      "nextFrame" : "f31",
+      "frames" : "31"
+    },
+    "order" : "10",
+    "f31" : {
+      "start" : {
+        "x" : "63.7",
+        "y" : "75",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "effect_zhanchong_gui_ready_9.png"
+      },
+      "nextFrame" : "f58",
+      "frames" : "28"
+    },
+    "f58" : {
+      "start" : {
+        "x" : "73.7",
+        "y" : "64",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "effect_zhanchong_gui_ready_9.png"
+      }
+    }
+  },
+  "脖子_10" : {
+    "f1" : {
+      "start" : {
+        "x" : "60.7",
+        "y" : "231",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "effect_zhanchong_gui_ready_10.png"
+      },
+      "nextFrame" : "f31",
+      "frames" : "31"
+    },
+    "order" : "9",
+    "f31" : {
+      "start" : {
+        "x" : "46",
+        "y" : "245.25",
+        "rotation" : "-4.2",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "effect_zhanchong_gui_ready_10.png"
+      },
+      "nextFrame" : "f58",
+      "frames" : "28"
+    },
+    "f58" : {
+      "start" : {
+        "x" : "60.7",
+        "y" : "231",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "effect_zhanchong_gui_ready_10.png"
+      }
+    }
+  },
+  "前爪1_11" : {
+    "f1" : {
+      "start" : {
+        "x" : "-53.3",
+        "y" : "66.5",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "effect_zhanchong_gui_ready_11.png"
+      },
+      "nextFrame" : "f31",
+      "frames" : "31"
+    },
+    "order" : "8",
+    "f31" : {
+      "start" : {
+        "x" : "-53.3",
+        "y" : "66.5",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "effect_zhanchong_gui_ready_11.png"
+      },
+      "nextFrame" : "f58",
+      "frames" : "28"
+    },
+    "f58" : {
+      "start" : {
+        "x" : "-53.3",
+        "y" : "66.5",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "effect_zhanchong_gui_ready_11.png"
+      }
+    }
+  },
+  "前爪2_12" : {
+    "f1" : {
+      "start" : {
+        "x" : "-46.3",
+        "y" : "95.5",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "effect_zhanchong_gui_ready_12.png"
+      },
+      "nextFrame" : "f31",
+      "frames" : "31"
+    },
+    "order" : "7",
+    "f31" : {
+      "start" : {
+        "x" : "-50.1",
+        "y" : "98.8",
+        "rotation" : "-4.98",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "effect_zhanchong_gui_ready_12.png"
+      },
+      "nextFrame" : "f58",
+      "frames" : "28"
+    },
+    "f58" : {
+      "start" : {
+        "x" : "-46.3",
+        "y" : "95.5",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "effect_zhanchong_gui_ready_12.png"
+      }
+    }
+  },
+  "大龟身体_13" : {
+    "f1" : {
+      "start" : {
+        "x" : "-58.3",
+        "y" : "201.5",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "effect_zhanchong_gui_ready_13.png"
+      },
+      "nextFrame" : "f31",
+      "frames" : "31"
+    },
+    "order" : "6",
+    "f31" : {
+      "start" : {
+        "x" : "-63",
+        "y" : "207.6",
+        "rotation" : "-2.47",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "effect_zhanchong_gui_ready_13.png"
+      },
+      "nextFrame" : "f58",
+      "frames" : "28"
+    },
+    "f58" : {
+      "start" : {
+        "x" : "-58.3",
+        "y" : "201.5",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "effect_zhanchong_gui_ready_13.png"
+      }
+    }
+  },
+  "后腿_14" : {
+    "f1" : {
+      "start" : {
+        "x" : "-163.8",
+        "y" : "112",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "effect_zhanchong_gui_ready_14.png"
+      },
+      "nextFrame" : "f31",
+      "frames" : "31"
+    },
+    "order" : "5",
+    "f31" : {
+      "start" : {
+        "x" : "-163.8",
+        "y" : "112",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "effect_zhanchong_gui_ready_14.png"
+      },
+      "nextFrame" : "f58",
+      "frames" : "28"
+    },
+    "f58" : {
+      "start" : {
+        "x" : "-163.8",
+        "y" : "112",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "effect_zhanchong_gui_ready_14.png"
+      }
+    }
+  },
+  "龟前爪2_15" : {
+    "f1" : {
+      "start" : {
+        "x" : "167.7",
+        "y" : "107.5",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "effect_zhanchong_gui_ready_15.png"
+      },
+      "nextFrame" : "f31",
+      "frames" : "31"
+    },
+    "order" : "4",
+    "f31" : {
+      "start" : {
+        "x" : "167.7",
+        "y" : "107.5",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "effect_zhanchong_gui_ready_15.png"
+      },
+      "nextFrame" : "f58",
+      "frames" : "28"
+    },
+    "f58" : {
+      "start" : {
+        "x" : "167.7",
+        "y" : "107.5",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "effect_zhanchong_gui_ready_15.png"
+      }
+    }
+  },
+  "龟前腿1_16" : {
+    "f1" : {
+      "start" : {
+        "x" : "127.2",
+        "y" : "112",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "effect_zhanchong_gui_ready_16.png"
+      },
+      "nextFrame" : "f31",
+      "frames" : "31"
+    },
+    "order" : "3",
+    "f31" : {
+      "start" : {
+        "x" : "127.2",
+        "y" : "112",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "effect_zhanchong_gui_ready_16.png"
+      },
+      "nextFrame" : "f58",
+      "frames" : "28"
+    },
+    "f58" : {
+      "start" : {
+        "x" : "127.2",
+        "y" : "112",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "effect_zhanchong_gui_ready_16.png"
+      }
+    }
+  },
+  "龟前腿2_17" : {
+    "f1" : {
+      "start" : {
+        "x" : "81.7",
+        "y" : "127.5",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "effect_zhanchong_gui_ready_17.png"
+      },
+      "nextFrame" : "f31",
+      "frames" : "31"
+    },
+    "order" : "2",
+    "f31" : {
+      "start" : {
+        "x" : "85.4",
+        "y" : "132",
+        "rotation" : "5.72",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "effect_zhanchong_gui_ready_17.png"
+      },
+      "nextFrame" : "f58",
+      "frames" : "28"
+    },
+    "f58" : {
+      "start" : {
+        "x" : "81.7",
+        "y" : "127.5",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "effect_zhanchong_gui_ready_17.png"
+      }
+    }
+  },
+  "尾巴_18" : {
+    "f1" : {
+      "start" : {
+        "x" : "155.7",
+        "y" : "160",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "effect_zhanchong_gui_ready_18.png"
+      },
+      "nextFrame" : "f31",
+      "frames" : "31"
+    },
+    "order" : "1",
+    "f31" : {
+      "start" : {
+        "x" : "149",
+        "y" : "175.95",
+        "rotation" : "-13.51",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "effect_zhanchong_gui_ready_18.png"
+      },
+      "nextFrame" : "f58",
+      "frames" : "28"
+    },
+    "f58" : {
+      "start" : {
+        "x" : "155.7",
+        "y" : "160",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "effect_zhanchong_gui_ready_18.png"
+      }
+    }
+  },
+  "yinying_19" : {
+    "f1" : {
+      "start" : {
+        "x" : "14.7",
+        "y" : "89.6",
+        "rotation" : "0",
+        "scaleX" : "7.3",
+        "scaleY" : "2.96",
+        "opacity" : "127"
+      }
+    },
+    "effect" : "effect_chongying",
+    "useBatchNode" : "true",
+    "order" : "0"
+  },
+  "events" : {
+    "f1" : "ready",
+    "f58" : "forever"
+  },
+  "scale" : "1",
+  "png" : "effect_zhanchong_gui_ready.png"
+}

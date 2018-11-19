@@ -1,0 +1,47 @@
+{
+  "位图 10_1" : {
+    "f1" : {
+      "start" : {
+        "x" : "-144.1",
+        "y" : "-20.5",
+        "rotation" : "0",
+        "scaleX" : "0.82",
+        "scaleY" : "0.82",
+        "opacity" : "255",
+        "png" : "effect_signinnew_8_1.png"
+      },
+      "nextFrame" : "f26",
+      "frames" : "26"
+    },
+    "order" : "0",
+    "f26" : {
+      "start" : {
+        "x" : "-142.95",
+        "y" : "-22.35",
+        "rotation" : "0",
+        "scaleX" : "0.82",
+        "scaleY" : "0.82",
+        "opacity" : "255",
+        "png" : "effect_signinnew_8_1.png"
+      },
+      "nextFrame" : "f60",
+      "frames" : "35"
+    },
+    "f60" : {
+      "start" : {
+        "x" : "-144.1",
+        "y" : "-20.5",
+        "rotation" : "0",
+        "scaleX" : "0.82",
+        "scaleY" : "0.82",
+        "opacity" : "255",
+        "png" : "effect_signinnew_8_1.png"
+      }
+    }
+  },
+  "events" : {
+    "f60" : "forever"
+  },
+  "scale" : "1",
+  "png" : "effect_signinnew_8.png"
+}

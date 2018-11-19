@@ -1,0 +1,598 @@
+{
+  "DFH_1" : {
+    "f1" : {
+      "start" : {
+        "x" : "288.4",
+        "y" : "602.85",
+        "rotation" : "0",
+        "scaleX" : "1.2",
+        "scaleY" : "1.2",
+        "opacity" : "0",
+        "png" : "effect_sunshine_city_1.png"
+      },
+      "nextFrame" : "f30",
+      "frames" : "30"
+    },
+    "order" : "7",
+    "f30" : {
+      "start" : {
+        "x" : "288.65",
+        "y" : "602.7",
+        "rotation" : "-3.78",
+        "scaleX" : "2",
+        "scaleY" : "2",
+        "opacity" : "135",
+        "png" : "effect_sunshine_city_1.png"
+      }
+    },
+    "f90" : {
+      "start" : {
+        "x" : "288.65",
+        "y" : "602.7",
+        "rotation" : "-3.78",
+        "scaleX" : "2",
+        "scaleY" : "2",
+        "opacity" : "76",
+        "png" : "effect_sunshine_city_1.png"
+      },
+      "nextFrame" : "f113",
+      "frames" : "24"
+    },
+    "f113" : {
+      "start" : {
+        "x" : "288.65",
+        "y" : "602.7",
+        "rotation" : "-3.78",
+        "scaleX" : "2",
+        "scaleY" : "2",
+        "opacity" : "0",
+        "png" : "effect_sunshine_city_1.png"
+      }
+    }
+  },
+  "gh 复制_2" : {
+    "f24" : {
+      "start" : {
+        "x" : "137.3",
+        "y" : "620.05",
+        "rotation" : "173.62",
+        "scaleX" : "1.05",
+        "scaleY" : "1.02",
+        "opacity" : "0",
+        "png" : "effect_sunshine_city_2.png"
+      },
+      "nextFrame" : "f39",
+      "frames" : "16"
+    },
+    "order" : "6",
+    "f39" : {
+      "start" : {
+        "x" : "136.95",
+        "y" : "614.85",
+        "rotation" : "171.62",
+        "scaleX" : "1.05",
+        "scaleY" : "1.02",
+        "opacity" : "135",
+        "png" : "effect_sunshine_city_2.png"
+      },
+      "nextFrame" : "f55",
+      "frames" : "17"
+    },
+    "f55" : {
+      "start" : {
+        "x" : "136.8",
+        "y" : "608.2",
+        "rotation" : "169.18",
+        "scaleX" : "1.05",
+        "scaleY" : "1.02",
+        "opacity" : "135",
+        "png" : "effect_sunshine_city_2.png"
+      },
+      "nextFrame" : "f71",
+      "frames" : "17"
+    },
+    "f71" : {
+      "start" : {
+        "x" : "137.15",
+        "y" : "602.05",
+        "rotation" : "166.89",
+        "scaleX" : "1.05",
+        "scaleY" : "1.02",
+        "opacity" : "102",
+        "png" : "effect_sunshine_city_2.png"
+      },
+      "nextFrame" : "f90",
+      "frames" : "20"
+    },
+    "f90" : {
+      "start" : {
+        "x" : "137.25",
+        "y" : "595.75",
+        "rotation" : "164.48",
+        "scaleX" : "1.05",
+        "scaleY" : "1.02",
+        "opacity" : "76",
+        "png" : "effect_sunshine_city_2.png"
+      },
+      "nextFrame" : "f113",
+      "frames" : "24"
+    },
+    "f113" : {
+      "start" : {
+        "x" : "137.15",
+        "y" : "591.35",
+        "rotation" : "162.77",
+        "scaleX" : "1.05",
+        "scaleY" : "1.02",
+        "opacity" : "0",
+        "png" : "effect_sunshine_city_2.png"
+      }
+    }
+  },
+  "gh_3" : {
+    "f24" : {
+      "start" : {
+        "x" : "141.35",
+        "y" : "572",
+        "rotation" : "154.99",
+        "scaleX" : "1.05",
+        "scaleY" : "1.02",
+        "opacity" : "0",
+        "png" : "effect_sunshine_city_2.png"
+      },
+      "nextFrame" : "f39",
+      "frames" : "16"
+    },
+    "order" : "5",
+    "f39" : {
+      "start" : {
+        "x" : "142.9",
+        "y" : "566.95",
+        "rotation" : "153",
+        "scaleX" : "1.05",
+        "scaleY" : "1.02",
+        "opacity" : "135",
+        "png" : "effect_sunshine_city_2.png"
+      },
+      "nextFrame" : "f55",
+      "frames" : "17"
+    },
+    "f55" : {
+      "start" : {
+        "x" : "144.7",
+        "y" : "560.65",
+        "rotation" : "150.55",
+        "scaleX" : "1.05",
+        "scaleY" : "1.02",
+        "opacity" : "135",
+        "png" : "effect_sunshine_city_2.png"
+      },
+      "nextFrame" : "f71",
+      "frames" : "17"
+    },
+    "f71" : {
+      "start" : {
+        "x" : "146.95",
+        "y" : "554.95",
+        "rotation" : "148.26",
+        "scaleX" : "1.05",
+        "scaleY" : "1.02",
+        "opacity" : "102",
+        "png" : "effect_sunshine_city_2.png"
+      },
+      "nextFrame" : "f90",
+      "frames" : "20"
+    },
+    "f90" : {
+      "start" : {
+        "x" : "149.05",
+        "y" : "548.95",
+        "rotation" : "145.86",
+        "scaleX" : "1.05",
+        "scaleY" : "1.02",
+        "opacity" : "76",
+        "png" : "effect_sunshine_city_2.png"
+      },
+      "nextFrame" : "f113",
+      "frames" : "24"
+    },
+    "f113" : {
+      "start" : {
+        "x" : "150.4",
+        "y" : "544.75",
+        "rotation" : "144.15",
+        "scaleX" : "1.05",
+        "scaleY" : "1.02",
+        "opacity" : "0",
+        "png" : "effect_sunshine_city_2.png"
+      }
+    }
+  },
+  "gh_4" : {
+    "f24" : {
+      "start" : {
+        "x" : "398.8",
+        "y" : "504.3",
+        "rotation" : "33.83",
+        "scaleX" : "1.04",
+        "scaleY" : "1.02",
+        "opacity" : "0",
+        "png" : "effect_sunshine_city_2.png"
+      },
+      "nextFrame" : "f39",
+      "frames" : "16"
+    },
+    "order" : "4",
+    "f39" : {
+      "start" : {
+        "x" : "402.3",
+        "y" : "508.4",
+        "rotation" : "31.8",
+        "scaleX" : "1.04",
+        "scaleY" : "1.02",
+        "opacity" : "135",
+        "png" : "effect_sunshine_city_2.png"
+      },
+      "nextFrame" : "f55",
+      "frames" : "17"
+    },
+    "f55" : {
+      "start" : {
+        "x" : "406.55",
+        "y" : "513",
+        "rotation" : "29.38",
+        "scaleX" : "1.04",
+        "scaleY" : "1.02",
+        "opacity" : "135",
+        "png" : "effect_sunshine_city_2.png"
+      },
+      "nextFrame" : "f71",
+      "frames" : "17"
+    },
+    "f71" : {
+      "start" : {
+        "x" : "410.25",
+        "y" : "518",
+        "rotation" : "27.05",
+        "scaleX" : "1.04",
+        "scaleY" : "1.02",
+        "opacity" : "102",
+        "png" : "effect_sunshine_city_2.png"
+      },
+      "nextFrame" : "f90",
+      "frames" : "20"
+    },
+    "f90" : {
+      "start" : {
+        "x" : "414.05",
+        "y" : "522.95",
+        "rotation" : "24.69",
+        "scaleX" : "1.04",
+        "scaleY" : "1.02",
+        "opacity" : "76",
+        "png" : "effect_sunshine_city_2.png"
+      },
+      "nextFrame" : "f113",
+      "frames" : "24"
+    },
+    "f113" : {
+      "start" : {
+        "x" : "415.9",
+        "y" : "526.95",
+        "rotation" : "22.98",
+        "scaleX" : "1.04",
+        "scaleY" : "1.02",
+        "opacity" : "0",
+        "png" : "effect_sunshine_city_2.png"
+      }
+    }
+  },
+  "gh_5" : {
+    "f24" : {
+      "start" : {
+        "x" : "346.55",
+        "y" : "471.3",
+        "rotation" : "56.72",
+        "scaleX" : "1.04",
+        "scaleY" : "1.02",
+        "opacity" : "0",
+        "png" : "effect_sunshine_city_2.png"
+      },
+      "nextFrame" : "f39",
+      "frames" : "16"
+    },
+    "order" : "3",
+    "f39" : {
+      "start" : {
+        "x" : "351.2",
+        "y" : "473.6",
+        "rotation" : "54.73",
+        "scaleX" : "1.04",
+        "scaleY" : "1.02",
+        "opacity" : "135",
+        "png" : "effect_sunshine_city_2.png"
+      },
+      "nextFrame" : "f55",
+      "frames" : "17"
+    },
+    "f55" : {
+      "start" : {
+        "x" : "357.1",
+        "y" : "476.25",
+        "rotation" : "52.28",
+        "scaleX" : "1.04",
+        "scaleY" : "1.02",
+        "opacity" : "135",
+        "png" : "effect_sunshine_city_2.png"
+      },
+      "nextFrame" : "f71",
+      "frames" : "17"
+    },
+    "f71" : {
+      "start" : {
+        "x" : "362.25",
+        "y" : "479.2",
+        "rotation" : "49.99",
+        "scaleX" : "1.04",
+        "scaleY" : "1.02",
+        "opacity" : "102",
+        "png" : "effect_sunshine_city_2.png"
+      },
+      "nextFrame" : "f90",
+      "frames" : "20"
+    },
+    "f90" : {
+      "start" : {
+        "x" : "367.7",
+        "y" : "482.15",
+        "rotation" : "47.58",
+        "scaleX" : "1.04",
+        "scaleY" : "1.02",
+        "opacity" : "76",
+        "png" : "effect_sunshine_city_2.png"
+      },
+      "nextFrame" : "f113",
+      "frames" : "24"
+    },
+    "f113" : {
+      "start" : {
+        "x" : "370.9",
+        "y" : "484.6",
+        "rotation" : "45.87",
+        "scaleX" : "1.04",
+        "scaleY" : "1.02",
+        "opacity" : "0",
+        "png" : "effect_sunshine_city_2.png"
+      }
+    }
+  },
+  "gh_6" : {
+    "f24" : {
+      "start" : {
+        "x" : "167.8",
+        "y" : "514",
+        "rotation" : "131.55",
+        "scaleX" : "1.04",
+        "scaleY" : "1.02",
+        "opacity" : "0",
+        "png" : "effect_sunshine_city_2.png"
+      },
+      "nextFrame" : "f39",
+      "frames" : "16"
+    },
+    "order" : "2",
+    "f39" : {
+      "start" : {
+        "x" : "171.45",
+        "y" : "509.65",
+        "rotation" : "129.46",
+        "scaleX" : "1.04",
+        "scaleY" : "1.02",
+        "opacity" : "135",
+        "png" : "effect_sunshine_city_2.png"
+      },
+      "nextFrame" : "f55",
+      "frames" : "17"
+    },
+    "f55" : {
+      "start" : {
+        "x" : "175.5",
+        "y" : "504.8",
+        "rotation" : "127.11",
+        "scaleX" : "1.04",
+        "scaleY" : "1.02",
+        "opacity" : "135",
+        "png" : "effect_sunshine_city_2.png"
+      },
+      "nextFrame" : "f71",
+      "frames" : "17"
+    },
+    "f71" : {
+      "start" : {
+        "x" : "180.15",
+        "y" : "500.35",
+        "rotation" : "124.71",
+        "scaleX" : "1.04",
+        "scaleY" : "1.02",
+        "opacity" : "102",
+        "png" : "effect_sunshine_city_2.png"
+      },
+      "nextFrame" : "f90",
+      "frames" : "20"
+    },
+    "f90" : {
+      "start" : {
+        "x" : "184.3",
+        "y" : "495.85",
+        "rotation" : "122.41",
+        "scaleX" : "1.04",
+        "scaleY" : "1.02",
+        "opacity" : "76",
+        "png" : "effect_sunshine_city_2.png"
+      },
+      "nextFrame" : "f113",
+      "frames" : "24"
+    },
+    "f113" : {
+      "start" : {
+        "x" : "187.15",
+        "y" : "492.9",
+        "rotation" : "120.7",
+        "scaleX" : "1.04",
+        "scaleY" : "1.02",
+        "opacity" : "0",
+        "png" : "effect_sunshine_city_2.png"
+      }
+    }
+  },
+  "gh_7" : {
+    "f24" : {
+      "start" : {
+        "x" : "243.05",
+        "y" : "461.1",
+        "rotation" : "96.71",
+        "scaleX" : "1.04",
+        "scaleY" : "1.02",
+        "opacity" : "0",
+        "png" : "effect_sunshine_city_2.png"
+      },
+      "nextFrame" : "f39",
+      "frames" : "16"
+    },
+    "order" : "1",
+    "f39" : {
+      "start" : {
+        "x" : "248.65",
+        "y" : "459.6",
+        "rotation" : "94.58",
+        "scaleX" : "1.04",
+        "scaleY" : "1.02",
+        "opacity" : "135",
+        "png" : "effect_sunshine_city_2.png"
+      },
+      "nextFrame" : "f55",
+      "frames" : "17"
+    },
+    "f55" : {
+      "start" : {
+        "x" : "254.7",
+        "y" : "458",
+        "rotation" : "92.27",
+        "scaleX" : "1.04",
+        "scaleY" : "1.02",
+        "opacity" : "135",
+        "png" : "effect_sunshine_city_2.png"
+      },
+      "nextFrame" : "f71",
+      "frames" : "17"
+    },
+    "f71" : {
+      "start" : {
+        "x" : "261",
+        "y" : "456.75",
+        "rotation" : "89.84",
+        "scaleX" : "1.04",
+        "scaleY" : "1.02",
+        "opacity" : "102",
+        "png" : "effect_sunshine_city_2.png"
+      },
+      "nextFrame" : "f90",
+      "frames" : "20"
+    },
+    "f90" : {
+      "start" : {
+        "x" : "267.1",
+        "y" : "455.6",
+        "rotation" : "87.57",
+        "scaleX" : "1.04",
+        "scaleY" : "1.02",
+        "opacity" : "76",
+        "png" : "effect_sunshine_city_2.png"
+      },
+      "nextFrame" : "f113",
+      "frames" : "24"
+    },
+    "f113" : {
+      "start" : {
+        "x" : "271.1",
+        "y" : "455.05",
+        "rotation" : "85.86",
+        "scaleX" : "1.04",
+        "scaleY" : "1.02",
+        "opacity" : "0",
+        "png" : "effect_sunshine_city_2.png"
+      }
+    }
+  },
+  "图层 46_8" : {
+    "f24" : {
+      "start" : {
+        "x" : "219.7",
+        "y" : "504.65",
+        "rotation" : "87.02",
+        "scaleX" : "0.98",
+        "scaleY" : "0.98",
+        "opacity" : "0",
+        "png" : "effect_sunshine_city_3.png"
+      },
+      "nextFrame" : "f55",
+      "frames" : "32"
+    },
+    "order" : "0",
+    "f55" : {
+      "start" : {
+        "x" : "232.7",
+        "y" : "497.2",
+        "rotation" : "80.09",
+        "scaleX" : "0.98",
+        "scaleY" : "0.98",
+        "opacity" : "255",
+        "png" : "effect_sunshine_city_3.png"
+      },
+      "nextFrame" : "f71",
+      "frames" : "17"
+    },
+    "f71" : {
+      "start" : {
+        "x" : "243.35",
+        "y" : "493.05",
+        "rotation" : "74.94",
+        "scaleX" : "0.98",
+        "scaleY" : "0.98",
+        "opacity" : "255",
+        "png" : "effect_sunshine_city_3.png"
+      },
+      "nextFrame" : "f90",
+      "frames" : "20"
+    },
+    "f90" : {
+      "start" : {
+        "x" : "254.1",
+        "y" : "488.95",
+        "rotation" : "69.58",
+        "scaleX" : "0.98",
+        "scaleY" : "0.98",
+        "opacity" : "255",
+        "png" : "effect_sunshine_city_3.png"
+      },
+      "nextFrame" : "f113",
+      "frames" : "24"
+    },
+    "f113" : {
+      "start" : {
+        "x" : "259.4",
+        "y" : "487.6",
+        "rotation" : "66.84",
+        "scaleX" : "0.98",
+        "scaleY" : "0.98",
+        "opacity" : "0",
+        "png" : "effect_sunshine_city_3.png"
+      }
+    }
+  },
+  "events" : {
+    "f340" : "forever"
+  },
+  "scale" : "1",
+  "png" : "effect_sunshine_city.png"
+}

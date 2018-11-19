@@ -1,0 +1,118 @@
+{
+  "图层 6_0" : {
+
+  },
+  "图层 5_1" : {
+    "f1" : {
+      "start" : {
+        "x" : "4.35",
+        "y" : "1.15",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f5",
+      "frames" : "5"
+    },
+    "sp" : "sp_cont_xfz_start_1",
+    "useBatchNode" : "true",
+    "order" : "0",
+    "f5" : {
+      "start" : {
+        "x" : "-27.65",
+        "y" : "90.15",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f8",
+      "frames" : "4"
+    },
+    "f8" : {
+      "start" : {
+        "x" : "51.35",
+        "y" : "95.15",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f11",
+      "frames" : "4"
+    },
+    "f11" : {
+      "start" : {
+        "x" : "-11.65",
+        "y" : "76.15",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    },
+    "f12" : {
+      "start" : {
+        "x" : "-61.65",
+        "y" : "161.15",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    },
+    "f13" : {
+      "start" : {
+        "x" : "-1.65",
+        "y" : "270.15",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f16",
+      "frames" : "4"
+    },
+    "f16" : {
+      "start" : {
+        "x" : "61.35",
+        "y" : "241.15",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    },
+    "f17" : {
+      "start" : {
+        "x" : "9.35",
+        "y" : "185.15",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f19",
+      "frames" : "3"
+    },
+    "f19" : {
+      "start" : {
+        "x" : "-49.65",
+        "y" : "252.15",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    },
+    "f20" : {
+      "remove" : "1"
+    }
+  },
+  "events" : {
+    "f21" : "finish"
+  },
+  "scale" : "2",
+  "png" : ""
+}

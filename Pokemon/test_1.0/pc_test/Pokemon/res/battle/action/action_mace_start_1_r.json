@@ -1,0 +1,132 @@
+{
+  "base_layer" : {
+    "f1" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    }
+  },
+  "card_layer" : {
+    "f1" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    },
+    "f4" : {
+      "start" : {
+        "x" : "-30.5",
+        "y" : "-1.5",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "0.9",
+        "opacity" : "153"
+      },
+      "nextFrame" : "f5",
+      "frames" : "2"
+    },
+    "f5" : {
+      "start" : {
+        "x" : "-7.65",
+        "y" : "24.15",
+        "rotation" : "16.53",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "153"
+      }
+    },
+    "f6" : {
+      "start" : {
+        "x" : "-7.65",
+        "y" : "24.15",
+        "rotation" : "16.53",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "153"
+      },
+      "nextFrame" : "f7",
+      "frames" : "2"
+    },
+    "f7" : {
+      "start" : {
+        "x" : "-76.9",
+        "y" : "83.1",
+        "rotation" : "61.23",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "153"
+      },
+      "nextFrame" : "f8",
+      "frames" : "2"
+    },
+    "f8" : {
+      "start" : {
+        "x" : "-34.85",
+        "y" : "22.05",
+        "rotation" : "-26.65",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "153"
+      },
+      "nextFrame" : "f9",
+      "frames" : "2"
+    },
+    "f9" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "0.89",
+        "opacity" : "255"
+      }
+    },
+    "f10" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    }
+  },
+  "sp_stage_center_layer" : {
+
+  },
+  "sp_up_layer" : {
+    "f6" : {
+      "start" : {
+        "x" : "-45.45",
+        "y" : "-100.9",
+        "rotation" : "25.46",
+        "scaleX" : "-1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    },
+    "f11" : {
+      "remove" : "1"
+    },
+    "useBatchNode" : "true",
+    "spId" : "sp_mace_start_1"
+  },
+  "sp_down_layer" : {
+    "useBatchNode" : "true"
+  },
+  "events" : {
+    "f7" : "hit",
+    "f8" : "hurt",
+    "f11" : "finish"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "self_layer" : {
+    "f1" : [
+      {
+        "action" : "action_4"
+      }
+    ]
+  },
+  "target_layer" : {
+    "f11" : [
+      {
+        "action" : "action_3"
+      }
+    ]
+  },
+  "bullet_layer" : {
+
+  },
+  "events" : {
+    "f13" : "hurt",
+    "f35" : "hurt",
+    "f59" : "finish"
+  }
+}

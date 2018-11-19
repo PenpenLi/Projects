@@ -1,0 +1,36 @@
+{
+  "Layer 2_1" : {
+    "f1" : {
+      "start" : {
+        "x" : "-238.15",
+        "y" : "-321.05",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    },
+    "effect" : "effect_sd_faguang",
+    "useBatchNode" : "true",
+    "order" : "1"
+  },
+  "Layer 9_2" : {
+    "f1" : {
+      "start" : {
+        "x" : "0.55",
+        "y" : "73.8",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "effect_sd_starkk_1.png"
+      }
+    },
+    "order" : "0"
+  },
+  "events" : {
+    "f90" : "forever"
+  },
+  "scale" : "1",
+  "png" : "effect_sd_starkk.png"
+}

@@ -1,0 +1,65 @@
+{
+  "图层 5_0" : {
+    "f1" : {
+      "start" : {
+        "x" : "26.1",
+        "y" : "-35.5",
+        "rotation" : "-135.12",
+        "scaleX" : "0.04",
+        "scaleY" : "0.04",
+        "opacity" : "255",
+        "png" : "effect_mx_lizi_1.png"
+      },
+      "nextFrame" : "f11",
+      "frames" : "11"
+    },
+    "order" : "0",
+    "f11" : {
+      "start" : {
+        "x" : "28.2",
+        "y" : "-35.15",
+        "rotation" : "89.98",
+        "scaleX" : "0.08",
+        "scaleY" : "0.08",
+        "color" : {
+          "alpha_original" : "1",
+          "alpha" : "0",
+          "red_original" : "0",
+          "red" : "255",
+          "green_original" : "0",
+          "green" : "255",
+          "blue_original" : "0",
+          "blue" : "255"
+        },
+        "png" : "effect_mx_lizi_1.png"
+      },
+      "nextFrame" : "f23",
+      "frames" : "13"
+    },
+    "f23" : {
+      "start" : {
+        "x" : "26.35",
+        "y" : "-34.55",
+        "rotation" : "-45.12",
+        "scaleX" : "0.03",
+        "scaleY" : "0.03",
+        "color" : {
+          "alpha_original" : "0",
+          "alpha" : "0",
+          "red_original" : "1",
+          "red" : "0",
+          "green_original" : "1",
+          "green" : "0",
+          "blue_original" : "1",
+          "blue" : "0"
+        },
+        "png" : "effect_mx_lizi_1.png"
+      }
+    }
+  },
+  "events" : {
+    "f24" : "finish"
+  },
+  "scale" : "1",
+  "png" : "effect_mx_lizi.png"
+}

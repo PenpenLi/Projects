@@ -1,0 +1,53 @@
+{
+  "base_layer" : {
+    "f1" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    }
+  },
+  "card_layer" : {
+    "f1" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    }
+  },
+  "sp_stage_center_layer" : {
+
+  },
+  "sp_up_layer" : {
+    "f1" : {
+      "start" : {
+        "x" : "17.3",
+        "y" : "69.05",
+        "rotation" : "0",
+        "scaleX" : "1.29",
+        "scaleY" : "1.29",
+        "opacity" : "255"
+      }
+    },
+    "f18" : {
+      "remove" : "1"
+    },
+    "useBatchNode" : "true",
+    "spId" : "sp_2group_lsqb_hit_1"
+  },
+  "sp_down_layer" : {
+    "useBatchNode" : "true"
+  },
+  "events" : {
+    "f10" : "recover",
+    "f19" : "finish"
+  }
+}

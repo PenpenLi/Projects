@@ -1,0 +1,61 @@
+{
+  "特效上_0" : {
+    "f1" : {
+      "start" : {
+        "x" : "-8.8",
+        "y" : "-26.15",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "color" : {
+          "alpha_original" : "1",
+          "alpha" : "0",
+          "red_original" : "0",
+          "red" : "255",
+          "green_original" : "0",
+          "green" : "255",
+          "blue_original" : "0",
+          "blue" : "255"
+        }
+      }
+    },
+    "sp" : "sp_range_ice_hit_1",
+    "useBatchNode" : "false",
+    "order" : "1",
+    "f9" : {
+      "remove" : "1"
+    }
+  },
+  "图层 2_1" : {
+    "f3" : {
+      "start" : {
+        "x" : "5.9",
+        "y" : "3",
+        "rotation" : "0",
+        "scaleX" : "-1.2",
+        "scaleY" : "1.2",
+        "color" : {
+          "alpha_original" : "1",
+          "alpha" : "0",
+          "red_original" : "0",
+          "red" : "255",
+          "green_original" : "0",
+          "green" : "255",
+          "blue_original" : "0",
+          "blue" : "255"
+        }
+      }
+    },
+    "sp" : "sp_range_qylw_hit_1",
+    "useBatchNode" : "false",
+    "order" : "0",
+    "f11" : {
+      "remove" : "1"
+    }
+  },
+  "events" : {
+    "f12" : "finish"
+  },
+  "scale" : "2",
+  "png" : ""
+}

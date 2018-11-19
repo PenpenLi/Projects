@@ -1,0 +1,37 @@
+{
+  "图层 2_1" : {
+    "f1" : {
+      "start" : {
+        "x" : "2.1",
+        "y" : "-15.4",
+        "rotation" : "0",
+        "scaleX" : "-0.74",
+        "scaleY" : "0.74",
+        "opacity" : "255"
+      }
+    },
+    "effect" : "effect_dbts_star",
+    "useBatchNode" : "true",
+    "order" : "1"
+  },
+  "图层 1_2" : {
+    "f1" : {
+      "start" : {
+        "x" : "9.75",
+        "y" : "14",
+        "rotation" : "0",
+        "scaleX" : "0.43",
+        "scaleY" : "0.43",
+        "opacity" : "255"
+      }
+    },
+    "effect" : "effect_dbts_star",
+    "useBatchNode" : "true",
+    "order" : "0"
+  },
+  "events" : {
+    "f26" : "forever"
+  },
+  "scale" : "1",
+  "png" : ""
+}

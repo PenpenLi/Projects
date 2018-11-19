@@ -1,0 +1,79 @@
+{
+  "Layer 2_2" : {
+    "f29" : {
+      "start" : {
+        "x" : "325.5",
+        "y" : "76.6",
+        "rotation" : "0",
+        "scaleX" : "1.24",
+        "scaleY" : "1.24",
+        "opacity" : "255"
+      }
+    },
+    "effect" : "effect_jingjie3",
+    "useBatchNode" : "true",
+    "order" : "3",
+    "f57" : {
+      "remove" : "1"
+    }
+  },
+  "Layer 3_3" : {
+    "f28" : {
+      "start" : {
+        "x" : "303.85",
+        "y" : "69.7",
+        "rotation" : "0",
+        "scaleX" : "2.37",
+        "scaleY" : "2.37",
+        "opacity" : "255"
+      }
+    },
+    "effect" : "effect_jingjie1",
+    "useBatchNode" : "true",
+    "order" : "2",
+    "f55" : {
+      "remove" : "1"
+    }
+  },
+  "Layer 4_4" : {
+    "f7" : {
+      "start" : {
+        "x" : "-15.75",
+        "y" : "57.35",
+        "rotation" : "0",
+        "scaleX" : "2.37",
+        "scaleY" : "2.37",
+        "opacity" : "255"
+      }
+    },
+    "effect" : "effect_jingjie1",
+    "useBatchNode" : "true",
+    "order" : "1",
+    "f31" : {
+      "remove" : "1"
+    }
+  },
+  "Layer 5_5" : {
+    "f22" : {
+      "start" : {
+        "x" : "-443.45",
+        "y" : "132.3",
+        "rotation" : "0",
+        "scaleX" : "1.25",
+        "scaleY" : "1.25",
+        "opacity" : "255"
+      }
+    },
+    "effect" : "effect_jingjie23",
+    "useBatchNode" : "true",
+    "order" : "0"
+  },
+  "events" : {
+    "f16" : "hide_left",
+    "f34" : "show_right",
+    "f57" : "fullscreen",
+    "f63" : "finish"
+  },
+  "scale" : "1",
+  "png" : ""
+}

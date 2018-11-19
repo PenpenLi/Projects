@@ -1,0 +1,76 @@
+{
+  "元件 2  复制 2_1" : {
+    "f21" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "0.62",
+        "scaleY" : "0.62",
+        "opacity" : "255"
+      }
+    },
+    "effect" : "effect_wave_sub",
+    "useBatchNode" : "true",
+    "order" : "3"
+  },
+  "元件 2  复制 2_2" : {
+    "f12" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "-0.62",
+        "scaleY" : "-0.62",
+        "opacity" : "255"
+      }
+    },
+    "effect" : "effect_wave_sub",
+    "useBatchNode" : "true",
+    "order" : "2",
+    "f36" : {
+      "remove" : "1"
+    }
+  },
+  "元件 2 复制_3" : {
+    "f6" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "0.62",
+        "scaleY" : "0.62",
+        "opacity" : "255"
+      }
+    },
+    "effect" : "effect_wave_sub",
+    "useBatchNode" : "true",
+    "order" : "1",
+    "f30" : {
+      "remove" : "1"
+    }
+  },
+  "元件 2_4" : {
+    "f1" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "-0.62",
+        "scaleY" : "-0.62",
+        "opacity" : "255"
+      }
+    },
+    "effect" : "effect_wave_sub",
+    "useBatchNode" : "true",
+    "order" : "0",
+    "f25" : {
+      "remove" : "1"
+    }
+  },
+  "events" : {
+    "f48" : "forever"
+  },
+  "scale" : "1",
+  "png" : ""
+}

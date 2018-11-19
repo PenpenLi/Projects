@@ -1,0 +1,34 @@
+{
+  "self_layer" : {
+    "f1" : [
+      {
+        "action" : "action_1"
+      }
+    ]
+  },
+  "target_layer" : {
+    "f11" : [
+      {
+        "action" : "action_3"
+      }
+    ]
+  },
+  "bullet_layer" : {
+    "f8" : [
+      {
+        "frames" : "17",
+        "spId" : "sp_4"
+      }
+    ],
+    "f24" : [
+      {
+        "frames" : "2",
+        "spId" : "sp_4"
+      }
+    ]
+  },
+  "events" : {
+    "f25" : "hurt",
+    "f43" : "finish"
+  }
+}

@@ -1,0 +1,183 @@
+{
+  "图层 3_0" : {
+    "f6" : {
+      "start" : {
+        "x" : "-14.2",
+        "y" : "-56.5",
+        "rotation" : "-130.08",
+        "scaleX" : "-0.68",
+        "scaleY" : "0.68",
+        "color" : {
+          "alpha_original" : "1",
+          "alpha" : "0",
+          "red_original" : "0",
+          "red" : "255",
+          "green_original" : "0",
+          "green" : "255",
+          "blue_original" : "0",
+          "blue" : "255"
+        }
+      }
+    },
+    "sp" : "sp_spear_start_1",
+    "useBatchNode" : "false",
+    "order" : "2",
+    "f7" : {
+      "start" : {
+        "x" : "-4.2",
+        "y" : "-210.5",
+        "rotation" : "-130.1",
+        "scaleX" : "-1",
+        "scaleY" : "1",
+        "color" : {
+          "alpha_original" : "1",
+          "alpha" : "0",
+          "red_original" : "0",
+          "red" : "255",
+          "green_original" : "0",
+          "green" : "255",
+          "blue_original" : "0",
+          "blue" : "255"
+        }
+      }
+    },
+    "f8" : {
+      "start" : {
+        "x" : "-14.2",
+        "y" : "-396.5",
+        "rotation" : "-130.1",
+        "scaleX" : "-1",
+        "scaleY" : "1",
+        "color" : {
+          "alpha_original" : "1",
+          "alpha" : "0",
+          "red_original" : "0",
+          "red" : "255",
+          "green_original" : "0",
+          "green" : "255",
+          "blue_original" : "0",
+          "blue" : "255"
+        }
+      }
+    },
+    "f9" : {
+      "start" : {
+        "x" : "-14.2",
+        "y" : "-476.5",
+        "rotation" : "-130.1",
+        "scaleX" : "-1",
+        "scaleY" : "1",
+        "color" : {
+          "alpha_original" : "1",
+          "alpha" : "0",
+          "red_original" : "0",
+          "red" : "255",
+          "green_original" : "0",
+          "green" : "255",
+          "blue_original" : "0",
+          "blue" : "255"
+        }
+      }
+    },
+    "f10" : {
+      "start" : {
+        "x" : "-6.2",
+        "y" : "-576.55",
+        "rotation" : "-130.1",
+        "scaleX" : "-1",
+        "scaleY" : "1",
+        "color" : {
+          "alpha_original" : "1",
+          "alpha" : "0",
+          "red_original" : "0",
+          "red" : "255",
+          "green_original" : "0",
+          "green" : "255",
+          "blue_original" : "0",
+          "blue" : "255"
+        }
+      }
+    },
+    "f11" : {
+      "start" : {
+        "x" : "-2.2",
+        "y" : "-756.6",
+        "rotation" : "-130.1",
+        "scaleX" : "-1",
+        "scaleY" : "1",
+        "color" : {
+          "alpha_original" : "1",
+          "alpha" : "0",
+          "red_original" : "0",
+          "red" : "255",
+          "green_original" : "0",
+          "green" : "255",
+          "blue_original" : "0",
+          "blue" : "255"
+        }
+      }
+    },
+    "f12" : {
+      "remove" : "1"
+    }
+  },
+  "图层 2_1" : {
+    "f6" : {
+      "start" : {
+        "x" : "68.8",
+        "y" : "-433.55",
+        "rotation" : "-87.99",
+        "scaleX" : "-1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f9",
+      "frames" : "4"
+    },
+    "sp" : "sp_yinlong",
+    "useBatchNode" : "true",
+    "order" : "1",
+    "f9" : {
+      "start" : {
+        "x" : "68.8",
+        "y" : "-573.55",
+        "rotation" : "-87.99",
+        "scaleX" : "-1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    }
+  },
+  "图层 1_2" : {
+    "f1" : {
+      "start" : {
+        "x" : "7.9",
+        "y" : "12.7",
+        "rotation" : "2.79",
+        "scaleX" : "1.25",
+        "scaleY" : "1.25",
+        "color" : {
+          "alpha_original" : "1",
+          "alpha" : "0",
+          "red_original" : "0",
+          "red" : "255",
+          "green_original" : "0",
+          "green" : "255",
+          "blue_original" : "0",
+          "blue" : "255"
+        }
+      }
+    },
+    "sp" : "sp_2group_mlx_start_1",
+    "useBatchNode" : "false",
+    "order" : "0",
+    "f8" : {
+      "remove" : "1"
+    }
+  },
+  "events" : {
+    "f17" : "finish"
+  },
+  "scale" : "2",
+  "png" : ""
+}

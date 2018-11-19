@@ -1,0 +1,144 @@
+{
+  "图层 2_0" : {
+    "f1" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "2.49",
+        "scaleY" : "2.49",
+        "opacity" : "76",
+        "png" : "effect_kaiqi_1.png"
+      },
+      "nextFrame" : "f3",
+      "frames" : "3"
+    },
+    "order" : "3",
+    "f3" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "1.44",
+        "scaleY" : "1.44",
+        "opacity" : "76",
+        "png" : "effect_kaiqi_1.png"
+      }
+    },
+    "f4" : {
+      "remove" : "1"
+    }
+  },
+  "图层 1_1" : {
+    "f1" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "1.9",
+        "scaleY" : "1.9",
+        "opacity" : "76",
+        "png" : "effect_kaiqi_1.png"
+      },
+      "nextFrame" : "f3",
+      "frames" : "3"
+    },
+    "order" : "2",
+    "f3" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "0.96",
+        "scaleY" : "0.96",
+        "opacity" : "255",
+        "png" : "effect_kaiqi_1.png"
+      },
+      "nextFrame" : "f5",
+      "frames" : "3"
+    },
+    "f5" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "1.02",
+        "scaleY" : "1.02",
+        "opacity" : "255",
+        "png" : "effect_kaiqi_1.png"
+      },
+      "nextFrame" : "f9",
+      "frames" : "5"
+    },
+    "f9" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "effect_kaiqi_1.png"
+      }
+    }
+  },
+  "图层 3 复制_2" : {
+    "f4" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "1.1",
+        "scaleY" : "1.1",
+        "opacity" : "76",
+        "png" : "effect_kaiqi_1.png"
+      },
+      "nextFrame" : "f9",
+      "frames" : "6"
+    },
+    "order" : "1",
+    "f9" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "1.21",
+        "scaleY" : "1.21",
+        "opacity" : "0",
+        "png" : "effect_kaiqi_1.png"
+      }
+    }
+  },
+  "图层 3_3" : {
+    "f5" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "1.1",
+        "scaleY" : "1.1",
+        "opacity" : "76",
+        "png" : "effect_kaiqi_1.png"
+      },
+      "nextFrame" : "f11",
+      "frames" : "7"
+    },
+    "order" : "0",
+    "f11" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "1.15",
+        "scaleY" : "1.15",
+        "opacity" : "0",
+        "png" : "effect_kaiqi_1.png"
+      }
+    }
+  },
+  "events" : {
+    "f13" : "finish"
+  },
+  "scale" : "1",
+  "png" : "effect_kaiqi.png"
+}

@@ -1,0 +1,110 @@
+{
+  "base_layer" : {
+    "f1" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    }
+  },
+  "card_layer" : {
+    "f1" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f5",
+      "frames" : "5"
+    },
+    "f5" : {
+      "start" : {
+        "x" : "0",
+        "y" : "-1.8",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "0.87",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f8",
+      "frames" : "4"
+    },
+    "f8" : {
+      "start" : {
+        "x" : "-3.65",
+        "y" : "29",
+        "rotation" : "0",
+        "scaleX" : "0.9",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    },
+    "f20" : {
+      "start" : {
+        "x" : "-3.65",
+        "y" : "29",
+        "rotation" : "0",
+        "scaleX" : "0.9",
+        "scaleY" : "1",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f24",
+      "frames" : "5"
+    },
+    "f24" : {
+      "start" : {
+        "x" : "0",
+        "y" : "-1.9",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "0.86",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f27",
+      "frames" : "4"
+    },
+    "f27" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    }
+  },
+  "sp_stage_center_layer" : {
+
+  },
+  "sp_up_layer" : {
+    "f8" : {
+      "start" : {
+        "x" : "-14.1",
+        "y" : "97.6",
+        "rotation" : "0",
+        "scaleX" : "-1.05",
+        "scaleY" : "1.05",
+        "opacity" : "255"
+      }
+    },
+    "f20" : {
+      "remove" : "1"
+    },
+    "spId" : "sp_range_ice_start_1"
+  },
+  "sp_down_layer" : {
+
+  },
+  "events" : {
+    "f20" : "shoot",
+    "f28" : "finish"
+  }
+}

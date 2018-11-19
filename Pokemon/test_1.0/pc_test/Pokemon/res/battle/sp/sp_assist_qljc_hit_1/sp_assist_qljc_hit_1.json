@@ -1,0 +1,79 @@
+{
+  "图层 2  复制 2_0" : {
+    "f5" : {
+      "start" : {
+        "x" : "37.4",
+        "y" : "137.5",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "204"
+      }
+    },
+    "sp" : "sp_range_fire_hit_1",
+    "useBatchNode" : "true",
+    "order" : "3",
+    "f14" : {
+      "remove" : "1"
+    }
+  },
+  "图层 2 复制_1" : {
+    "f9" : {
+      "start" : {
+        "x" : "49.6",
+        "y" : "154.65",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    },
+    "sp" : "sp_puosui",
+    "useBatchNode" : "true",
+    "order" : "2",
+    "f14" : {
+      "remove" : "1"
+    }
+  },
+  "喷火.psd_2" : {
+    "f1" : {
+      "start" : {
+        "x" : "-140.05",
+        "y" : "59.6",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    },
+    "sp" : "sp_huolongpenhuo",
+    "useBatchNode" : "true",
+    "order" : "1",
+    "f7" : {
+      "remove" : "1"
+    }
+  },
+  "刺加底火70.psd_3" : {
+    "f1" : {
+      "start" : {
+        "x" : "-125.8",
+        "y" : "50.4",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    },
+    "sp" : "sp_dici",
+    "useBatchNode" : "true",
+    "order" : "0",
+    "f8" : {
+      "remove" : "1"
+    }
+  },
+  "events" : {
+    "f15" : "finish"
+  },
+  "scale" : "2",
+  "png" : ""
+}

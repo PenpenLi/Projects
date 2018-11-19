@@ -1,0 +1,113 @@
+{
+  "hei3_1" : {
+    "f1" : {
+      "start" : {
+        "x" : "-18.45",
+        "y" : "-644.95",
+        "rotation" : "0",
+        "scaleX" : "176",
+        "scaleY" : "65.06",
+        "opacity" : "255",
+        "png" : "effect_jvqing2_1.png"
+      }
+    },
+    "order" : "6"
+  },
+  "hei2_2" : {
+    "f1" : {
+      "start" : {
+        "x" : "-18.45",
+        "y" : "515.05",
+        "rotation" : "0",
+        "scaleX" : "176",
+        "scaleY" : "60.52",
+        "opacity" : "255",
+        "png" : "effect_jvqing2_1.png"
+      }
+    },
+    "order" : "5"
+  },
+  "aa_3" : {
+    "f1" : {
+      "start" : {
+        "x" : "281.95",
+        "y" : "-187",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    },
+    "effect" : "effect_jvqing2_sub1",
+    "useBatchNode" : "true",
+    "order" : "4",
+    "f104" : {
+      "start" : {
+        "x" : "111.95",
+        "y" : "-187",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f107",
+      "frames" : "4"
+    },
+    "f107" : {
+      "start" : {
+        "x" : "-398.05",
+        "y" : "-187",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    },
+    "f111" : {
+      "remove" : "1"
+    }
+  },
+  "bb_4" : {
+    "f111" : {
+      "start" : {
+        "x" : "-22",
+        "y" : "-129.9",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    },
+    "effect" : "effect_jvqing2_sub2",
+    "useBatchNode" : "true",
+    "order" : "3"
+  },
+  "cc_5" : {
+
+  },
+  "dd_6" : {
+
+  },
+  "hei1_7" : {
+    "f1" : {
+      "start" : {
+        "x" : "-17.45",
+        "y" : "-36.95",
+        "rotation" : "0",
+        "scaleX" : "172.2",
+        "scaleY" : "298.2",
+        "opacity" : "255",
+        "png" : "effect_jvqing2_1.png"
+      }
+    },
+    "order" : "0"
+  },
+  "events" : {
+    "f1" : "kxdh1",
+    "f15" : "kcpb1",
+    "f106" : "kcpb2",
+    "f111" : "kxdh3"
+  },
+  "scale" : "1",
+  "png" : "effect_jvqing2.png"
+}

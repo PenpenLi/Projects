@@ -1,0 +1,73 @@
+{
+  "图层 1_0" : {
+    "f1" : {
+      "start" : {
+        "x" : "-108.3",
+        "y" : "-1.35",
+        "rotation" : "178.16",
+        "scaleX" : "-0.63",
+        "scaleY" : "0.63",
+        "opacity" : "255",
+        "png" : "sp_boss2_texiao1_1.png"
+      },
+      "nextFrame" : "f2",
+      "frames" : "2"
+    },
+    "order" : "0",
+    "f2" : {
+      "start" : {
+        "x" : "-8.95",
+        "y" : "-231.35",
+        "rotation" : "149.01",
+        "scaleX" : "-0.63",
+        "scaleY" : "0.63",
+        "opacity" : "255",
+        "png" : "sp_boss2_texiao1_1.png"
+      },
+      "nextFrame" : "f3",
+      "frames" : "2"
+    },
+    "f3" : {
+      "start" : {
+        "x" : "29.5",
+        "y" : "-260.55",
+        "rotation" : "146.58",
+        "scaleX" : "-0.61",
+        "scaleY" : "0.53",
+        "opacity" : "255",
+        "png" : "sp_boss2_texiao1_1.png"
+      },
+      "nextFrame" : "f4",
+      "frames" : "2"
+    },
+    "f4" : {
+      "start" : {
+        "x" : "122.55",
+        "y" : "-222.5",
+        "rotation" : "24.59",
+        "scaleX" : "-0.59",
+        "scaleY" : "0.44",
+        "opacity" : "255",
+        "png" : "sp_boss2_texiao1_1.png"
+      },
+      "nextFrame" : "f5",
+      "frames" : "2"
+    },
+    "f5" : {
+      "start" : {
+        "x" : "127",
+        "y" : "-31.65",
+        "rotation" : "-10.75",
+        "scaleX" : "-0.58",
+        "scaleY" : "0.34",
+        "opacity" : "255",
+        "png" : "sp_boss2_texiao1_1.png"
+      }
+    }
+  },
+  "events" : {
+    "f6" : "finish"
+  },
+  "scale" : "2",
+  "png" : "sp_boss2_texiao1.png"
+}

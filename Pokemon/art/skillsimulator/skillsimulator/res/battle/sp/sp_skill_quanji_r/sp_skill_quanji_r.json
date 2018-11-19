@@ -1,0 +1,61 @@
+{
+  "图层 2_0" : {
+    "f1" : {
+      "start" : {
+        "x" : "-0.2",
+        "y" : "0.8",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    },
+    "sp" : "sp_skill_lianda_baoguang",
+    "useBatchNode" : "true",
+    "order" : "2",
+    "f43" : {
+      "remove" : "1"
+    }
+  },
+  "图层 3_1" : {
+    "f31" : {
+      "start" : {
+        "x" : "0.45",
+        "y" : "180.25",
+        "rotation" : "0",
+        "scaleX" : "1.5",
+        "scaleY" : "1.5",
+        "opacity" : "255"
+      }
+    },
+    "sp" : "sp_skill_quanji_gongji",
+    "useBatchNode" : "true",
+    "order" : "1",
+    "f79" : {
+      "remove" : "1"
+    }
+  },
+  "图层 1_2" : {
+    "f32" : {
+      "start" : {
+        "x" : "-0.15",
+        "y" : "180.2",
+        "rotation" : "0",
+        "scaleX" : "-1.5",
+        "scaleY" : "1.5",
+        "opacity" : "255"
+      }
+    },
+    "sp" : "sp_skill_quanji_gongji",
+    "useBatchNode" : "true",
+    "order" : "0",
+    "f80" : {
+      "remove" : "1"
+    }
+  },
+  "events" : {
+    "f81" : "finish"
+  },
+  "scale" : "2",
+  "png" : ""
+}

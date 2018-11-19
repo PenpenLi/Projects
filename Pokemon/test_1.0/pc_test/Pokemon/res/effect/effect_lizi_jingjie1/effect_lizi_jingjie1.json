@@ -1,0 +1,58 @@
+{
+  "图层 1_0" : {
+    "f1" : {
+      "start" : {
+        "x" : "27.15",
+        "y" : "-11.1",
+        "rotation" : "88.3",
+        "scaleX" : "2.43",
+        "scaleY" : "2.43",
+        "opacity" : "0",
+        "png" : "effect_lizi_jingjie1_1.png"
+      },
+      "nextFrame" : "f4",
+      "frames" : "4"
+    },
+    "order" : "0",
+    "f4" : {
+      "start" : {
+        "x" : "27.15",
+        "y" : "-11.1",
+        "rotation" : "88.3",
+        "scaleX" : "1.5",
+        "scaleY" : "1.5",
+        "opacity" : "255",
+        "png" : "effect_lizi_jingjie1_1.png"
+      },
+      "nextFrame" : "f12",
+      "frames" : "9"
+    },
+    "f12" : {
+      "start" : {
+        "x" : "27.15",
+        "y" : "-11.1",
+        "rotation" : "115.75",
+        "scaleX" : "1.19",
+        "scaleY" : "1.19",
+        "opacity" : "255",
+        "png" : "effect_lizi_jingjie1_1.png"
+      },
+      "nextFrame" : "f16",
+      "frames" : "5"
+    },
+    "f16" : {
+      "start" : {
+        "x" : "27.15",
+        "y" : "-11.1",
+        "rotation" : "147.21",
+        "scaleX" : "0.7",
+        "scaleY" : "0.7",
+        "opacity" : "0",
+        "png" : "effect_lizi_jingjie1_1.png"
+      }
+    }
+  },
+  "events" : {
+    "f17" : "finish"
+  }
+}

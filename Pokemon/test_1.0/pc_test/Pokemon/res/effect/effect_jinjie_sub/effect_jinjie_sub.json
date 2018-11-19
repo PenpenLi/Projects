@@ -1,0 +1,50 @@
+{
+  "图层 2_0" : {
+
+  },
+  "图层 1_1" : {
+    "f1" : {
+      "start" : {
+        "x" : "-8.85",
+        "y" : "-0.05",
+        "rotation" : "0",
+        "scaleX" : "0.18",
+        "scaleY" : "0.29",
+        "opacity" : "0",
+        "png" : "effect_jinjie_sub_1.png"
+      },
+      "nextFrame" : "f21",
+      "frames" : "21"
+    },
+    "order" : "0",
+    "f21" : {
+      "start" : {
+        "x" : "-23.25",
+        "y" : "-0.1",
+        "rotation" : "0",
+        "scaleX" : "0.48",
+        "scaleY" : "0.52",
+        "opacity" : "255",
+        "png" : "effect_jinjie_sub_1.png"
+      },
+      "nextFrame" : "f40",
+      "frames" : "20"
+    },
+    "f40" : {
+      "start" : {
+        "x" : "-11.3",
+        "y" : "-0.1",
+        "rotation" : "0",
+        "scaleX" : "0.23",
+        "scaleY" : "0.48",
+        "opacity" : "0",
+        "png" : "effect_jinjie_sub_1.png"
+      }
+    }
+  },
+  "events" : {
+    "f41" : "finish"
+  },
+  "scale" : "1",
+  "png" : "effect_jinjie_sub.png"
+}

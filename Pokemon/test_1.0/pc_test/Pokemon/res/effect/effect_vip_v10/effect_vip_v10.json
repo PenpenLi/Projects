@@ -1,0 +1,97 @@
+{
+  "label_33_1" : {
+    "f7" : {
+      "start" : {
+        "x" : "0.25",
+        "y" : "0.05",
+        "rotation" : "-173.8",
+        "scaleX" : "0.42",
+        "scaleY" : "0.42",
+        "opacity" : "25",
+        "png" : "effect_vip_v10_1.png"
+      },
+      "nextFrame" : "f14",
+      "frames" : "8"
+    },
+    "order" : "1",
+    "f14" : {
+      "start" : {
+        "x" : "0.25",
+        "y" : "0.05",
+        "rotation" : "-141.31",
+        "scaleX" : "0.71",
+        "scaleY" : "0.71",
+        "opacity" : "255",
+        "png" : "effect_vip_v10_1.png"
+      },
+      "nextFrame" : "f23",
+      "frames" : "10"
+    },
+    "f23" : {
+      "start" : {
+        "x" : "0.25",
+        "y" : "0.05",
+        "rotation" : "-71.04",
+        "scaleX" : "0.42",
+        "scaleY" : "0.42",
+        "opacity" : "25",
+        "png" : "effect_vip_v10_1.png"
+      },
+      "nextFrame" : "f24",
+      "frames" : "2"
+    },
+    "f24" : {
+      "remove" : "1"
+    }
+  },
+  "label_34_2" : {
+    "f1" : {
+      "start" : {
+        "x" : "4.2",
+        "y" : "-0.3",
+        "rotation" : "-173.8",
+        "scaleX" : "0.26",
+        "scaleY" : "0.26",
+        "opacity" : "25",
+        "png" : "effect_vip_v10_1.png"
+      },
+      "nextFrame" : "f8",
+      "frames" : "8"
+    },
+    "order" : "0",
+    "f8" : {
+      "start" : {
+        "x" : "4.2",
+        "y" : "-0.3",
+        "rotation" : "-173.79",
+        "scaleX" : "0.44",
+        "scaleY" : "0.44",
+        "opacity" : "255",
+        "png" : "effect_vip_v10_1.png"
+      },
+      "nextFrame" : "f17",
+      "frames" : "10"
+    },
+    "f17" : {
+      "start" : {
+        "x" : "4.2",
+        "y" : "-0.3",
+        "rotation" : "-173.8",
+        "scaleX" : "0.26",
+        "scaleY" : "0.26",
+        "opacity" : "25",
+        "png" : "effect_vip_v10_1.png"
+      },
+      "nextFrame" : "f18",
+      "frames" : "2"
+    },
+    "f18" : {
+      "remove" : "1"
+    }
+  },
+  "events" : {
+    "f31" : "forever"
+  },
+  "scale" : "1",
+  "png" : "effect_vip_v10.png"
+}

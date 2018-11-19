@@ -1,0 +1,124 @@
+{
+  "图层 6 复制_1" : {
+    "f1" : {
+      "start" : {
+        "x" : "12.3",
+        "y" : "10.35",
+        "rotation" : "0",
+        "scaleX" : "2.04",
+        "scaleY" : "1.55",
+        "opacity" : "76"
+      },
+      "nextFrame" : "f17",
+      "frames" : "17"
+    },
+    "effect" : "effect_lightstrike_sub",
+    "useBatchNode" : "true",
+    "order" : "2",
+    "f17" : {
+      "start" : {
+        "x" : "12.3",
+        "y" : "54.25",
+        "rotation" : "0",
+        "scaleX" : "2.04",
+        "scaleY" : "2.04",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f35",
+      "frames" : "19"
+    },
+    "f35" : {
+      "start" : {
+        "x" : "12.3",
+        "y" : "10.35",
+        "rotation" : "0",
+        "scaleX" : "2.04",
+        "scaleY" : "1.55",
+        "opacity" : "76"
+      }
+    }
+  },
+  "图层 6_2" : {
+    "f1" : {
+      "start" : {
+        "x" : "8.25",
+        "y" : "57.1",
+        "rotation" : "0",
+        "scaleX" : "2.04",
+        "scaleY" : "2.04",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f17",
+      "frames" : "17"
+    },
+    "effect" : "effect_lightstrike_sub2",
+    "useBatchNode" : "true",
+    "order" : "1",
+    "f17" : {
+      "start" : {
+        "x" : "8.25",
+        "y" : "1.45",
+        "rotation" : "0",
+        "scaleX" : "2.04",
+        "scaleY" : "1.44",
+        "opacity" : "76"
+      },
+      "nextFrame" : "f35",
+      "frames" : "19"
+    },
+    "f35" : {
+      "start" : {
+        "x" : "8.25",
+        "y" : "57.1",
+        "rotation" : "0",
+        "scaleX" : "2.04",
+        "scaleY" : "2.04",
+        "opacity" : "255"
+      }
+    }
+  },
+  "图层 5_3" : {
+    "f1" : {
+      "start" : {
+        "x" : "16.85",
+        "y" : "41.6",
+        "rotation" : "0",
+        "scaleX" : "2.18",
+        "scaleY" : "2.18",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f17",
+      "frames" : "17"
+    },
+    "effect" : "effect_wujiangfenjie_sub",
+    "useBatchNode" : "true",
+    "order" : "0",
+    "f17" : {
+      "start" : {
+        "x" : "16.85",
+        "y" : "41.6",
+        "rotation" : "0",
+        "scaleX" : "2.18",
+        "scaleY" : "2.18",
+        "opacity" : "76"
+      },
+      "nextFrame" : "f35",
+      "frames" : "19"
+    },
+    "f35" : {
+      "start" : {
+        "x" : "16.85",
+        "y" : "41.6",
+        "rotation" : "0",
+        "scaleX" : "2.18",
+        "scaleY" : "2.18",
+        "opacity" : "255"
+      }
+    }
+  },
+  "events" : {
+    "f35" : "forever"
+  },
+  "scale" : "1",
+  "png" : ""
+}

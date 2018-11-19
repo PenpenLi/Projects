@@ -1,0 +1,84 @@
+{
+  "base_layer" : {
+    "f1" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    }
+  },
+  "card_layer" : {
+    "f1" : {
+      "start" : {
+        "x" : "1",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    },
+    "f4" : {
+      "start" : {
+        "x" : "0.45",
+        "y" : "-0.05",
+        "rotation" : "19.58",
+        "scaleX" : "1",
+        "scaleY" : "0.9",
+        "opacity" : "255"
+      }
+    },
+    "f15" : {
+      "start" : {
+        "x" : "0.45",
+        "y" : "-0.05",
+        "rotation" : "19.58",
+        "scaleX" : "1",
+        "scaleY" : "0.9",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f20",
+      "frames" : "6"
+    },
+    "f20" : {
+      "start" : {
+        "x" : "1",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    }
+  },
+  "sp_stage_center_layer" : {
+
+  },
+  "sp_up_layer" : {
+    "f1" : {
+      "start" : {
+        "x" : "-168.3",
+        "y" : "169.55",
+        "rotation" : "0",
+        "scaleX" : "-0.84",
+        "scaleY" : "0.84",
+        "opacity" : "255"
+      }
+    },
+    "f20" : {
+      "remove" : "1"
+    },
+    "useBatchNode" : "true",
+    "spId" : "sp_cont_mhfp_hit_1"
+  },
+  "sp_down_layer" : {
+
+  },
+  "events" : {
+    "f21" : "finish"
+  }
+}

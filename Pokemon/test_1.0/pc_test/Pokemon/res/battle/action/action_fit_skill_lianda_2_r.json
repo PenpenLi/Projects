@@ -1,0 +1,232 @@
+{
+  "base_layer" : {
+    "f1" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    }
+  },
+  "card_layer" : {
+    "f1" : {
+      "start" : {
+        "x" : "0",
+        "y" : "2.4",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    },
+    "f6" : {
+      "start" : {
+        "x" : "0",
+        "y" : "2.4",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f9",
+      "frames" : "4"
+    },
+    "f9" : {
+      "start" : {
+        "x" : "0",
+        "y" : "2.4",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "0.87",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f14",
+      "frames" : "6"
+    },
+    "f14" : {
+      "start" : {
+        "x" : "0",
+        "y" : "2.4",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1.17",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f19",
+      "frames" : "6"
+    },
+    "f19" : {
+      "start" : {
+        "x" : "0",
+        "y" : "2.4",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    },
+    "f44" : {
+      "start" : {
+        "x" : "0",
+        "y" : "42.4",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1.2",
+        "opacity" : "255"
+      }
+    },
+    "f48" : {
+      "start" : {
+        "x" : "0",
+        "y" : "2.4",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    },
+    "f52" : {
+      "start" : {
+        "x" : "0",
+        "y" : "42.4",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1.2",
+        "opacity" : "255"
+      }
+    },
+    "f56" : {
+      "start" : {
+        "x" : "0",
+        "y" : "2.4",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    },
+    "f60" : {
+      "start" : {
+        "x" : "0",
+        "y" : "42.4",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1.2",
+        "opacity" : "255"
+      }
+    },
+    "f64" : {
+      "start" : {
+        "x" : "0",
+        "y" : "2.4",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    },
+    "f68" : {
+      "start" : {
+        "x" : "0",
+        "y" : "42.4",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1.2",
+        "opacity" : "255"
+      }
+    },
+    "f72" : {
+      "start" : {
+        "x" : "0",
+        "y" : "2.4",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    },
+    "f76" : {
+      "start" : {
+        "x" : "0",
+        "y" : "42.4",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1.2",
+        "opacity" : "255"
+      }
+    },
+    "f80" : {
+      "start" : {
+        "x" : "0",
+        "y" : "2.4",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    },
+    "f84" : {
+      "start" : {
+        "x" : "0",
+        "y" : "42.4",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1.2",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f89",
+      "frames" : "6"
+    },
+    "f89" : {
+      "start" : {
+        "x" : "0",
+        "y" : "2.4",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "0.89",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f93",
+      "frames" : "5"
+    },
+    "f93" : {
+      "start" : {
+        "x" : "0",
+        "y" : "2.4",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    }
+  },
+  "sp_stage_center_layer" : {
+
+  },
+  "sp_up_layer" : {
+    "f2" : {
+      "start" : {
+        "x" : "0.7",
+        "y" : "2",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    },
+    "f44" : {
+      "remove" : "1"
+    },
+    "useBatchNode" : "true",
+    "spId" : "sp_skill_lianda_baoguang"
+  },
+  "sp_down_layer" : {
+
+  },
+  "events" : {
+    "f100" : "finish"
+  }
+}

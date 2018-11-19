@@ -1,0 +1,96 @@
+{
+  "light_circle" : {
+    "f26" : {
+      "start" : {
+        "x" : "20.1",
+        "y" : "95.9",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f34",
+      "frames" : "9"
+    },
+    "order" : "2",
+    "f34" : {
+      "start" : {
+        "x" : "20.1",
+        "y" : "95.9",
+        "rotation" : "0",
+        "scaleX" : "43.27",
+        "scaleY" : "43.27",
+        "opacity" : "255"
+      }
+    },
+    "f35" : {
+      "remove" : "1"
+    }
+  },
+  "effect_card_show" : {
+    "f1" : {
+      "start" : {
+        "x" : "0.45",
+        "y" : "110.65",
+        "rotation" : "0",
+        "scaleX" : "1.81",
+        "scaleY" : "1.81",
+        "opacity" : "255"
+      }
+    },
+    "order" : "1",
+    "f21" : {
+      "remove" : "1"
+    }
+  },
+  "char" : {
+    "f1" : {
+      "start" : {
+        "x" : "-8.1",
+        "y" : "-72.7",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "0"
+      }
+    },
+    "order" : "0",
+    "f12" : {
+      "start" : {
+        "x" : "-8.1",
+        "y" : "-72.7",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "0"
+      },
+      "nextFrame" : "f18",
+      "frames" : "7"
+    },
+    "f18" : {
+      "start" : {
+        "x" : "-8.1",
+        "y" : "-72.7",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    },
+    "f34" : {
+      "start" : {
+        "x" : "-8.1",
+        "y" : "-72.7",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    }
+  },
+  "events" : {
+    "f21" : "finish_appear",
+    "f34" : "next",
+    "f35" : "finish"
+  }
+}

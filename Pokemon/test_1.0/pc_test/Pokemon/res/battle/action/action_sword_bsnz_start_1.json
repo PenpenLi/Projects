@@ -1,0 +1,197 @@
+{
+  "base_layer" : {
+    "f1" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    }
+  },
+  "card_layer" : {
+    "f1" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f6",
+      "frames" : "6"
+    },
+    "f6" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "1.3",
+        "scaleY" : "1.3",
+        "color" : {
+          "alpha_original" : "1",
+          "alpha" : "0",
+          "red_original" : "1",
+          "red" : "130",
+          "green_original" : "1",
+          "green" : "0",
+          "blue_original" : "1",
+          "blue" : "-45"
+        }
+      },
+      "nextFrame" : "f9",
+      "frames" : "4"
+    },
+    "f9" : {
+      "start" : {
+        "x" : "-7.2",
+        "y" : "-31.85",
+        "rotation" : "38.35",
+        "scaleX" : "1.3",
+        "scaleY" : "1.08",
+        "color" : {
+          "alpha_original" : "1",
+          "alpha" : "0",
+          "red_original" : "1",
+          "red" : "130",
+          "green_original" : "1",
+          "green" : "0",
+          "blue_original" : "1",
+          "blue" : "-45"
+        }
+      },
+      "nextFrame" : "f11",
+      "frames" : "3"
+    },
+    "f11" : {
+      "start" : {
+        "x" : "104.45",
+        "y" : "140.75",
+        "rotation" : "-70.17",
+        "scaleX" : "1.42",
+        "scaleY" : "1.42",
+        "color" : {
+          "alpha_original" : "1",
+          "alpha" : "0",
+          "red_original" : "1",
+          "red" : "130",
+          "green_original" : "1",
+          "green" : "0",
+          "blue_original" : "1",
+          "blue" : "-45"
+        }
+      }
+    },
+    "f15" : {
+      "start" : {
+        "x" : "104.45",
+        "y" : "140.75",
+        "rotation" : "-70.17",
+        "scaleX" : "1.42",
+        "scaleY" : "1.42",
+        "color" : {
+          "alpha_original" : "1",
+          "alpha" : "0",
+          "red_original" : "1",
+          "red" : "130",
+          "green_original" : "1",
+          "green" : "0",
+          "blue_original" : "1",
+          "blue" : "-45"
+        }
+      }
+    },
+    "f16" : {
+      "start" : {
+        "x" : "35.45",
+        "y" : "87.45",
+        "rotation" : "-27.49",
+        "scaleX" : "1.4",
+        "scaleY" : "1.4",
+        "color" : {
+          "alpha_original" : "1",
+          "alpha" : "0",
+          "red_original" : "1",
+          "red" : "130",
+          "green_original" : "1",
+          "green" : "0",
+          "blue_original" : "1",
+          "blue" : "-45"
+        }
+      },
+      "nextFrame" : "f19",
+      "frames" : "4"
+    },
+    "f19" : {
+      "start" : {
+        "x" : "-10.05",
+        "y" : "-27.05",
+        "rotation" : "31.57",
+        "scaleX" : "1.3",
+        "scaleY" : "1.04",
+        "color" : {
+          "alpha_original" : "1",
+          "alpha" : "0",
+          "red_original" : "1",
+          "red" : "130",
+          "green_original" : "1",
+          "green" : "0",
+          "blue_original" : "1",
+          "blue" : "-45"
+        }
+      },
+      "nextFrame" : "f22",
+      "frames" : "4"
+    },
+    "f22" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "color" : {
+          "alpha_original" : "1",
+          "alpha" : "0",
+          "red_original" : "1",
+          "red" : "0",
+          "green_original" : "1",
+          "green" : "0",
+          "blue_original" : "1",
+          "blue" : "0"
+        }
+      }
+    }
+  },
+  "sp_stage_center_layer" : {
+
+  },
+  "sp_up_layer" : {
+    "f6" : {
+      "start" : {
+        "x" : "-9.65",
+        "y" : "94.75",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    },
+    "f27" : {
+      "remove" : "1"
+    },
+    "useBatchNode" : "true",
+    "spId" : "sp_sword_bsnz_start_1"
+  },
+  "sp_down_layer" : {
+    "useBatchNode" : "true"
+  },
+  "events" : {
+    "f11" : "hit",
+    "f12" : "hurt",
+    "f27" : "finish"
+  }
+}

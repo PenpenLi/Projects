@@ -1,0 +1,65 @@
+{
+  "元件 4_1" : {
+    "f1" : {
+      "start" : {
+        "x" : "-223.85",
+        "y" : "338.7",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "effect_citysquare_1.png"
+      }
+    },
+    "order" : "3"
+  },
+  "图层 3_2" : {
+    "f1" : {
+      "start" : {
+        "x" : "-35.3",
+        "y" : "368.05",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    },
+    "effect" : "effect_lantern",
+    "useBatchNode" : "true",
+    "order" : "2"
+  },
+  "图层 1 复制_3" : {
+    "f1" : {
+      "start" : {
+        "x" : "146.6",
+        "y" : "510.65",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "effect_citysquare_2.png"
+      }
+    },
+    "order" : "1"
+  },
+  "图层 7_4" : {
+    "f1" : {
+      "start" : {
+        "x" : "123.1",
+        "y" : "530.85",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    },
+    "effect" : "effect_cloud_city",
+    "useBatchNode" : "true",
+    "order" : "0"
+  },
+  "events" : {
+    "f340" : "forever"
+  },
+  "scale" : "1",
+  "png" : "effect_citysquare.png"
+}

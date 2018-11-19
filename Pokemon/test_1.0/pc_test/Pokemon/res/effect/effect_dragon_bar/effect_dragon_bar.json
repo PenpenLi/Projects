@@ -1,0 +1,56 @@
+{
+  "mask_rect_0" : {
+    "f1" : {
+      "start" : {
+        "x" : "-338.3",
+        "y" : "-0.8",
+        "rotation" : "0",
+        "scaleX" : "14.62",
+        "scaleY" : "6.17",
+        "opacity" : "255",
+        "png" : ""
+      }
+    },
+    "order" : "2",
+    "mask_info" : {
+      "width" : "23",
+      "height" : "11",
+      "mask_type" : "rect"
+    }
+  },
+  "bar_1" : {
+    "mask" : "mask_rect_0",
+    "f1" : {
+      "start" : {
+        "x" : "8.6",
+        "y" : "15.75",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    },
+    "effect" : "effect_dragon_bar_sub2",
+    "useBatchNode" : "true",
+    "order" : "1"
+  },
+  "图层 17_2" : {
+    "f1" : {
+      "start" : {
+        "x" : "-7.45",
+        "y" : "-5.5",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "effect_dragon_bar_1.png"
+      }
+    },
+    "order" : "0"
+  },
+  "events" : {
+    "f2" : "finish"
+  },
+  "scale" : "1",
+  "png" : "effect_dragon_bar.png"
+}

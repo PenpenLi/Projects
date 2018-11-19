@@ -1,0 +1,50 @@
+{
+  "图层 1_0" : {
+    "f1" : {
+      "start" : {
+        "x" : "35",
+        "y" : "-19.95",
+        "rotation" : "43.54",
+        "scaleX" : "1.12",
+        "scaleY" : "1.12",
+        "opacity" : "255",
+        "png" : "effect_xingqiu_b_1.png"
+      },
+      "nextFrame" : "f9",
+      "frames" : "9"
+    },
+    "order" : "0",
+    "f9" : {
+      "start" : {
+        "x" : "-1.25",
+        "y" : "5.2",
+        "rotation" : "32.36",
+        "scaleX" : "1.54",
+        "scaleY" : "1.54",
+        "opacity" : "255",
+        "png" : "effect_xingqiu_b_1.png"
+      },
+      "nextFrame" : "f17",
+      "frames" : "9"
+    },
+    "f17" : {
+      "start" : {
+        "x" : "-36.1",
+        "y" : "18.45",
+        "rotation" : "151.25",
+        "scaleX" : "1.07",
+        "scaleY" : "1.07",
+        "opacity" : "255",
+        "png" : "effect_xingqiu_b_1.png"
+      }
+    },
+    "f18" : {
+      "remove" : "1"
+    }
+  },
+  "events" : {
+    "f19" : "finish"
+  },
+  "scale" : "1",
+  "png" : "effect_xingqiu_b.png"
+}

@@ -1,0 +1,241 @@
+{
+  "三国少年王_0" : {
+    "f165" : {
+      "start" : {
+        "x" : "-91.4",
+        "y" : "-0.75",
+        "rotation" : "0",
+        "scaleX" : "0.9",
+        "scaleY" : "0.9",
+        "opacity" : "255"
+      }
+    },
+    "effect" : "effect_poem_sub4",
+    "useBatchNode" : "true",
+    "order" : "7",
+    "f230" : {
+      "remove" : "1"
+    }
+  },
+  "借问谁家子_1" : {
+    "f111" : {
+      "start" : {
+        "x" : "-29.9",
+        "y" : "-0.75",
+        "rotation" : "0",
+        "scaleX" : "0.9",
+        "scaleY" : "0.9",
+        "opacity" : "255"
+      }
+    },
+    "effect" : "effect_poem_sub3",
+    "useBatchNode" : "true",
+    "order" : "6",
+    "f155" : {
+      "remove" : "1"
+    }
+  },
+  "连翩西北驰_2" : {
+    "f55" : {
+      "start" : {
+        "x" : "31.6",
+        "y" : "-0.75",
+        "rotation" : "0",
+        "scaleX" : "0.9",
+        "scaleY" : "0.9",
+        "opacity" : "255"
+      }
+    },
+    "effect" : "effect_poem_sub2",
+    "useBatchNode" : "true",
+    "order" : "5",
+    "f100" : {
+      "remove" : "1"
+    }
+  },
+  "白马饰金羁_3" : {
+    "f1" : {
+      "start" : {
+        "x" : "93.1",
+        "y" : "-0.75",
+        "rotation" : "0",
+        "scaleX" : "0.9",
+        "scaleY" : "0.9",
+        "opacity" : "255"
+      }
+    },
+    "effect" : "effect_poem_sub1",
+    "useBatchNode" : "true",
+    "order" : "4",
+    "f45" : {
+      "remove" : "1"
+    }
+  },
+  "m_4_4" : {
+    "f230" : {
+      "start" : {
+        "x" : "-91.4",
+        "y" : "-0.75",
+        "rotation" : "0",
+        "scaleX" : "0.9",
+        "scaleY" : "0.9",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f270",
+      "frames" : "41"
+    },
+    "effect" : "effect_poem_sub4_sub1",
+    "useBatchNode" : "true",
+    "order" : "3",
+    "f270" : {
+      "start" : {
+        "x" : "-91.4",
+        "y" : "-0.75",
+        "rotation" : "0",
+        "scaleX" : "0.9",
+        "scaleY" : "0.9",
+        "opacity" : "255"
+      }
+    }
+  },
+  "m_3_5" : {
+    "f155" : {
+      "start" : {
+        "x" : "-29.9",
+        "y" : "-0.75",
+        "rotation" : "0",
+        "scaleX" : "0.9",
+        "scaleY" : "0.9",
+        "opacity" : "255"
+      }
+    },
+    "effect" : "effect_poem_sub3_sub1",
+    "useBatchNode" : "true",
+    "order" : "2",
+    "f230" : {
+      "start" : {
+        "x" : "-29.9",
+        "y" : "-0.75",
+        "rotation" : "0",
+        "scaleX" : "0.9",
+        "scaleY" : "0.9",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f256",
+      "frames" : "27"
+    },
+    "f256" : {
+      "start" : {
+        "x" : "-29.9",
+        "y" : "-0.75",
+        "rotation" : "0",
+        "scaleX" : "0.9",
+        "scaleY" : "0.9",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f270",
+      "frames" : "15"
+    },
+    "f270" : {
+      "start" : {
+        "x" : "-29.9",
+        "y" : "-0.75",
+        "rotation" : "0",
+        "scaleX" : "0.9",
+        "scaleY" : "0.9",
+        "opacity" : "216"
+      }
+    }
+  },
+  "m_2_6" : {
+    "f100" : {
+      "start" : {
+        "x" : "31.6",
+        "y" : "-0.75",
+        "rotation" : "0",
+        "scaleX" : "0.9",
+        "scaleY" : "0.9",
+        "opacity" : "255"
+      }
+    },
+    "effect" : "effect_poem_sub2_sub1",
+    "useBatchNode" : "true",
+    "order" : "1",
+    "f230" : {
+      "start" : {
+        "x" : "31.6",
+        "y" : "-0.75",
+        "rotation" : "0",
+        "scaleX" : "0.9",
+        "scaleY" : "0.9",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f243",
+      "frames" : "14"
+    },
+    "f243" : {
+      "start" : {
+        "x" : "31.6",
+        "y" : "-0.75",
+        "rotation" : "0",
+        "scaleX" : "0.9",
+        "scaleY" : "0.9",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f270",
+      "frames" : "28"
+    },
+    "f270" : {
+      "start" : {
+        "x" : "31.6",
+        "y" : "-0.75",
+        "rotation" : "0",
+        "scaleX" : "0.9",
+        "scaleY" : "0.9",
+        "opacity" : "178"
+      }
+    }
+  },
+  "m_1_7" : {
+    "f45" : {
+      "start" : {
+        "x" : "93.1",
+        "y" : "-0.75",
+        "rotation" : "0",
+        "scaleX" : "0.9",
+        "scaleY" : "0.9",
+        "opacity" : "255"
+      }
+    },
+    "effect" : "effect_poem_sub1_sub1",
+    "useBatchNode" : "true",
+    "order" : "0",
+    "f230" : {
+      "start" : {
+        "x" : "93.1",
+        "y" : "-0.75",
+        "rotation" : "0",
+        "scaleX" : "0.9",
+        "scaleY" : "0.9",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f270",
+      "frames" : "41"
+    },
+    "f270" : {
+      "start" : {
+        "x" : "93.1",
+        "y" : "-0.75",
+        "rotation" : "0",
+        "scaleX" : "0.9",
+        "scaleY" : "0.9",
+        "opacity" : "142"
+      }
+    }
+  },
+  "events" : {
+    "f271" : "finish"
+  },
+  "scale" : "1",
+  "png" : ""
+}

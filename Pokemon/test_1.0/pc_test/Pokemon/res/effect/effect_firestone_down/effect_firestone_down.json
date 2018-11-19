@@ -1,0 +1,61 @@
+{
+  "图层 4_1" : {
+    "f1" : {
+      "start" : {
+        "x" : "-2.05",
+        "y" : "72",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "0",
+        "png" : "effect_firestone_down_1.png"
+      },
+      "nextFrame" : "f19",
+      "frames" : "19"
+    },
+    "order" : "1",
+    "f19" : {
+      "start" : {
+        "x" : "-2.05",
+        "y" : "72",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "211",
+        "png" : "effect_firestone_down_1.png"
+      },
+      "nextFrame" : "f50",
+      "frames" : "32"
+    },
+    "f50" : {
+      "start" : {
+        "x" : "-2.05",
+        "y" : "72",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "0",
+        "png" : "effect_firestone_down_1.png"
+      }
+    }
+  },
+  "图层 2_2" : {
+    "f1" : {
+      "start" : {
+        "x" : "43.15",
+        "y" : "81.05",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "effect_firestone_down_2.png"
+      }
+    },
+    "order" : "0"
+  },
+  "events" : {
+    "f50" : "forever"
+  },
+  "scale" : "1",
+  "png" : "effect_firestone_down.png"
+}

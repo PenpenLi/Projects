@@ -1,0 +1,108 @@
+{
+  "图层 3_0" : {
+    "f1" : {
+      "start" : {
+        "x" : "77.85",
+        "y" : "-84.45",
+        "rotation" : "0",
+        "scaleX" : "1.55",
+        "scaleY" : "1.55",
+        "opacity" : "255",
+        "png" : "sp_hutou_1.png"
+      },
+      "nextFrame" : "f7",
+      "frames" : "7"
+    },
+    "order" : "2",
+    "f7" : {
+      "start" : {
+        "x" : "71.7",
+        "y" : "-92.1",
+        "rotation" : "0",
+        "scaleX" : "3.56",
+        "scaleY" : "3.56",
+        "opacity" : "0",
+        "png" : "sp_hutou_1.png"
+      }
+    },
+    "f8" : {
+      "remove" : "1"
+    }
+  },
+  "图层 1_1" : {
+    "f1" : {
+      "start" : {
+        "x" : "76.95",
+        "y" : "-85.15",
+        "rotation" : "0",
+        "scaleX" : "1.31",
+        "scaleY" : "1.31",
+        "opacity" : "255",
+        "png" : "sp_hutou_1.png"
+      },
+      "nextFrame" : "f8",
+      "frames" : "8"
+    },
+    "order" : "1",
+    "f8" : {
+      "start" : {
+        "x" : "74.75",
+        "y" : "-84",
+        "rotation" : "0",
+        "scaleX" : "1.84",
+        "scaleY" : "1.84",
+        "opacity" : "0",
+        "png" : "sp_hutou_1.png"
+      }
+    },
+    "f9" : {
+      "remove" : "1"
+    }
+  },
+  "图层 2_2" : {
+    "f1" : {
+      "start" : {
+        "x" : "76.95",
+        "y" : "-85.15",
+        "rotation" : "0",
+        "scaleX" : "1.31",
+        "scaleY" : "1.31",
+        "opacity" : "255",
+        "png" : "sp_hutou_1.png"
+      }
+    },
+    "order" : "0",
+    "f6" : {
+      "start" : {
+        "x" : "76.95",
+        "y" : "-85.15",
+        "rotation" : "0",
+        "scaleX" : "1.31",
+        "scaleY" : "1.31",
+        "opacity" : "255",
+        "png" : "sp_hutou_1.png"
+      },
+      "nextFrame" : "f14",
+      "frames" : "9"
+    },
+    "f14" : {
+      "start" : {
+        "x" : "76.95",
+        "y" : "-85.15",
+        "rotation" : "0",
+        "scaleX" : "1.31",
+        "scaleY" : "1.31",
+        "opacity" : "0",
+        "png" : "sp_hutou_1.png"
+      }
+    },
+    "f15" : {
+      "remove" : "1"
+    }
+  },
+  "events" : {
+    "f16" : "finish"
+  },
+  "scale" : "2",
+  "png" : "sp_hutou.png"
+}

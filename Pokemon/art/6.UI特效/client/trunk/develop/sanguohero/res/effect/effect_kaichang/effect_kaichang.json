@@ -1,0 +1,125 @@
+{
+  "hei3_1" : {
+    "f1" : {
+      "start" : {
+        "x" : "-18.45",
+        "y" : "-644.95",
+        "rotation" : "0",
+        "scaleX" : "176",
+        "scaleY" : "65.06",
+        "opacity" : "255",
+        "png" : "effect_kaichang_1.png"
+      }
+    },
+    "order" : "6"
+  },
+  "hei2_2" : {
+    "f1" : {
+      "start" : {
+        "x" : "-18.45",
+        "y" : "515.05",
+        "rotation" : "0",
+        "scaleX" : "176",
+        "scaleY" : "60.52",
+        "opacity" : "255",
+        "png" : "effect_kaichang_1.png"
+      }
+    },
+    "order" : "5"
+  },
+  "aa_3" : {
+    "f1" : {
+      "start" : {
+        "x" : "277.95",
+        "y" : "-183",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    },
+    "effect" : "effect_kaichang_sub1",
+    "useBatchNode" : "true",
+    "order" : "4",
+    "f107" : {
+      "remove" : "1"
+    }
+  },
+  "bb_4" : {
+    "f111" : {
+      "start" : {
+        "x" : "-22",
+        "y" : "-112.9",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    },
+    "effect" : "effect_kaichang_sub2",
+    "useBatchNode" : "true",
+    "order" : "3",
+    "f233" : {
+      "remove" : "1"
+    }
+  },
+  "cc_5" : {
+    "f233" : {
+      "start" : {
+        "x" : "-19.95",
+        "y" : "-147",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    },
+    "effect" : "effect_kaichang_sub3",
+    "useBatchNode" : "true",
+    "order" : "2",
+    "f363" : {
+      "remove" : "1"
+    }
+  },
+  "dd_6" : {
+    "f363" : {
+      "start" : {
+        "x" : "424.05",
+        "y" : "17",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    },
+    "effect" : "effect_kaichang_sub4",
+    "useBatchNode" : "true",
+    "order" : "1"
+  },
+  "hei1_7" : {
+    "f1" : {
+      "start" : {
+        "x" : "-17.45",
+        "y" : "-36.95",
+        "rotation" : "0",
+        "scaleX" : "172.2",
+        "scaleY" : "298.2",
+        "opacity" : "255",
+        "png" : "effect_kaichang_1.png"
+      }
+    },
+    "order" : "0"
+  },
+  "events" : {
+    "f1" : "kxdh1",
+    "f15" : "kcpb1",
+    "f109" : "kcpb2",
+    "f111" : "kxdh3",
+    "f233" : "kcpb3",
+    "f357" : "kxdh2",
+    "f363" : "kcpb4",
+    "f477" : "finish"
+  },
+  "scale" : "1",
+  "png" : "effect_kaichang.png"
+}

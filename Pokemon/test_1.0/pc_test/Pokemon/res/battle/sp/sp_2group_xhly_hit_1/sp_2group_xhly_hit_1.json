@@ -1,0 +1,43 @@
+{
+  "图层 1_0" : {
+    "f1" : {
+      "start" : {
+        "x" : "30.9",
+        "y" : "-3.15",
+        "rotation" : "-106.36",
+        "scaleX" : "2.34",
+        "scaleY" : "2.34",
+        "opacity" : "255"
+      }
+    },
+    "sp" : "sp_2group_xhly_hit_2",
+    "useBatchNode" : "true",
+    "order" : "1",
+    "f10" : {
+      "remove" : "1"
+    }
+  },
+  "特效上_1" : {
+    "f1" : {
+      "start" : {
+        "x" : "43.65",
+        "y" : "40.45",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "204"
+      }
+    },
+    "sp" : "sp_range_fire_hit_1",
+    "useBatchNode" : "true",
+    "order" : "0",
+    "f10" : {
+      "remove" : "1"
+    }
+  },
+  "events" : {
+    "f11" : "finish"
+  },
+  "scale" : "1",
+  "png" : ""
+}

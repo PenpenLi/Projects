@@ -1,0 +1,97 @@
+{
+  "图层 1_1" : {
+    "f1" : {
+      "start" : {
+        "x" : "-81.9",
+        "y" : "574.1",
+        "rotation" : "0",
+        "scaleX" : "1.89",
+        "scaleY" : "1.89",
+        "opacity" : "255"
+      }
+    },
+    "effect" : "effect_bird_sub3_hg",
+    "useBatchNode" : "true",
+    "order" : "5"
+  },
+  "effect_bird_sub1_hg_2" : {
+    "f1" : {
+      "start" : {
+        "x" : "202.15",
+        "y" : "374.75",
+        "rotation" : "0",
+        "scaleX" : "2.4",
+        "scaleY" : "1.96",
+        "opacity" : "255"
+      }
+    },
+    "effect" : "effect_bird_sub1_hg",
+    "useBatchNode" : "true",
+    "order" : "4"
+  },
+  "effect_bird_sub2_hg_3" : {
+    "f1" : {
+      "start" : {
+        "x" : "200.45",
+        "y" : "402.8",
+        "rotation" : "0",
+        "scaleX" : "2.22",
+        "scaleY" : "2.22",
+        "opacity" : "255"
+      }
+    },
+    "effect" : "effect_bird_sub2_hg",
+    "useBatchNode" : "true",
+    "order" : "3"
+  },
+  "effect_bird_sub1_hg_4" : {
+    "f1" : {
+      "start" : {
+        "x" : "37.9",
+        "y" : "-610.7",
+        "rotation" : "0",
+        "scaleX" : "-2.4",
+        "scaleY" : "1.96",
+        "opacity" : "255"
+      }
+    },
+    "effect" : "effect_bird_sub1_hg",
+    "useBatchNode" : "true",
+    "order" : "2"
+  },
+  "effect_bird_sub2_hg_5" : {
+    "f1" : {
+      "start" : {
+        "x" : "101.55",
+        "y" : "-602.9",
+        "rotation" : "0",
+        "scaleX" : "1.85",
+        "scaleY" : "1.85",
+        "opacity" : "255"
+      }
+    },
+    "effect" : "effect_bird_sub2_hg",
+    "useBatchNode" : "true",
+    "order" : "1"
+  },
+  "effect_bird_sub3_hg_6" : {
+    "f1" : {
+      "start" : {
+        "x" : "114.7",
+        "y" : "-27.25",
+        "rotation" : "0",
+        "scaleX" : "-2.51",
+        "scaleY" : "2.05",
+        "opacity" : "255"
+      }
+    },
+    "effect" : "effect_bird_sub3_hg",
+    "useBatchNode" : "true",
+    "order" : "0"
+  },
+  "events" : {
+    "f150" : "forever"
+  },
+  "scale" : "1",
+  "png" : ""
+}

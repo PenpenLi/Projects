@@ -1,0 +1,99 @@
+{
+  "图层 1_1" : {
+    "f1" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "effect_dipan_sub1_1.png"
+      },
+      "nextFrame" : "f5",
+      "frames" : "5"
+    },
+    "order" : "0",
+    "f5" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "59.95",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "effect_dipan_sub1_1.png"
+      },
+      "nextFrame" : "f9",
+      "frames" : "5"
+    },
+    "f9" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "120",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "effect_dipan_sub1_1.png"
+      },
+      "nextFrame" : "f13",
+      "frames" : "5"
+    },
+    "f13" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "180",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "effect_dipan_sub1_1.png"
+      },
+      "nextFrame" : "f17",
+      "frames" : "5"
+    },
+    "f17" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "240",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "effect_dipan_sub1_1.png"
+      },
+      "nextFrame" : "f21",
+      "frames" : "5"
+    },
+    "f21" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "300",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "effect_dipan_sub1_1.png"
+      },
+      "nextFrame" : "f25",
+      "frames" : "5"
+    },
+    "f25" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "359",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "effect_dipan_sub1_1.png"
+      }
+    }
+  },
+  "events" : {
+    "f25" : "forever"
+  },
+  "scale" : "1",
+  "png" : "effect_dipan_sub1.png"
+}

@@ -1,0 +1,44 @@
+{
+  "Layer 2_0" : {
+    "f1" : {
+      "start" : {
+        "x" : "0",
+        "y" : "-18",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "effect_bubble_purple_1.png"
+      }
+    },
+    "order" : "1"
+  },
+  "content_1" : {
+    "f1" : {
+      "start" : {
+        "x" : "-0.95",
+        "y" : "-1.35",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "color" : {
+          "alpha_original" : "1",
+          "alpha" : "0",
+          "red_original" : "1",
+          "red" : "80",
+          "green_original" : "1",
+          "green" : "-86",
+          "blue_original" : "1",
+          "blue" : "91"
+        }
+      }
+    },
+    "effect" : "effect_bubble",
+    "order" : "0"
+  },
+  "events" : {
+    "f2" : "finish"
+  },
+  "scale" : "1",
+  "png" : "effect_bubble_purple.png"
+}

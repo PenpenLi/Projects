@@ -1,0 +1,52 @@
+{
+  "图层 2_0" : {
+    "f1" : {
+      "start" : {
+        "x" : "50.75",
+        "y" : "411.05",
+        "rotation" : "93.76",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f6",
+      "frames" : "6"
+    },
+    "sp" : "sp_range_fire_shoot_1",
+    "useBatchNode" : "true",
+    "order" : "1",
+    "f6" : {
+      "start" : {
+        "x" : "-9.95",
+        "y" : "-16.25",
+        "rotation" : "93.76",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    },
+    "f7" : {
+      "remove" : "1"
+    }
+  },
+  "图层 1_1" : {
+    "f6" : {
+      "start" : {
+        "x" : "121.35",
+        "y" : "372.6",
+        "rotation" : "0",
+        "scaleX" : "0.7",
+        "scaleY" : "0.7",
+        "opacity" : "255"
+      }
+    },
+    "sp" : "sp_2group_ysjf_hit_1",
+    "useBatchNode" : "true",
+    "order" : "0"
+  },
+  "events" : {
+    "f20" : "finish"
+  },
+  "scale" : "2",
+  "png" : ""
+}

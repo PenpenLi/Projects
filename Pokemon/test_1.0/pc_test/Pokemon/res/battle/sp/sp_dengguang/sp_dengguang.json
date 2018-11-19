@@ -1,0 +1,47 @@
+{
+  "图层 2_0" : {
+    "f1" : {
+      "start" : {
+        "x" : "1.3",
+        "y" : "-5.4",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "sp_dengguang_1.png"
+      },
+      "nextFrame" : "f18",
+      "frames" : "18"
+    },
+    "order" : "0",
+    "f18" : {
+      "start" : {
+        "x" : "1.3",
+        "y" : "-5.4",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "0",
+        "png" : "sp_dengguang_1.png"
+      },
+      "nextFrame" : "f34",
+      "frames" : "17"
+    },
+    "f34" : {
+      "start" : {
+        "x" : "1.3",
+        "y" : "-5.4",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "sp_dengguang_1.png"
+      }
+    }
+  },
+  "events" : {
+    "f35" : "finish"
+  },
+  "scale" : "2",
+  "png" : "sp_dengguang.png"
+}

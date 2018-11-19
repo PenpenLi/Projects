@@ -1,0 +1,55 @@
+{
+  "图层 2_0" : {
+    "f3" : {
+      "start" : {
+        "x" : "59.65",
+        "y" : "-44",
+        "rotation" : "-90",
+        "scaleX" : "0.35",
+        "scaleY" : "3.95",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f6",
+      "frames" : "4"
+    },
+    "sp" : "sp_xyls_bullet",
+    "useBatchNode" : "true",
+    "order" : "1",
+    "f6" : {
+      "start" : {
+        "x" : "59.65",
+        "y" : "226",
+        "rotation" : "-90",
+        "scaleX" : "0.35",
+        "scaleY" : "3.95",
+        "opacity" : "255"
+      }
+    },
+    "f7" : {
+      "remove" : "1"
+    }
+  },
+  "图层 1_1" : {
+    "f1" : {
+      "start" : {
+        "x" : "58.8",
+        "y" : "-217.2",
+        "rotation" : "-60",
+        "scaleX" : "0.74",
+        "scaleY" : "0.74",
+        "opacity" : "255"
+      }
+    },
+    "sp" : "sp_sword_start_1",
+    "useBatchNode" : "true",
+    "order" : "0",
+    "f7" : {
+      "remove" : "1"
+    }
+  },
+  "events" : {
+    "f8" : "finish"
+  },
+  "scale" : "2",
+  "png" : ""
+}
