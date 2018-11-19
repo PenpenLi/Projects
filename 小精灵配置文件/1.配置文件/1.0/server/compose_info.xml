@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- id=id compose_level=合成等级 item_id=目标道具id item_type=目标道具种类 item_size=目标道具数量 son_id=合成子道具id son_type=合成子道具种类 son_size=合成所需子道具数量 compose_cost=合成费用 max_cost=合成最大费用 max_compose=合成最大个数 -->
+<root>
+    <data id="1" compose_level="65" item_id="13" item_type="11" item_size="1" son_id="10" son_type="11" son_size="10" compose_cost="1000" max_cost="999999" max_compose="99999" />
+    <data id="2" compose_level="65" item_id="13" item_type="11" item_size="1" son_id="11" son_type="11" son_size="5" compose_cost="1000" max_cost="999999" max_compose="99999" />
+    <data id="3" compose_level="65" item_id="13" item_type="11" item_size="1" son_id="12" son_type="11" son_size="2" compose_cost="1000" max_cost="999999" max_compose="99999" />
+    <data id="4" compose_level="70" item_id="199" item_type="26" item_size="1" son_id="198" son_type="26" son_size="5" compose_cost="1000" max_cost="999999" max_compose="99999" />
+    <data id="5" compose_level="70" item_id="200" item_type="26" item_size="1" son_id="199" son_type="26" son_size="2" compose_cost="1000" max_cost="999999" max_compose="99999" />
+    <data id="6" compose_level="70" item_id="203" item_type="27" item_size="1" son_id="201" son_type="27" son_size="4" compose_cost="1000" max_cost="999999" max_compose="99999" />
+    <data id="7" compose_level="70" item_id="203" item_type="27" item_size="1" son_id="202" son_type="27" son_size="2" compose_cost="1000" max_cost="999999" max_compose="99999" />
+    <data id="8" compose_level="70" item_id="290" item_type="26" item_size="1" son_id="200" son_type="26" son_size="10" compose_cost="1000" max_cost="999999" max_compose="99999" />
+</root>

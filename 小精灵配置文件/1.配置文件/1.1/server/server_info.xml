@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <user_ceiling>60000</user_ceiling> <!-- 服务器的玩家上限 -->
+  <recharge_back>1461081600</recharge_back> <!-- 封测冲返到期时间-->
+  <token_time_up>3600</token_time_up> <!-- 玩家token有效期 -->
+  <token_time_down>172800</token_time_down> <!-- 玩家token有效期 -->
+  <language>0</language> <!-- 语言版本号(0:大陆,1:台湾) -->
+  <recharge_rate>10</recharge_rate> <!-- 充值比例%(大陆:[1:10],台湾[1:2],新加坡/马来西亚:[1:0.6]) -->
+  <battle_cd>10</battle_cd> <!-- 战斗CD 秒 -->
+  <create_ip_limit>100</create_ip_limit> <!-- 同ip建号数量限制(服务器重启后清0) -->
+  <boss_offline_user_limit>1</boss_offline_user_limit> <!-- BOSS踢出玩家开关 0:关闭 1:开启 -->
+  <rookie>0</rookie> <!-- 新手活动开关：0:关闭,1:开启 -->
+  <battle_log>0</battle_log> <!-- 战斗log开关：0:关闭,1:开启 -->
+  <days_seven_comp>1</days_seven_comp> <!-- 开服七日战力排行领奖活动 0:关闭 1:开启 -->
+</root>
