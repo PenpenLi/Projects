@@ -15,5 +15,5 @@ function writefile(test)
 	file:close()
 end
 
-attrdir ("D:\\k007\\doc\\1.ÅäÖÃÎÄ¼ş\\config")
+attrdir ("config")
 
