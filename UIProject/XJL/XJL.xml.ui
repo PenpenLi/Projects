@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <UIProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <ProjectDir>C:\Projects\UIProject\XJL</ProjectDir>
+  <ProjectDir>G:\Projects\UIProject\XJL</ProjectDir>
   <Version>1.6.0.0</Version>
-  <Resources>C:\Projects\UIProject\XJL\Resources</Resources>
+  <Resources>G:\Projects\UIProject\XJL\Resources</Resources>
   <Name>XJL</Name>
   <JsonFileName>XJL.json</JsonFileName>
-  <JsonFolder>C:\Projects\UIProject\XJL\Json</JsonFolder>
+  <JsonFolder>G:\Projects\UIProject\XJL\Json</JsonFolder>
   <JsonList>
     <string>activity_ActivityBorderButton.json</string>
     <string>activity_ActivityCaishen.json</string>
@@ -37,16 +37,31 @@
     <string>mainscene_MainScene.json</string>
     <string>mainscene_MainScene_0.json</string>
     <string>activity_ActivityInvitedLayer.json</string>
+    <string>vip_vipMainLayer.json</string>
+    <string>dungeon_DungeonFastBounsLayer.json</string>
+    <string>bag_ItemUseMultiTimesLayer.json</string>
+    <string>vip_hardLevelChooseLayer.json</string>
+    <string>knight_info.json</string>
+    <string>wush_hero.json</string>
+    <string>HeroGod_AttrPreview1.json</string>
+    <string>HeroGuanhuan_Result.json</string>
+    <string>knight_cast.json</string>
+    <string>knight_equipItem.json</string>
+    <string>equipment_EquipmentListCell.json</string>
   </JsonList>
   <CanvasSize>
-    <Width>960</Width>
-    <Height>640</Height>
+    <Width>640</Width>
+    <Height>853</Height>
   </CanvasSize>
-  <filePath>C:\Projects\UIProject\XJL\XJL.xml.ui</filePath>
+  <filePath>G:\Projects\UIProject\XJL\XJL.xml.ui</filePath>
   <ProjectType>UIProject</ProjectType>
   <ResRelativePath />
-  <imageFileList />
-  <imagePngList />
+  <imageFileList>
+    <string>ui/common/common_1.plist</string>
+  </imageFileList>
+  <imagePngList>
+    <string>ui/common/common_1.plist</string>
+  </imagePngList>
   <JsonSuffix>.json</JsonSuffix>
-  <CurrentUIJson>activity_ActivityInvitedLayer.json</CurrentUIJson>
+  <CurrentUIJson>equipment_EquipmentListCell.json</CurrentUIJson>
 </UIProject>

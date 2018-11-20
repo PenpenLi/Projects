@@ -80,3 +80,268 @@ lastname=xlj2
 ComSdkUtils.getOpId  1
 get server list: http://114.55.172.5:8087/serverlist?opid=1&sdk_id=1&cv=105
 show Panel_login
+TestProxy:_loginPlatform
+TestProxy:getLoginUserName
+TestProxy:getLoginUserName3  xlj2
+TestProxy:getLoginUserName
+TestProxy:getLoginUserName3  xlj2
+TestProxy:_loginPlatform222  xlj2
+login game:  http://114.55.172.5:8087/api?op_id=1&pid=xlj2&token=test
+onConnect connIndex:[0] address:[114.55.172.5:9001] connected success.
+onConnect erase connIndex from m_reconnectingMap | m_disconnectedMap
+HandlerBase:sendMsg  CoreHandler  10000
+addRequest  10000
+sendLoginGame:    test device  21  eyJwaWQiOiJ4bGoyIiwic2lnbiI6IjBkYWJkYjMwZTE5OTA3OWExM2UwMGFkZGU4ZTg5Zjc0IiwidGltZSI6IjE1NDI2NDgyMzMiLCJ1aWQiOiI3Mzg4NyJ9
+HandlerBase:sendMsg  CoreHandler  10002
+addRequest  10002
+PlatformProxy:setPlatformId
+=========_recvLoginMsg======
+login game success ...
+HandlerBase:sendMsg  CoreHandler  10011
+addRequest  10011
+HandlerBase:sendMsg  CoreHandler  10006
+addRequest  10006
+TestProxy:getLoginUserName
+TestProxy:getLoginUserName3  xlj2
+lastname=xlj2
+HandlerBase:sendMsg  CoreHandler  10006
+addRequest  10006
+HandlerBase:sendMsg  CoreHandler  10006
+addRequest  10006
+HandlerBase:sendMsg  CoreHandler  10006
+addRequest  10006
+[ERROR] _recvTreasureFragmentMsg data error 
+HandlerBase:sendMsg  CoreHandler  10006
+addRequest  10006
+[default] [checkEffectEquip] log:_onReceiveFightResource, flag=0
+HandlerBase:sendMsg  CoreHandler  10006
+addRequest  10006
+[default] _changeMainKnightName: baseId:7, name=书城之吞星
+HandlerBase:sendMsg  CoreHandler  10006
+addRequest  10006
+HandlerBase:sendMsg  CoreHandler  10006
+addRequest  10006
+HandlerBase:sendMsg  CoreHandler  10006
+addRequest  10006
+HandlerBase:sendMsg  CoreHandler  10006
+addRequest  10006
+[default] -- 上线获取宠物列表
+HandlerBase:sendMsg  FriendHandler  10200
+addRequest  10200
+HandlerBase:sendMsg  FriendHandler  10219
+addRequest  10219
+HandlerBase:sendMsg  WushHandler  13100
+addRequest  13100
+HandlerBase:sendMsg  DailytaskHandler  13000
+addRequest  13000
+HandlerBase:sendMsg  FundHandler  13500
+addRequest  13500
+HandlerBase:sendMsg  FundHandler  13502
+addRequest  13502
+HandlerBase:sendMsg  MonthFundHandler  15700
+addRequest  15700
+HandlerBase:sendMsg  RookieBuffHandle  17100
+addRequest  17100
+HandlerBase:sendMsg  ActivityHandler   14300
+addRequest  14300
+HandlerBase:sendMsg  ShareHandler  14202
+addRequest  14202
+HandlerBase:sendMsg  ActivityHandler   15500
+addRequest  15500
+HandlerBase:sendMsg  ActivityHandler   17500
+addRequest  17500
+HandlerBase:sendMsg  ActivityHandler   15304
+addRequest  15304
+HandlerBase:sendMsg  ActivityHandler   15312
+addRequest  15312
+HandlerBase:sendMsg  DaysActivityHandler  14000
+addRequest  14000
+HandlerBase:sendMsg  DaysActivityHandler  14004
+addRequest  14004
+HandlerBase:sendMsg  CityHandler  13600
+addRequest  13600
+HandlerBase:sendMsg  ShareHandler  14202
+addRequest  14202
+HandlerBase:sendMsg  SpecialActivityHandler   17400
+addRequest  17400
+HandlerBase:sendMsg  SpecialActivityHandler   17405
+addRequest  17405
+HandlerBase:sendMsg  CoreHandler  15621
+addRequest  15621
+HandlerBase:sendMsg  GroupBuyHandler  17016
+addRequest  17016
+HandlerBase:sendMsg  GroupBuyHandler  17006
+addRequest  17006
+HandlerBase:sendMsg  ActivityHandler   21200
+addRequest  21200
+HandlerBase:sendMsg  ActivityHandler   21316
+addRequest  21316
+HandlerBase:sendMsg  TimePrivilegeHandler  15407
+addRequest  15407
+HandlerBase:sendMsg  VipHandler  15776
+addRequest  15776
+[default] VipHandler:sendGetDungeonDailyInfo
+HandlerBase:sendMsg  ExpansionDungeonHandler  17600
+addRequest  17600
+HandlerBase:sendMsg  DailyPvpHandler   21043
+addRequest  21043
+[default] guide from step:[1000000]
+[default] reset to step:[1000000]
+[default] -------gudie:chapter_id:2, stage_id:10
+[default] -------gudie:chapter_id:4, stage_id:31
+dump from: [string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/guide/GuideManager.lua"]:111: in function '_doInitBoxGuide'
+- "<var>" = {
+- }
+[ERROR] invalid guide step:1000001, end to mainScene
+HandlerBase:sendMsg  GuideHandler  12402
+addRequest  12402
+[default] ShopsButtonLayer:setBgWidth width = 3
+[default] ShopHandler:sendShopInfo
+HandlerBase:sendMsg  ArenaHandler  10030
+addRequest  10030
+HandlerBase:sendMsg  CoreHandler  15200
+addRequest  15200
+HandlerBase:sendMsg  GMActivityHandler   13700
+addRequest  13700
+HandlerBase:sendMsg  CodeHandler  15000
+addRequest  15000
+HandlerBase:sendMsg  TitleHandler  10064
+addRequest  10064
+HandlerBase:sendMsg  WheelHandler  14500
+addRequest  14500
+HandlerBase:sendMsg  WheelHandler  14506
+addRequest  14506
+HandlerBase:sendMsg  RichHandler  14800
+addRequest  14800
+HandlerBase:sendMsg  RichHandler  14810
+addRequest  14810
+HandlerBase:sendMsg  TrigramsHandler  17300
+addRequest  17300
+HandlerBase:sendMsg  TrigramsHandler  17310
+addRequest  17310
+HandlerBase:sendMsg  SpecialActivityHandler   17400
+addRequest  17400
+HandlerBase:sendMsg  RCardHandler  21300
+addRequest  21300
+HandlerBase:sendMsg  SecretShopHandler  10037
+addRequest  10037
+HandlerBase:sendMsg  AwakenShopHandler  10057
+addRequest  10057
+HandlerBase:sendMsg  CrusadeHandler  17210
+addRequest  17210
+[default] ShopsButtonLayer:setBgWidth width = 3
+[default] ShopHandler:sendDropKnightInfo
+HandlerBase:sendMsg  ArenaHandler  10700
+addRequest  10700
+[default] ShopHandler:sendShopInfo
+HandlerBase:sendMsg  ArenaHandler  10030
+addRequest  10030
+HandlerBase:sendMsg  StoryDungeonHandler  10900
+addRequest  10900
+HandlerBase:sendMsg  ActivityHandler   12800
+addRequest  12800
+HandlerBase:sendMsg  ActivityHandler   12600
+addRequest  12600
+HandlerBase:sendMsg  ActivityHandler   12900
+addRequest  12900
+qweqwe  0
+[default] ShopsButtonLayer:setBgWidth width = 3
+[default] ================open time 2016-06-13 00:00:00
+HandlerBase:sendMsg  CodeHandler  15002
+addRequest  15002
+[default] ShopHandler:_recvDropKnightInfoMsg
+[INFO] LUA VM MEMORY USED: 27257.24 KB
+[default] ShopsButtonLayer:setBgWidth width = 3
+HandlerBase:sendMsg  TitleHandler  10064
+addRequest  10064
+HandlerBase:sendMsg  WheelHandler  14500
+addRequest  14500
+HandlerBase:sendMsg  WheelHandler  14506
+addRequest  14506
+HandlerBase:sendMsg  RichHandler  14800
+addRequest  14800
+HandlerBase:sendMsg  RichHandler  14810
+addRequest  14810
+HandlerBase:sendMsg  TrigramsHandler  17300
+addRequest  17300
+HandlerBase:sendMsg  TrigramsHandler  17310
+addRequest  17310
+HandlerBase:sendMsg  SpecialActivityHandler   17400
+addRequest  17400
+HandlerBase:sendMsg  RCardHandler  21300
+addRequest  21300
+HandlerBase:sendMsg  SecretShopHandler  10037
+addRequest  10037
+HandlerBase:sendMsg  AwakenShopHandler  10057
+addRequest  10057
+HandlerBase:sendMsg  CrusadeHandler  17210
+addRequest  17210
+[default] ShopsButtonLayer:setBgWidth width = 3
+arrive font cache size, clear page 1
+HandlerBase:sendMsg  CoreHandler  10000
+addRequest  10000
+[INFO] LUA VM MEMORY USED: 28433.40 KB
+[INFO] LUA VM MEMORY USED: 28594.66 KB
+HandlerBase:sendMsg  CoreHandler  10000
+addRequest  10000
+[INFO] LUA VM MEMORY USED: 27868.53 KB
+HandlerBase:sendMsg  CoreHandler  10000
+addRequest  10000
+[INFO] LUA VM MEMORY USED: 27964.23 KB
+[INFO] LUA VM MEMORY USED: 28100.33 KB
+HandlerBase:sendMsg  CoreHandler  10000
+addRequest  10000
+[INFO] LUA VM MEMORY USED: 28257.98 KB
+old maxsock:732
+new maxsock:0
+RequestService:onDisconnected
+__XX_SOCK_ERROR__ select err: 10038 rebuild fdset
+[INFO] LUA VM MEMORY USED: 28391.62 KB
+[INFO] LUA VM MEMORY USED: 28543.59 KB
+[INFO] LUA VM MEMORY USED: 28679.63 KB
+[INFO] LUA VM MEMORY USED: 28827.39 KB
+[INFO] LUA VM MEMORY USED: 28965.77 KB
+[INFO] LUA VM MEMORY USED: 29111.18 KB
+[INFO] LUA VM MEMORY USED: 29253.08 KB
+[INFO] LUA VM MEMORY USED: 29394.51 KB
+[INFO] LUA VM MEMORY USED: 29542.27 KB
+[INFO] LUA VM MEMORY USED: 29678.30 KB
+[INFO] LUA VM MEMORY USED: 29829.58 KB
+[INFO] LUA VM MEMORY USED: 29963.27 KB
+[INFO] LUA VM MEMORY USED: 30118.06 KB
+[INFO] LUA VM MEMORY USED: 30250.11 KB
+[INFO] LUA VM MEMORY USED: 30402.56 KB
+[INFO] LUA VM MEMORY USED: 30538.60 KB
+[INFO] LUA VM MEMORY USED: 30686.35 KB
+[INFO] LUA VM MEMORY USED: 30824.73 KB
+[INFO] LUA VM MEMORY USED: 30970.15 KB
+[INFO] LUA VM MEMORY USED: 31111.58 KB
+[INFO] LUA VM MEMORY USED: 31253.47 KB
+[INFO] LUA VM MEMORY USED: 31401.23 KB
+[INFO] LUA VM MEMORY USED: 31537.27 KB
+[INFO] LUA VM MEMORY USED: 31688.75 KB
+[INFO] LUA VM MEMORY USED: 31822.44 KB
+[INFO] LUA VM MEMORY USED: 31976.76 KB
+[INFO] LUA VM MEMORY USED: 32109.28 KB
+[INFO] LUA VM MEMORY USED: 32261.73 KB
+[INFO] LUA VM MEMORY USED: 32397.77 KB
+[INFO] LUA VM MEMORY USED: 32545.52 KB
+[INFO] LUA VM MEMORY USED: 32683.91 KB
+[INFO] LUA VM MEMORY USED: 32828.85 KB
+[INFO] LUA VM MEMORY USED: 32970.75 KB
+[INFO] LUA VM MEMORY USED: 33112.64 KB
+[INFO] LUA VM MEMORY USED: 33259.23 KB
+[INFO] LUA VM MEMORY USED: 33396.44 KB
+[INFO] LUA VM MEMORY USED: 33547.24 KB
+[INFO] LUA VM MEMORY USED: 33679.77 KB
+[INFO] LUA VM MEMORY USED: 33835.73 KB
+[INFO] LUA VM MEMORY USED: 33965.90 KB
+[INFO] LUA VM MEMORY USED: 34120.69 KB
+[INFO] LUA VM MEMORY USED: 34255.56 KB
+[INFO] LUA VM MEMORY USED: 34404.02 KB
+[INFO] LUA VM MEMORY USED: 34542.40 KB
+[INFO] LUA VM MEMORY USED: 34687.81 KB
+[INFO] LUA VM MEMORY USED: 34829.71 KB
+[INFO] LUA VM MEMORY USED: 34971.61 KB
+[INFO] LUA VM MEMORY USED: 35118.19 KB
+[INFO] LUA VM MEMORY USED: 35254.93 KB
