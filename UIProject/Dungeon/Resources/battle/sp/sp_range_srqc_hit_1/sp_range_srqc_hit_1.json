@@ -1,0 +1,98 @@
+{
+  "图层 2_0" : {
+    "f11" : {
+      "start" : {
+        "x" : "16.4",
+        "y" : "35.5",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "color" : {
+          "alpha_original" : "0.8",
+          "alpha" : "0",
+          "red_original" : "1",
+          "red" : "-93",
+          "green_original" : "1",
+          "green" : "62",
+          "blue_original" : "1",
+          "blue" : "255"
+        }
+      }
+    },
+    "sp" : "sp_range_fire_hit_1",
+    "useBatchNode" : "false",
+    "order" : "1"
+  },
+  "图层 2 复制_1" : {
+    "f1" : {
+      "start" : {
+        "x" : "-7.45",
+        "y" : "-7.2",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "color" : {
+          "alpha_original" : "1",
+          "alpha" : "0",
+          "red_original" : "1",
+          "red" : "-255",
+          "green_original" : "1",
+          "green" : "0",
+          "blue_original" : "1",
+          "blue" : "255"
+        }
+      }
+    },
+    "sp" : "sp_s",
+    "useBatchNode" : "false",
+    "order" : "0",
+    "f11" : {
+      "start" : {
+        "x" : "-7.45",
+        "y" : "-7.2",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "color" : {
+          "alpha_original" : "1",
+          "alpha" : "0",
+          "red_original" : "1",
+          "red" : "-255",
+          "green_original" : "1",
+          "green" : "0",
+          "blue_original" : "1",
+          "blue" : "255"
+        }
+      },
+      "nextFrame" : "f14",
+      "frames" : "4"
+    },
+    "f14" : {
+      "start" : {
+        "x" : "-7.45",
+        "y" : "-7.2",
+        "rotation" : "0",
+        "scaleX" : "1.66",
+        "scaleY" : "1.66",
+        "color" : {
+          "alpha_original" : "0.4",
+          "alpha" : "0",
+          "red_original" : "1",
+          "red" : "255",
+          "green_original" : "1",
+          "green" : "255",
+          "blue_original" : "1",
+          "blue" : "0"
+        }
+      }
+    },
+    "f15" : {
+      "remove" : "1"
+    }
+  },
+  "events" : {
+    "f20" : "finish"
+  },
+  "scale" : "2",
+  "png" : ""
+}

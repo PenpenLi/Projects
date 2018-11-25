@@ -1,0 +1,211 @@
+{
+  "图层 2_0" : {
+    "f1" : {
+      "start" : {
+        "x" : "-1",
+        "y" : "-10.55",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    },
+    "sp" : "sp_spear_hit_1",
+    "useBatchNode" : "true",
+    "order" : "4",
+    "f6" : {
+      "remove" : "1"
+    }
+  },
+  "图层 3_1" : {
+    "f9" : {
+      "start" : {
+        "x" : "271.4",
+        "y" : "71",
+        "rotation" : "0",
+        "scaleX" : "1.5",
+        "scaleY" : "1.5",
+        "color" : {
+          "alpha_original" : "1",
+          "alpha" : "0",
+          "red_original" : "1",
+          "red" : "255",
+          "green_original" : "1",
+          "green" : "80",
+          "blue_original" : "1",
+          "blue" : "-120"
+        }
+      },
+      "nextFrame" : "f13",
+      "frames" : "5"
+    },
+    "sp" : "sp_range_hit_2",
+    "useBatchNode" : "false",
+    "order" : "3",
+    "f13" : {
+      "start" : {
+        "x" : "-197.35",
+        "y" : "54.7",
+        "rotation" : "0",
+        "scaleX" : "1.5",
+        "scaleY" : "1.5",
+        "color" : {
+          "alpha_original" : "1",
+          "alpha" : "0",
+          "red_original" : "1",
+          "red" : "255",
+          "green_original" : "1",
+          "green" : "80",
+          "blue_original" : "1",
+          "blue" : "-120"
+        }
+      },
+      "nextFrame" : "f17",
+      "frames" : "5"
+    },
+    "f17" : {
+      "start" : {
+        "x" : "190.4",
+        "y" : "57.8",
+        "rotation" : "0",
+        "scaleX" : "1.5",
+        "scaleY" : "1.5",
+        "color" : {
+          "alpha_original" : "1",
+          "alpha" : "0",
+          "red_original" : "1",
+          "red" : "255",
+          "green_original" : "1",
+          "green" : "80",
+          "blue_original" : "1",
+          "blue" : "-120"
+        }
+      },
+      "nextFrame" : "f20",
+      "frames" : "4"
+    },
+    "f20" : {
+      "start" : {
+        "x" : "8.8",
+        "y" : "-64.25",
+        "rotation" : "0",
+        "scaleX" : "1.5",
+        "scaleY" : "1.5",
+        "color" : {
+          "alpha_original" : "1",
+          "alpha" : "0",
+          "red_original" : "1",
+          "red" : "255",
+          "green_original" : "1",
+          "green" : "80",
+          "blue_original" : "1",
+          "blue" : "-120"
+        }
+      }
+    },
+    "f23" : {
+      "remove" : "1"
+    }
+  },
+  "图层 6_2" : {
+    "f17" : {
+      "start" : {
+        "x" : "253.7",
+        "y" : "75.2",
+        "rotation" : "-20.52",
+        "scaleX" : "0.78",
+        "scaleY" : "0.44",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f21",
+      "frames" : "5"
+    },
+    "sp" : "sp_sxpm",
+    "useBatchNode" : "true",
+    "order" : "2",
+    "f21" : {
+      "start" : {
+        "x" : "-35.3",
+        "y" : "-14.95",
+        "rotation" : "-20.52",
+        "scaleX" : "0.78",
+        "scaleY" : "0.44",
+        "opacity" : "0"
+      },
+      "nextFrame" : "f22",
+      "frames" : "2"
+    },
+    "f22" : {
+      "remove" : "1"
+    }
+  },
+  "图层 4_3" : {
+    "f13" : {
+      "start" : {
+        "x" : "-215.3",
+        "y" : "65.2",
+        "rotation" : "15.19",
+        "scaleX" : "0.69",
+        "scaleY" : "0.39",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f17",
+      "frames" : "5"
+    },
+    "sp" : "sp_sxpm",
+    "useBatchNode" : "true",
+    "order" : "1",
+    "f17" : {
+      "start" : {
+        "x" : "170.7",
+        "y" : "65.2",
+        "rotation" : "15.19",
+        "scaleX" : "0.69",
+        "scaleY" : "0.39",
+        "opacity" : "0"
+      },
+      "nextFrame" : "f18",
+      "frames" : "2"
+    },
+    "f18" : {
+      "remove" : "1"
+    }
+  },
+  "图层 5_4" : {
+    "f9" : {
+      "start" : {
+        "x" : "253.7",
+        "y" : "75.2",
+        "rotation" : "-20.52",
+        "scaleX" : "0.78",
+        "scaleY" : "0.44",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f13",
+      "frames" : "5"
+    },
+    "sp" : "sp_sxpm",
+    "useBatchNode" : "true",
+    "order" : "0",
+    "f13" : {
+      "start" : {
+        "x" : "-202.3",
+        "y" : "74.05",
+        "rotation" : "-20.52",
+        "scaleX" : "0.78",
+        "scaleY" : "0.44",
+        "opacity" : "0"
+      },
+      "nextFrame" : "f14",
+      "frames" : "2"
+    },
+    "f14" : {
+      "remove" : "1"
+    }
+  },
+  "events" : {
+    "f24" : "finish"
+  },
+  "scale" : "2",
+  "png" : ""
+}

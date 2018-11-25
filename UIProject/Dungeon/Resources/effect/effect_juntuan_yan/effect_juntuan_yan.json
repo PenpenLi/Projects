@@ -1,0 +1,98 @@
+{
+  "图层 1 复制_1" : {
+    "f1" : {
+      "start" : {
+        "x" : "-52.1",
+        "y" : "-20.85",
+        "rotation" : "-10.01",
+        "scaleX" : "1.25",
+        "scaleY" : "1.2",
+        "opacity" : "255",
+        "png" : "effect_juntuan_yan_1.png"
+      },
+      "nextFrame" : "f74",
+      "frames" : "74"
+    },
+    "order" : "1",
+    "f74" : {
+      "start" : {
+        "x" : "53.2",
+        "y" : "21.15",
+        "rotation" : "-18.22",
+        "scaleX" : "1.8",
+        "scaleY" : "1.31",
+        "opacity" : "0",
+        "png" : "effect_juntuan_yan_1.png"
+      }
+    },
+    "f75" : {
+      "start" : {
+        "x" : "-107",
+        "y" : "-50.95",
+        "rotation" : "-10.01",
+        "scaleX" : "0.98",
+        "scaleY" : "0.93",
+        "opacity" : "0",
+        "png" : "effect_juntuan_yan_1.png"
+      },
+      "nextFrame" : "f130",
+      "frames" : "56"
+    },
+    "f130" : {
+      "start" : {
+        "x" : "-52.1",
+        "y" : "-20.85",
+        "rotation" : "-10.01",
+        "scaleX" : "1.25",
+        "scaleY" : "1.2",
+        "opacity" : "255",
+        "png" : "effect_juntuan_yan_1.png"
+      }
+    }
+  },
+  "图层 1_2" : {
+    "f1" : {
+      "start" : {
+        "x" : "-163.65",
+        "y" : "-104.2",
+        "rotation" : "0",
+        "scaleX" : "0.8",
+        "scaleY" : "0.8",
+        "opacity" : "0",
+        "png" : "effect_juntuan_yan_1.png"
+      },
+      "nextFrame" : "f54",
+      "frames" : "54"
+    },
+    "order" : "0",
+    "f54" : {
+      "start" : {
+        "x" : "-106.1",
+        "y" : "-67.85",
+        "rotation" : "-10.01",
+        "scaleX" : "1.02",
+        "scaleY" : "0.78",
+        "opacity" : "255",
+        "png" : "effect_juntuan_yan_1.png"
+      },
+      "nextFrame" : "f130",
+      "frames" : "77"
+    },
+    "f130" : {
+      "start" : {
+        "x" : "-25.85",
+        "y" : "-17.2",
+        "rotation" : "-23.95",
+        "scaleX" : "1.32",
+        "scaleY" : "0.75",
+        "opacity" : "0",
+        "png" : "effect_juntuan_yan_1.png"
+      }
+    }
+  },
+  "events" : {
+    "f130" : "forever"
+  },
+  "scale" : "1",
+  "png" : "effect_juntuan_yan.png"
+}

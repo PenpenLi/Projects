@@ -48,6 +48,10 @@
     <string>knight_cast.json</string>
     <string>knight_equipItem.json</string>
     <string>equipment_EquipmentListCell.json</string>
+    <string>dungeon_StoryTalkItem.json</string>
+    <string>dungeon_StoryTalkLayer.json</string>
+    <string>dailytask_taskCell.json</string>
+    <string>XJL_45.json</string>
   </JsonList>
   <CanvasSize>
     <Width>640</Width>
@@ -60,8 +64,47 @@
     <string>ui/common/common_1.plist</string>
   </imageFileList>
   <imagePngList>
+    <string>ui/common/juhua.png</string>
+    <string>ui/yangcheng/paper_yangcheng.png</string>
     <string>ui/common/common_1.plist</string>
+    <string>ui/zhengrong/dot_weidianliang.png</string>
+    <string>ui/zhengrong/tiny_tittle.png</string>
+    <string>ui/common/shenjie_cheng.png</string>
+    <string>ui/zhengrong/icon_huanjiang.png</string>
+    <string>ui/text/txt/huanjiang.png</string>
+    <string>ui/zhengrong/icon_qianghuadashi.png</string>
+    <string>ui/zhengrong/shizhuang.png</string>
+    <string>ui/text/txt/zr_shizhuang.png</string>
+    <string>ui/text/txt/zr_qianghuadashi.png</string>
+    <string>ui/zhengrong/board_top.png</string>
+    <string>ui/zhengrong/arrow_top.png</string>
+    <string>ui/text/txt/zhenrong_zhujue.png</string>
+    <string>ui/zhengrong/kuang_zhu.png</string>
+    <string>ui/zhengrong/selected_bg.png</string>
+    <string>ui/zhengrong/btn_buzheng_normal.png</string>
+    <string>ui/text/txt/buzheng.png</string>
+    <string>ui/text/txt/jikaifang.png</string>
+    <string>ui/zhengrong/icon_xiaohuoban.png</string>
+    <string>ui/text/txt/xiaohuoban.png</string>
+    <string>ui/zhengrong/dikuang_baowu2.png</string>
+    <string>ui/text/txt/zhuangbei_baowu.png</string>
+    <string>ui/zhengrong/add_zhuangbei.png</string>
+    <string>ui/zhengrong/lock_baowu.png</string>
+    <string>ui/zhengrong/dikuang_yifu.png</string>
+    <string>ui/text/txt/zhuangbei_kuijia.png</string>
+    <string>ui/zhengrong/dikuang_yaodai.png</string>
+    <string>ui/text/txt/zhuangbei_yaodai.png</string>
+    <string>ui/zhengrong/dikuang_baowu.png</string>
+    <string>ui/zhengrong/dikuang_wuqi.png</string>
+    <string>ui/text/txt/zhuangbei_wuqi.png</string>
+    <string>ui/zhengrong/dikuang_pifeng.png</string>
+    <string>ui/text/txt/zhuangbei_pifeng.png</string>
+    <string>ui/text/txt/zhenying_shu.png</string>
+    <string>ui/zhengrong/icon_bianshen.png</string>
+    <string>ui/text/txt/leixing_fangyu.png</string>
+    <string>ui/zhengrong/icon_juexing.png</string>
+    <string>ui/text/txt/juexing.png</string>
   </imagePngList>
   <JsonSuffix>.json</JsonSuffix>
-  <CurrentUIJson>equipment_EquipmentListCell.json</CurrentUIJson>
+  <CurrentUIJson>knight_info.json</CurrentUIJson>
 </UIProject>

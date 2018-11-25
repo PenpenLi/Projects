@@ -1,0 +1,121 @@
+{
+  "coinlight1_0" : {
+    "f1" : {
+      "start" : {
+        "x" : "11.1",
+        "y" : "-207.45",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    },
+    "effect" : "effect_coinlight_cs",
+    "useBatchNode" : "true",
+    "order" : "7"
+  },
+  "coinglow_1" : {
+    "f1" : {
+      "start" : {
+        "x" : "-8.9",
+        "y" : "-43.7",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    },
+    "effect" : "effect_cionglow_cs",
+    "useBatchNode" : "true",
+    "order" : "6"
+  },
+  "Layer 4_2" : {
+    "f4" : {
+      "start" : {
+        "x" : "-126.6",
+        "y" : "-333.6",
+        "rotation" : "0",
+        "scaleX" : "0.78",
+        "scaleY" : "0.65",
+        "opacity" : "255",
+        "png" : "effect_coin_1_cs_1.png"
+      }
+    },
+    "order" : "5"
+  },
+  "Layer 5_3" : {
+    "f6" : {
+      "start" : {
+        "x" : "145.3",
+        "y" : "-332",
+        "rotation" : "0",
+        "scaleX" : "0.77",
+        "scaleY" : "0.77",
+        "opacity" : "255",
+        "png" : "effect_coin_1_cs_1.png"
+      }
+    },
+    "order" : "4"
+  },
+  "Layer 45_4" : {
+    "f2" : {
+      "start" : {
+        "x" : "-202.05",
+        "y" : "-327.95",
+        "rotation" : "0",
+        "scaleX" : "0.7",
+        "scaleY" : "0.59",
+        "opacity" : "255",
+        "png" : "effect_coin_1_cs_1.png"
+      }
+    },
+    "order" : "3"
+  },
+  "Layer 6 copy_5" : {
+    "f5" : {
+      "start" : {
+        "x" : "56.5",
+        "y" : "-184.4",
+        "rotation" : "0",
+        "scaleX" : "-1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "effect_coin_1_cs_2.png"
+      }
+    },
+    "order" : "2"
+  },
+  "Layer 6_6" : {
+    "f3" : {
+      "start" : {
+        "x" : "-49.75",
+        "y" : "-182.65",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "effect_coin_1_cs_2.png"
+      }
+    },
+    "order" : "1"
+  },
+  "Layer 1_7" : {
+    "f1" : {
+      "start" : {
+        "x" : "3.1",
+        "y" : "-186.95",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "effect_coin_1_cs_3.png"
+      }
+    },
+    "order" : "0"
+  },
+  "events" : {
+    "f7" : "finish"
+  },
+  "scale" : "1",
+  "png" : "effect_coin_1_cs.png"
+}

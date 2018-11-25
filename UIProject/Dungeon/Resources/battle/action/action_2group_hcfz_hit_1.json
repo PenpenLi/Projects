@@ -1,0 +1,206 @@
+{
+  "base_layer" : {
+    "f1" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    }
+  },
+  "card_layer" : {
+    "f1" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    },
+    "f2" : {
+      "start" : {
+        "x" : "-2",
+        "y" : "9.65",
+        "rotation" : "-13.57",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "color" : {
+          "alpha_original" : "1",
+          "alpha" : "0",
+          "red_original" : "0.45",
+          "red" : "0",
+          "green_original" : "0.45",
+          "green" : "112",
+          "blue_original" : "0.45",
+          "blue" : "28"
+        }
+      }
+    },
+    "f4" : {
+      "start" : {
+        "x" : "-6.75",
+        "y" : "16.55",
+        "rotation" : "-23.08",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "color" : {
+          "alpha_original" : "1",
+          "alpha" : "0",
+          "red_original" : "0.45",
+          "red" : "140",
+          "green_original" : "0.45",
+          "green" : "140",
+          "blue_original" : "0.45",
+          "blue" : "0"
+        }
+      }
+    },
+    "f6" : {
+      "start" : {
+        "x" : "-2",
+        "y" : "9.65",
+        "rotation" : "-13.57",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "color" : {
+          "alpha_original" : "1",
+          "alpha" : "0",
+          "red_original" : "0.45",
+          "red" : "0",
+          "green_original" : "0.45",
+          "green" : "112",
+          "blue_original" : "0.45",
+          "blue" : "28"
+        }
+      }
+    },
+    "f8" : {
+      "start" : {
+        "x" : "-6.75",
+        "y" : "16.55",
+        "rotation" : "-23.08",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "color" : {
+          "alpha_original" : "1",
+          "alpha" : "0",
+          "red_original" : "0.45",
+          "red" : "140",
+          "green_original" : "0.45",
+          "green" : "140",
+          "blue_original" : "0.45",
+          "blue" : "0"
+        }
+      }
+    },
+    "f10" : {
+      "start" : {
+        "x" : "-2",
+        "y" : "9.65",
+        "rotation" : "-13.57",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "color" : {
+          "alpha_original" : "1",
+          "alpha" : "0",
+          "red_original" : "0.45",
+          "red" : "0",
+          "green_original" : "0.45",
+          "green" : "112",
+          "blue_original" : "0.45",
+          "blue" : "28"
+        }
+      }
+    },
+    "f11" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "0.89",
+        "color" : {
+          "alpha_original" : "1",
+          "alpha" : "0",
+          "red_original" : "0.45",
+          "red" : "0",
+          "green_original" : "0.45",
+          "green" : "112",
+          "blue_original" : "0.45",
+          "blue" : "28"
+        }
+      }
+    },
+    "f12" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "0.89",
+        "color" : {
+          "alpha_original" : "1",
+          "alpha" : "0",
+          "red_original" : "1",
+          "red" : "0",
+          "green_original" : "1",
+          "green" : "125",
+          "blue_original" : "1",
+          "blue" : "255"
+        }
+      },
+      "nextFrame" : "f15",
+      "frames" : "4"
+    },
+    "f15" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "color" : {
+          "alpha_original" : "1",
+          "alpha" : "0",
+          "red_original" : "1",
+          "red" : "0",
+          "green_original" : "1",
+          "green" : "0",
+          "blue_original" : "1",
+          "blue" : "0"
+        }
+      }
+    }
+  },
+  "sp_stage_center_layer" : {
+
+  },
+  "sp_up_layer" : {
+    "f2" : {
+      "start" : {
+        "x" : "-13",
+        "y" : "264.95",
+        "rotation" : "0",
+        "scaleX" : "2.38",
+        "scaleY" : "2.38",
+        "opacity" : "255"
+      }
+    },
+    "f15" : {
+      "remove" : "1"
+    },
+    "useBatchNode" : "true",
+    "spId" : "sp_2group_hcfz_hit_1"
+  },
+  "sp_down_layer" : {
+
+  },
+  "events" : {
+    "f16" : "finish"
+  }
+}

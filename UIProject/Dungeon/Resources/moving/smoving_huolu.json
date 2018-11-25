@@ -1,0 +1,109 @@
+{
+  "target" : {
+    "f1" : {
+      "start" : {
+        "x" : "1",
+        "y" : "0.05",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "dx" : "1",
+        "dy" : "0.05"
+      }
+    },
+    "f2" : {
+      "start" : {
+        "x" : "1",
+        "y" : "0.05",
+        "rotation" : "-2.45",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "dx" : "1",
+        "dy" : "0.05"
+      }
+    },
+    "f3" : {
+      "start" : {
+        "x" : "1",
+        "y" : "0.05",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "dx" : "1",
+        "dy" : "0.05"
+      }
+    },
+    "f4" : {
+      "start" : {
+        "x" : "1",
+        "y" : "0.05",
+        "rotation" : "-2.45",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "dx" : "1",
+        "dy" : "0.05"
+      }
+    },
+    "f5" : {
+      "start" : {
+        "x" : "1",
+        "y" : "0.05",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "dx" : "1",
+        "dy" : "0.05"
+      },
+      "nextFrame" : "f7",
+      "frames" : "3"
+    },
+    "f7" : {
+      "start" : {
+        "x" : "1",
+        "y" : "0.05",
+        "rotation" : "-1.23",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "dx" : "1",
+        "dy" : "0.05"
+      },
+      "nextFrame" : "f9",
+      "frames" : "3"
+    },
+    "f9" : {
+      "start" : {
+        "x" : "1",
+        "y" : "0.05",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "dx" : "1",
+        "dy" : "0.05"
+      },
+      "nextFrame" : "f13",
+      "frames" : "5"
+    },
+    "f13" : {
+      "start" : {
+        "x" : "1",
+        "y" : "0.05",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "dx" : "1",
+        "dy" : "0.05"
+      }
+    }
+  },
+  "events" : {
+    "f19" : "finish"
+  }
+}

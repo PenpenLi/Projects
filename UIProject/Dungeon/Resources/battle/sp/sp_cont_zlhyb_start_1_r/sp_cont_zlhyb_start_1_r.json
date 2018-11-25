@@ -1,0 +1,73 @@
+{
+  "图层 1_0" : {
+    "f1" : {
+      "start" : {
+        "x" : "-30.35",
+        "y" : "-109.4",
+        "rotation" : "0",
+        "scaleX" : "0.4",
+        "scaleY" : "0.4",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f6",
+      "frames" : "6"
+    },
+    "sp" : "sp_xuanfeng",
+    "useBatchNode" : "true",
+    "order" : "0",
+    "f6" : {
+      "start" : {
+        "x" : "-106.1",
+        "y" : "-81.05",
+        "rotation" : "0",
+        "scaleX" : "1.66",
+        "scaleY" : "1.66",
+        "opacity" : "255"
+      }
+    },
+    "f10" : {
+      "start" : {
+        "x" : "-106.1",
+        "y" : "-81.05",
+        "rotation" : "0",
+        "scaleX" : "1.66",
+        "scaleY" : "1.66",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f13",
+      "frames" : "4"
+    },
+    "f13" : {
+      "start" : {
+        "x" : "-200.9",
+        "y" : "-192.5",
+        "rotation" : "0",
+        "scaleX" : "1.66",
+        "scaleY" : "1.66",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f16",
+      "frames" : "4"
+    },
+    "f16" : {
+      "start" : {
+        "x" : "-91.65",
+        "y" : "-179.7",
+        "rotation" : "0",
+        "scaleX" : "1.66",
+        "scaleY" : "1.66",
+        "opacity" : "0"
+      },
+      "nextFrame" : "f17",
+      "frames" : "2"
+    },
+    "f17" : {
+      "remove" : "1"
+    }
+  },
+  "events" : {
+    "f18" : "finish"
+  },
+  "scale" : "2",
+  "png" : ""
+}

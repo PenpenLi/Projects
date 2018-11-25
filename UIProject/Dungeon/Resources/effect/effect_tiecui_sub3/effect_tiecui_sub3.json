@@ -1,0 +1,63 @@
+{
+  "图层 1_0" : {
+    "f1" : {
+      "start" : {
+        "x" : "-7.55",
+        "y" : "0.4",
+        "rotation" : "0",
+        "scaleX" : "0.13",
+        "scaleY" : "0.13",
+        "opacity" : "255",
+        "png" : "effect_tiecui_sub3_1.png"
+      },
+      "nextFrame" : "f2",
+      "frames" : "2"
+    },
+    "order" : "0",
+    "f2" : {
+      "start" : {
+        "x" : "-6.3",
+        "y" : "1.8",
+        "rotation" : "27.1",
+        "scaleX" : "0.19",
+        "scaleY" : "0.19",
+        "opacity" : "255",
+        "png" : "effect_tiecui_sub3_1.png"
+      },
+      "nextFrame" : "f4",
+      "frames" : "3"
+    },
+    "f4" : {
+      "start" : {
+        "x" : "-3.8",
+        "y" : "4.65",
+        "rotation" : "81.69",
+        "scaleX" : "0.31",
+        "scaleY" : "0.31",
+        "opacity" : "255",
+        "png" : "effect_tiecui_sub3_1.png"
+      },
+      "nextFrame" : "f8",
+      "frames" : "5"
+    },
+    "f8" : {
+      "start" : {
+        "x" : "1.35",
+        "y" : "5.65",
+        "rotation" : "-31.2",
+        "scaleX" : "0.3",
+        "scaleY" : "0.3",
+        "opacity" : "255",
+        "png" : "effect_tiecui_sub3_1.png"
+      }
+    },
+    "f9" : {
+      "remove" : "1"
+    }
+  },
+  "events" : {
+    "f10" : "finish"
+  },
+  "scale" : "1",
+  "png" : "effect_tiecui_sub3.png"
+}

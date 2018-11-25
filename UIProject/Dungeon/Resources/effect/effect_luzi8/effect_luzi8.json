@@ -1,0 +1,37 @@
+{
+  "图层 11_1" : {
+    "f1" : {
+      "start" : {
+        "x" : "283.8",
+        "y" : "0.1",
+        "rotation" : "0",
+        "scaleX" : "1.03",
+        "scaleY" : "1.21",
+        "opacity" : "255"
+      }
+    },
+    "effect" : "effect_lightR",
+    "useBatchNode" : "true",
+    "order" : "1"
+  },
+  "图层 12_2" : {
+    "f1" : {
+      "start" : {
+        "x" : "-280.45",
+        "y" : "0.1",
+        "rotation" : "0",
+        "scaleX" : "1.05",
+        "scaleY" : "1.23",
+        "opacity" : "255"
+      }
+    },
+    "effect" : "effect_lightL",
+    "useBatchNode" : "true",
+    "order" : "0"
+  },
+  "events" : {
+    "f500" : "forever"
+  },
+  "scale" : "1",
+  "png" : ""
+}

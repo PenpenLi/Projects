@@ -1,0 +1,43 @@
+{
+  "图层 2 复制_0" : {
+    "f1" : {
+      "start" : {
+        "x" : "3.4",
+        "y" : "12.5",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "204"
+      }
+    },
+    "sp" : "sp_range_fire_hit_1",
+    "useBatchNode" : "true",
+    "order" : "1",
+    "f10" : {
+      "remove" : "1"
+    }
+  },
+  "图层 2_1" : {
+    "f1" : {
+      "start" : {
+        "x" : "0.5",
+        "y" : "175.05",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    },
+    "sp" : "sp_assist_qljc_start_1",
+    "useBatchNode" : "true",
+    "order" : "0",
+    "f7" : {
+      "remove" : "1"
+    }
+  },
+  "events" : {
+    "f11" : "finish"
+  },
+  "scale" : "2",
+  "png" : ""
+}

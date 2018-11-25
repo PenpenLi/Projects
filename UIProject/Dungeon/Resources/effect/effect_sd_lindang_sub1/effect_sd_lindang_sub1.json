@@ -1,0 +1,47 @@
+{
+  "Layer 1_1" : {
+    "f1" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "effect_sd_lindang_sub1_1.png"
+      },
+      "nextFrame" : "f15",
+      "frames" : "15"
+    },
+    "order" : "0",
+    "f15" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "45",
+        "scaleX" : "0.76",
+        "scaleY" : "0.76",
+        "opacity" : "255",
+        "png" : "effect_sd_lindang_sub1_1.png"
+      },
+      "nextFrame" : "f30",
+      "frames" : "16"
+    },
+    "f30" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "90",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "effect_sd_lindang_sub1_1.png"
+      }
+    }
+  },
+  "events" : {
+    "f30" : "forever"
+  },
+  "scale" : "1",
+  "png" : "effect_sd_lindang_sub1.png"
+}

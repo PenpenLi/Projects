@@ -1,0 +1,135 @@
+{
+  "coinlight1_0" : {
+    "f1" : {
+      "start" : {
+        "x" : "-15.15",
+        "y" : "-147.65",
+        "rotation" : "3.24",
+        "scaleX" : "-1.06",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    },
+    "effect" : "effect_coinlight_cs",
+    "useBatchNode" : "true",
+    "order" : "8"
+  },
+  "coinglow_1" : {
+    "f1" : {
+      "start" : {
+        "x" : "-1.4",
+        "y" : "-14.25",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    },
+    "effect" : "effect_cionglow_cs",
+    "useBatchNode" : "true",
+    "order" : "7"
+  },
+  "Layer 5_2" : {
+    "f4" : {
+      "start" : {
+        "x" : "-242.35",
+        "y" : "-300.75",
+        "rotation" : "18.47",
+        "scaleX" : "0.61",
+        "scaleY" : "0.61",
+        "opacity" : "255",
+        "png" : "effect_coin_5_cs_1.png"
+      }
+    },
+    "order" : "6"
+  },
+  "Layer 4_3" : {
+    "f6" : {
+      "start" : {
+        "x" : "322.95",
+        "y" : "-251.2",
+        "rotation" : "10.45",
+        "scaleX" : "0.61",
+        "scaleY" : "0.61",
+        "opacity" : "255",
+        "png" : "effect_coin_5_cs_1.png"
+      }
+    },
+    "order" : "5"
+  },
+  "Layer 2_4" : {
+    "f2" : {
+      "start" : {
+        "x" : "-206.7",
+        "y" : "-271.8",
+        "rotation" : "0",
+        "scaleX" : "0.61",
+        "scaleY" : "0.61",
+        "opacity" : "255",
+        "png" : "effect_coin_5_cs_1.png"
+      }
+    },
+    "order" : "4"
+  },
+  "Layer 31_5" : {
+    "f7" : {
+      "start" : {
+        "x" : "16.65",
+        "y" : "-135.8",
+        "rotation" : "0",
+        "scaleX" : "-1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "effect_coin_5_cs_2.png"
+      }
+    },
+    "order" : "3"
+  },
+  "Layer 30_6" : {
+    "f5" : {
+      "start" : {
+        "x" : "23.2",
+        "y" : "-137.5",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "effect_coin_5_cs_3.png"
+      }
+    },
+    "order" : "2"
+  },
+  "Layer 29_7" : {
+    "f3" : {
+      "start" : {
+        "x" : "-6.75",
+        "y" : "-133.65",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "effect_coin_5_cs_2.png"
+      }
+    },
+    "order" : "1"
+  },
+  "Layer 6_8" : {
+    "f1" : {
+      "start" : {
+        "x" : "19.35",
+        "y" : "-136.7",
+        "rotation" : "-7.25",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "effect_coin_5_cs_2.png"
+      }
+    },
+    "order" : "0"
+  },
+  "events" : {
+    "f8" : "finish"
+  },
+  "scale" : "1",
+  "png" : "effect_coin_5_cs.png"
+}

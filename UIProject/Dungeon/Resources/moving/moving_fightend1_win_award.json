@@ -1,0 +1,30 @@
+{
+  "award" : {
+    "f1" : {
+      "start" : {
+        "x" : "3",
+        "y" : "-55",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "20"
+      },
+      "nextFrame" : "f5",
+      "frames" : "5"
+    },
+    "order" : "0",
+    "f5" : {
+      "start" : {
+        "x" : "3",
+        "y" : "-55",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    }
+  },
+  "events" : {
+    "f7" : "award"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "图层 2_1" : {
+    "f83" : {
+      "start" : {
+        "x" : "0.65",
+        "y" : "-0.25",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "effect_main3_yanjing1_1.png"
+      }
+    },
+    "order" : "1",
+    "f85" : {
+      "remove" : "1"
+    }
+  },
+  "图层 1_2" : {
+    "f81" : {
+      "start" : {
+        "x" : "0.65",
+        "y" : "0.25",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "effect_main3_yanjing1_2.png"
+      }
+    },
+    "order" : "0",
+    "f83" : {
+      "remove" : "1"
+    }
+  },
+  "events" : {
+    "f122" : "forever"
+  },
+  "scale" : "1",
+  "png" : "effect_main3_yanjing1.png"
+}

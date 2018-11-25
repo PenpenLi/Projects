@@ -1,0 +1,100 @@
+{
+  "图层 1 复制_1" : {
+    "f1" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "2",
+        "scaleY" : "2",
+        "opacity" : "0",
+        "png" : "effect_win_light_1.png"
+      },
+      "nextFrame" : "f11",
+      "frames" : "11"
+    },
+    "order" : "1",
+    "f11" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "10",
+        "scaleX" : "1.9",
+        "scaleY" : "1.9",
+        "opacity" : "204",
+        "png" : "effect_win_light_1.png"
+      },
+      "nextFrame" : "f14",
+      "frames" : "4"
+    },
+    "f14" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "12.31",
+        "scaleX" : "1.9",
+        "scaleY" : "1.9",
+        "opacity" : "216",
+        "png" : "effect_win_light_1.png"
+      },
+      "nextFrame" : "f23",
+      "frames" : "10"
+    },
+    "f23" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "19.79",
+        "scaleX" : "1.9",
+        "scaleY" : "1.9",
+        "opacity" : "255",
+        "png" : "effect_win_light_1.png"
+      }
+    }
+  },
+  "图层 3_2" : {
+    "f1" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "19.79",
+        "scaleX" : "1.9",
+        "scaleY" : "1.9",
+        "opacity" : "255",
+        "png" : "effect_win_light_1.png"
+      },
+      "nextFrame" : "f21",
+      "frames" : "21"
+    },
+    "order" : "0",
+    "f21" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "31.58",
+        "scaleX" : "1.9",
+        "scaleY" : "1.9",
+        "opacity" : "22",
+        "png" : "effect_win_light_1.png"
+      },
+      "nextFrame" : "f23",
+      "frames" : "3"
+    },
+    "f23" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "32.78",
+        "scaleX" : "1.9",
+        "scaleY" : "1.9",
+        "opacity" : "0",
+        "png" : "effect_win_light_1.png"
+      }
+    }
+  },
+  "events" : {
+    "f23" : "forever"
+  },
+  "scale" : "1",
+  "png" : "effect_win_light.png"
+}

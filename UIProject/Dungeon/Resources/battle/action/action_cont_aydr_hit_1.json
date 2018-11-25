@@ -1,0 +1,114 @@
+{
+  "base_layer" : {
+    "f1" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    }
+  },
+  "card_layer" : {
+    "f1" : {
+      "start" : {
+        "x" : "-0.1",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    },
+    "f2" : {
+      "start" : {
+        "x" : "4.1",
+        "y" : "6.95",
+        "rotation" : "20.19",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "color" : {
+          "alpha_original" : "1",
+          "alpha" : "0",
+          "red_original" : "1",
+          "red" : "120",
+          "green_original" : "1",
+          "green" : "-30",
+          "blue_original" : "1",
+          "blue" : "-40"
+        }
+      }
+    },
+    "f7" : {
+      "start" : {
+        "x" : "4.1",
+        "y" : "6.95",
+        "rotation" : "20.19",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "color" : {
+          "alpha_original" : "1",
+          "alpha" : "0",
+          "red_original" : "1",
+          "red" : "120",
+          "green_original" : "1",
+          "green" : "-30",
+          "blue_original" : "1",
+          "blue" : "-40"
+        }
+      },
+      "nextFrame" : "f12",
+      "frames" : "6"
+    },
+    "f12" : {
+      "start" : {
+        "x" : "-0.1",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "color" : {
+          "alpha_original" : "1",
+          "alpha" : "0",
+          "red_original" : "1",
+          "red" : "0",
+          "green_original" : "1",
+          "green" : "0",
+          "blue_original" : "1",
+          "blue" : "0"
+        }
+      }
+    }
+  },
+  "sp_stage_center_layer" : {
+
+  },
+  "sp_up_layer" : {
+    "f1" : {
+      "start" : {
+        "x" : "-1.45",
+        "y" : "48.15",
+        "rotation" : "-175.26",
+        "scaleX" : "0.84",
+        "scaleY" : "0.84",
+        "opacity" : "255"
+      }
+    },
+    "f7" : {
+      "remove" : "1"
+    },
+    "f13" : {
+      "remove" : "1"
+    },
+    "useBatchNode" : "true",
+    "spId" : "sp_sword_hit_1"
+  },
+  "sp_down_layer" : {
+
+  },
+  "events" : {
+    "f13" : "finish"
+  }
+}

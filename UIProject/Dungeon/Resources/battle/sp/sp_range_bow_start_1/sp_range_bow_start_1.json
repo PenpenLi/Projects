@@ -1,0 +1,62 @@
+{
+  "图层 2_0" : {
+    "f1" : {
+      "start" : {
+        "x" : "15",
+        "y" : "65.4",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    },
+    "sp" : "sp_juguang",
+    "useBatchNode" : "true",
+    "order" : "1"
+  },
+  "图层 6_1" : {
+    "f1" : {
+      "start" : {
+        "x" : "-11.3",
+        "y" : "0.2",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "0",
+        "png" : "sp_range_bow_start_1_1.png"
+      },
+      "nextFrame" : "f2",
+      "frames" : "2"
+    },
+    "order" : "0",
+    "f2" : {
+      "start" : {
+        "x" : "-11.3",
+        "y" : "-1",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "sp_range_bow_start_1_1.png"
+      },
+      "nextFrame" : "f8",
+      "frames" : "7"
+    },
+    "f8" : {
+      "start" : {
+        "x" : "-11.3",
+        "y" : "-12.8",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "sp_range_bow_start_1_1.png"
+      }
+    }
+  },
+  "events" : {
+    "f9" : "finish"
+  },
+  "scale" : "2",
+  "png" : "sp_range_bow_start_1.png"
+}

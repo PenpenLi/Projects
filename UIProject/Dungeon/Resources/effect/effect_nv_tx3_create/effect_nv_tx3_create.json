@@ -1,0 +1,43 @@
+{
+  "图层 1_1" : {
+    "f16" : {
+      "start" : {
+        "x" : "377.3",
+        "y" : "-34.95",
+        "rotation" : "56.23",
+        "scaleX" : "0.74",
+        "scaleY" : "0.74",
+        "opacity" : "255"
+      }
+    },
+    "effect" : "effect_nv_tx6_create",
+    "useBatchNode" : "true",
+    "order" : "1",
+    "f43" : {
+      "remove" : "1"
+    }
+  },
+  "元件 7_2" : {
+    "f1" : {
+      "start" : {
+        "x" : "369.1",
+        "y" : "-60.7",
+        "rotation" : "51.27",
+        "scaleX" : "0.79",
+        "scaleY" : "0.79",
+        "opacity" : "255"
+      }
+    },
+    "effect" : "effect_nv_tx6_create",
+    "useBatchNode" : "true",
+    "order" : "0",
+    "f28" : {
+      "remove" : "1"
+    }
+  },
+  "events" : {
+    "f122" : "forever"
+  },
+  "scale" : "1",
+  "png" : ""
+}

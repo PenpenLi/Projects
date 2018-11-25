@@ -80,6 +80,8 @@ lastname=xlj2
 ComSdkUtils.getOpId  1
 get server list: http://114.55.172.5:8087/serverlist?opid=1&sdk_id=1&cv=105
 show Panel_login
+[INFO] LUA VM MEMORY USED: 26006.82 KB
+[INFO] LUA VM MEMORY USED: 26008.07 KB
 TestProxy:_loginPlatform
 TestProxy:getLoginUserName
 TestProxy:getLoginUserName3  xlj2
@@ -91,7 +93,7 @@ onConnect connIndex:[0] address:[114.55.172.5:9001] connected success.
 onConnect erase connIndex from m_reconnectingMap | m_disconnectedMap
 HandlerBase:sendMsg  CoreHandler  10000
 addRequest  10000
-sendLoginGame:    test device  21  eyJwaWQiOiJ4bGoyIiwic2lnbiI6IjBkYWJkYjMwZTE5OTA3OWExM2UwMGFkZGU4ZTg5Zjc0IiwidGltZSI6IjE1NDI2NDgyMzMiLCJ1aWQiOiI3Mzg4NyJ9
+sendLoginGame:    test device  21  eyJwaWQiOiJ4bGoyIiwic2lnbiI6ImVhYjRhMjAxMmY5YTg4OTYyZDU0MWFkNTBlNjk4MjkwIiwidGltZSI6IjE1NDMxNjM3OTQiLCJ1aWQiOiI3Mzg4NyJ9
 HandlerBase:sendMsg  CoreHandler  10002
 addRequest  10002
 PlatformProxy:setPlatformId
@@ -121,6 +123,7 @@ HandlerBase:sendMsg  CoreHandler  10006
 addRequest  10006
 HandlerBase:sendMsg  CoreHandler  10006
 addRequest  10006
+[INFO] LUA VM MEMORY USED: 27723.39 KB
 HandlerBase:sendMsg  CoreHandler  10006
 addRequest  10006
 HandlerBase:sendMsg  CoreHandler  10006
@@ -250,7 +253,15 @@ qweqwe  0
 HandlerBase:sendMsg  CodeHandler  15002
 addRequest  15002
 [default] ShopHandler:_recvDropKnightInfoMsg
-[INFO] LUA VM MEMORY USED: 27257.24 KB
+[INFO] LUA VM MEMORY USED: 27942.18 KB
+HandlerBase:sendMsg  CoreHandler  10000
+addRequest  10000
+[INFO] LUA VM MEMORY USED: 27971.96 KB
+HandlerBase:sendMsg  CoreHandler  10000
+addRequest  10000
+[INFO] LUA VM MEMORY USED: 28001.55 KB
+arrive font cache size, clear page 1
+[INFO] LUA VM MEMORY USED: 27382.91 KB
 [default] ShopsButtonLayer:setBgWidth width = 3
 HandlerBase:sendMsg  TitleHandler  10064
 addRequest  10064
@@ -277,71 +288,995 @@ addRequest  10057
 HandlerBase:sendMsg  CrusadeHandler  17210
 addRequest  17210
 [default] ShopsButtonLayer:setBgWidth width = 3
+HandlerBase:sendMsg  CoreHandler  10000
+addRequest  10000
+Get data from file(pic/knight/110083.png) failed!
+----------------------------------------
+LUA ERROR: ASSERT FAILED ON LUA EXECUTE: Invalid sprite file:[pic/knight/110083.png]
+
+
+stack traceback:
+	[C]: in function 'loadTextureNormal'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/common/JsonPic.lua"]:40: in function 'createKnightButton'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/dungeon/DungeonGateScene.lua"]:778: in function '_createMonster'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/dungeon/DungeonGateScene.lua"]:736: in function '_updateStage'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/dungeon/DungeonGateScene.lua"]:919: in function 'onSceneEnter'
+	[string "UF.ui.cocostudio.CCSUISceneBase"]: in function '_onSceneEnter'
+	[string "UF.ui.cocostudio.CCSUISceneBase"]: in main chunk
+----------------------------------------
+[INFO] LUA VM MEMORY USED: 27538.11 KB
+[default] sendGetArenaInfo
+HandlerBase:sendMsg  ArenaHandler  10400
+addRequest  10400
+[default] recvGetArenaInfo messageId = 10401
+[INFO] LUA VM MEMORY USED: 28469.53 KB
+arrive font cache size, clear page 0
+HandlerBase:sendMsg  WushHandler  15900
+addRequest  15900
+HandlerBase:sendMsg  CoreHandler  10000
+addRequest  10000
+HandlerBase:sendMsg  WushHandler  15900
+addRequest  15900
+Inner height <= scrollview height, it will be force sized!
+[INFO] LUA VM MEMORY USED: 29028.27 KB
+HandlerBase:sendMsg  WushHandler  15902
+addRequest  15902
+[default] item changed
+Get data from file(particles/image.png) failed!
+set las battle
+Get data from file(ui/text/skill/11001.png) failed!
+[ERR] display.newSprite() - create sprite failure, filename ui/text/skill/11001.png
+
+stack traceback:
+	[string "framework.display"]: in function 'newSprite'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/CommonSkillEntry.lua"]:27: in function 'createDisplayWithTweenNode'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/TweenEntry.lua"]:139: in function <[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/TweenEntry.lua"]:110>
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/TweenEntry.lua"]:88: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function 'updateEntry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/BattleLayer.lua"]:1638: in function <[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/BattleLayer.lua"]:1573>
+Get data from file(ui/text/skill/11009.png) failed!
+[ERR] display.newSprite() - create sprite failure, filename ui/text/skill/11009.png
+
+stack traceback:
+	[string "framework.display"]: in function 'newSprite'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/CommonSkillEntry.lua"]:27: in function 'createDisplayWithTweenNode'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/TweenEntry.lua"]:139: in function <[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/TweenEntry.lua"]:110>
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/TweenEntry.lua"]:88: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function 'updateEntry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/BattleLayer.lua"]:1638: in function <[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/BattleLayer.lua"]:1573>
+Get data from file(ui/text/skill/12004.png) failed!
+[ERR] display.newSprite() - create sprite failure, filename ui/text/skill/12004.png
+
+stack traceback:
+	[string "framework.display"]: in function 'newSprite'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/CommonSkillEntry.lua"]:27: in function 'createDisplayWithTweenNode'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/TweenEntry.lua"]:139: in function <[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/TweenEntry.lua"]:110>
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/TweenEntry.lua"]:88: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function 'updateEntry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/BattleLayer.lua"]:1638: in function <[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/BattleLayer.lua"]:1573>
+Get data from file(ui/text/skill/11008.png) failed!
+[ERR] display.newSprite() - create sprite failure, filename ui/text/skill/11008.png
+
+stack traceback:
+	[string "framework.display"]: in function 'newSprite'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/CommonSkillEntry.lua"]:27: in function 'createDisplayWithTweenNode'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/TweenEntry.lua"]:139: in function <[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/TweenEntry.lua"]:110>
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/TweenEntry.lua"]:88: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function 'updateEntry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/BattleLayer.lua"]:1638: in function <[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/BattleLayer.lua"]:1573>
+HandlerBase:sendMsg  CoreHandler  10000
+addRequest  10000
+Get data from file(ui/text/skill/120192.png) failed!
+[ERR] display.newSprite() - create sprite failure, filename ui/text/skill/120192.png
+
+stack traceback:
+	[string "framework.display"]: in function 'newSprite'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/SuperSkillEntry.lua"]:185: in function 'createDisplayWithTweenNode'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/TweenEntry.lua"]:139: in function <[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/TweenEntry.lua"]:110>
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/TweenEntry.lua"]:88: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function 'updateEntry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/BattleLayer.lua"]:1638: in function <[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/BattleLayer.lua"]:1573>
+Get data from file(ui/text/skill/120192.png) failed!
+[ERR] display.newSprite() - create sprite failure, filename ui/text/skill/120192.png
+
+stack traceback:
+	[string "framework.display"]: in function 'newSprite'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/SuperSkillEntry.lua"]:185: in function 'createDisplayWithTweenNode'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/TweenEntry.lua"]:139: in function <[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/TweenEntry.lua"]:110>
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/TweenEntry.lua"]:88: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function 'updateEntry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/BattleLayer.lua"]:1638: in function <[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/BattleLayer.lua"]:1573>
+Get data from file(ui/text/skill/120192.png) failed!
+[ERR] display.newSprite() - create sprite failure, filename ui/text/skill/120192.png
+
+stack traceback:
+	[string "framework.display"]: in function 'newSprite'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/SuperSkillEntry.lua"]:185: in function 'createDisplayWithTweenNode'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/TweenEntry.lua"]:139: in function <[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/TweenEntry.lua"]:110>
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/TweenEntry.lua"]:88: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function 'updateEntry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/BattleLayer.lua"]:1638: in function <[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/BattleLayer.lua"]:1573>
+[INFO] LUA VM MEMORY USED: 31301.99 KB
+Get data from file(ui/text/skill/11009.png) failed!
+[ERR] display.newSprite() - create sprite failure, filename ui/text/skill/11009.png
+
+stack traceback:
+	[string "framework.display"]: in function 'newSprite'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/CommonSkillEntry.lua"]:27: in function 'createDisplayWithTweenNode'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/TweenEntry.lua"]:139: in function <[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/TweenEntry.lua"]:110>
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/TweenEntry.lua"]:88: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function 'updateEntry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/BattleLayer.lua"]:1638: in function <[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/BattleLayer.lua"]:1573>
+Get data from file(ui/text/skill/11015.png) failed!
+[ERR] display.newSprite() - create sprite failure, filename ui/text/skill/11015.png
+
+stack traceback:
+	[string "framework.display"]: in function 'newSprite'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/CommonSkillEntry.lua"]:27: in function 'createDisplayWithTweenNode'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/TweenEntry.lua"]:139: in function <[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/TweenEntry.lua"]:110>
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/TweenEntry.lua"]:88: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function 'updateEntry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/BattleLayer.lua"]:1638: in function <[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/BattleLayer.lua"]:1573>
+Get data from file(ui/text/skill/14001.png) failed!
+[ERR] display.newSprite() - create sprite failure, filename ui/text/skill/14001.png
+
+stack traceback:
+	[string "framework.display"]: in function 'newSprite'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/SuperSkillEntry.lua"]:185: in function 'createDisplayWithTweenNode'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/TweenEntry.lua"]:139: in function <[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/TweenEntry.lua"]:110>
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/TweenEntry.lua"]:88: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function 'updateEntry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/BattleLayer.lua"]:1638: in function <[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/BattleLayer.lua"]:1573>
+Get data from file(ui/text/skill/14001.png) failed!
+[ERR] display.newSprite() - create sprite failure, filename ui/text/skill/14001.png
+
+stack traceback:
+	[string "framework.display"]: in function 'newSprite'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/SuperSkillEntry.lua"]:185: in function 'createDisplayWithTweenNode'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/TweenEntry.lua"]:139: in function <[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/TweenEntry.lua"]:110>
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/TweenEntry.lua"]:88: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function 'updateEntry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/BattleLayer.lua"]:1638: in function <[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/BattleLayer.lua"]:1573>
+Get data from file(ui/text/skill/14001.png) failed!
+[ERR] display.newSprite() - create sprite failure, filename ui/text/skill/14001.png
+
+stack traceback:
+	[string "framework.display"]: in function 'newSprite'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/SuperSkillEntry.lua"]:185: in function 'createDisplayWithTweenNode'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/TweenEntry.lua"]:139: in function <[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/TweenEntry.lua"]:110>
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/TweenEntry.lua"]:88: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function 'updateEntry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/BattleLayer.lua"]:1638: in function <[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/BattleLayer.lua"]:1573>
+Get data from file(ui/text/skill/11018.png) failed!
+[ERR] display.newSprite() - create sprite failure, filename ui/text/skill/11018.png
+
+stack traceback:
+	[string "framework.display"]: in function 'newSprite'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/CommonSkillEntry.lua"]:27: in function 'createDisplayWithTweenNode'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/TweenEntry.lua"]:139: in function <[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/TweenEntry.lua"]:110>
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/TweenEntry.lua"]:88: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function 'updateEntry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/BattleLayer.lua"]:1638: in function <[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/BattleLayer.lua"]:1573>
+[INFO] LUA VM MEMORY USED: 34262.44 KB
+Get data from file(ui/text/skill/14006.png) failed!
+[ERR] display.newSprite() - create sprite failure, filename ui/text/skill/14006.png
+
+stack traceback:
+	[string "framework.display"]: in function 'newSprite'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/CommonSkillEntry.lua"]:27: in function 'createDisplayWithTweenNode'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/TweenEntry.lua"]:139: in function <[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/TweenEntry.lua"]:110>
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/TweenEntry.lua"]:88: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function 'updateEntry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/BattleLayer.lua"]:1638: in function <[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/BattleLayer.lua"]:1573>
+HandlerBase:sendMsg  CoreHandler  10000
+addRequest  10000
+Get data from file(ui/text/skill/14001.png) failed!
+[ERR] display.newSprite() - create sprite failure, filename ui/text/skill/14001.png
+
+stack traceback:
+	[string "framework.display"]: in function 'newSprite'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/CommonSkillEntry.lua"]:27: in function 'createDisplayWithTweenNode'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/TweenEntry.lua"]:139: in function <[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/TweenEntry.lua"]:110>
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/TweenEntry.lua"]:88: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function 'updateEntry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/BattleLayer.lua"]:1638: in function <[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/BattleLayer.lua"]:1573>
+[INFO] LUA VM MEMORY USED: 35409.95 KB
+Get data from file(ui/text/skill/11001.png) failed!
+[ERR] display.newSprite() - create sprite failure, filename ui/text/skill/11001.png
+
+stack traceback:
+	[string "framework.display"]: in function 'newSprite'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/CommonSkillEntry.lua"]:27: in function 'createDisplayWithTweenNode'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/TweenEntry.lua"]:139: in function <[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/TweenEntry.lua"]:110>
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/TweenEntry.lua"]:88: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function 'updateEntry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/BattleLayer.lua"]:1638: in function <[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/BattleLayer.lua"]:1573>
+HandlerBase:sendMsg  CoreHandler  10000
+addRequest  10000
+Get data from file(ui/text/skill/12004.png) failed!
+[ERR] display.newSprite() - create sprite failure, filename ui/text/skill/12004.png
+
+stack traceback:
+	[string "framework.display"]: in function 'newSprite'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/CommonSkillEntry.lua"]:27: in function 'createDisplayWithTweenNode'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/TweenEntry.lua"]:139: in function <[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/TweenEntry.lua"]:110>
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/TweenEntry.lua"]:88: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function 'updateEntry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/BattleLayer.lua"]:1638: in function <[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/BattleLayer.lua"]:1573>
+[INFO] LUA VM MEMORY USED: 37106.45 KB
+Get data from file(ui/text/skill/14001.png) failed!
+[ERR] display.newSprite() - create sprite failure, filename ui/text/skill/14001.png
+
+stack traceback:
+	[string "framework.display"]: in function 'newSprite'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/SuperSkillEntry.lua"]:185: in function 'createDisplayWithTweenNode'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/TweenEntry.lua"]:139: in function <[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/TweenEntry.lua"]:110>
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/TweenEntry.lua"]:88: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function 'updateEntry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/BattleLayer.lua"]:1638: in function <[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/BattleLayer.lua"]:1573>
+Get data from file(ui/text/skill/14001.png) failed!
+[ERR] display.newSprite() - create sprite failure, filename ui/text/skill/14001.png
+
+stack traceback:
+	[string "framework.display"]: in function 'newSprite'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/SuperSkillEntry.lua"]:185: in function 'createDisplayWithTweenNode'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/TweenEntry.lua"]:139: in function <[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/TweenEntry.lua"]:110>
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/TweenEntry.lua"]:88: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function 'updateEntry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/BattleLayer.lua"]:1638: in function <[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/BattleLayer.lua"]:1573>
+Get data from file(ui/text/skill/14001.png) failed!
+[ERR] display.newSprite() - create sprite failure, filename ui/text/skill/14001.png
+
+stack traceback:
+	[string "framework.display"]: in function 'newSprite'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/SuperSkillEntry.lua"]:185: in function 'createDisplayWithTweenNode'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/TweenEntry.lua"]:139: in function <[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/TweenEntry.lua"]:110>
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/TweenEntry.lua"]:88: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function 'updateEntry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/BattleLayer.lua"]:1638: in function <[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/BattleLayer.lua"]:1573>
+Get data from file(ui/text/skill/11018.png) failed!
+[ERR] display.newSprite() - create sprite failure, filename ui/text/skill/11018.png
+
+stack traceback:
+	[string "framework.display"]: in function 'newSprite'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/CommonSkillEntry.lua"]:27: in function 'createDisplayWithTweenNode'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/TweenEntry.lua"]:139: in function <[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/TweenEntry.lua"]:110>
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/TweenEntry.lua"]:88: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function 'updateEntry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/BattleLayer.lua"]:1638: in function <[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/BattleLayer.lua"]:1573>
+Get data from file(ui/text/skill/14006.png) failed!
+[ERR] display.newSprite() - create sprite failure, filename ui/text/skill/14006.png
+
+stack traceback:
+	[string "framework.display"]: in function 'newSprite'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/CommonSkillEntry.lua"]:27: in function 'createDisplayWithTweenNode'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/TweenEntry.lua"]:139: in function <[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/TweenEntry.lua"]:110>
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/TweenEntry.lua"]:88: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function 'updateEntry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/BattleLayer.lua"]:1638: in function <[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/BattleLayer.lua"]:1573>
+Get data from file(ui/text/skill/14001.png) failed!
+[ERR] display.newSprite() - create sprite failure, filename ui/text/skill/14001.png
+
+stack traceback:
+	[string "framework.display"]: in function 'newSprite'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/CommonSkillEntry.lua"]:27: in function 'createDisplayWithTweenNode'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/TweenEntry.lua"]:139: in function <[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/TweenEntry.lua"]:110>
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/TweenEntry.lua"]:88: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function 'updateEntry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/BattleLayer.lua"]:1638: in function <[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/BattleLayer.lua"]:1573>
+[INFO] LUA VM MEMORY USED: 38573.83 KB
+HandlerBase:sendMsg  CoreHandler  10000
+addRequest  10000
+[default] 显示FightEnd.show
+result**  2
+self._result:  2
 arrive font cache size, clear page 1
+cancel waiting
+HandlerBase:sendMsg  WushHandler  15900
+addRequest  15900
+Inner height <= scrollview height, it will be force sized!
+[default] ----------boss idx 5
+[INFO] LUA VM MEMORY USED: 28960.09 KB
 HandlerBase:sendMsg  CoreHandler  10000
 addRequest  10000
-[INFO] LUA VM MEMORY USED: 28433.40 KB
-[INFO] LUA VM MEMORY USED: 28594.66 KB
+[INFO] LUA VM MEMORY USED: 28968.29 KB
+[INFO] LUA VM MEMORY USED: 28975.42 KB
 HandlerBase:sendMsg  CoreHandler  10000
 addRequest  10000
-[INFO] LUA VM MEMORY USED: 27868.53 KB
+[INFO] LUA VM MEMORY USED: 28983.16 KB
+HandlerBase:sendMsg  WushHandler  13106
+addRequest  13106
 HandlerBase:sendMsg  CoreHandler  10000
 addRequest  10000
-[INFO] LUA VM MEMORY USED: 27964.23 KB
-[INFO] LUA VM MEMORY USED: 28100.33 KB
+HandlerBase:sendMsg  WushHandler  13104
+addRequest  13104
+[INFO] LUA VM MEMORY USED: 29115.99 KB
+Get data from file(particles/image.png) failed!
+set las battle
+Get data from file(ui/text/skill/11001.png) failed!
+[ERR] display.newSprite() - create sprite failure, filename ui/text/skill/11001.png
+
+stack traceback:
+	[string "framework.display"]: in function 'newSprite'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/CommonSkillEntry.lua"]:27: in function 'createDisplayWithTweenNode'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/TweenEntry.lua"]:139: in function <[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/TweenEntry.lua"]:110>
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/TweenEntry.lua"]:88: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function 'updateEntry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/BattleLayer.lua"]:1638: in function <[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/BattleLayer.lua"]:1573>
+Get data from file(ui/text/skill/12004.png) failed!
+[ERR] display.newSprite() - create sprite failure, filename ui/text/skill/12004.png
+
+stack traceback:
+	[string "framework.display"]: in function 'newSprite'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/CommonSkillEntry.lua"]:27: in function 'createDisplayWithTweenNode'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/TweenEntry.lua"]:139: in function <[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/TweenEntry.lua"]:110>
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/TweenEntry.lua"]:88: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function 'updateEntry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/BattleLayer.lua"]:1638: in function <[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/BattleLayer.lua"]:1573>
+result**  win
+self._result:  win
+cancel waiting
+arrive font cache size, clear page 0
+[INFO] LUA VM MEMORY USED: 28960.81 KB
+[default] sendGetArenaInfo
+HandlerBase:sendMsg  ArenaHandler  10400
+addRequest  10400
+[default] recvGetArenaInfo messageId = 10401
 HandlerBase:sendMsg  CoreHandler  10000
 addRequest  10000
-[INFO] LUA VM MEMORY USED: 28257.98 KB
-old maxsock:732
+Get data from file(pic/knight/110083.png) failed!
+----------------------------------------
+LUA ERROR: ASSERT FAILED ON LUA EXECUTE: Invalid sprite file:[pic/knight/110083.png]
+
+
+stack traceback:
+	[C]: in function 'loadTextureNormal'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/common/JsonPic.lua"]:40: in function 'createKnightButton'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/dungeon/DungeonGateScene.lua"]:778: in function '_createMonster'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/dungeon/DungeonGateScene.lua"]:736: in function '_updateStage'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/dungeon/DungeonGateScene.lua"]:919: in function 'onSceneEnter'
+	[string "UF.ui.cocostudio.CCSUISceneBase"]: in function '_onSceneEnter'
+	[string "UF.ui.cocostudio.CCSUISceneBase"]: in main chunk
+----------------------------------------
+[default] ---------maxNum = 120
+HandlerBase:sendMsg  DungeonHandler  10307
+addRequest  10307
+[default] knight changed
+[default] _knightDataChange insert_knights
+Get data from file(particles/image.png) failed!
+set las battle
+Get data from file(ui/text/skill/11001.png) failed!
+[ERR] display.newSprite() - create sprite failure, filename ui/text/skill/11001.png
+
+stack traceback:
+	[string "framework.display"]: in function 'newSprite'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/CommonSkillEntry.lua"]:27: in function 'createDisplayWithTweenNode'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/TweenEntry.lua"]:139: in function <[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/TweenEntry.lua"]:110>
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/TweenEntry.lua"]:88: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function 'updateEntry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/BattleLayer.lua"]:1638: in function <[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/BattleLayer.lua"]:1573>
+[INFO] LUA VM MEMORY USED: 29766.99 KB
+Get data from file(ui/text/skill/12004.png) failed!
+[ERR] display.newSprite() - create sprite failure, filename ui/text/skill/12004.png
+
+stack traceback:
+	[string "framework.display"]: in function 'newSprite'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/CommonSkillEntry.lua"]:27: in function 'createDisplayWithTweenNode'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/TweenEntry.lua"]:139: in function <[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/TweenEntry.lua"]:110>
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/TweenEntry.lua"]:88: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function 'updateEntry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/BattleLayer.lua"]:1638: in function <[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/BattleLayer.lua"]:1573>
+Get data from file(ui/text/skill/120192.png) failed!
+[ERR] display.newSprite() - create sprite failure, filename ui/text/skill/120192.png
+
+stack traceback:
+	[string "framework.display"]: in function 'newSprite'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/SuperSkillEntry.lua"]:185: in function 'createDisplayWithTweenNode'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/TweenEntry.lua"]:139: in function <[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/TweenEntry.lua"]:110>
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/TweenEntry.lua"]:88: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function 'updateEntry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/BattleLayer.lua"]:1638: in function <[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/BattleLayer.lua"]:1573>
+Get data from file(ui/text/skill/120192.png) failed!
+[ERR] display.newSprite() - create sprite failure, filename ui/text/skill/120192.png
+
+stack traceback:
+	[string "framework.display"]: in function 'newSprite'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/SuperSkillEntry.lua"]:185: in function 'createDisplayWithTweenNode'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/TweenEntry.lua"]:139: in function <[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/TweenEntry.lua"]:110>
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/TweenEntry.lua"]:88: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function 'updateEntry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/BattleLayer.lua"]:1638: in function <[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/BattleLayer.lua"]:1573>
+Get data from file(ui/text/skill/120192.png) failed!
+[ERR] display.newSprite() - create sprite failure, filename ui/text/skill/120192.png
+
+stack traceback:
+	[string "framework.display"]: in function 'newSprite'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/SuperSkillEntry.lua"]:185: in function 'createDisplayWithTweenNode'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/TweenEntry.lua"]:139: in function <[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/TweenEntry.lua"]:110>
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/TweenEntry.lua"]:88: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function 'updateEntry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/BattleLayer.lua"]:1638: in function <[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/BattleLayer.lua"]:1573>
+Get data from file(ui/text/skill/14001.png) failed!
+[ERR] display.newSprite() - create sprite failure, filename ui/text/skill/14001.png
+
+stack traceback:
+	[string "framework.display"]: in function 'newSprite'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/SuperSkillEntry.lua"]:185: in function 'createDisplayWithTweenNode'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/TweenEntry.lua"]:139: in function <[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/TweenEntry.lua"]:110>
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/TweenEntry.lua"]:88: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function 'updateEntry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/BattleLayer.lua"]:1638: in function <[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/BattleLayer.lua"]:1573>
+Get data from file(ui/text/skill/14001.png) failed!
+[ERR] display.newSprite() - create sprite failure, filename ui/text/skill/14001.png
+
+stack traceback:
+	[string "framework.display"]: in function 'newSprite'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/SuperSkillEntry.lua"]:185: in function 'createDisplayWithTweenNode'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/TweenEntry.lua"]:139: in function <[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/TweenEntry.lua"]:110>
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/TweenEntry.lua"]:88: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function 'updateEntry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/BattleLayer.lua"]:1638: in function <[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/BattleLayer.lua"]:1573>
+Get data from file(ui/text/skill/14001.png) failed!
+[ERR] display.newSprite() - create sprite failure, filename ui/text/skill/14001.png
+
+stack traceback:
+	[string "framework.display"]: in function 'newSprite'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/SuperSkillEntry.lua"]:185: in function 'createDisplayWithTweenNode'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/TweenEntry.lua"]:139: in function <[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/TweenEntry.lua"]:110>
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/TweenEntry.lua"]:88: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function 'updateEntry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/BattleLayer.lua"]:1638: in function <[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/BattleLayer.lua"]:1573>
+HandlerBase:sendMsg  CoreHandler  10000
+addRequest  10000
+[INFO] LUA VM MEMORY USED: 32202.82 KB
+Get data from file(ui/text/skill/11018.png) failed!
+[ERR] display.newSprite() - create sprite failure, filename ui/text/skill/11018.png
+
+stack traceback:
+	[string "framework.display"]: in function 'newSprite'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/CommonSkillEntry.lua"]:27: in function 'createDisplayWithTweenNode'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/TweenEntry.lua"]:139: in function <[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/TweenEntry.lua"]:110>
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/TweenEntry.lua"]:88: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function 'updateEntry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/BattleLayer.lua"]:1638: in function <[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/BattleLayer.lua"]:1573>
+Get data from file(ui/text/skill/14007.png) failed!
+[ERR] display.newSprite() - create sprite failure, filename ui/text/skill/14007.png
+
+stack traceback:
+	[string "framework.display"]: in function 'newSprite'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/CommonSkillEntry.lua"]:27: in function 'createDisplayWithTweenNode'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/TweenEntry.lua"]:139: in function <[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/TweenEntry.lua"]:110>
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/TweenEntry.lua"]:88: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function 'updateEntry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/BattleLayer.lua"]:1638: in function <[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/BattleLayer.lua"]:1573>
+Get data from file(ui/text/skill/14007.png) failed!
+[ERR] display.newSprite() - create sprite failure, filename ui/text/skill/14007.png
+
+stack traceback:
+	[string "framework.display"]: in function 'newSprite'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/CommonSkillEntry.lua"]:27: in function 'createDisplayWithTweenNode'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/TweenEntry.lua"]:139: in function <[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/TweenEntry.lua"]:110>
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/TweenEntry.lua"]:88: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function 'updateEntry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/BattleLayer.lua"]:1638: in function <[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/BattleLayer.lua"]:1573>
+Get data from file(ui/text/skill/14001.png) failed!
+[ERR] display.newSprite() - create sprite failure, filename ui/text/skill/14001.png
+
+stack traceback:
+	[string "framework.display"]: in function 'newSprite'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/CommonSkillEntry.lua"]:27: in function 'createDisplayWithTweenNode'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/TweenEntry.lua"]:139: in function <[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/TweenEntry.lua"]:110>
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/TweenEntry.lua"]:88: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function 'updateEntry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/BattleLayer.lua"]:1638: in function <[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/BattleLayer.lua"]:1573>
+[INFO] LUA VM MEMORY USED: 34316.90 KB
+HandlerBase:sendMsg  CoreHandler  10000
+addRequest  10000
+[INFO] LUA VM MEMORY USED: 36316.33 KB
+Get data from file(ui/text/skill/11001.png) failed!
+[ERR] display.newSprite() - create sprite failure, filename ui/text/skill/11001.png
+
+stack traceback:
+	[string "framework.display"]: in function 'newSprite'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/CommonSkillEntry.lua"]:27: in function 'createDisplayWithTweenNode'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/TweenEntry.lua"]:139: in function <[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/TweenEntry.lua"]:110>
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/TweenEntry.lua"]:88: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function 'updateEntry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/BattleLayer.lua"]:1638: in function <[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/BattleLayer.lua"]:1573>
+result**  2
+self._result:  2
+HandlerBase:sendMsg  CoreHandler  10000
+addRequest  10000
+[INFO] LUA VM MEMORY USED: 29245.69 KB
+arrive font cache size, clear page 1
+[INFO] LUA VM MEMORY USED: 29309.29 KB
+HandlerBase:sendMsg  CoreHandler  10000
+addRequest  10000
+old maxsock:744
 new maxsock:0
 RequestService:onDisconnected
 __XX_SOCK_ERROR__ select err: 10038 rebuild fdset
-[INFO] LUA VM MEMORY USED: 28391.62 KB
-[INFO] LUA VM MEMORY USED: 28543.59 KB
-[INFO] LUA VM MEMORY USED: 28679.63 KB
-[INFO] LUA VM MEMORY USED: 28827.39 KB
-[INFO] LUA VM MEMORY USED: 28965.77 KB
-[INFO] LUA VM MEMORY USED: 29111.18 KB
-[INFO] LUA VM MEMORY USED: 29253.08 KB
-[INFO] LUA VM MEMORY USED: 29394.51 KB
-[INFO] LUA VM MEMORY USED: 29542.27 KB
-[INFO] LUA VM MEMORY USED: 29678.30 KB
-[INFO] LUA VM MEMORY USED: 29829.58 KB
-[INFO] LUA VM MEMORY USED: 29963.27 KB
-[INFO] LUA VM MEMORY USED: 30118.06 KB
-[INFO] LUA VM MEMORY USED: 30250.11 KB
-[INFO] LUA VM MEMORY USED: 30402.56 KB
-[INFO] LUA VM MEMORY USED: 30538.60 KB
-[INFO] LUA VM MEMORY USED: 30686.35 KB
-[INFO] LUA VM MEMORY USED: 30824.73 KB
-[INFO] LUA VM MEMORY USED: 30970.15 KB
-[INFO] LUA VM MEMORY USED: 31111.58 KB
-[INFO] LUA VM MEMORY USED: 31253.47 KB
-[INFO] LUA VM MEMORY USED: 31401.23 KB
-[INFO] LUA VM MEMORY USED: 31537.27 KB
-[INFO] LUA VM MEMORY USED: 31688.75 KB
-[INFO] LUA VM MEMORY USED: 31822.44 KB
-[INFO] LUA VM MEMORY USED: 31976.76 KB
-[INFO] LUA VM MEMORY USED: 32109.28 KB
-[INFO] LUA VM MEMORY USED: 32261.73 KB
-[INFO] LUA VM MEMORY USED: 32397.77 KB
-[INFO] LUA VM MEMORY USED: 32545.52 KB
-[INFO] LUA VM MEMORY USED: 32683.91 KB
-[INFO] LUA VM MEMORY USED: 32828.85 KB
-[INFO] LUA VM MEMORY USED: 32970.75 KB
-[INFO] LUA VM MEMORY USED: 33112.64 KB
-[INFO] LUA VM MEMORY USED: 33259.23 KB
-[INFO] LUA VM MEMORY USED: 33396.44 KB
-[INFO] LUA VM MEMORY USED: 33547.24 KB
-[INFO] LUA VM MEMORY USED: 33679.77 KB
-[INFO] LUA VM MEMORY USED: 33835.73 KB
-[INFO] LUA VM MEMORY USED: 33965.90 KB
-[INFO] LUA VM MEMORY USED: 34120.69 KB
-[INFO] LUA VM MEMORY USED: 34255.56 KB
-[INFO] LUA VM MEMORY USED: 34404.02 KB
-[INFO] LUA VM MEMORY USED: 34542.40 KB
-[INFO] LUA VM MEMORY USED: 34687.81 KB
-[INFO] LUA VM MEMORY USED: 34829.71 KB
-[INFO] LUA VM MEMORY USED: 34971.61 KB
-[INFO] LUA VM MEMORY USED: 35118.19 KB
-[INFO] LUA VM MEMORY USED: 35254.93 KB
+[INFO] LUA VM MEMORY USED: 29325.97 KB
+[INFO] LUA VM MEMORY USED: 29342.68 KB
+cancel waiting
+stop box1
+cancel waiting
+Get data from file(pic/knight/110083.png) failed!
+----------------------------------------
+LUA ERROR: ASSERT FAILED ON LUA EXECUTE: Invalid sprite file:[pic/knight/110083.png]
+
+
+stack traceback:
+	[C]: in function 'loadTextureNormal'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/common/JsonPic.lua"]:40: in function 'createKnightButton'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/dungeon/DungeonGateScene.lua"]:778: in function '_createMonster'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/dungeon/DungeonGateScene.lua"]:736: in function '_updateStage'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/dungeon/DungeonGateScene.lua"]:919: in function 'onSceneEnter'
+	[string "UF.ui.cocostudio.CCSUISceneBase"]: in function '_onSceneEnter'
+	[string "UF.ui.cocostudio.CCSUISceneBase"]: in main chunk
+----------------------------------------
+[INFO] LUA VM MEMORY USED: 29162.77 KB
+[default] ---------maxNum = 120
+HandlerBase:sendMsg  DungeonHandler  10307
+addRequest  10307
+onConnect connIndex:[0] address:[114.55.172.5:9001] connected success.
+onConnect erase connIndex from m_reconnectingMap | m_disconnectedMap
+HandlerBase:sendMsg  CoreHandler  10000
+addRequest  10000
+sendLoginGame:    test device  21  eyJwaWQiOiJ4bGoyIiwic2lnbiI6ImVhYjRhMjAxMmY5YTg4OTYyZDU0MWFkNTBlNjk4MjkwIiwidGltZSI6IjE1NDMxNjM3OTQiLCJ1aWQiOiI3Mzg4NyJ9
+HandlerBase:sendMsg  CoreHandler  10002
+addRequest  10002
+HandlerBase:sendMsg  CoreHandler  10006
+addRequest  10006
+PlatformProxy:setPlatformId
+=========_recvLoginMsg======
+login game success ...
+HandlerBase:sendMsg  CoreHandler  10011
+addRequest  10011
+HandlerBase:sendMsg  CoreHandler  10006
+addRequest  10006
+HandlerBase:sendMsg  CoreHandler  10006
+addRequest  10006
+HandlerBase:sendMsg  CoreHandler  10006
+addRequest  10006
+[ERROR] _recvTreasureFragmentMsg data error 
+HandlerBase:sendMsg  CoreHandler  10006
+addRequest  10006
+HandlerBase:sendMsg  CoreHandler  10006
+addRequest  10006
+HandlerBase:sendMsg  CoreHandler  15200
+addRequest  15200
+HandlerBase:sendMsg  GMActivityHandler   13700
+addRequest  13700
+HandlerBase:sendMsg  CodeHandler  15000
+addRequest  15000
+Get data from file(particles/image.png) failed!
+set las battle
+Get data from file(ui/text/skill/11001.png) failed!
+[ERR] display.newSprite() - create sprite failure, filename ui/text/skill/11001.png
+
+stack traceback:
+	[string "framework.display"]: in function 'newSprite'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/CommonSkillEntry.lua"]:27: in function 'createDisplayWithTweenNode'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/TweenEntry.lua"]:139: in function <[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/TweenEntry.lua"]:110>
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/TweenEntry.lua"]:88: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function 'updateEntry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/BattleLayer.lua"]:1638: in function <[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/BattleLayer.lua"]:1573>
+Get data from file(ui/text/skill/12004.png) failed!
+[ERR] display.newSprite() - create sprite failure, filename ui/text/skill/12004.png
+
+stack traceback:
+	[string "framework.display"]: in function 'newSprite'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/CommonSkillEntry.lua"]:27: in function 'createDisplayWithTweenNode'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/TweenEntry.lua"]:139: in function <[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/TweenEntry.lua"]:110>
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/TweenEntry.lua"]:88: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function 'updateEntry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/BattleLayer.lua"]:1638: in function <[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/BattleLayer.lua"]:1573>
+Get data from file(ui/text/skill/120192.png) failed!
+[ERR] display.newSprite() - create sprite failure, filename ui/text/skill/120192.png
+
+stack traceback:
+	[string "framework.display"]: in function 'newSprite'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/SuperSkillEntry.lua"]:185: in function 'createDisplayWithTweenNode'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/TweenEntry.lua"]:139: in function <[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/TweenEntry.lua"]:110>
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/TweenEntry.lua"]:88: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function 'updateEntry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/BattleLayer.lua"]:1638: in function <[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/BattleLayer.lua"]:1573>
+[INFO] LUA VM MEMORY USED: 30795.88 KB
+Get data from file(ui/text/skill/120192.png) failed!
+[ERR] display.newSprite() - create sprite failure, filename ui/text/skill/120192.png
+
+stack traceback:
+	[string "framework.display"]: in function 'newSprite'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/SuperSkillEntry.lua"]:185: in function 'createDisplayWithTweenNode'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/TweenEntry.lua"]:139: in function <[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/TweenEntry.lua"]:110>
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/TweenEntry.lua"]:88: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function 'updateEntry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/BattleLayer.lua"]:1638: in function <[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/BattleLayer.lua"]:1573>
+Get data from file(ui/text/skill/120192.png) failed!
+[ERR] display.newSprite() - create sprite failure, filename ui/text/skill/120192.png
+
+stack traceback:
+	[string "framework.display"]: in function 'newSprite'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/SuperSkillEntry.lua"]:185: in function 'createDisplayWithTweenNode'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/TweenEntry.lua"]:139: in function <[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/TweenEntry.lua"]:110>
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/TweenEntry.lua"]:88: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function 'updateEntry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/BattleLayer.lua"]:1638: in function <[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/BattleLayer.lua"]:1573>
+Get data from file(ui/text/skill/14001.png) failed!
+[ERR] display.newSprite() - create sprite failure, filename ui/text/skill/14001.png
+
+stack traceback:
+	[string "framework.display"]: in function 'newSprite'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/SuperSkillEntry.lua"]:185: in function 'createDisplayWithTweenNode'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/TweenEntry.lua"]:139: in function <[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/TweenEntry.lua"]:110>
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/TweenEntry.lua"]:88: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function 'updateEntry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/BattleLayer.lua"]:1638: in function <[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/BattleLayer.lua"]:1573>
+Get data from file(ui/text/skill/14001.png) failed!
+[ERR] display.newSprite() - create sprite failure, filename ui/text/skill/14001.png
+
+stack traceback:
+	[string "framework.display"]: in function 'newSprite'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/SuperSkillEntry.lua"]:185: in function 'createDisplayWithTweenNode'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/TweenEntry.lua"]:139: in function <[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/TweenEntry.lua"]:110>
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/TweenEntry.lua"]:88: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function 'updateEntry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/BattleLayer.lua"]:1638: in function <[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/BattleLayer.lua"]:1573>
+Get data from file(ui/text/skill/14001.png) failed!
+[ERR] display.newSprite() - create sprite failure, filename ui/text/skill/14001.png
+
+stack traceback:
+	[string "framework.display"]: in function 'newSprite'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/SuperSkillEntry.lua"]:185: in function 'createDisplayWithTweenNode'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/TweenEntry.lua"]:139: in function <[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/TweenEntry.lua"]:110>
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/TweenEntry.lua"]:88: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function 'updateEntry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/BattleLayer.lua"]:1638: in function <[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/BattleLayer.lua"]:1573>
+HandlerBase:sendMsg  CoreHandler  10000
+addRequest  10000
+Get data from file(ui/text/skill/11018.png) failed!
+[ERR] display.newSprite() - create sprite failure, filename ui/text/skill/11018.png
+
+stack traceback:
+	[string "framework.display"]: in function 'newSprite'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/CommonSkillEntry.lua"]:27: in function 'createDisplayWithTweenNode'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/TweenEntry.lua"]:139: in function <[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/TweenEntry.lua"]:110>
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/TweenEntry.lua"]:88: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function 'updateEntry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/BattleLayer.lua"]:1638: in function <[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/BattleLayer.lua"]:1573>
+[INFO] LUA VM MEMORY USED: 33150.52 KB
+Get data from file(ui/text/skill/13018.png) failed!
+[ERR] display.newSprite() - create sprite failure, filename ui/text/skill/13018.png
+
+stack traceback:
+	[string "framework.display"]: in function 'newSprite'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/CommonSkillEntry.lua"]:27: in function 'createDisplayWithTweenNode'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/TweenEntry.lua"]:139: in function <[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/TweenEntry.lua"]:110>
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/TweenEntry.lua"]:88: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function 'updateEntry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/BattleLayer.lua"]:1638: in function <[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/BattleLayer.lua"]:1573>
+Get data from file(ui/text/skill/14001.png) failed!
+[ERR] display.newSprite() - create sprite failure, filename ui/text/skill/14001.png
+
+stack traceback:
+	[string "framework.display"]: in function 'newSprite'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/CommonSkillEntry.lua"]:27: in function 'createDisplayWithTweenNode'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/TweenEntry.lua"]:139: in function <[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/TweenEntry.lua"]:110>
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/TweenEntry.lua"]:88: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function 'updateEntry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/BattleLayer.lua"]:1638: in function <[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/BattleLayer.lua"]:1573>
+[INFO] LUA VM MEMORY USED: 34778.64 KB
+HandlerBase:sendMsg  CoreHandler  10000
+addRequest  10000
+Get data from file(ui/text/skill/11001.png) failed!
+[ERR] display.newSprite() - create sprite failure, filename ui/text/skill/11001.png
+
+stack traceback:
+	[string "framework.display"]: in function 'newSprite'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/CommonSkillEntry.lua"]:27: in function 'createDisplayWithTweenNode'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/TweenEntry.lua"]:139: in function <[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/TweenEntry.lua"]:110>
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/TweenEntry.lua"]:88: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function 'updateEntry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/BattleLayer.lua"]:1638: in function <[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/BattleLayer.lua"]:1573>
+[INFO] LUA VM MEMORY USED: 36198.56 KB
+Get data from file(ui/text/skill/12004.png) failed!
+[ERR] display.newSprite() - create sprite failure, filename ui/text/skill/12004.png
+
+stack traceback:
+	[string "framework.display"]: in function 'newSprite'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/CommonSkillEntry.lua"]:27: in function 'createDisplayWithTweenNode'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/TweenEntry.lua"]:139: in function <[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/TweenEntry.lua"]:110>
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/TweenEntry.lua"]:88: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function '_entry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/entry/Entry.lua"]:242: in function 'updateEntry'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/BattleLayer.lua"]:1638: in function <[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/battle/BattleLayer.lua"]:1573>
+self._result:  1
+HandlerBase:sendMsg  CoreHandler  10000
+addRequest  10000
+[INFO] LUA VM MEMORY USED: 29306.29 KB
+[INFO] LUA VM MEMORY USED: 29320.58 KB
+HandlerBase:sendMsg  CoreHandler  10000
+addRequest  10000
+old maxsock:744
+new maxsock:0
+RequestService:onDisconnected
+__XX_SOCK_ERROR__ select err: 10038 rebuild fdset
+[INFO] LUA VM MEMORY USED: 29337.83 KB
+cancel waiting
+Get data from file(pic/knight/110083.png) failed!
+----------------------------------------
+LUA ERROR: ASSERT FAILED ON LUA EXECUTE: Invalid sprite file:[pic/knight/110083.png]
+
+
+stack traceback:
+	[C]: in function 'loadTextureNormal'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/common/JsonPic.lua"]:40: in function 'createKnightButton'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/dungeon/DungeonGateScene.lua"]:778: in function '_createMonster'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/dungeon/DungeonGateScene.lua"]:736: in function '_updateStage'
+	[string "G:\SVN\Pokemon\test_1.0\\pc_test\Pokemon\scripts.\app/scenes/dungeon/DungeonGateScene.lua"]:919: in function 'onSceneEnter'
+	[string "UF.ui.cocostudio.CCSUISceneBase"]: in function '_onSceneEnter'
+	[string "UF.ui.cocostudio.CCSUISceneBase"]: in main chunk
+----------------------------------------
+[INFO] LUA VM MEMORY USED: 29103.78 KB
+[INFO] LUA VM MEMORY USED: 29108.57 KB
+[INFO] LUA VM MEMORY USED: 29113.50 KB
+[INFO] LUA VM MEMORY USED: 29118.29 KB
+[INFO] LUA VM MEMORY USED: 29123.08 KB
+[INFO] LUA VM MEMORY USED: 29127.40 KB
+[INFO] LUA VM MEMORY USED: 29132.18 KB
+[INFO] LUA VM MEMORY USED: 29137.42 KB
+[INFO] LUA VM MEMORY USED: 29142.21 KB
+[INFO] LUA VM MEMORY USED: 29146.99 KB
+[INFO] LUA VM MEMORY USED: 29151.78 KB
+[INFO] LUA VM MEMORY USED: 29156.10 KB
+[INFO] LUA VM MEMORY USED: 29160.89 KB
+[INFO] LUA VM MEMORY USED: 29165.68 KB
+[INFO] LUA VM MEMORY USED: 29170.47 KB
+[INFO] LUA VM MEMORY USED: 29175.25 KB
+[INFO] LUA VM MEMORY USED: 29180.04 KB
+[INFO] LUA VM MEMORY USED: 29184.36 KB
+[INFO] LUA VM MEMORY USED: 29189.15 KB
+[INFO] LUA VM MEMORY USED: 29193.94 KB
+[INFO] LUA VM MEMORY USED: 29198.73 KB
+[INFO] LUA VM MEMORY USED: 29203.51 KB
+[INFO] LUA VM MEMORY USED: 29208.30 KB
+[INFO] LUA VM MEMORY USED: 29212.62 KB
+[INFO] LUA VM MEMORY USED: 29217.41 KB
+[INFO] LUA VM MEMORY USED: 29222.20 KB
+[INFO] LUA VM MEMORY USED: 29226.99 KB
+[INFO] LUA VM MEMORY USED: 29231.77 KB
+[INFO] LUA VM MEMORY USED: 29236.56 KB
+[INFO] LUA VM MEMORY USED: 29240.88 KB
+[INFO] LUA VM MEMORY USED: 29245.67 KB
+[INFO] LUA VM MEMORY USED: 29250.46 KB
+[INFO] LUA VM MEMORY USED: 29255.25 KB
+[INFO] LUA VM MEMORY USED: 29260.03 KB
+[INFO] LUA VM MEMORY USED: 29264.82 KB
+[INFO] LUA VM MEMORY USED: 29269.14 KB
+[INFO] LUA VM MEMORY USED: 29273.93 KB
+[INFO] LUA VM MEMORY USED: 29278.72 KB
+[INFO] LUA VM MEMORY USED: 29283.50 KB
+[INFO] LUA VM MEMORY USED: 29288.29 KB
+[INFO] LUA VM MEMORY USED: 29293.08 KB
+[INFO] LUA VM MEMORY USED: 29297.40 KB
+[INFO] LUA VM MEMORY USED: 29302.19 KB
+[INFO] LUA VM MEMORY USED: 29306.98 KB
+[INFO] LUA VM MEMORY USED: 29311.76 KB
+[INFO] LUA VM MEMORY USED: 29316.55 KB
+[INFO] LUA VM MEMORY USED: 29321.34 KB
+[INFO] LUA VM MEMORY USED: 29325.66 KB
+[INFO] LUA VM MEMORY USED: 29330.45 KB
+[INFO] LUA VM MEMORY USED: 29335.24 KB
+[INFO] LUA VM MEMORY USED: 29340.02 KB
+[INFO] LUA VM MEMORY USED: 29344.81 KB
+[INFO] LUA VM MEMORY USED: 29349.60 KB
+[INFO] LUA VM MEMORY USED: 29353.92 KB
+[INFO] LUA VM MEMORY USED: 29358.71 KB
+[INFO] LUA VM MEMORY USED: 29363.50 KB
+[INFO] LUA VM MEMORY USED: 29368.28 KB
+[INFO] LUA VM MEMORY USED: 29373.07 KB
+[INFO] LUA VM MEMORY USED: 29377.39 KB

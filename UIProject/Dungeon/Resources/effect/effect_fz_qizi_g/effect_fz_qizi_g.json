@@ -1,0 +1,93 @@
+{
+  "图层 1_1" : {
+    "f1" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "effect_fz_qizi_g_1.png"
+      }
+    },
+    "order" : "3"
+  },
+  "effect_fz_qizi_2" : {
+    "f1" : {
+      "start" : {
+        "x" : "31.1",
+        "y" : "-4.8",
+        "rotation" : "41.32",
+        "scaleX" : "0.84",
+        "scaleY" : "0.84",
+        "color" : {
+          "alpha_original" : "1",
+          "alpha" : "0",
+          "red_original" : "0.82",
+          "red" : "0",
+          "green_original" : "0.82",
+          "green" : "0",
+          "blue_original" : "0.82",
+          "blue" : "0"
+        }
+      }
+    },
+    "effect" : "effect_fz_qizi",
+    "useBatchNode" : "false",
+    "order" : "2"
+  },
+  "effect_fz_qizi_3" : {
+    "f1" : {
+      "start" : {
+        "x" : "18.1",
+        "y" : "18.2",
+        "rotation" : "14.28",
+        "scaleX" : "0.84",
+        "scaleY" : "0.84",
+        "color" : {
+          "alpha_original" : "1",
+          "alpha" : "0",
+          "red_original" : "0.82",
+          "red" : "0",
+          "green_original" : "0.82",
+          "green" : "0",
+          "blue_original" : "0.82",
+          "blue" : "0"
+        }
+      }
+    },
+    "effect" : "effect_fz_qizi_d",
+    "useBatchNode" : "false",
+    "order" : "1"
+  },
+  "effect_fz_qizi_4" : {
+    "f1" : {
+      "start" : {
+        "x" : "-5.9",
+        "y" : "18.2",
+        "rotation" : "-27.19",
+        "scaleX" : "0.84",
+        "scaleY" : "0.84",
+        "color" : {
+          "alpha_original" : "1",
+          "alpha" : "0",
+          "red_original" : "0.82",
+          "red" : "0",
+          "green_original" : "0.82",
+          "green" : "0",
+          "blue_original" : "0.82",
+          "blue" : "0"
+        }
+      }
+    },
+    "effect" : "effect_fz_qizi",
+    "useBatchNode" : "false",
+    "order" : "0"
+  },
+  "events" : {
+    "f30" : "forever"
+  },
+  "scale" : "1",
+  "png" : "effect_fz_qizi_g.png"
+}

@@ -1,0 +1,94 @@
+{
+  "01-粒子_0" : {
+    "f1" : {
+      "start" : {
+        "x" : "0.95",
+        "y" : "-0.35",
+        "rotation" : "0",
+        "scaleX" : "2",
+        "scaleY" : "2",
+        "opacity" : "45",
+        "png" : "effect_xipai_1_1.png"
+      },
+      "nextFrame" : "f5",
+      "frames" : "5"
+    },
+    "order" : "0",
+    "f5" : {
+      "start" : {
+        "x" : "-2.55",
+        "y" : "-4.8",
+        "rotation" : "0",
+        "scaleX" : "1.67",
+        "scaleY" : "1.67",
+        "opacity" : "255",
+        "png" : "effect_xipai_1_1.png"
+      }
+    },
+    "f7" : {
+      "start" : {
+        "x" : "-18.9",
+        "y" : "-54.1",
+        "rotation" : "0",
+        "scaleX" : "1.67",
+        "scaleY" : "1.67",
+        "opacity" : "255",
+        "png" : "effect_xipai_1_2.png"
+      }
+    },
+    "f9" : {
+      "start" : {
+        "x" : "-32.1",
+        "y" : "-40.9",
+        "rotation" : "0",
+        "scaleX" : "1.67",
+        "scaleY" : "1.67",
+        "opacity" : "255",
+        "png" : "effect_xipai_1_3.png"
+      }
+    },
+    "f11" : {
+      "start" : {
+        "x" : "-14.75",
+        "y" : "-69.05",
+        "rotation" : "0",
+        "scaleX" : "1.67",
+        "scaleY" : "1.67",
+        "opacity" : "255",
+        "png" : "effect_xipai_1_4.png"
+      }
+    },
+    "f13" : {
+      "start" : {
+        "x" : "-39.05",
+        "y" : "-12.15",
+        "rotation" : "0",
+        "scaleX" : "1.67",
+        "scaleY" : "1.67",
+        "opacity" : "255",
+        "png" : "effect_xipai_1_5.png"
+      },
+      "nextFrame" : "f16",
+      "frames" : "4"
+    },
+    "f16" : {
+      "start" : {
+        "x" : "-32.25",
+        "y" : "-16.9",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "45",
+        "png" : "effect_xipai_1_5.png"
+      }
+    },
+    "f17" : {
+      "remove" : "1"
+    }
+  },
+  "events" : {
+    "f18" : "finish"
+  },
+  "scale" : "1",
+  "png" : "effect_xipai_1.png"
+}

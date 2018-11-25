@@ -1,0 +1,127 @@
+{
+  "图层 2  复制 2_1" : {
+    "f1" : {
+      "start" : {
+        "x" : "-56.8",
+        "y" : "17.4",
+        "rotation" : "-61.69",
+        "scaleX" : "0.52",
+        "scaleY" : "0.52",
+        "opacity" : "68",
+        "png" : "effect_coinlight_cs_1.png"
+      },
+      "nextFrame" : "f24",
+      "frames" : "24"
+    },
+    "order" : "2",
+    "f24" : {
+      "start" : {
+        "x" : "-56.85",
+        "y" : "17.35",
+        "rotation" : "-61.69",
+        "scaleX" : "0.6",
+        "scaleY" : "0.6",
+        "opacity" : "255",
+        "png" : "effect_coinlight_cs_1.png"
+      },
+      "nextFrame" : "f34",
+      "frames" : "11"
+    },
+    "f34" : {
+      "start" : {
+        "x" : "-56.8",
+        "y" : "17.4",
+        "rotation" : "-61.69",
+        "scaleX" : "0.52",
+        "scaleY" : "0.52",
+        "opacity" : "68",
+        "png" : "effect_coinlight_cs_1.png"
+      }
+    }
+  },
+  "图层 2 copy_2" : {
+    "f1" : {
+      "start" : {
+        "x" : "-16.95",
+        "y" : "30.15",
+        "rotation" : "59.2",
+        "scaleX" : "0.66",
+        "scaleY" : "0.66",
+        "opacity" : "68",
+        "png" : "effect_coinlight_cs_1.png"
+      },
+      "nextFrame" : "f16",
+      "frames" : "16"
+    },
+    "order" : "1",
+    "f16" : {
+      "start" : {
+        "x" : "-17.05",
+        "y" : "30.25",
+        "rotation" : "59.2",
+        "scaleX" : "0.76",
+        "scaleY" : "0.76",
+        "opacity" : "255",
+        "png" : "effect_coinlight_cs_1.png"
+      },
+      "nextFrame" : "f34",
+      "frames" : "19"
+    },
+    "f34" : {
+      "start" : {
+        "x" : "-16.95",
+        "y" : "30.15",
+        "rotation" : "59.2",
+        "scaleX" : "0.66",
+        "scaleY" : "0.66",
+        "opacity" : "68",
+        "png" : "effect_coinlight_cs_1.png"
+      }
+    }
+  },
+  "图层 2_3" : {
+    "f1" : {
+      "start" : {
+        "x" : "34.6",
+        "y" : "7.75",
+        "rotation" : "0",
+        "scaleX" : "0.57",
+        "scaleY" : "0.57",
+        "opacity" : "255",
+        "png" : "effect_coinlight_cs_1.png"
+      },
+      "nextFrame" : "f11",
+      "frames" : "11"
+    },
+    "order" : "0",
+    "f11" : {
+      "start" : {
+        "x" : "34.7",
+        "y" : "7.75",
+        "rotation" : "0",
+        "scaleX" : "0.5",
+        "scaleY" : "0.5",
+        "opacity" : "68",
+        "png" : "effect_coinlight_cs_1.png"
+      },
+      "nextFrame" : "f34",
+      "frames" : "24"
+    },
+    "f34" : {
+      "start" : {
+        "x" : "34.6",
+        "y" : "7.75",
+        "rotation" : "0",
+        "scaleX" : "0.57",
+        "scaleY" : "0.57",
+        "opacity" : "255",
+        "png" : "effect_coinlight_cs_1.png"
+      }
+    }
+  },
+  "events" : {
+    "f34" : "forever"
+  },
+  "scale" : "1",
+  "png" : "effect_coinlight_cs.png"
+}

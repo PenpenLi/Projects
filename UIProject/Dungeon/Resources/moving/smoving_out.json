@@ -1,0 +1,34 @@
+{
+  "target" : {
+    "f1" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "dx" : "0",
+        "dy" : "0"
+      },
+      "nextFrame" : "f6",
+      "frames" : "6"
+    },
+    "f6" : {
+      "start" : {
+        "x" : "0",
+        "y" : "-10",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "0.91",
+        "opacity" : "255",
+        "dx" : "0",
+        "dy" : "-10"
+      }
+    }
+  },
+  "events" : {
+    "f6" : "smoke",
+    "f7" : "finish"
+  }
+}

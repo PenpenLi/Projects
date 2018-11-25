@@ -1,0 +1,51 @@
+{
+  "图层 3_1" : {
+    "f1" : {
+      "start" : {
+        "x" : "-28.15",
+        "y" : "273.65",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    },
+    "effect" : "effect_mojing_7",
+    "useBatchNode" : "true",
+    "order" : "2"
+  },
+  "图层 1_2" : {
+    "f1" : {
+      "start" : {
+        "x" : "0.7",
+        "y" : "-165.7",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "effect_mojing_BG_1.png"
+      }
+    },
+    "order" : "1"
+  },
+  "图层 2_3" : {
+    "f1" : {
+      "start" : {
+        "x" : "0",
+        "y" : "-158.7",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    },
+    "effect" : "effect_mojing_8",
+    "useBatchNode" : "true",
+    "order" : "0"
+  },
+  "events" : {
+    "f120" : "forever"
+  },
+  "scale" : "1",
+  "png" : "effect_mojing_BG.png"
+}

@@ -1,0 +1,47 @@
+{
+  "图层 1_1" : {
+    "f1" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "0.48",
+        "scaleY" : "0.48",
+        "opacity" : "255",
+        "png" : "effect_shenhua_star_3_1.png"
+      },
+      "nextFrame" : "f6",
+      "frames" : "6"
+    },
+    "order" : "0",
+    "f6" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "0.31",
+        "scaleY" : "0.31",
+        "opacity" : "109",
+        "png" : "effect_shenhua_star_3_1.png"
+      },
+      "nextFrame" : "f10",
+      "frames" : "5"
+    },
+    "f10" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "0.48",
+        "scaleY" : "0.48",
+        "opacity" : "255",
+        "png" : "effect_shenhua_star_3_1.png"
+      }
+    }
+  },
+  "events" : {
+    "f10" : "finish"
+  },
+  "scale" : "1",
+  "png" : "effect_shenhua_star_3.png"
+}

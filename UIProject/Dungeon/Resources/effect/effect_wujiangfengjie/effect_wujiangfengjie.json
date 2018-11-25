@@ -1,0 +1,102 @@
+{
+  "图层 9_1" : {
+    "f1" : {
+      "start" : {
+        "x" : "-15.7",
+        "y" : "141.8",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    },
+    "effect" : "effect_lightstike",
+    "useBatchNode" : "true",
+    "order" : "2"
+  },
+  "图层 7_2" : {
+    "f1" : {
+      "start" : {
+        "x" : "-11.4",
+        "y" : "258.85",
+        "rotation" : "0",
+        "scaleX" : "2.04",
+        "scaleY" : "2.87",
+        "opacity" : "255"
+      }
+    },
+    "effect" : "effect_particle",
+    "useBatchNode" : "true",
+    "order" : "1"
+  },
+  "图层 2_3" : {
+    "f1" : {
+      "start" : {
+        "x" : "-1.6",
+        "y" : "68.8",
+        "rotation" : "0",
+        "scaleX" : "2.04",
+        "scaleY" : "0.97",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f8",
+      "frames" : "8"
+    },
+    "effect" : "effect_circle_fenjie",
+    "useBatchNode" : "true",
+    "order" : "0",
+    "f8" : {
+      "start" : {
+        "x" : "-1.55",
+        "y" : "68.8",
+        "rotation" : "0",
+        "scaleX" : "2.04",
+        "scaleY" : "0.97",
+        "opacity" : "249"
+      },
+      "nextFrame" : "f31",
+      "frames" : "24"
+    },
+    "first_frame" : "141",
+    "loop" : "loop",
+    "f31" : {
+      "start" : {
+        "x" : "-1.55",
+        "y" : "68.8",
+        "rotation" : "0",
+        "scaleX" : "2.04",
+        "scaleY" : "0.97",
+        "opacity" : "229"
+      },
+      "nextFrame" : "f141",
+      "frames" : "111"
+    },
+    "f141" : {
+      "start" : {
+        "x" : "-1.65",
+        "y" : "68.8",
+        "rotation" : "0",
+        "scaleX" : "2.04",
+        "scaleY" : "0.97",
+        "opacity" : "140"
+      },
+      "nextFrame" : "f280",
+      "frames" : "140"
+    },
+    "f280" : {
+      "start" : {
+        "x" : "-1.6",
+        "y" : "68.8",
+        "rotation" : "0",
+        "scaleX" : "2.04",
+        "scaleY" : "0.97",
+        "opacity" : "255"
+      }
+    }
+  },
+  "events" : {
+    "f280" : "forever"
+  },
+  "scale" : "1",
+  "png" : ""
+}

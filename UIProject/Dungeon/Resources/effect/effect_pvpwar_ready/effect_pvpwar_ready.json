@@ -1,0 +1,145 @@
+{
+  "var_card1_1" : {
+    "f1" : {
+      "start" : {
+        "x" : "-153",
+        "y" : "-215",
+        "rotation" : "0",
+        "scaleX" : "0.8",
+        "scaleY" : "0.8",
+        "opacity" : "255",
+        "png" : ""
+      },
+      "nextFrame" : "f25",
+      "frames" : "25"
+    },
+    "order" : "5",
+    "f25" : {
+      "start" : {
+        "x" : "-153",
+        "y" : "-215",
+        "rotation" : "0",
+        "scaleX" : "0.76",
+        "scaleY" : "0.76",
+        "opacity" : "255",
+        "png" : ""
+      },
+      "nextFrame" : "f60",
+      "frames" : "36"
+    },
+    "f60" : {
+      "start" : {
+        "x" : "-153",
+        "y" : "-215",
+        "rotation" : "0",
+        "scaleX" : "0.8",
+        "scaleY" : "0.8",
+        "opacity" : "255",
+        "png" : ""
+      }
+    }
+  },
+  "特效阴影_2" : {
+    "f1" : {
+      "start" : {
+        "x" : "-151",
+        "y" : "-213.5",
+        "rotation" : "0",
+        "scaleX" : "2",
+        "scaleY" : "2",
+        "opacity" : "255"
+      }
+    },
+    "effect" : "effect_pvpwar_yingzi",
+    "useBatchNode" : "true",
+    "order" : "4"
+  },
+  "var_base1_3" : {
+    "f1" : {
+      "start" : {
+        "x" : "-153",
+        "y" : "-215",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : ""
+      }
+    },
+    "order" : "3"
+  },
+  "var_card2_4" : {
+    "f1" : {
+      "start" : {
+        "x" : "166",
+        "y" : "-50",
+        "rotation" : "0",
+        "scaleX" : "0.8",
+        "scaleY" : "0.8",
+        "opacity" : "255",
+        "png" : ""
+      },
+      "nextFrame" : "f31",
+      "frames" : "31"
+    },
+    "order" : "2",
+    "f31" : {
+      "start" : {
+        "x" : "166",
+        "y" : "-50",
+        "rotation" : "0",
+        "scaleX" : "0.76",
+        "scaleY" : "0.76",
+        "opacity" : "255",
+        "png" : ""
+      },
+      "nextFrame" : "f60",
+      "frames" : "30"
+    },
+    "f60" : {
+      "start" : {
+        "x" : "166",
+        "y" : "-50",
+        "rotation" : "0",
+        "scaleX" : "0.8",
+        "scaleY" : "0.8",
+        "opacity" : "255",
+        "png" : ""
+      }
+    }
+  },
+  "特效阴影_5" : {
+    "f1" : {
+      "start" : {
+        "x" : "166.3",
+        "y" : "-53.7",
+        "rotation" : "0",
+        "scaleX" : "2",
+        "scaleY" : "2",
+        "opacity" : "255"
+      }
+    },
+    "effect" : "effect_pvpwar_yingzi",
+    "useBatchNode" : "true",
+    "order" : "1"
+  },
+  "var_base2_6" : {
+    "f1" : {
+      "start" : {
+        "x" : "166",
+        "y" : "-50",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : ""
+      }
+    },
+    "order" : "0"
+  },
+  "events" : {
+    "f60" : "forever"
+  },
+  "scale" : "1",
+  "png" : ""
+}

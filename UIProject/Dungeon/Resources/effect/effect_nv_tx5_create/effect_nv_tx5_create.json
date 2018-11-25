@@ -1,0 +1,47 @@
+{
+  "图层 1_0" : {
+    "f1" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "1.4",
+        "scaleY" : "1.4",
+        "opacity" : "255",
+        "png" : "effect_nv_tx5_create_1.png"
+      },
+      "nextFrame" : "f40",
+      "frames" : "40"
+    },
+    "order" : "0",
+    "f40" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "1.31",
+        "scaleY" : "1.31",
+        "opacity" : "178",
+        "png" : "effect_nv_tx5_create_1.png"
+      },
+      "nextFrame" : "f60",
+      "frames" : "21"
+    },
+    "f60" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "1.4",
+        "scaleY" : "1.4",
+        "opacity" : "255",
+        "png" : "effect_nv_tx5_create_1.png"
+      }
+    }
+  },
+  "events" : {
+    "f61" : "finish"
+  },
+  "scale" : "1",
+  "png" : "effect_nv_tx5_create.png"
+}

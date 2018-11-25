@@ -1,0 +1,249 @@
+{
+  "水电费_0" : {
+    "f14" : {
+      "start" : {
+        "x" : "14.8",
+        "y" : "59.25",
+        "rotation" : "6.05",
+        "scaleX" : "1.12",
+        "scaleY" : "1.32",
+        "opacity" : "255"
+      }
+    },
+    "sp" : "sp_wzhq_chongci",
+    "useBatchNode" : "true",
+    "order" : "7",
+    "f24" : {
+      "remove" : "1"
+    }
+  },
+  "阿斯蒂芬 _1" : {
+    "f1" : {
+      "start" : {
+        "x" : "0.1",
+        "y" : "-57.9",
+        "rotation" : "-176.35",
+        "scaleX" : "-1.12",
+        "scaleY" : "1.32",
+        "opacity" : "255"
+      }
+    },
+    "sp" : "sp_wzhq_chongci",
+    "useBatchNode" : "true",
+    "order" : "6",
+    "f11" : {
+      "remove" : "1"
+    }
+  },
+  "图层 2  复制 2_2" : {
+    "f14" : {
+      "start" : {
+        "x" : "-11.7",
+        "y" : "-12.75",
+        "rotation" : "63.19",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    },
+    "sp" : "sp_wzhq_asd",
+    "useBatchNode" : "true",
+    "order" : "5",
+    "f19" : {
+      "remove" : "1"
+    }
+  },
+  "图层 2  复制 2_3" : {
+    "f14" : {
+      "start" : {
+        "x" : "17.3",
+        "y" : "128.9",
+        "rotation" : "66.65",
+        "scaleX" : "0.87",
+        "scaleY" : "0.87",
+        "opacity" : "255"
+      }
+    },
+    "sp" : "sp_wzhq_asd",
+    "useBatchNode" : "true",
+    "order" : "4",
+    "f19" : {
+      "remove" : "1"
+    }
+  },
+  "图层 10 复制_4" : {
+    "f8" : {
+      "start" : {
+        "x" : "-36.5",
+        "y" : "433.05",
+        "rotation" : "180",
+        "scaleX" : "0.96",
+        "scaleY" : "1.02",
+        "color" : {
+          "alpha_original" : "1",
+          "alpha" : "0",
+          "red_original" : "1",
+          "red" : "255",
+          "green_original" : "1",
+          "green" : "0",
+          "blue_original" : "1",
+          "blue" : "-255"
+        }
+      }
+    },
+    "sp" : "sp_2group_yinlong",
+    "useBatchNode" : "false",
+    "order" : "3",
+    "f16" : {
+      "start" : {
+        "x" : "-36.5",
+        "y" : "433.05",
+        "rotation" : "180",
+        "scaleX" : "0.96",
+        "scaleY" : "1.02",
+        "color" : {
+          "alpha_original" : "1",
+          "alpha" : "0",
+          "red_original" : "1",
+          "red" : "255",
+          "green_original" : "1",
+          "green" : "0",
+          "blue_original" : "1",
+          "blue" : "-255"
+        }
+      },
+      "nextFrame" : "f19",
+      "frames" : "4"
+    },
+    "f19" : {
+      "start" : {
+        "x" : "-36.5",
+        "y" : "433.05",
+        "rotation" : "180",
+        "scaleX" : "0.96",
+        "scaleY" : "1.02",
+        "color" : {
+          "alpha_original" : "0",
+          "alpha" : "0",
+          "red_original" : "1",
+          "red" : "255",
+          "green_original" : "1",
+          "green" : "0",
+          "blue_original" : "1",
+          "blue" : "-255"
+        }
+      }
+    },
+    "f21" : {
+      "remove" : "1"
+    }
+  },
+  "图层 4_5" : {
+    "f1" : {
+      "start" : {
+        "x" : "-26.1",
+        "y" : "98.1",
+        "rotation" : "0",
+        "scaleX" : "-0.96",
+        "scaleY" : "1.02",
+        "color" : {
+          "alpha_original" : "1",
+          "alpha" : "0",
+          "red_original" : "1",
+          "red" : "255",
+          "green_original" : "1",
+          "green" : "-50",
+          "blue_original" : "1",
+          "blue" : "-255"
+        }
+      }
+    },
+    "sp" : "sp_2group_yinlong",
+    "useBatchNode" : "false",
+    "order" : "2",
+    "f11" : {
+      "start" : {
+        "x" : "-26.1",
+        "y" : "98.1",
+        "rotation" : "0",
+        "scaleX" : "-0.96",
+        "scaleY" : "1.02",
+        "color" : {
+          "alpha_original" : "1",
+          "alpha" : "0",
+          "red_original" : "1",
+          "red" : "255",
+          "green_original" : "1",
+          "green" : "0",
+          "blue_original" : "1",
+          "blue" : "-255"
+        }
+      },
+      "nextFrame" : "f14",
+      "frames" : "4"
+    },
+    "f14" : {
+      "start" : {
+        "x" : "-26.1",
+        "y" : "98.1",
+        "rotation" : "0",
+        "scaleX" : "-0.96",
+        "scaleY" : "1.02",
+        "color" : {
+          "alpha_original" : "0",
+          "alpha" : "0",
+          "red_original" : "1",
+          "red" : "255",
+          "green_original" : "1",
+          "green" : "0",
+          "blue_original" : "1",
+          "blue" : "-255"
+        }
+      }
+    },
+    "f16" : {
+      "remove" : "1"
+    }
+  },
+  "图层 2_6" : {
+    "f1" : {
+      "start" : {
+        "x" : "-14",
+        "y" : "-7.4",
+        "rotation" : "37.45",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    },
+    "sp" : "sp_wzhq_asd",
+    "useBatchNode" : "true",
+    "order" : "1",
+    "f6" : {
+      "remove" : "1"
+    }
+  },
+  "图层 2 复制_7" : {
+    "f1" : {
+      "start" : {
+        "x" : "25",
+        "y" : "117.2",
+        "rotation" : "58.46",
+        "scaleX" : "0.87",
+        "scaleY" : "0.87",
+        "opacity" : "255"
+      }
+    },
+    "sp" : "sp_wzhq_asd",
+    "useBatchNode" : "true",
+    "order" : "0",
+    "f6" : {
+      "remove" : "1"
+    }
+  },
+  "events" : {
+    "f26" : "finish"
+  },
+  "scale" : "2",
+  "png" : ""
+}

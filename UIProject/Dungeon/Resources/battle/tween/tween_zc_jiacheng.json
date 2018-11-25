@@ -1,0 +1,94 @@
+{
+  "text" : {
+    "f3" : {
+      "start" : {
+        "x" : "1.4",
+        "y" : "163.95",
+        "rotation" : "0",
+        "scaleX" : "0.6",
+        "scaleY" : "0.6",
+        "opacity" : "0"
+      },
+      "nextFrame" : "f8",
+      "frames" : "6"
+    },
+    "order" : "1",
+    "f8" : {
+      "start" : {
+        "x" : "1.4",
+        "y" : "163.95",
+        "rotation" : "0",
+        "scaleX" : "0.9",
+        "scaleY" : "0.9",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f20",
+      "frames" : "13"
+    },
+    "f20" : {
+      "start" : {
+        "x" : "1.4",
+        "y" : "163.95",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f25",
+      "frames" : "6"
+    },
+    "f25" : {
+      "start" : {
+        "x" : "1.4",
+        "y" : "163.95",
+        "rotation" : "0",
+        "scaleX" : "1.2",
+        "scaleY" : "1.2",
+        "opacity" : "0"
+      }
+    }
+  },
+  "light" : {
+    "f1" : {
+      "start" : {
+        "x" : "4",
+        "y" : "116",
+        "rotation" : "0",
+        "scaleX" : "1.19",
+        "scaleY" : "0.65",
+        "opacity" : "0",
+        "spId" : "sp_lu_light"
+      },
+      "nextFrame" : "f7",
+      "frames" : "7"
+    },
+    "order" : "0",
+    "f7" : {
+      "start" : {
+        "x" : "4",
+        "y" : "116",
+        "rotation" : "0",
+        "scaleX" : "1.49",
+        "scaleY" : "0.81",
+        "opacity" : "255",
+        "spId" : "sp_lu_light"
+      },
+      "nextFrame" : "f23",
+      "frames" : "17"
+    },
+    "f23" : {
+      "start" : {
+        "x" : "4",
+        "y" : "116",
+        "rotation" : "0",
+        "scaleX" : "1.78",
+        "scaleY" : "0.97",
+        "opacity" : "0",
+        "spId" : "sp_lu_light"
+      }
+    }
+  },
+  "events" : {
+    "f26" : "finish"
+  }
+}

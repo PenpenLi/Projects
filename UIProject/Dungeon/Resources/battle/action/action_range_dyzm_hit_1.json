@@ -1,0 +1,94 @@
+{
+  "base_layer" : {
+    "f1" : {
+      "start" : {
+        "x" : "16",
+        "y" : "13",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f9",
+      "frames" : "9"
+    },
+    "f9" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    }
+  },
+  "card_layer" : {
+    "f1" : {
+      "start" : {
+        "x" : "55.75",
+        "y" : "27.65",
+        "rotation" : "21.44",
+        "scaleX" : "1",
+        "scaleY" : "0.93",
+        "color" : {
+          "alpha_original" : "1",
+          "alpha" : "0",
+          "red_original" : "0.5",
+          "red" : "128",
+          "green_original" : "0.5",
+          "green" : "14",
+          "blue_original" : "0.5",
+          "blue" : "0"
+        }
+      },
+      "nextFrame" : "f9",
+      "frames" : "9"
+    },
+    "f9" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "color" : {
+          "alpha_original" : "1",
+          "alpha" : "0",
+          "red_original" : "1",
+          "red" : "0",
+          "green_original" : "1",
+          "green" : "0",
+          "blue_original" : "1",
+          "blue" : "0"
+        }
+      }
+    }
+  },
+  "sp_stage_center_layer" : {
+
+  },
+  "sp_up_layer" : {
+    "f1" : {
+      "start" : {
+        "x" : "60.5",
+        "y" : "93.5",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    },
+    "f10" : {
+      "remove" : "1"
+    },
+    "useBatchNode" : "true",
+    "spId" : "sp_assist_zldz_hit_1"
+  },
+  "sp_down_layer" : {
+
+  },
+  "events" : {
+    "f10" : "finish"
+  }
+}

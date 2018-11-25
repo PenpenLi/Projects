@@ -1,0 +1,58 @@
+{
+  "图层 1_0" : {
+    "f1" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "sp_boss2_faguang_1.png"
+      },
+      "nextFrame" : "f24",
+      "frames" : "24"
+    },
+    "order" : "0",
+    "f24" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "0",
+        "png" : "sp_boss2_faguang_1.png"
+      }
+    },
+    "f25" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "0",
+        "png" : "sp_boss2_faguang_1.png"
+      },
+      "nextFrame" : "f47",
+      "frames" : "23"
+    },
+    "f47" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "sp_boss2_faguang_1.png"
+      }
+    }
+  },
+  "events" : {
+    "f53" : "finish"
+  },
+  "scale" : "2",
+  "png" : "sp_boss2_faguang.png"
+}

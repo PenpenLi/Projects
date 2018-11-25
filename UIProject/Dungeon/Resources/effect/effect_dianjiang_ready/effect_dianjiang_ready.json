@@ -1,0 +1,37 @@
+{
+  "sp_buff_hunyuanzhu_up_1" : {
+    "f1" : {
+      "start" : {
+        "x" : "0.45",
+        "y" : "-65.35",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    },
+    "effect" : "effect_dianjiang_ready_2",
+    "useBatchNode" : "true",
+    "order" : "1"
+  },
+  "sp_2group_kunxianshen_4_2" : {
+    "f1" : {
+      "start" : {
+        "x" : "0.85",
+        "y" : "5.1",
+        "rotation" : "0",
+        "scaleX" : "0.36",
+        "scaleY" : "0.36",
+        "opacity" : "255"
+      }
+    },
+    "effect" : "effect_dianjiang_ready_3",
+    "useBatchNode" : "true",
+    "order" : "0"
+  },
+  "events" : {
+    "f120" : "forever"
+  },
+  "scale" : "1",
+  "png" : ""
+}

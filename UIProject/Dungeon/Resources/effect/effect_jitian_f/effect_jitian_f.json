@@ -1,0 +1,47 @@
+{
+  "图层 1_1" : {
+    "f1" : {
+      "start" : {
+        "x" : "-1.15",
+        "y" : "-7",
+        "rotation" : "0",
+        "scaleX" : "1.8",
+        "scaleY" : "1.8",
+        "opacity" : "255",
+        "png" : "effect_jitian_f_1.png"
+      },
+      "nextFrame" : "f7",
+      "frames" : "7"
+    },
+    "order" : "0",
+    "f7" : {
+      "start" : {
+        "x" : "-1.15",
+        "y" : "-7",
+        "rotation" : "0",
+        "scaleX" : "1.8",
+        "scaleY" : "1.8",
+        "opacity" : "153",
+        "png" : "effect_jitian_f_1.png"
+      },
+      "nextFrame" : "f13",
+      "frames" : "7"
+    },
+    "f13" : {
+      "start" : {
+        "x" : "-1.15",
+        "y" : "-7",
+        "rotation" : "0",
+        "scaleX" : "1.8",
+        "scaleY" : "1.8",
+        "opacity" : "255",
+        "png" : "effect_jitian_f_1.png"
+      }
+    }
+  },
+  "events" : {
+    "f13" : "forever"
+  },
+  "scale" : "1",
+  "png" : "effect_jitian_f.png"
+}

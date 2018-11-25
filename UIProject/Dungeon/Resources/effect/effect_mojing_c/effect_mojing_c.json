@@ -1,0 +1,43 @@
+{
+  "图层 1_0" : {
+    "f1" : {
+      "start" : {
+        "x" : "31.3",
+        "y" : "9.85",
+        "rotation" : "-35.2",
+        "scaleX" : "-1.55",
+        "scaleY" : "1.55",
+        "opacity" : "255"
+      }
+    },
+    "effect" : "effect_mojing_3",
+    "useBatchNode" : "true",
+    "order" : "1",
+    "f36" : {
+      "remove" : "1"
+    }
+  },
+  "图层 2_1" : {
+    "f15" : {
+      "start" : {
+        "x" : "-174.45",
+        "y" : "-58.95",
+        "rotation" : "0",
+        "scaleX" : "2.37",
+        "scaleY" : "2.37",
+        "opacity" : "255"
+      }
+    },
+    "effect" : "effect_mojing_1",
+    "useBatchNode" : "true",
+    "order" : "0",
+    "f36" : {
+      "remove" : "1"
+    }
+  },
+  "events" : {
+    "f37" : "finish"
+  },
+  "scale" : "1",
+  "png" : ""
+}

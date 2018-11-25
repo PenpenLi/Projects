@@ -1,0 +1,111 @@
+{
+  "Layer 7 copy_1" : {
+    "f1" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "2.31",
+        "scaleY" : "2.31",
+        "opacity" : "124",
+        "png" : "effect_zjbj_sub2_1.png"
+      },
+      "nextFrame" : "f29",
+      "frames" : "29"
+    },
+    "order" : "1",
+    "f29" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "3.58",
+        "scaleY" : "3.58",
+        "opacity" : "0",
+        "png" : "effect_zjbj_sub2_1.png"
+      }
+    },
+    "f30" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "0",
+        "png" : "effect_zjbj_sub2_1.png"
+      },
+      "nextFrame" : "f35",
+      "frames" : "6"
+    },
+    "f35" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "1.22",
+        "scaleY" : "1.22",
+        "opacity" : "232",
+        "png" : "effect_zjbj_sub2_1.png"
+      },
+      "nextFrame" : "f60",
+      "frames" : "26"
+    },
+    "f60" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "2.31",
+        "scaleY" : "2.31",
+        "opacity" : "124",
+        "png" : "effect_zjbj_sub2_1.png"
+      }
+    }
+  },
+  "Layer 7_2" : {
+    "f1" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "0",
+        "png" : "effect_zjbj_sub2_1.png"
+      },
+      "nextFrame" : "f7",
+      "frames" : "7"
+    },
+    "order" : "0",
+    "f7" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "1.26",
+        "scaleY" : "1.26",
+        "opacity" : "229",
+        "png" : "effect_zjbj_sub2_1.png"
+      },
+      "nextFrame" : "f60",
+      "frames" : "54"
+    },
+    "f60" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "3.58",
+        "scaleY" : "3.58",
+        "opacity" : "0",
+        "png" : "effect_zjbj_sub2_1.png"
+      }
+    }
+  },
+  "events" : {
+    "f60" : "forever"
+  },
+  "scale" : "1",
+  "png" : "effect_zjbj_sub2.png"
+}

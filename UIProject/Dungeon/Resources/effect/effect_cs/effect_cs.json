@@ -1,0 +1,114 @@
+{
+  "图层 3_1" : {
+    "f1" : {
+      "start" : {
+        "x" : "0.05",
+        "y" : "504.4",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "effect_cs_1.png"
+      }
+    },
+    "order" : "3"
+  },
+  "图层 7_2" : {
+    "f1" : {
+      "start" : {
+        "x" : "-228.6",
+        "y" : "14.8",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    },
+    "effect" : "effect_lantern_cs",
+    "useBatchNode" : "true",
+    "order" : "2"
+  },
+  "图层 4 复制_3" : {
+    "f1" : {
+      "start" : {
+        "x" : "-36.85",
+        "y" : "357.5",
+        "rotation" : "19.81",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "76"
+      },
+      "nextFrame" : "f40",
+      "frames" : "40"
+    },
+    "effect" : "effect_light_cs",
+    "useBatchNode" : "true",
+    "order" : "1",
+    "f40" : {
+      "start" : {
+        "x" : "18.05",
+        "y" : "351.65",
+        "rotation" : "-1.52",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "127"
+      },
+      "nextFrame" : "f80",
+      "frames" : "41"
+    },
+    "f80" : {
+      "start" : {
+        "x" : "76.65",
+        "y" : "368.9",
+        "rotation" : "-25.19",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "76"
+      }
+    }
+  },
+  "图层 4_4" : {
+    "f1" : {
+      "start" : {
+        "x" : "76.65",
+        "y" : "368.9",
+        "rotation" : "-25.19",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "76"
+      },
+      "nextFrame" : "f40",
+      "frames" : "40"
+    },
+    "effect" : "effect_light_cs",
+    "useBatchNode" : "true",
+    "order" : "0",
+    "f40" : {
+      "start" : {
+        "x" : "23.75",
+        "y" : "352.25",
+        "rotation" : "-3.77",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "127"
+      },
+      "nextFrame" : "f80",
+      "frames" : "41"
+    },
+    "f80" : {
+      "start" : {
+        "x" : "-36.85",
+        "y" : "357.5",
+        "rotation" : "19.81",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "76"
+      }
+    }
+  },
+  "events" : {
+    "f80" : "forever"
+  },
+  "scale" : "1",
+  "png" : "effect_cs.png"
+}

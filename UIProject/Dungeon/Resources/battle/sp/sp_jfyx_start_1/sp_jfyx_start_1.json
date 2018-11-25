@@ -1,0 +1,193 @@
+{
+  "daofire.psd_0" : {
+    "f1" : {
+      "start" : {
+        "x" : "-99",
+        "y" : "-107.7",
+        "rotation" : "0",
+        "scaleX" : "1.22",
+        "scaleY" : "1.22",
+        "opacity" : "255",
+        "png" : "sp_jfyx_start_1_1.png"
+      }
+    },
+    "order" : "1",
+    "f2" : {
+      "start" : {
+        "x" : "-93.55",
+        "y" : "-116.25",
+        "rotation" : "0",
+        "scaleX" : "1.22",
+        "scaleY" : "1.22",
+        "opacity" : "255",
+        "png" : "sp_jfyx_start_1_2.png"
+      }
+    },
+    "f3" : {
+      "start" : {
+        "x" : "-94.15",
+        "y" : "-122.35",
+        "rotation" : "0",
+        "scaleX" : "1.22",
+        "scaleY" : "1.22",
+        "opacity" : "255",
+        "png" : "sp_jfyx_start_1_3.png"
+      }
+    },
+    "f4" : {
+      "start" : {
+        "x" : "-94.75",
+        "y" : "-116.85",
+        "rotation" : "0",
+        "scaleX" : "1.22",
+        "scaleY" : "1.22",
+        "opacity" : "255",
+        "png" : "sp_jfyx_start_1_4.png"
+      }
+    },
+    "f5" : {
+      "start" : {
+        "x" : "-91.1",
+        "y" : "-96.7",
+        "rotation" : "0",
+        "scaleX" : "1.22",
+        "scaleY" : "1.22",
+        "opacity" : "255",
+        "png" : "sp_jfyx_start_1_5.png"
+      }
+    },
+    "f6" : {
+      "start" : {
+        "x" : "-94.15",
+        "y" : "-13.15",
+        "rotation" : "0",
+        "scaleX" : "1.22",
+        "scaleY" : "1.22",
+        "opacity" : "255",
+        "png" : "sp_jfyx_start_1_6.png"
+      }
+    },
+    "f7" : {
+      "start" : {
+        "x" : "-74",
+        "y" : "56.4",
+        "rotation" : "0",
+        "scaleX" : "1.22",
+        "scaleY" : "1.22",
+        "opacity" : "255",
+        "png" : "sp_jfyx_start_1_7.png"
+      }
+    },
+    "f8" : {
+      "start" : {
+        "x" : "-42.3",
+        "y" : "61.9",
+        "rotation" : "0",
+        "scaleX" : "1.22",
+        "scaleY" : "1.22",
+        "opacity" : "255",
+        "png" : "sp_jfyx_start_1_8.png"
+      }
+    },
+    "f9" : {
+      "start" : {
+        "x" : "15.05",
+        "y" : "68.6",
+        "rotation" : "0",
+        "scaleX" : "1.22",
+        "scaleY" : "1.22",
+        "opacity" : "255",
+        "png" : "sp_jfyx_start_1_9.png"
+      }
+    },
+    "f10" : {
+      "start" : {
+        "x" : "-36.2",
+        "y" : "68",
+        "rotation" : "0",
+        "scaleX" : "1.22",
+        "scaleY" : "1.22",
+        "opacity" : "255",
+        "png" : "sp_jfyx_start_1_10.png"
+      }
+    },
+    "f11" : {
+      "start" : {
+        "x" : "-128.9",
+        "y" : "-79.65",
+        "rotation" : "0",
+        "scaleX" : "1.22",
+        "scaleY" : "1.22",
+        "opacity" : "255",
+        "png" : "sp_jfyx_start_1_11.png"
+      }
+    },
+    "f16" : {
+      "start" : {
+        "x" : "-128.9",
+        "y" : "-79.65",
+        "rotation" : "0",
+        "scaleX" : "1.22",
+        "scaleY" : "1.22",
+        "opacity" : "252",
+        "png" : "sp_jfyx_start_1_11.png"
+      },
+      "nextFrame" : "f23",
+      "frames" : "8"
+    },
+    "f23" : {
+      "start" : {
+        "x" : "-128.9",
+        "y" : "-79.65",
+        "rotation" : "0",
+        "scaleX" : "1.22",
+        "scaleY" : "1.22",
+        "opacity" : "0",
+        "png" : "sp_jfyx_start_1_11.png"
+      }
+    }
+  },
+  "图层 3_1" : {
+    "f9" : {
+      "start" : {
+        "x" : "-149.8",
+        "y" : "-1.2",
+        "rotation" : "0",
+        "scaleX" : "1.79",
+        "scaleY" : "1.79",
+        "opacity" : "255",
+        "png" : "sp_jfyx_start_1_12.png"
+      }
+    },
+    "order" : "0",
+    "f19" : {
+      "start" : {
+        "x" : "-149.8",
+        "y" : "-1.2",
+        "rotation" : "0",
+        "scaleX" : "1.79",
+        "scaleY" : "1.79",
+        "opacity" : "255",
+        "png" : "sp_jfyx_start_1_12.png"
+      },
+      "nextFrame" : "f23",
+      "frames" : "5"
+    },
+    "f23" : {
+      "start" : {
+        "x" : "-149.8",
+        "y" : "-1.2",
+        "rotation" : "0",
+        "scaleX" : "1.79",
+        "scaleY" : "1.79",
+        "opacity" : "0",
+        "png" : "sp_jfyx_start_1_12.png"
+      }
+    }
+  },
+  "events" : {
+    "f24" : "finish"
+  },
+  "scale" : "2",
+  "png" : "sp_jfyx_start_1.png"
+}

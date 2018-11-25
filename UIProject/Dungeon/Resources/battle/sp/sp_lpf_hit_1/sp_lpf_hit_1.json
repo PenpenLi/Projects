@@ -1,0 +1,40 @@
+{
+  "图层 2_0" : {
+    "f7" : {
+      "start" : {
+        "x" : "267.9",
+        "y" : "-257.35",
+        "rotation" : "124.14",
+        "scaleX" : "-1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    },
+    "sp" : "sp_sword_hit_1",
+    "useBatchNode" : "true",
+    "order" : "1"
+  },
+  "图层 1_1" : {
+    "f1" : {
+      "start" : {
+        "x" : "267.9",
+        "y" : "-257.35",
+        "rotation" : "124.14",
+        "scaleX" : "-1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    },
+    "sp" : "sp_sword_hit_1",
+    "useBatchNode" : "true",
+    "order" : "0",
+    "f7" : {
+      "remove" : "1"
+    }
+  },
+  "events" : {
+    "f13" : "finish"
+  },
+  "scale" : "2",
+  "png" : ""
+}
