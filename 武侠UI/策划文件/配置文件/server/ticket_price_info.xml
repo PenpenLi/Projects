@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- num=已购张数   origin_price=初始价格   increase=涨幅   pace=步长 -->
+<root>
+    <data num="0" origin_price="1" increase="1" pace="4" />
+    <data num="20" origin_price="6" increase="1" pace="6" />
+    <data num="50" origin_price="11" increase="1" pace="8" />
+    <data num="90" origin_price="16" increase="1" pace="10" />
+    <data num="140" origin_price="21" increase="1" pace="12" />
+    <data num="200" origin_price="26" increase="1" pace="20" />
+    <data num="300" origin_price="40" increase="10" pace="100" />
+    <data num="400" origin_price="50" increase="0" pace="1" />
+</root>

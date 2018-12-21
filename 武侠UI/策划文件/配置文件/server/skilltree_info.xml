@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- id=编号 skill_id=对应技能 learn_point=学习消耗 front_skill=前置技能 initialupgrade_cost=初始升级消耗  upgradecost_growth=升级消耗点数增长 learn_cost_item=学习消耗道具 max_level=技能满级 -->
+<root>
+    <data id="1" skill_id="201" learn_point="15" front_skill="0" initialupgrade_cost="10" upgradecost_growth="5" learn_cost_item="0" max_level="5" />
+    <data id="2" skill_id="202" learn_point="30" front_skill="201" initialupgrade_cost="20" upgradecost_growth="8" learn_cost_item="0" max_level="8" />
+    <data id="3" skill_id="203" learn_point="30" front_skill="202" initialupgrade_cost="20" upgradecost_growth="8" learn_cost_item="0" max_level="8" />
+    <data id="4" skill_id="204" learn_point="30" front_skill="203" initialupgrade_cost="20" upgradecost_growth="8" learn_cost_item="20" max_level="8" />
+    <data id="5" skill_id="205" learn_point="30" front_skill="0" initialupgrade_cost="20" upgradecost_growth="8" learn_cost_item="20" max_level="8" />
+</root>
