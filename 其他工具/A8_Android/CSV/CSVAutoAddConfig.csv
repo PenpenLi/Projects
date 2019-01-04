@@ -1,0 +1,4 @@
+﻿id,主服,内部测试服主服id,关联值团购礼包的id,活动开始后的统计购买次数时间节点(分),节点人数要求,增加1的最大时间间隔(分钟)
+id,nMasterId,nMasterServerTestId,nRelatingValue,sTimes,sValues,nIntenalValue
+int,int,int,int,string,string,int
+1,30003130,30003999,22,360|720|1080|1440|2160|2880|3600|4320|5040|5760,200|400|600|960|1400|1920|2600|3000|3400|3880,5

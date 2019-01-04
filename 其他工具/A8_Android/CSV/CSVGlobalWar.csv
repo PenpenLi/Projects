@@ -1,0 +1,4 @@
+﻿id,备战时间（秒）,战斗时间,主服ID,内部测试服主服id,同阵营人数,名称,最小战力,队友匹配时间,对手匹配时间,组队最大战力差值,进入挂机时间间隔时间,每场战斗次数阈值，超过则不进入挂机,被提出游戏的阈值,惩罚时间
+id,nDeployTime,nBattleTime,nMasterServerID,nMasterServerTestID,nPlayerCountPerRoom,strName,nMinFinghting,nMaxMatchTime,nMaxMakePairTime,nMaxZhanliLevelDiff,nEnterAutoTime,nBattleCount,nKickOffTime,nPunishTime
+int,int,int,int,int,int,string,int,int,int,int,int,int,int,int
+1,120,1200,30003186,30003999,10,团P,20700,60,120,3,300,5,60,600

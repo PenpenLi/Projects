@@ -1,0 +1,4 @@
+﻿id,预选赛开启(小时),预选赛持续(分钟),间隔时间(分钟),主服ID,内部测试服主服ID,开启时间,挑战保护时间[秒],延迟结算时间[秒],比赛周期(天),失败及时奖励,成功及时奖励,小队人数,最大队伍数量,竞猜持续(分钟),冠军全服奖,比赛奖励,名称
+id,nTryoutOpen,nTryoutDuration,nTryoutShowResultTime,nMasterServerID,nMasterServerTestID,strOpenTime,nProtectTime,nTryoutDelayTime,nPeriod,strLoserReward,strWinnerReward,nTeamSize,nTeamCountMax,nGuessDuration,nChampionReward,arrTopRewards,strName
+int,string,int,int,int,int,string,int,int,int,string,string,int,int,int,int,int[4],string
+1,2014|1|20|0|20|30,50,100,10000331,30003999,2014|1|20|0|23|0,600,120,28,null,|2 20000 0|,3,16,1200,5010,5011|5012|5013|5014,团P

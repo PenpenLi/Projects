@@ -1,0 +1,6 @@
+﻿buff类型,buff名字,消耗,加成,描述信息,图片路径,颜色R值,颜色G值,颜色B值
+id,strName,nCost,nBuffParam1,strDesc,strTex,fColorR,fColorG,fColorB
+int,string,int,int,string,string,float,float,float
+1,疾行,20,3000,行军速度提高30%,UI/WorldWar/icon_speedup_Tex,0,0.41,1
+2,强兵,50,500,额外增兵500,UI/WorldWar/icon_powerup_Tex,0.62,0.11,0
+3,奇袭,50,0,可立即发动行军,UI/WorldWar/icon_raid_Tex,0.2,0.38,0.14

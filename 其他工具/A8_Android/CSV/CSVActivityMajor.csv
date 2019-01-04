@@ -1,0 +1,16 @@
+﻿序号,类型(1.日常玩法 2.限时活动),索引参数(类型：1默认0 2.CSVActivity id),活动名,系统(systemlimit),跳转参数(类型：1.FULLSCREENUI 2.填0即可)（活动类型不需要填，使用原活动跳转功能）,活动背景,活动图标,背景颜色,活动描述,奖励1,奖励2,奖励3,开启规律
+id,nType,nParam,sname,nSysLimit,njumpId,sactTexure,snametexure,sbgSprite,sactDesc,strRewardType1,strRewardType2,strRewardType3,sactRule
+int,int,int,string,int,int,string,string,string,string,string,string,string,string
+1,1,0,封地,3,9,UI/ZhengTao/bg_ZhengTao02_Tex,UI/Main/FengDi,235|59|45,建设封地，掠夺资源，征战天下！,2|0|0,null,null,长期开放
+2,1,0,派遣,23,49,UI/ZhengTao/bg_ZhengTao01_Tex,UI/Main/ShiJian,45|235|182,派出武将，获得声望，兑换神兵利器吧！,32|1|0,32|2|0,32|3|0,长期开放
+3,1,0,挑战,9,10,UI/ZhengTao/bg_ZhengTao03_Tex,UI/Main/TiaoZhan,255|216|160,挑战名将，合成升星印,1|20 1 0|0,28|0|0,null,长期开放
+4,1,0,百战之路,1024,131,UI/ZhengTao/bg_ZhengTao04_Tex,UI/ZhengTao/Icon_RuneLevel_Tex,255|216|161,挑战每周不同的敌人，获得兵符,104|5011|0,200|60|0,200|61|0,长期开放
+5,1,0,讨伐,1032,152,UI/ZhengTao/bg_ZhengTao13_Tex,UI/ZhengTao/Icon_RuneLevel_Tex,255|216|161,组队挑战强敌，获得战意训练材料\n\n[fedc6f]每天\n12:00-14:00\n18:00-20:00\n军令消耗减半,200|72|0,200|73|0,2|0|0,长期开放
+6,2,100027,富商快跑,0,0,UI/ZhengTao/bg_ZhengTao05_Tex,UI/Activity/Icon201_Tex,255|216|162,捉拿西域富商/赢取大量卡魂！,2|0|0,null,null,周一/三/五/日
+7,2,1,大乱斗,0,0,UI/ZhengTao/bg_ZhengTao06_Tex,UI/Activity/Icon701_Tex,255|216|163,10V10大乱斗，谁才是真正的军神？,50|0|0,null,null,周六/日 20:00-21:15
+8,2,251005,武将擂台,0,0,UI/ZhengTao/bg_ZhengTao07_Tex,UI/Activity/Icon101_Tex,255|216|164,挑战并招募三国名将,1|13 1 0|0,1|24 1 0|0,null,每周更新
+9,2,351010,军校擂台,0,0,UI/ZhengTao/bg_ZhengTao08_Tex,UI/Activity/Icon601_Tex,255|216|165,挑战并招募三国名将,1|50 1 0|0,1|88 1 0|0,null,每周更新
+10,2,20001,演武场,1021,0,UI/ZhengTao/bg_ZhengTao09_Tex,UI/Main/icon_YanWu_Tex,255|216|166,演武场,26|0|0,34|0|0,53|0|0,周五/六 20:30-23:00
+11,2,9997,战术训练营,0,0,UI/ZhengTao/bg_ZhengTao10_Tex,UI/Activity/Icon401_Tex,255|216|167,战术训练营,47|0|0,null,null,周一/三/五/日
+12,2,9998,伤害训练营,0,0,UI/ZhengTao/bg_ZhengTao11_Tex,UI/Activity/Icon801_Tex,255|216|168,伤害训练营,44|0|0,null,null,周二/四/六/日
+13,2,10000,黄巾入侵,0,0,UI/ZhengTao/bg_ZhengTao12_Tex,UI/Activity/Icon1001_Tex,255|216|169,黄巾入侵,2|0|0,34|0|0,null,周二/四 20:30-21:00

@@ -1,0 +1,4 @@
+﻿序号,防御-武力系数,生命-兵力系数,肉搏半径,弓箭射击半径,弓箭远射半径,技能AOE半径,每回合士气增长,枪尖攻击半径,智力技能伤害基准值1,智力技能伤害基准值2,智力技能伤害基准值3,智力技能伤害倍率系数,远程溅射范围,塔类伤害比例,自爆触发范围,伤害上限系数
+id,fDefForceCoef,fHPTroopsCoef,fHand2HandRadius,fArcherShootRadius,fArcherShootRadiusLong,fSkillRadius,fMoralIncrease,fQiangjianRadius,fIntelBaseLevelParam1,fIntelBaseLevelParam2,fIntelBaseLevelParam3,fIntelSkillRatio,fSputterRadius,fRealDamageCeof,fSelfBombRadius,fDamageUpLimit
+int,float,float,float,float,float,float,float,float,float,float,float,float,float,float,float,float
+0,0.3,120,5,25,35,15,0.075,3.4,1.21,2.4,30,1.2,12,0.25,8,200

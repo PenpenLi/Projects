@@ -1,0 +1,4 @@
+﻿id,主服[跨平台的主服，请选鬼服],内部测试服主服id,是否测试环境,筛选持续时间[分钟],预选赛等待时间[分钟],预选赛备战[分钟],淘汰赛等待[分钟，赛季开始算，结束立刻进入淘汰赛，要保证预选赛打完！！！],淘汰赛备战[分钟],竞猜总奖励系数,冠军奖励系数(百分制),亚军奖励系数(百分制),3-4名奖励系数(百分制),5-8名奖励系数(百分制),竞猜筹码兑换战力限制,竞猜筹码兑换材料类型,竞猜筹码兑换系数,竞猜奖励邮件id,竞猜奖励类型,竞猜个人最大奖励,点赞奖励,额外队伍数
+id,iMasterServerID,iMasterServerTestID,iIsTest,nFetchTeamDuration,nTrialWaitDuration,nTrialPrepareDuration,nFinalWait,nFinalPrepareDuration,nRewardRate,nBetRate1,nBetRate2,nBetRate3,nBetRate4,nExchangePowerLimit,nExchangeType,nExchangePrice,nBetMailId,nBetRewardType,nBetMaxReward,strLikeReward,nUltraTeam
+int,int,int,int,int,int,int,int[4],int,int,int,int,int,int,int,int,int[3],int,int,int,string,int
+1,30003203,30003999,1,5,1440,10,2885|4325|5765|7205,20,10,35,25,10,5,20700,29,5|8|10,6306,29,200,2|500000|1,109

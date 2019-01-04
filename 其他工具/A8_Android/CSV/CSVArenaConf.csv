@@ -1,0 +1,4 @@
+﻿ID,竞技场功能开始时间,刷新回复(分钟),刷新消耗(钻石),匹配战力差(%),高战力（保护值）,强化buff出现概率,强化buff(%),复仇buff(%),奖励buff出现概率(强|中|弱),奖励buff掉积分概率,每日奖励竞技点数,可购买的挑战次数,刷新累计上限,中挡随机积分下限%,中档随机积分上限%,中挡随机积分下限固定值,中挡随机积分上限固定值,高挡随机积分下限%,高档随机积分上限%,高挡随机积分下限固定值,高挡随机积分上限固定值,中档保底下限,中档保底上限,高档保底下限,高档保底上限
+id,strStartTime,nRefreshRecover,nRefreshCost,nMatchZhanli,nMaxTargetZhanli,nStrongBuffProb,nStrongBuff,nRevengeBuff,strRewardBuffProb,strRewardPointProb,strDailyRewardPoint,nBuyChanceCount,nMaxAutoRefreshCount,nNormalLowScorePercent,nNormalHighScorePercent,nNormalLowScoreFix,nNormalHighScoreFix,nPowerLowScorePercent,nPowerHighScorePercent,nPowerLowScoreFix,nPowerHighScoreFix,nNormalLowSafe,nNormalHighSafe,nPowerLowSafe,nPowerHighSafe
+int,string,int,int,int,int,int,int,int,string,string,string,int,int,int,int,int,int,int,int,int,int,int,int,int,int
+1,2017|6|26|0|11|0,10,3,20,50,50,130,10,75|20|0,70|70|0,50|150|250|360|440|650|900|1200,5,3,10,10,180,60,5,30,60,180,10,10,4,4

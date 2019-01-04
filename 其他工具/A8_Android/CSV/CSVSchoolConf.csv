@@ -1,0 +1,4 @@
+﻿序号,解锁第二个训练的战力限制,解锁需要花费的钻石,4星卡训练时间[分],5星卡训练时间[分],训练消耗资源,立刻完成消耗的资源基数[分]
+id,nUnlockZhanliLimit,nUnlockDiamond,nTrainTime4,nTrainTime5,sTrainCostRes,sBaseRes
+int,int,int,int,int,string,string
+1,75000,500,600,720,200|72|1000,200|74|10

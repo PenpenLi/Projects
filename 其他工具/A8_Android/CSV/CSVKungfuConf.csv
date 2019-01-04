@@ -1,0 +1,4 @@
+﻿id,武将选卡数量,武器选卡数量,卡牌查看时间(秒),布阵时间(秒),最大胜场数,最大负场数,普通选卡数,vip选卡数,普通看卡,vip看卡,每日重置时间,目标胜场范围,对手搜索时间(s),每日开放时间,每日结束时间,公告滚动时间,补发邮件
+id,iWarriorNum,iWeaponNum,iLookCardTime,iSetTroopTime,iMaxWin,iMaxFail,iNormalChoose,iVipChoose,iNormalLook,iVipLook,strResetTime,iWinRange,iSearchTime,strStartTime,strEndTime,intBroadcastTime,iRewardMail
+int,int,int,int,int,int,int,int,int,int,int,string,int,int,string,string,int,int
+1,10,3,10,45,15,3,4,5,2,3,0|0,0,30,20|30,23|00,0,6541

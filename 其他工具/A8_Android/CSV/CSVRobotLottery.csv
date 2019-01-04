@@ -1,0 +1,6 @@
+﻿id,产出类型（资源：1；转盘：2）,卡魂产出量,血玉产出量,概率
+id,nType,nSoul,nBlood,nProbability
+int,int,float,float,float
+1,1,100000,0,0.333
+2,1,0,1,0.25
+3,2,0,0,0.417

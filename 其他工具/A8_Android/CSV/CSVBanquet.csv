@@ -1,0 +1,4 @@
+﻿酒宴活动序号,关联的活动id,每日参加酒宴的时段开始时间点|结束时间点,酒宴次数限制,酒宴CD时间--秒,玩家每次喝酒增加红包的领取次数,发放红包id掉落包_CSVMagicWeaponBag的id,每个红包的领取人数上限,红包的最长的持续时间(秒),发放红包的起始时间区间50|60：（单位：秒）    最少间隔50秒发下一个红包    最多间隔60秒发下一个红包  默认最少间隔10秒(程序写死了),宴会值上限,缩短1秒红包发放时间需要的宴会值,低级喝酒消耗,中级喝酒消耗,高级级喝酒消耗,低级喝酒增加宴会值,中级喝酒增加宴会值,高级喝酒增加宴会值,低级喝酒奖励掉落包_CSVMagicWeaponBag的id,中级喝酒奖励掉落包_CSVMagicWeaponBag的id,高级级喝酒奖励掉落包_CSVMagicWeaponBag的id
+id,nActivityId,nActivityTime,nCount,nCDTimes,nRedPacketNums,nRedPacketId,nRedPacketCounts,nDuration,nRedPacketTimes,nBanquetValueTop,nBanquetValueDemand,nCost1,nCost2,nCost3,nBanquetValue1,nBanquetValue2,nBanquetValue3,nReward1,nReward2,nReward3
+int,int,string,int,int,int,int,int,int,string,int,int,string,string,string,int,int,int,int,int,int
+1,9994,12 14,5,180,10,9997,20,30,50|60,10000,250,2|0|100000,5|0|50,5|0|100,10,50,100,9994,9995,9996

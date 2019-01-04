@@ -1,0 +1,9 @@
+﻿庆典事件id序号,档位名称,Icon图标,祝福消耗null=无消耗,送祝福奖励1,送祝福奖励2,送祝福奖励3,送祝福奖励4,接受他人祝福后的奖励1,接受他人祝福后的奖励2,接受他人祝福后的奖励3,接受他人祝福后的奖励4,他人接受自己祝福后获得的奖励邮件填写邮件的id,描述信息ID（CSVCelebratInfo）
+id,strName,strIcon,strCost,strReward1,strReward2,strReward3,strReward4,strGetReward1,strGetReward2,strGetReward3,strGetReward4,nRewardMail,nInfoIndex
+int,string,string,string,string,string,string,string,string,string,string,string,int,int
+1,纸灯笼,UI/MainCityEvent/mainCityEventIcon1,2|0|100000,103|21|10,,,,103|21|10,2|0|10000,,,9001,1
+2,八角灯笼,UI/MainCityEvent/mainCityEventIcon2,5|0|100,103|21|50,27|0|1,,,103|21|20,2|0|20000,27|0|1,,9002,1
+3,纸莲灯,UI/MainCityEvent/mainCityEventIcon5,2|0|100000,103|21|10,,,,103|21|10,2|0|10000,,,9003,2
+4,紫幽莲灯,UI/MainCityEvent/mainCityEventIcon6,5|0|200,103|21|100,23|0|5,,,103|21|20,2|0|20000,27|0|1,,9004,2
+5,纸孔明灯,UI/MainCityEvent/mainCityEventIcon3,2|0|100000,103|21|10,,,,103|21|10,2|0|10000,,,9005,3
+6,玲珑孔明灯,UI/MainCityEvent/mainCityEventIcon4,5|0|500,103|21|250,34|0|1,,,103|21|20,2|0|20000,27|0|1,,9006,3

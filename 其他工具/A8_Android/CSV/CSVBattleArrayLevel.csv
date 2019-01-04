@@ -1,0 +1,14 @@
+﻿序号 战阵阶级,战阵等级,战阵名称,基础属性加成,国战额外兵力上限加成,本级需要的经验,战纹基数,卡魂基数,消耗战功券数量,战阵图片
+id,sLevel,sName,nAttr,nBingli,nNeedBattleGroove,nBattleGrooveBase,nCardSoulBase,nCostZhangongQuan,sPic
+int,string,string,int,int,int,int,int,int,string
+0,零阶,碎空,0,0,0,10,0,500,UI/Tech/bg_ZhanZhen07_Tex
+1,一阶,一元,100,50,10,10,15000,100,_Word/icon_ZhanZhen01_Tex
+2,二阶,两仪,200,100,200,10,15000,100,_Word/icon_ZhanZhen02_Tex
+3,三阶,三才,300,150,1020,10,15000,100,_Word/icon_ZhanZhen03_Tex
+4,四阶,四象,400,200,2800,10,15000,100,_Word/icon_ZhanZhen04_Tex
+5,五阶,五行,500,250,6260,10,15000,100,_Word/icon_ZhanZhen05_Tex
+6,六阶,六合,600,300,12210,10,15000,100,_Word/icon_ZhanZhen06_Tex
+7,七阶,七星,700,350,21620,10,15000,100,_Word/icon_ZhanZhen07_Tex
+8,八阶,八卦,800,400,34880,10,15000,100,_Word/icon_ZhanZhen08_Tex
+9,九阶,九宫,900,450,56830,10,15000,100,_Word/icon_ZhanZhen09_Tex
+10,十阶,十方,1000,500,88930,10,15000,100,_Word/icon_ZhanZhen10_Tex

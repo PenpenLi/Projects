@@ -1,0 +1,4 @@
+﻿id,主服id,内部测试服主服id,开启时间,刷新间隔,扫荡X,每天最多重置次数,重置次数购买价格,失败次数
+id,nMasterId,nMasterServerTestId,sStartTime,nInterval,nOffset,nMaxResetCount,arrResetPrice,nFailCount
+int,int,int,string,int,int,int,int[10],int
+1,10000332,30003999,2017|12|11|0|0|0,7,6,1,0|400|600|800|1000|1200|1400|1600|1800|2000,5

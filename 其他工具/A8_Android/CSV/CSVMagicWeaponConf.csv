@@ -1,0 +1,4 @@
+﻿序号,品质提供的经验,品质消耗卡魂,分解吐血玉系数,分解吐碎片系数,升级需要卡魂跟经验比例,强化最大等级,巧夺天工几率,巧夺天工保底次数,重置消耗券,解锁消耗石头,淬炼消耗石头,词条概率|1条属性、1条特效、1属性+1特效、2属性
+id,nQualityExp,nQualityCostSoul,fDecompseBloodRate,fDecomposeMaterialRate,fUpgradeCardsoulExpRate,nEnhancemaxLev,fQdtgRate,nQdtgBaodiCount,nSmeltResetCost,nSmeltUnlockCost,nSmeltRefreshCost,arrSmeltRate
+int,int[6],int[6],double,double,double,int,float,int,int,int,int,string
+1,0|200|300|500|800|2000,0|3000|4000|7500|12000|300000,0.6,1,13,15,0.1,20,1,100,50,0.5|0.3|0.05|0.15

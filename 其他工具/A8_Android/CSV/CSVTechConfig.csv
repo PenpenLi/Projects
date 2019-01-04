@@ -1,0 +1,6 @@
+﻿序号(012枪弓骑）,第一兵种等级,第二兵种等级,第三兵种等级,第四兵种等级,第五兵种等级,普通战法ID,传闻ID,兵种名,小图,大图
+id,SldLevel1,SldLevel2,SldLevel3,SldLevel4,SldLevel5,nNormalOperation,nBroadcastID,strName,strSmallImg,strBigImg
+int,int,int,int,int,int,int,int,string,string,string
+0,1,2,3,4,13,0,1001,枪兵,pikeman_icon_s,pikeman_icon_s
+1,9,10,11,12,15,2,1002,弓兵,Bowman_icon_s,Bowman_icon_s
+2,5,6,7,8,14,4,1003,骑兵,cavalryman_icon_s,cavalryman_icon_s

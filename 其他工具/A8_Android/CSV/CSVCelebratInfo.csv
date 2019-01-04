@@ -1,0 +1,6 @@
+﻿庆典事件id序号,事件名称按钮上的名称,每日主动祝福次数限制,每日领取他人祝福次数限制,每日祝福被他人领取后自己可得奖励次数限制,刷新恢复（分钟）,累计刷新上限次数,刷新已有祝福消耗null=无消耗,关联的活动id,每日参加活动的时段开始时间点|结束时间点,后续事件的触发语句,档位填写CSVCelebratList表中的id集合，只能填2个
+id,strName,nTopLimit1,nTopLimit2,nTopLimit3,nRefreshRecover,nMaxAutoRefreshCount,strRefreshCost,nActivityId,strActivityTime,strFollowEventStr,strSubEventId
+int,string,int,int,int,int,int,string,int,string,string,string
+1,庆典灯笼,1,3,5,10,3,5|0|10,9993,18 22,您获得了来自他人的祝福，请进行查看,1|2
+2,庆典彩莲灯,1,3,5,10,3,5|0|10,9993,18 22,您获得了来自他人的祝福，请进行查看,3|4
+3,庆典孔明灯,1,3,5,10,3,5|0|10,9993,18 22,您获得了来自他人的祝福，请进行查看,5|6

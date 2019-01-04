@@ -1,0 +1,4 @@
+﻿ID,开始时间,主服,内部测试服主服id,赛季周期,首个天命主题,每日重置时间,向上匹配,向下匹配,战力匹配,进攻获胜积分,进攻失败积分,防守胜利积分,防守失败积分,录像过期天数,最大挑战次数,自动增长次数,上榜人数,挑战次数购买价格,挑战次数每次购买获得个数,挑战次数购买最大次数,系数1,系数2,系数3
+id,strOpenTime,nMasterServer,nMasterServerTestID,nPeriod,nFirstGodTheme,nDailyResetHour,nUpMatch,nDownMatch,nZhanliMatch,nAttackWinScore,nAttackFailScore,nDefenceWinScore,nDefenceFailScore,nRecordExpire,nMaxBattleChance,nAutoBattleChance,nRankNum,nBuyChancePrice,nBuyChanceReward,nBuyChanceMaxTime,fParam1,fParam2,fParam3
+int,string,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int,float,float,float
+1,2018|08|19|0|22|0,30003226,30003999,14,1,5,8,8,16,50,40,25,20,7,15,10,10000,100,3,5,2000,-0.25,0.25
