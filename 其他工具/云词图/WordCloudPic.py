@@ -37,7 +37,7 @@ cloud_text=",".join(mytext_list)
 #生成一个词云对象
 wordcloud = WordCloud(
 	background_color="white",	#背景颜色
-    max_words=50,				#显示最大词数
+    max_words=100,				#显示最大词数
     font_path="msyh.ttf",		#使用字体
     min_font_size=20,			#设置字体最小尺寸
     max_font_size=60, 			#设置字体最大尺寸
