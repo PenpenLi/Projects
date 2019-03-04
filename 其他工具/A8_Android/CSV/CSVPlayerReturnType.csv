@@ -1,6 +1,0 @@
-﻿条件ID[要求必须从低到高],离线时间[不得低于7天],累计充值,战力,充值循环额度,充值循环奖励,自身回归奖励邮件,自己绑定奖励,召回者绑定奖励,召回者登陆奖励邮件
-id,nAFKDays,nRechargeCount,nMaxZhanli,nRechargeStep,nCallerRechargeMail,nSelfReturnMail,nSelfBindRewardMail,nCallerBindRewardMail,nCallerLoginRewardMail
-int,int,int,int,int,int,int,int,int,int[10]
-1,8,0,8800,1000,6001,6002,6003,6004,0|6005|0|6006|0|6007|6008|0|0|0
-2,8,0,33800,1000,6001,6002,6003,6004,0|6005|0|6006|0|6007|6008|0|0|0
-3,8,0,105000,1000,6001,6002,6003,6004,0|6005|0|6006|0|6007|6008|0|0|0

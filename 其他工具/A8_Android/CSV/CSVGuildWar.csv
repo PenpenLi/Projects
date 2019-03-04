@@ -1,4 +1,0 @@
-﻿id,开启时间,竞标持续(分钟),公会战时间(分钟),主服ID,内部测试服主服id,比赛周期(天),每个服最大入选公会数,最大轮数,名称,最低等级,最低人数,开战公会数,基本匹配分,战力积分率,胜利匹配分,失败匹配分,新服判定时间,最小匹配积分
-id,strOpenTime,nBidDuration,nDeployTime,nMasterServerID,nMasterServerTestID,nPeriod,nGuildCountPerServer,nRoundCount,strName,nMinlevel,nMincount,nGuildCountPerRound,nBaseGroupScore,nFightingRate,nWinGroupScore,nFailGroupScore,strNewServerTime,nMinGroupScore
-int,string,int,string,int,int,int,int,int,string,int,int,int,int,int,int,int,string,int
-1,2018|10|31|0|0|0,5640,1380 30|10050 30|10050 30|10050 30,30003106,30003999,28,10,4,团P,3,15,16,1000,10000,50,50,2018|05|20|0|0|0,1

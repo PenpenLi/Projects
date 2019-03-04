@@ -1,7 +1,0 @@
-﻿序号,类型,等级,治疗,物理,肉搏,突击,迎击,枪击,射击,贯射,魔法,普通技能伤害,普通持续伤害,火伤,雷伤,冰伤,毒伤,单挑,移动速度,武力,智力,兵力,技能描述
-id,nType,nLevel,fCure,fPhysics,fHand2Hand,fTuji,fYingji,fQiangji,fSheji,fGuanshe,fMagic,fSkill,fDot,fFire,fLighting,fIce,fPoision,fDantiao,fSpeed,fForce,fIntelligent,fTroops,strDesc
-int,int,int,float,float,float,float,float,float,float,float,float,float,float,float,float,float,float,float,float,float,float,float,string
-1,1,1,0,0,0,0,0,0,0,0,0,0,0,-0.5,0,0,0,0,0,0,0,0,雨下下
-2,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.5,0,0,0,0,0,风吹吹
-3,3,1,0,0,0,0,0,0,0,0,0,0,0,0,-0.5,0,0,0,0,0,0,0,雾迷迷
-4,4,1,-0.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,雪飘飘

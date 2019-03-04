@@ -1,5 +1,0 @@
-﻿答题活动序号,简单题库类型CSVChoiceQuestList表中nType的数值,简单题库对应正确答题数字段介绍：(0|10|20)答对题目>=20，使用题库3答对题目>=10，使用题库2答对题目>=0，使用题库1,活动时段,每日初始答题次数,每次购买获得的答题次数,购买答题次数上限,购买答题消耗,答题排行排名,排行版的id,答题排行排名奖励填写邮件id
-id,iQuestType,iQuestCount,iDailyTimes,iCount,iGetCounts,iBuyTop,iBuyCost,iRanks,iTopListId,iRankRewards
-int,string,string,string,int,int,int,string,string,int,string
-1,1|2|3,0|10|20,18 22,20,1,20,5|0|10,1|5|10|20|50|100|9999,5101,6901|6902|6903|6904|6905|6906|6907
-2,1|2|3,0|10|20,10 12,20,1,15,5|0|50,1|5|10|20|50|100|9999,5102,6901|6902|6903|6904|6905|6906|6907
