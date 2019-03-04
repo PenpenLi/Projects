@@ -1,0 +1,60 @@
+{
+  "图层 1_0" : {
+    "f1" : {
+      "start" : {
+        "x" : "28.7",
+        "y" : "-9.7",
+        "rotation" : "31.69",
+        "scaleX" : "1.43",
+        "scaleY" : "1.43",
+        "opacity" : "0",
+        "png" : "effect_agr_1_1.png"
+      },
+      "nextFrame" : "f4",
+      "frames" : "4"
+    },
+    "order" : "0",
+    "f4" : {
+      "start" : {
+        "x" : "32",
+        "y" : "-8.6",
+        "rotation" : "88.3",
+        "scaleX" : "1.04",
+        "scaleY" : "1.04",
+        "opacity" : "255",
+        "png" : "effect_agr_1_1.png"
+      },
+      "nextFrame" : "f12",
+      "frames" : "9"
+    },
+    "f12" : {
+      "start" : {
+        "x" : "31.25",
+        "y" : "-7.3",
+        "rotation" : "104.31",
+        "scaleX" : "0.63",
+        "scaleY" : "0.63",
+        "opacity" : "255",
+        "png" : "effect_agr_1_1.png"
+      },
+      "nextFrame" : "f16",
+      "frames" : "5"
+    },
+    "f16" : {
+      "start" : {
+        "x" : "29.75",
+        "y" : "-5.45",
+        "rotation" : "161.99",
+        "scaleX" : "0.43",
+        "scaleY" : "0.43",
+        "opacity" : "0",
+        "png" : "effect_agr_1_1.png"
+      }
+    }
+  },
+  "events" : {
+    "f17" : "finish"
+  },
+  "scale" : "1",
+  "png" : "effect_agr_1.png"
+}

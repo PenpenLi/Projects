@@ -1,0 +1,112 @@
+{
+  "图层 2_0" : {
+    "f24" : {
+      "start" : {
+        "x" : "396.1",
+        "y" : "-14.7",
+        "rotation" : "-35.69",
+        "scaleX" : "1.49",
+        "scaleY" : "1.49",
+        "opacity" : "255"
+      }
+    },
+    "sp" : "sp_base_303",
+    "useBatchNode" : "true",
+    "order" : "1"
+  },
+  "图层 3_1" : {
+    "f24" : {
+      "start" : {
+        "x" : "361.25",
+        "y" : "15.1",
+        "rotation" : "-48.47",
+        "scaleX" : "0.45",
+        "scaleY" : "0.45",
+        "color" : {
+          "alpha_original" : "1",
+          "alpha" : "0",
+          "red_original" : "1",
+          "red" : "-255",
+          "green_original" : "1",
+          "green" : "11",
+          "blue_original" : "1",
+          "blue" : "255"
+        }
+      }
+    },
+    "sp" : "sp_base_117",
+    "useBatchNode" : "false",
+    "first_frame" : "4",
+    "loop" : "loop",
+    "order" : "0",
+    "f25" : {
+      "start" : {
+        "x" : "338.15",
+        "y" : "39.4",
+        "rotation" : "-48.47",
+        "scaleX" : "0.87",
+        "scaleY" : "0.79",
+        "color" : {
+          "alpha_original" : "1",
+          "alpha" : "0",
+          "red_original" : "1",
+          "red" : "-255",
+          "green_original" : "1",
+          "green" : "11",
+          "blue_original" : "1",
+          "blue" : "255"
+        }
+      },
+      "nextFrame" : "f30",
+      "frames" : "6"
+    },
+    "f30" : {
+      "start" : {
+        "x" : "363.65",
+        "y" : "28.45",
+        "rotation" : "-48.47",
+        "scaleX" : "0.87",
+        "scaleY" : "0.79",
+        "color" : {
+          "alpha_original" : "1",
+          "alpha" : "0",
+          "red_original" : "1",
+          "red" : "-255",
+          "green_original" : "1",
+          "green" : "11",
+          "blue_original" : "1",
+          "blue" : "255"
+        }
+      },
+      "nextFrame" : "f33",
+      "frames" : "4"
+    },
+    "f33" : {
+      "start" : {
+        "x" : "363.65",
+        "y" : "28.45",
+        "rotation" : "-48.47",
+        "scaleX" : "0.87",
+        "scaleY" : "0.79",
+        "color" : {
+          "alpha_original" : "0.3",
+          "alpha" : "0",
+          "red_original" : "1",
+          "red" : "-255",
+          "green_original" : "1",
+          "green" : "11",
+          "blue_original" : "1",
+          "blue" : "255"
+        }
+      }
+    },
+    "f34" : {
+      "remove" : "1"
+    }
+  },
+  "events" : {
+    "f38" : "finish"
+  },
+  "scale" : "1",
+  "png" : ""
+}

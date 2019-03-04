@@ -1,0 +1,31 @@
+{
+  "effect" : {
+    "f1" : {
+      "start" : {
+        "x" : "-195.5",
+        "y" : "191",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    },
+    "order" : "1"
+  },
+  "card" : {
+    "f1" : {
+      "start" : {
+        "x" : "-195.5",
+        "y" : "165.5",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    },
+    "order" : "0"
+  },
+  "events" : {
+    "f60" : "forever"
+  }
+}

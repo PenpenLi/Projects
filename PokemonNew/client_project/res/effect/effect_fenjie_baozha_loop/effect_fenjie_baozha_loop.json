@@ -1,0 +1,125 @@
+{
+  "图层 2_1" : {
+    "f1" : {
+      "start" : {
+        "x" : "7.3",
+        "y" : "-10.75",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "effect_fenjie_baozha_loop_1.png"
+      }
+    },
+    "order" : "0",
+    "f3" : {
+      "start" : {
+        "x" : "-1",
+        "y" : "-3.5",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "effect_fenjie_baozha_loop_2.png"
+      }
+    },
+    "f5" : {
+      "start" : {
+        "x" : "11.4",
+        "y" : "-4.15",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "effect_fenjie_baozha_loop_3.png"
+      }
+    },
+    "f7" : {
+      "start" : {
+        "x" : "-3",
+        "y" : "-5.4",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "effect_fenjie_baozha_loop_4.png"
+      }
+    },
+    "f9" : {
+      "start" : {
+        "x" : "12.1",
+        "y" : "-1.7",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "effect_fenjie_baozha_loop_5.png"
+      }
+    },
+    "f11" : {
+      "start" : {
+        "x" : "-13",
+        "y" : "-11.85",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "effect_fenjie_baozha_loop_6.png"
+      }
+    },
+    "f13" : {
+      "start" : {
+        "x" : "-8",
+        "y" : "-5.25",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "effect_fenjie_baozha_loop_7.png"
+      }
+    },
+    "f15" : {
+      "start" : {
+        "x" : "0.05",
+        "y" : "-13.1",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "effect_fenjie_baozha_loop_8.png"
+      }
+    },
+    "f17" : {
+      "start" : {
+        "x" : "0.65",
+        "y" : "5.95",
+        "rotation" : "0",
+        "scaleX" : "1.6",
+        "scaleY" : "1.6",
+        "opacity" : "255",
+        "png" : "effect_fenjie_baozha_loop_9.png"
+      },
+      "nextFrame" : "f20",
+      "frames" : "4"
+    },
+    "f20" : {
+      "start" : {
+        "x" : "0.65",
+        "y" : "5.95",
+        "rotation" : "0",
+        "scaleX" : "1.73",
+        "scaleY" : "1.73",
+        "opacity" : "0",
+        "png" : "effect_fenjie_baozha_loop_9.png"
+      }
+    },
+    "f21" : {
+      "remove" : "1"
+    }
+  },
+  "events" : {
+    "f21" : "forever"
+  },
+  "scale" : "1",
+  "png" : "effect_fenjie_baozha_loop.png"
+}

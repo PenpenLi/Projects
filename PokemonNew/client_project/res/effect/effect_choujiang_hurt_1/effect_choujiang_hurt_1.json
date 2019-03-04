@@ -1,0 +1,96 @@
+{
+  "图层 1 复制_0" : {
+    "f1" : {
+      "start" : {
+        "x" : "-1",
+        "y" : "-5",
+        "rotation" : "0",
+        "scaleX" : "0.29",
+        "scaleY" : "0.29",
+        "opacity" : "255",
+        "png" : "effect_choujiang_hurt_1_1.png"
+      },
+      "nextFrame" : "f4",
+      "frames" : "4"
+    },
+    "order" : "0",
+    "f4" : {
+      "start" : {
+        "x" : "-1",
+        "y" : "-5.35",
+        "rotation" : "0",
+        "scaleX" : "1.14",
+        "scaleY" : "1.14",
+        "opacity" : "255",
+        "png" : "effect_choujiang_hurt_1_1.png"
+      },
+      "nextFrame" : "f8",
+      "frames" : "5"
+    },
+    "f8" : {
+      "start" : {
+        "x" : "-1",
+        "y" : "-5.35",
+        "rotation" : "0",
+        "scaleX" : "1.43",
+        "scaleY" : "1.43",
+        "opacity" : "255",
+        "png" : "effect_choujiang_hurt_1_1.png"
+      }
+    },
+    "f10" : {
+      "start" : {
+        "x" : "-0.25",
+        "y" : "-8.2",
+        "rotation" : "0",
+        "scaleX" : "1.43",
+        "scaleY" : "1.43",
+        "opacity" : "255",
+        "png" : "effect_choujiang_hurt_1_2.png"
+      }
+    },
+    "f12" : {
+      "start" : {
+        "x" : "-1",
+        "y" : "-4.2",
+        "rotation" : "0",
+        "scaleX" : "1.43",
+        "scaleY" : "1.43",
+        "opacity" : "255",
+        "png" : "effect_choujiang_hurt_1_3.png"
+      }
+    },
+    "f14" : {
+      "start" : {
+        "x" : "-0.05",
+        "y" : "-8.7",
+        "rotation" : "0",
+        "scaleX" : "1.43",
+        "scaleY" : "1.43",
+        "opacity" : "255",
+        "png" : "effect_choujiang_hurt_1_4.png"
+      },
+      "nextFrame" : "f20",
+      "frames" : "7"
+    },
+    "f20" : {
+      "start" : {
+        "x" : "-0.05",
+        "y" : "-8.7",
+        "rotation" : "0",
+        "scaleX" : "1.71",
+        "scaleY" : "1.71",
+        "opacity" : "28",
+        "png" : "effect_choujiang_hurt_1_4.png"
+      }
+    },
+    "f21" : {
+      "remove" : "1"
+    }
+  },
+  "events" : {
+    "f22" : "finish"
+  },
+  "scale" : "1",
+  "png" : "effect_choujiang_hurt_1.png"
+}

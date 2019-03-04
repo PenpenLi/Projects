@@ -1,0 +1,189 @@
+{
+  "图层 6_1" : {
+    "f1" : {
+      "start" : {
+        "x" : "-225.05",
+        "y" : "-2.3",
+        "rotation" : "90",
+        "scaleX" : "0.49",
+        "scaleY" : "0.94",
+        "color" : {
+          "alpha_original" : "1",
+          "alpha" : "0",
+          "red_original" : "1",
+          "red" : "255",
+          "green_original" : "1",
+          "green" : "37",
+          "blue_original" : "1",
+          "blue" : "35"
+        }
+      }
+    },
+    "sp" : "sp_base_076",
+    "useBatchNode" : "false",
+    "order" : "3"
+  },
+  "sp_base_374_2" : {
+    "f1" : {
+      "start" : {
+        "x" : "-193.25",
+        "y" : "-13.35",
+        "rotation" : "90",
+        "scaleX" : "1.72",
+        "scaleY" : "2.96",
+        "color" : {
+          "alpha_original" : "1",
+          "alpha" : "0",
+          "red_original" : "1",
+          "red" : "255",
+          "green_original" : "1",
+          "green" : "-39",
+          "blue_original" : "1",
+          "blue" : "-255"
+        }
+      }
+    },
+    "sp" : "sp_base_374",
+    "useBatchNode" : "false",
+    "order" : "2"
+  },
+  "元件 19_3" : {
+    "f1" : {
+      "start" : {
+        "x" : "-79.05",
+        "y" : "-104.85",
+        "rotation" : "132.79",
+        "scaleX" : "-0.57",
+        "scaleY" : "0.57",
+        "color" : {
+          "alpha_original" : "1",
+          "alpha" : "0",
+          "red_original" : "1",
+          "red" : "255",
+          "green_original" : "1",
+          "green" : "32",
+          "blue_original" : "1",
+          "blue" : "-255"
+        },
+        "png" : "sp_attack_nvzhu3_putong_shoot_1.png"
+      },
+      "nextFrame" : "f8",
+      "frames" : "8"
+    },
+    "order" : "1",
+    "f8" : {
+      "start" : {
+        "x" : "-84.9",
+        "y" : "-104.85",
+        "rotation" : "142.25",
+        "scaleX" : "-0.57",
+        "scaleY" : "0.57",
+        "color" : {
+          "alpha_original" : "1",
+          "alpha" : "0",
+          "red_original" : "1",
+          "red" : "255",
+          "green_original" : "1",
+          "green" : "32",
+          "blue_original" : "1",
+          "blue" : "-255"
+        },
+        "png" : "sp_attack_nvzhu3_putong_shoot_1.png"
+      },
+      "nextFrame" : "f15",
+      "frames" : "8"
+    },
+    "f15" : {
+      "start" : {
+        "x" : "-79.05",
+        "y" : "-104.85",
+        "rotation" : "132.79",
+        "scaleX" : "-0.57",
+        "scaleY" : "0.57",
+        "color" : {
+          "alpha_original" : "1",
+          "alpha" : "0",
+          "red_original" : "1",
+          "red" : "255",
+          "green_original" : "1",
+          "green" : "32",
+          "blue_original" : "1",
+          "blue" : "-255"
+        },
+        "png" : "sp_attack_nvzhu3_putong_shoot_1.png"
+      }
+    }
+  },
+  "元件 19_4" : {
+    "f1" : {
+      "start" : {
+        "x" : "-79.05",
+        "y" : "100.85",
+        "rotation" : "47.21",
+        "scaleX" : "0.57",
+        "scaleY" : "0.57",
+        "color" : {
+          "alpha_original" : "1",
+          "alpha" : "0",
+          "red_original" : "1",
+          "red" : "255",
+          "green_original" : "1",
+          "green" : "32",
+          "blue_original" : "1",
+          "blue" : "-255"
+        },
+        "png" : "sp_attack_nvzhu3_putong_shoot_1.png"
+      },
+      "nextFrame" : "f8",
+      "frames" : "8"
+    },
+    "order" : "0",
+    "f8" : {
+      "start" : {
+        "x" : "-84.9",
+        "y" : "100.85",
+        "rotation" : "36.25",
+        "scaleX" : "0.57",
+        "scaleY" : "0.57",
+        "color" : {
+          "alpha_original" : "1",
+          "alpha" : "0",
+          "red_original" : "1",
+          "red" : "255",
+          "green_original" : "1",
+          "green" : "32",
+          "blue_original" : "1",
+          "blue" : "-255"
+        },
+        "png" : "sp_attack_nvzhu3_putong_shoot_1.png"
+      },
+      "nextFrame" : "f15",
+      "frames" : "8"
+    },
+    "f15" : {
+      "start" : {
+        "x" : "-79.05",
+        "y" : "100.85",
+        "rotation" : "47.21",
+        "scaleX" : "0.57",
+        "scaleY" : "0.57",
+        "color" : {
+          "alpha_original" : "1",
+          "alpha" : "0",
+          "red_original" : "1",
+          "red" : "255",
+          "green_original" : "1",
+          "green" : "32",
+          "blue_original" : "1",
+          "blue" : "-255"
+        },
+        "png" : "sp_attack_nvzhu3_putong_shoot_1.png"
+      }
+    }
+  },
+  "events" : {
+    "f15" : "forever"
+  },
+  "scale" : "1",
+  "png" : "sp_attack_nvzhu3_putong_shoot.png"
+}

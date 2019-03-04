@@ -1,0 +1,200 @@
+{
+  "图层 8_0" : {
+    "f1" : {
+      "start" : {
+        "x" : "-4.1",
+        "y" : "-2",
+        "rotation" : "0",
+        "scaleX" : "21.01",
+        "scaleY" : "26.49",
+        "color" : {
+          "alpha_original" : "1",
+          "alpha" : "0",
+          "red_original" : "0",
+          "red" : "0",
+          "green_original" : "0",
+          "green" : "0",
+          "blue_original" : "0",
+          "blue" : "0"
+        }
+      },
+      "nextFrame" : "f10",
+      "frames" : "10"
+    },
+    "effect" : "effect_1",
+    "useBatchNode" : "false",
+    "order" : "5",
+    "f10" : {
+      "start" : {
+        "x" : "-4.1",
+        "y" : "-2",
+        "rotation" : "0",
+        "scaleX" : "21.01",
+        "scaleY" : "26.49",
+        "color" : {
+          "alpha_original" : "0",
+          "alpha" : "0",
+          "red_original" : "0",
+          "red" : "0",
+          "green_original" : "0",
+          "green" : "0",
+          "blue_original" : "0",
+          "blue" : "0"
+        }
+      }
+    },
+    "f271" : {
+      "start" : {
+        "x" : "-4.1",
+        "y" : "-2",
+        "rotation" : "0",
+        "scaleX" : "21.01",
+        "scaleY" : "26.49",
+        "color" : {
+          "alpha_original" : "0",
+          "alpha" : "0",
+          "red_original" : "0",
+          "red" : "0",
+          "green_original" : "0",
+          "green" : "0",
+          "blue_original" : "0",
+          "blue" : "0"
+        }
+      },
+      "nextFrame" : "f280",
+      "frames" : "10"
+    },
+    "f280" : {
+      "start" : {
+        "x" : "-4.1",
+        "y" : "-2",
+        "rotation" : "0",
+        "scaleX" : "21.01",
+        "scaleY" : "26.49",
+        "color" : {
+          "alpha_original" : "1",
+          "alpha" : "0",
+          "red_original" : "0",
+          "red" : "0",
+          "green_original" : "0",
+          "green" : "0",
+          "blue_original" : "0",
+          "blue" : "0"
+        }
+      }
+    }
+  },
+  "lightballs_1" : {
+    "f1" : {
+      "start" : {
+        "x" : "24.4",
+        "y" : "52.85",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "178"
+      }
+    },
+    "effect" : "effect_31",
+    "useBatchNode" : "true",
+    "order" : "4"
+  },
+  "mask_2" : {
+    "f1" : {
+      "start" : {
+        "x" : "-3.35",
+        "y" : "313.6",
+        "rotation" : "0",
+        "scaleX" : "111.56",
+        "scaleY" : "1",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f226",
+      "frames" : "226"
+    },
+    "effect" : "effect_36",
+    "useBatchNode" : "true",
+    "order" : "3",
+    "f226" : {
+      "start" : {
+        "x" : "-3.35",
+        "y" : "-254.4",
+        "rotation" : "0",
+        "scaleX" : "111.56",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    }
+  },
+  "图层 9_3" : {
+    "f1" : {
+      "start" : {
+        "x" : "-4.1",
+        "y" : "23.5",
+        "rotation" : "0",
+        "scaleX" : "18.4",
+        "scaleY" : "15.2",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f226",
+      "frames" : "226"
+    },
+    "effect" : "effect_1_fuben",
+    "useBatchNode" : "true",
+    "order" : "2",
+    "f226" : {
+      "start" : {
+        "x" : "-4.1",
+        "y" : "-318.05",
+        "rotation" : "0",
+        "scaleX" : "18.4",
+        "scaleY" : "1.97",
+        "opacity" : "255"
+      }
+    }
+  },
+  "zi_4" : {
+    "f1" : {
+      "start" : {
+        "x" : "30.1",
+        "y" : "22.9",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    },
+    "effect" : "effect_37",
+    "useBatchNode" : "true",
+    "order" : "1"
+  },
+  "图层 7_5" : {
+    "f1" : {
+      "start" : {
+        "x" : "-1.35",
+        "y" : "-1.2",
+        "rotation" : "0",
+        "scaleX" : "19.82",
+        "scaleY" : "24.92",
+        "color" : {
+          "alpha_original" : "1",
+          "alpha" : "0",
+          "red_original" : "0",
+          "red" : "0",
+          "green_original" : "0",
+          "green" : "0",
+          "blue_original" : "0",
+          "blue" : "0"
+        }
+      }
+    },
+    "effect" : "effect_1",
+    "useBatchNode" : "false",
+    "order" : "0"
+  },
+  "events" : {
+    "f281" : "finish"
+  },
+  "scale" : "1",
+  "png" : ""
+}

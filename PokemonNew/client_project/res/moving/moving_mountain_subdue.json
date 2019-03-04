@@ -1,0 +1,106 @@
+{
+  "effect_mountain_subdue" : {
+    "f3" : {
+      "start" : {
+        "x" : "1.65",
+        "y" : "-1",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    },
+    "order" : "1",
+    "f39" : {
+      "remove" : "1"
+    }
+  },
+  "heidi" : {
+    "f1" : {
+      "start" : {
+        "x" : "20",
+        "y" : "324",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "0"
+      },
+      "nextFrame" : "f6",
+      "frames" : "6"
+    },
+    "order" : "0",
+    "f6" : {
+      "start" : {
+        "x" : "20",
+        "y" : "324",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "127"
+      },
+      "nextFrame" : "f8",
+      "frames" : "3"
+    },
+    "f8" : {
+      "start" : {
+        "x" : "20",
+        "y" : "324",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f10",
+      "frames" : "3"
+    },
+    "f10" : {
+      "start" : {
+        "x" : "20",
+        "y" : "324",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "224"
+      },
+      "nextFrame" : "f12",
+      "frames" : "3"
+    },
+    "f12" : {
+      "start" : {
+        "x" : "20",
+        "y" : "324",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "216"
+      },
+      "nextFrame" : "f20",
+      "frames" : "9"
+    },
+    "f20" : {
+      "start" : {
+        "x" : "20",
+        "y" : "324",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "51"
+      },
+      "nextFrame" : "f75",
+      "frames" : "56"
+    },
+    "f75" : {
+      "start" : {
+        "x" : "20",
+        "y" : "324",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "0"
+      }
+    }
+  },
+  "events" : {
+    "f76" : "finish"
+  }
+}

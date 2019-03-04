@@ -1,0 +1,37 @@
+{
+  "图层 3_1" : {
+    "f1" : {
+      "start" : {
+        "x" : "-36.5",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    },
+    "sp" : "sp_baozheng_moon1",
+    "useBatchNode" : "true",
+    "order" : "1"
+  },
+  "图层 2_2" : {
+    "f1" : {
+      "start" : {
+        "x" : "-36.5",
+        "y" : "0",
+        "rotation" : "133.76",
+        "scaleX" : "1.15",
+        "scaleY" : "1.15",
+        "opacity" : "76"
+      }
+    },
+    "sp" : "sp_baozheng_moon1",
+    "useBatchNode" : "true",
+    "order" : "0"
+  },
+  "events" : {
+    "f12" : "forever"
+  },
+  "scale" : "1",
+  "png" : ""
+}

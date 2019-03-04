@@ -1,0 +1,37 @@
+{
+  "2_1" : {
+    "f1" : {
+      "start" : {
+        "x" : "27.45",
+        "y" : "-242.45",
+        "rotation" : "0",
+        "scaleX" : "0.47",
+        "scaleY" : "0.47",
+        "opacity" : "255"
+      }
+    },
+    "effect" : "effect_difu_rongyan",
+    "useBatchNode" : "true",
+    "order" : "1"
+  },
+  "1_2" : {
+    "f1" : {
+      "start" : {
+        "x" : "204.75",
+        "y" : "-271.15",
+        "rotation" : "-5.24",
+        "scaleX" : "0.94",
+        "scaleY" : "0.94",
+        "opacity" : "255"
+      }
+    },
+    "effect" : "effect_difu_rongyan",
+    "useBatchNode" : "true",
+    "order" : "0"
+  },
+  "events" : {
+    "f60" : "forever"
+  },
+  "scale" : "2",
+  "png" : ""
+}

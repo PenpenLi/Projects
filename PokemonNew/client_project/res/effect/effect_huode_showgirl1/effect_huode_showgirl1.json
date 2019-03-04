@@ -1,0 +1,52 @@
+{
+  "图层 1_1" : {
+    "f1" : {
+      "start" : {
+        "x" : "-15.95",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    },
+    "effect" : "effect_huode_girl",
+    "useBatchNode" : "true",
+    "order" : "2"
+  },
+  "图层 4_2" : {
+    "f1" : {
+      "start" : {
+        "x" : "8.55",
+        "y" : "-67.2",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    },
+    "effect" : "effect_huode_stargroup",
+    "useBatchNode" : "true",
+    "order" : "1"
+  },
+  "图层 2_3" : {
+    "f1" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    },
+    "effect" : "effect_huode_guangshus",
+    "useBatchNode" : "true",
+    "order" : "0"
+  },
+  "events" : {
+    "f30" : "forever"
+  },
+  "scale" : "1",
+  "png" : ""
+}

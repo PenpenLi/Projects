@@ -1,0 +1,92 @@
+{
+  "circle3" : {
+    "f1" : {
+      "start" : {
+        "x" : "0.4",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f900",
+      "frames" : "900"
+    },
+    "order" : "2",
+    "f900" : {
+      "start" : {
+        "x" : "0.4",
+        "y" : "0",
+        "rotation" : "-90",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f1800",
+      "frames" : "901"
+    },
+    "f1800" : {
+      "start" : {
+        "x" : "0.4",
+        "y" : "0",
+        "rotation" : "-180",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f2700",
+      "frames" : "901"
+    },
+    "f2700" : {
+      "start" : {
+        "x" : "0.4",
+        "y" : "0",
+        "rotation" : "-270",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f3600",
+      "frames" : "901"
+    },
+    "f3600" : {
+      "start" : {
+        "x" : "0.4",
+        "y" : "0",
+        "rotation" : "-360",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    }
+  },
+  "circle2" : {
+    "f1" : {
+      "start" : {
+        "x" : "-0.5",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    },
+    "order" : "1"
+  },
+  "circle1" : {
+    "f1" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    },
+    "order" : "0"
+  },
+  "events" : {
+    "f3600" : "forever"
+  }
+}

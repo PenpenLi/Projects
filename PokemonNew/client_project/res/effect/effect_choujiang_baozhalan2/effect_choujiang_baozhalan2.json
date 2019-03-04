@@ -1,0 +1,103 @@
+{
+  "图层 1_0" : {
+    "f1" : {
+      "start" : {
+        "x" : "1",
+        "y" : "-1",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "effect_choujiang_baozhalan2_1.png"
+      }
+    },
+    "order" : "0",
+    "f2" : {
+      "start" : {
+        "x" : "2",
+        "y" : "-0.8",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "effect_choujiang_baozhalan2_2.png"
+      }
+    },
+    "f3" : {
+      "start" : {
+        "x" : "1.7",
+        "y" : "-0.45",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "effect_choujiang_baozhalan2_3.png"
+      }
+    },
+    "f4" : {
+      "start" : {
+        "x" : "1",
+        "y" : "-1.45",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "effect_choujiang_baozhalan2_4.png"
+      }
+    },
+    "f5" : {
+      "start" : {
+        "x" : "0.85",
+        "y" : "-1.75",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "effect_choujiang_baozhalan2_5.png"
+      }
+    },
+    "f6" : {
+      "start" : {
+        "x" : "-2",
+        "y" : "0.45",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "effect_choujiang_baozhalan2_6.png"
+      }
+    },
+    "f7" : {
+      "start" : {
+        "x" : "0.5",
+        "y" : "1.95",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "effect_choujiang_baozhalan2_7.png"
+      },
+      "nextFrame" : "f9",
+      "frames" : "3"
+    },
+    "f9" : {
+      "start" : {
+        "x" : "0.5",
+        "y" : "1.95",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "73",
+        "png" : "effect_choujiang_baozhalan2_7.png"
+      }
+    },
+    "f10" : {
+      "remove" : "1"
+    }
+  },
+  "events" : {
+    "f11" : "finish"
+  },
+  "scale" : "1",
+  "png" : "effect_choujiang_baozhalan2.png"
+}

@@ -1,0 +1,98 @@
+{
+  "图层 1 复制_1" : {
+    "f1" : {
+      "start" : {
+        "x" : "-50.7",
+        "y" : "-7.95",
+        "rotation" : "15.19",
+        "scaleX" : "1.25",
+        "scaleY" : "1.2",
+        "opacity" : "255",
+        "png" : "effect_choujiang_yun_1.png"
+      },
+      "nextFrame" : "f74",
+      "frames" : "74"
+    },
+    "order" : "1",
+    "f74" : {
+      "start" : {
+        "x" : "62.5",
+        "y" : "-14.8",
+        "rotation" : "6.98",
+        "scaleX" : "1.8",
+        "scaleY" : "1.31",
+        "opacity" : "0",
+        "png" : "effect_choujiang_yun_1.png"
+      }
+    },
+    "f75" : {
+      "start" : {
+        "x" : "-113.15",
+        "y" : "-11.85",
+        "rotation" : "15.19",
+        "scaleX" : "0.98",
+        "scaleY" : "0.93",
+        "opacity" : "0",
+        "png" : "effect_choujiang_yun_1.png"
+      },
+      "nextFrame" : "f130",
+      "frames" : "56"
+    },
+    "f130" : {
+      "start" : {
+        "x" : "-50.7",
+        "y" : "-7.95",
+        "rotation" : "15.19",
+        "scaleX" : "1.25",
+        "scaleY" : "1.2",
+        "opacity" : "255",
+        "png" : "effect_choujiang_yun_1.png"
+      }
+    }
+  },
+  "图层 2_2" : {
+    "f1" : {
+      "start" : {
+        "x" : "-187.1",
+        "y" : "-35.95",
+        "rotation" : "25.2",
+        "scaleX" : "0.8",
+        "scaleY" : "0.8",
+        "opacity" : "0",
+        "png" : "effect_choujiang_yun_1.png"
+      },
+      "nextFrame" : "f54",
+      "frames" : "54"
+    },
+    "order" : "0",
+    "f54" : {
+      "start" : {
+        "x" : "-119.55",
+        "y" : "-27.55",
+        "rotation" : "15.19",
+        "scaleX" : "1.02",
+        "scaleY" : "0.78",
+        "opacity" : "255",
+        "png" : "effect_choujiang_yun_1.png"
+      },
+      "nextFrame" : "f130",
+      "frames" : "77"
+    },
+    "f130" : {
+      "start" : {
+        "x" : "-25.35",
+        "y" : "-15.85",
+        "rotation" : "1.24",
+        "scaleX" : "1.32",
+        "scaleY" : "0.75",
+        "opacity" : "0",
+        "png" : "effect_choujiang_yun_1.png"
+      }
+    }
+  },
+  "events" : {
+    "f130" : "forever"
+  },
+  "scale" : "1",
+  "png" : "effect_choujiang_yun.png"
+}

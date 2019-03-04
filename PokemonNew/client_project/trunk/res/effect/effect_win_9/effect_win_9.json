@@ -1,0 +1,82 @@
+{
+  "图层 4_0" : {
+    "f43" : {
+      "start" : {
+        "x" : "3.35",
+        "y" : "3",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    },
+    "effect" : "effect_win_5",
+    "useBatchNode" : "true",
+    "order" : "3",
+    "f52" : {
+      "remove" : "1"
+    }
+  },
+  "图层 3_1" : {
+    "f1" : {
+      "start" : {
+        "x" : "3",
+        "y" : "-1",
+        "rotation" : "0",
+        "scaleX" : "2.2",
+        "scaleY" : "2.2",
+        "opacity" : "0",
+        "png" : "effect_win_9_1.png"
+      },
+      "nextFrame" : "f4",
+      "frames" : "4"
+    },
+    "order" : "2",
+    "f4" : {
+      "start" : {
+        "x" : "3",
+        "y" : "-1",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "effect_win_9_1.png"
+      },
+      "nextFrame" : "f9",
+      "frames" : "6"
+    },
+    "f9" : {
+      "start" : {
+        "x" : "3",
+        "y" : "-1",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "30",
+        "png" : "effect_win_9_1.png"
+      }
+    },
+    "f10" : {
+      "remove" : "1"
+    }
+  },
+  "胜利_2" : {
+    "f4" : {
+      "start" : {
+        "x" : "5.8",
+        "y" : "2.5",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "effect_win_9_2.png"
+      }
+    },
+    "order" : "1"
+  },
+  "events" : {
+    "f53" : "finish"
+  },
+  "scale" : "1.54",
+  "png" : "effect_win_9.png"
+}

@@ -1,0 +1,31 @@
+{
+  "scene_bg" : {
+    "f1" : {
+      "start" : {
+        "x" : "0",
+        "y" : "571.85",
+        "rotation" : "0",
+        "scaleX" : "2",
+        "scaleY" : "2",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f69",
+      "frames" : "69"
+    },
+    "order" : "0",
+    "f69" : {
+      "start" : {
+        "x" : "0",
+        "y" : "575.85",
+        "rotation" : "0",
+        "scaleX" : "2.0999755859375",
+        "scaleY" : "2.0999755859375",
+        "opacity" : "255"
+      }
+    }
+  },
+  "events" : {
+    "f69" : "hit",
+    "f276" : "finish"
+  }
+}

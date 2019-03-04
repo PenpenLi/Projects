@@ -1,0 +1,42 @@
+{
+  "图层 1" : {
+    "f1" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "0.77",
+        "scaleY" : "0.77",
+        "opacity" : "168"
+      },
+      "nextFrame" : "f120",
+      "frames" : "120"
+    },
+    "order" : "0",
+    "f120" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "0.77",
+        "scaleY" : "0.77",
+        "opacity" : "0"
+      },
+      "nextFrame" : "f240",
+      "frames" : "121"
+    },
+    "f240" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "0.77",
+        "scaleY" : "0.77",
+        "opacity" : "168"
+      }
+    }
+  },
+  "events" : {
+    "f240" : "forever"
+  }
+}

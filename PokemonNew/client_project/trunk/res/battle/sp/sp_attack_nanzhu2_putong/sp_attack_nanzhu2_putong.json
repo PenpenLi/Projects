@@ -1,0 +1,101 @@
+{
+  "图层 3_0" : {
+    "f1" : {
+      "start" : {
+        "x" : "267.2",
+        "y" : "458.15",
+        "rotation" : "60.12",
+        "scaleX" : "1.09",
+        "scaleY" : "1.09",
+        "color" : {
+          "alpha_original" : "1",
+          "alpha" : "0",
+          "red_original" : "1",
+          "red" : "238",
+          "green_original" : "1",
+          "green" : "-11",
+          "blue_original" : "1",
+          "blue" : "255"
+        }
+      },
+      "nextFrame" : "f4",
+      "frames" : "4"
+    },
+    "sp" : "sp_base_026",
+    "useBatchNode" : "false",
+    "order" : "1",
+    "f4" : {
+      "start" : {
+        "x" : "268.25",
+        "y" : "449.95",
+        "rotation" : "65.09",
+        "scaleX" : "1.09",
+        "scaleY" : "1.09",
+        "color" : {
+          "alpha_original" : "1",
+          "alpha" : "0",
+          "red_original" : "1",
+          "red" : "238",
+          "green_original" : "1",
+          "green" : "-11",
+          "blue_original" : "1",
+          "blue" : "255"
+        }
+      }
+    },
+    "first_frame" : "4",
+    "loop" : "play once"
+  },
+  "图层 4_1" : {
+    "f1" : {
+      "start" : {
+        "x" : "-93.6",
+        "y" : "386.05",
+        "rotation" : "0.13",
+        "scaleX" : "1.21",
+        "scaleY" : "1.21",
+        "color" : {
+          "alpha_original" : "1",
+          "alpha" : "0",
+          "red_original" : "1",
+          "red" : "238",
+          "green_original" : "1",
+          "green" : "-146",
+          "blue_original" : "1",
+          "blue" : "255"
+        }
+      },
+      "nextFrame" : "f4",
+      "frames" : "4"
+    },
+    "sp" : "sp_base_026",
+    "useBatchNode" : "false",
+    "order" : "0",
+    "f4" : {
+      "start" : {
+        "x" : "-121.35",
+        "y" : "386.05",
+        "rotation" : "0.13",
+        "scaleX" : "1.21",
+        "scaleY" : "1.21",
+        "color" : {
+          "alpha_original" : "1",
+          "alpha" : "0",
+          "red_original" : "1",
+          "red" : "238",
+          "green_original" : "1",
+          "green" : "-146",
+          "blue_original" : "1",
+          "blue" : "255"
+        }
+      }
+    },
+    "first_frame" : "4",
+    "loop" : "play once"
+  },
+  "events" : {
+    "f13" : "finish"
+  },
+  "scale" : "1",
+  "png" : ""
+}

@@ -1,0 +1,117 @@
+{
+  "图层 2_0" : {
+    "f29" : {
+      "start" : {
+        "x" : "29.3",
+        "y" : "-34.6",
+        "rotation" : "0",
+        "scaleX" : "-2.21",
+        "scaleY" : "2.21",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f49",
+      "frames" : "21"
+    },
+    "sp" : "sp_base_317",
+    "useBatchNode" : "true",
+    "order" : "4",
+    "f49" : {
+      "start" : {
+        "x" : "18.4",
+        "y" : "-42.8",
+        "rotation" : "0",
+        "scaleX" : "-1.75",
+        "scaleY" : "1.75",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f54",
+      "frames" : "6"
+    },
+    "f54" : {
+      "start" : {
+        "x" : "-68",
+        "y" : "-42.7",
+        "rotation" : "0",
+        "scaleX" : "-1.61",
+        "scaleY" : "1.61",
+        "opacity" : "0"
+      }
+    },
+    "first_frame" : "2",
+    "loop" : "loop"
+  },
+  "图层 3_1" : {
+    "f41" : {
+      "start" : {
+        "x" : "53.25",
+        "y" : "115.95",
+        "rotation" : "-24.89",
+        "scaleX" : "1.95",
+        "scaleY" : "1.75",
+        "opacity" : "255"
+      }
+    },
+    "sp" : "sp_base_344",
+    "useBatchNode" : "true",
+    "order" : "3"
+  },
+  "图层 4_2" : {
+    "f35" : {
+      "start" : {
+        "x" : "53.25",
+        "y" : "115.95",
+        "rotation" : "-24.89",
+        "scaleX" : "1.95",
+        "scaleY" : "1.75",
+        "opacity" : "255"
+      }
+    },
+    "sp" : "sp_base_344",
+    "useBatchNode" : "true",
+    "order" : "2"
+  },
+  "图层 5_3" : {
+    "f29" : {
+      "start" : {
+        "x" : "53.25",
+        "y" : "115.95",
+        "rotation" : "-24.89",
+        "scaleX" : "1.95",
+        "scaleY" : "1.75",
+        "opacity" : "255"
+      }
+    },
+    "sp" : "sp_base_344",
+    "useBatchNode" : "true",
+    "order" : "1"
+  },
+  "图层 6_4" : {
+    "f1" : {
+      "start" : {
+        "x" : "-7.25",
+        "y" : "10.05",
+        "rotation" : "0",
+        "scaleX" : "1.31",
+        "scaleY" : "1.31",
+        "color" : {
+          "alpha_original" : "1",
+          "alpha" : "0",
+          "red_original" : "0",
+          "red" : "255",
+          "green_original" : "0",
+          "green" : "255",
+          "blue_original" : "0",
+          "blue" : "0"
+        }
+      }
+    },
+    "sp" : "sp_base_303",
+    "useBatchNode" : "false",
+    "order" : "0"
+  },
+  "events" : {
+    "f57" : "finish"
+  },
+  "scale" : "1",
+  "png" : ""
+}

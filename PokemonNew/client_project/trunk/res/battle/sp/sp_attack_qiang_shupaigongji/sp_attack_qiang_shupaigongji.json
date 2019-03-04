@@ -1,0 +1,108 @@
+{
+  "图层 5_0" : {
+    "f1" : {
+      "start" : {
+        "x" : "-395.85",
+        "y" : "415.85",
+        "rotation" : "0",
+        "scaleX" : "1.65",
+        "scaleY" : "1.65",
+        "opacity" : "255"
+      }
+    },
+    "sp" : "sp_base_006",
+    "useBatchNode" : "true",
+    "order" : "3",
+    "f9" : {
+      "remove" : "1"
+    }
+  },
+  "图层 3_1" : {
+    "f1" : {
+      "start" : {
+        "x" : "-278.85",
+        "y" : "342.15",
+        "rotation" : "0",
+        "scaleX" : "1.36",
+        "scaleY" : "1.36",
+        "opacity" : "255"
+      }
+    },
+    "sp" : "sp_base_004",
+    "useBatchNode" : "true",
+    "order" : "2",
+    "f9" : {
+      "remove" : "1"
+    }
+  },
+  "图层 4_2" : {
+    "f1" : {
+      "start" : {
+        "x" : "-240.2",
+        "y" : "335.1",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    },
+    "sp" : "sp_base_005",
+    "useBatchNode" : "true",
+    "order" : "1",
+    "f9" : {
+      "remove" : "1"
+    }
+  },
+  "图层 6_3" : {
+    "f10" : {
+      "start" : {
+        "x" : "-204.95",
+        "y" : "557.5",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "color" : {
+          "alpha_original" : "1",
+          "alpha" : "0",
+          "red_original" : "0",
+          "red" : "255",
+          "green_original" : "0",
+          "green" : "255",
+          "blue_original" : "0",
+          "blue" : "255"
+        }
+      },
+      "nextFrame" : "f13",
+      "frames" : "4"
+    },
+    "sp" : "sp_base_008",
+    "useBatchNode" : "false",
+    "order" : "0",
+    "f13" : {
+      "start" : {
+        "x" : "-204.95",
+        "y" : "557.5",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "color" : {
+          "alpha_original" : "1",
+          "alpha" : "0",
+          "red_original" : "1",
+          "red" : "0",
+          "green_original" : "1",
+          "green" : "0",
+          "blue_original" : "1",
+          "blue" : "0"
+        }
+      }
+    },
+    "first_frame" : "4",
+    "loop" : "play once"
+  },
+  "events" : {
+    "f20" : "finish"
+  },
+  "scale" : "1",
+  "png" : ""
+}

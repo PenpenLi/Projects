@@ -1,0 +1,227 @@
+{
+  "element1" : {
+    "f2" : {
+      "start" : {
+        "x" : "-245",
+        "y" : "46",
+        "rotation" : "0",
+        "scaleX" : "-1.06",
+        "scaleY" : "1.06",
+        "opacity" : "0"
+      },
+      "nextFrame" : "f6",
+      "frames" : "5"
+    },
+    "order" : "5",
+    "f6" : {
+      "start" : {
+        "x" : "-213.5",
+        "y" : "60.25",
+        "rotation" : "0",
+        "scaleX" : "-1.01",
+        "scaleY" : "1.01",
+        "opacity" : "191"
+      },
+      "nextFrame" : "f10",
+      "frames" : "5"
+    },
+    "f10" : {
+      "start" : {
+        "x" : "-203",
+        "y" : "65",
+        "rotation" : "0",
+        "scaleX" : "-1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    }
+  },
+  "element2" : {
+    "f3" : {
+      "start" : {
+        "x" : "-316.25",
+        "y" : "160.05",
+        "rotation" : "0",
+        "scaleX" : "-1.06",
+        "scaleY" : "1.06",
+        "opacity" : "0"
+      },
+      "nextFrame" : "f7",
+      "frames" : "5"
+    },
+    "order" : "4",
+    "f7" : {
+      "start" : {
+        "x" : "-290.55",
+        "y" : "153.25",
+        "rotation" : "0",
+        "scaleX" : "-1.01",
+        "scaleY" : "1.01",
+        "opacity" : "191"
+      },
+      "nextFrame" : "f11",
+      "frames" : "5"
+    },
+    "f11" : {
+      "start" : {
+        "x" : "-282",
+        "y" : "151",
+        "rotation" : "0",
+        "scaleX" : "-1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    }
+  },
+  "element3" : {
+    "f4" : {
+      "start" : {
+        "x" : "-376.3",
+        "y" : "-209.3",
+        "rotation" : "0",
+        "scaleX" : "1.06",
+        "scaleY" : "1.06",
+        "opacity" : "0"
+      },
+      "nextFrame" : "f8",
+      "frames" : "5"
+    },
+    "order" : "3",
+    "f8" : {
+      "start" : {
+        "x" : "-331.1",
+        "y" : "-168.6",
+        "rotation" : "0",
+        "scaleX" : "1.01",
+        "scaleY" : "1.01",
+        "opacity" : "191"
+      },
+      "nextFrame" : "f12",
+      "frames" : "5"
+    },
+    "f12" : {
+      "start" : {
+        "x" : "-316",
+        "y" : "-155",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    }
+  },
+  "element4" : {
+    "f2" : {
+      "start" : {
+        "x" : "177",
+        "y" : "200",
+        "rotation" : "0",
+        "scaleX" : "1.06",
+        "scaleY" : "1.06",
+        "opacity" : "0"
+      },
+      "nextFrame" : "f5",
+      "frames" : "4"
+    },
+    "order" : "2",
+    "f5" : {
+      "start" : {
+        "x" : "152",
+        "y" : "187.8",
+        "rotation" : "0",
+        "scaleX" : "1.02",
+        "scaleY" : "1.02",
+        "opacity" : "181"
+      },
+      "nextFrame" : "f9",
+      "frames" : "5"
+    },
+    "f9" : {
+      "start" : {
+        "x" : "142",
+        "y" : "183",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    }
+  },
+  "element5" : {
+    "f2" : {
+      "start" : {
+        "x" : "273",
+        "y" : "-89",
+        "rotation" : "0",
+        "scaleX" : "1.06",
+        "scaleY" : "1.06",
+        "opacity" : "0"
+      },
+      "nextFrame" : "f5",
+      "frames" : "4"
+    },
+    "order" : "1",
+    "f5" : {
+      "start" : {
+        "x" : "246.15",
+        "y" : "-73.4",
+        "rotation" : "0",
+        "scaleX" : "1.02",
+        "scaleY" : "1.02",
+        "opacity" : "160"
+      },
+      "nextFrame" : "f10",
+      "frames" : "6"
+    },
+    "f10" : {
+      "start" : {
+        "x" : "230",
+        "y" : "-64",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    }
+  },
+  "background" : {
+    "f1" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "1.06",
+        "scaleY" : "1.06",
+        "opacity" : "0"
+      },
+      "nextFrame" : "f5",
+      "frames" : "5"
+    },
+    "order" : "0",
+    "f5" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "1.01",
+        "scaleY" : "1.01",
+        "opacity" : "191"
+      },
+      "nextFrame" : "f9",
+      "frames" : "5"
+    },
+    "f9" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    }
+  },
+  "events" : {
+    "f23" : "finish"
+  }
+}

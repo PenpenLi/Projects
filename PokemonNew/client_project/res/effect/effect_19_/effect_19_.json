@@ -1,0 +1,52 @@
+{
+  "yun1_0" : {
+    "f1" : {
+      "start" : {
+        "x" : "2.1",
+        "y" : "2.45",
+        "rotation" : "0",
+        "scaleX" : "0.88",
+        "scaleY" : "0.88",
+        "opacity" : "255"
+      }
+    },
+    "effect" : "effect_21",
+    "useBatchNode" : "true",
+    "order" : "2"
+  },
+  "yun2_1" : {
+    "f1" : {
+      "start" : {
+        "x" : "20.45",
+        "y" : "-10.7",
+        "rotation" : "0",
+        "scaleX" : "0.88",
+        "scaleY" : "0.88",
+        "opacity" : "255"
+      }
+    },
+    "effect" : "effect_20",
+    "useBatchNode" : "true",
+    "order" : "1"
+  },
+  "yun3_2" : {
+    "f1" : {
+      "start" : {
+        "x" : "2.1",
+        "y" : "2.45",
+        "rotation" : "0",
+        "scaleX" : "0.88",
+        "scaleY" : "0.88",
+        "opacity" : "255"
+      }
+    },
+    "effect" : "effect_22",
+    "useBatchNode" : "true",
+    "order" : "0"
+  },
+  "events" : {
+    "f2" : "finish"
+  },
+  "scale" : "1",
+  "png" : ""
+}

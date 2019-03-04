@@ -1,0 +1,40 @@
+{
+  "word_0" : {
+    "f122" : {
+      "start" : {
+        "x" : "22.85",
+        "y" : "-310",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    },
+    "effect" : "effect_96",
+    "useBatchNode" : "true",
+    "order" : "1"
+  },
+  "word_1" : {
+    "f1" : {
+      "start" : {
+        "x" : "22.85",
+        "y" : "-310",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    },
+    "effect" : "effect_95",
+    "useBatchNode" : "true",
+    "order" : "0",
+    "f122" : {
+      "remove" : "1"
+    }
+  },
+  "events" : {
+    "f198" : "finish"
+  },
+  "scale" : "1",
+  "png" : ""
+}

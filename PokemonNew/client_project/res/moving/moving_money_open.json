@@ -1,0 +1,31 @@
+{
+  "effect_money_1" : {
+    "f1" : {
+      "start" : {
+        "x" : "0.25",
+        "y" : "67.05",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    },
+    "order" : "1"
+  },
+  "moving_tpcg_cx" : {
+    "f13" : {
+      "start" : {
+        "x" : "0.05",
+        "y" : "1.45",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    },
+    "order" : "0"
+  },
+  "events" : {
+    "f36" : "finish"
+  }
+}

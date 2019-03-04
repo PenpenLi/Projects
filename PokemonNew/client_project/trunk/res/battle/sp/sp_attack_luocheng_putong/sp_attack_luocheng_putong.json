@@ -1,0 +1,199 @@
+{
+  "图层 5_0" : {
+    "f1" : {
+      "start" : {
+        "x" : "59.85",
+        "y" : "88.25",
+        "rotation" : "-112.51",
+        "scaleX" : "0.83",
+        "scaleY" : "0.65",
+        "color" : {
+          "alpha_original" : "1",
+          "alpha" : "0",
+          "red_original" : "1",
+          "red" : "-160",
+          "green_original" : "1",
+          "green" : "60",
+          "blue_original" : "1",
+          "blue" : "0"
+        }
+      },
+      "nextFrame" : "f3",
+      "frames" : "3"
+    },
+    "sp" : "sp_base_022",
+    "useBatchNode" : "false",
+    "order" : "3",
+    "f3" : {
+      "start" : {
+        "x" : "18.55",
+        "y" : "107.7",
+        "rotation" : "-112.51",
+        "scaleX" : "0.83",
+        "scaleY" : "0.65",
+        "color" : {
+          "alpha_original" : "1",
+          "alpha" : "0",
+          "red_original" : "1",
+          "red" : "-160",
+          "green_original" : "1",
+          "green" : "60",
+          "blue_original" : "1",
+          "blue" : "0"
+        }
+      }
+    },
+    "first_frame" : "4",
+    "loop" : "loop",
+    "f4" : {
+      "start" : {
+        "x" : "18.55",
+        "y" : "124.7",
+        "rotation" : "-112.51",
+        "scaleX" : "0.83",
+        "scaleY" : "0.65",
+        "color" : {
+          "alpha_original" : "1",
+          "alpha" : "0",
+          "red_original" : "1",
+          "red" : "-160",
+          "green_original" : "1",
+          "green" : "60",
+          "blue_original" : "1",
+          "blue" : "0"
+        }
+      }
+    }
+  },
+  "图层 2_1" : {
+    "f1" : {
+      "start" : {
+        "x" : "227",
+        "y" : "141.8",
+        "rotation" : "-22.74",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f3",
+      "frames" : "3"
+    },
+    "sp" : "sp_base_219",
+    "useBatchNode" : "true",
+    "order" : "2",
+    "f3" : {
+      "start" : {
+        "x" : "3.15",
+        "y" : "106.55",
+        "rotation" : "-22.74",
+        "scaleX" : "1.92",
+        "scaleY" : "1.45",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f5",
+      "frames" : "3"
+    },
+    "f5" : {
+      "start" : {
+        "x" : "3.15",
+        "y" : "106.55",
+        "rotation" : "-22.74",
+        "scaleX" : "1.92",
+        "scaleY" : "0.3",
+        "opacity" : "255"
+      }
+    },
+    "f6" : {
+      "remove" : "1"
+    }
+  },
+  "图层 3_2" : {
+    "f3" : {
+      "start" : {
+        "x" : "227",
+        "y" : "171",
+        "rotation" : "-22.74",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f5",
+      "frames" : "3"
+    },
+    "sp" : "sp_base_219",
+    "useBatchNode" : "true",
+    "order" : "1",
+    "f5" : {
+      "start" : {
+        "x" : "3.15",
+        "y" : "135.75",
+        "rotation" : "-22.74",
+        "scaleX" : "1.92",
+        "scaleY" : "1.45",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f7",
+      "frames" : "3"
+    },
+    "f7" : {
+      "start" : {
+        "x" : "3.15",
+        "y" : "135.75",
+        "rotation" : "-22.74",
+        "scaleX" : "1.92",
+        "scaleY" : "0.3",
+        "opacity" : "255"
+      }
+    },
+    "f8" : {
+      "remove" : "1"
+    }
+  },
+  "图层 4_3" : {
+    "f5" : {
+      "start" : {
+        "x" : "227",
+        "y" : "185.6",
+        "rotation" : "-22.74",
+        "scaleX" : "0.83",
+        "scaleY" : "0.83",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f7",
+      "frames" : "3"
+    },
+    "sp" : "sp_base_219",
+    "useBatchNode" : "true",
+    "order" : "0",
+    "f7" : {
+      "start" : {
+        "x" : "3.15",
+        "y" : "150.35",
+        "rotation" : "-22.74",
+        "scaleX" : "1.71",
+        "scaleY" : "1.29",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f9",
+      "frames" : "3"
+    },
+    "f9" : {
+      "start" : {
+        "x" : "3.15",
+        "y" : "150.35",
+        "rotation" : "-22.74",
+        "scaleX" : "1.45",
+        "scaleY" : "0.23",
+        "opacity" : "255"
+      }
+    },
+    "f10" : {
+      "remove" : "1"
+    }
+  },
+  "events" : {
+    "f13" : "finish"
+  },
+  "scale" : "1",
+  "png" : ""
+}

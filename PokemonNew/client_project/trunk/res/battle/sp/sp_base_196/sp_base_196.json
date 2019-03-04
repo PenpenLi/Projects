@@ -1,0 +1,107 @@
+{
+  "图层 2_0" : {
+    "f5" : {
+      "start" : {
+        "x" : "-3.25",
+        "y" : "47",
+        "rotation" : "0",
+        "scaleX" : "1.58",
+        "scaleY" : "1.58",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f15",
+      "frames" : "11"
+    },
+    "sp" : "sp_base_196_2",
+    "useBatchNode" : "true",
+    "order" : "2",
+    "f15" : {
+      "start" : {
+        "x" : "-3.7",
+        "y" : "46.9",
+        "rotation" : "0",
+        "scaleX" : "2.27",
+        "scaleY" : "2.27",
+        "opacity" : "0"
+      }
+    },
+    "f16" : {
+      "remove" : "1"
+    }
+  },
+  "图层 8_1" : {
+    "f1" : {
+      "start" : {
+        "x" : "-11.3",
+        "y" : "15.3",
+        "rotation" : "0",
+        "scaleX" : "0.51",
+        "scaleY" : "0.51",
+        "opacity" : "0",
+        "png" : "sp_base_196_1.png"
+      },
+      "nextFrame" : "f3",
+      "frames" : "3"
+    },
+    "order" : "1",
+    "f3" : {
+      "start" : {
+        "x" : "-11.3",
+        "y" : "15.3",
+        "rotation" : "0",
+        "scaleX" : "1.35",
+        "scaleY" : "1.35",
+        "opacity" : "255",
+        "png" : "sp_base_196_1.png"
+      }
+    },
+    "f5" : {
+      "remove" : "1"
+    }
+  },
+  "图层 3_2" : {
+    "f4" : {
+      "start" : {
+        "x" : "-13",
+        "y" : "31.35",
+        "rotation" : "0",
+        "scaleX" : "1.35",
+        "scaleY" : "1.35",
+        "opacity" : "255"
+      }
+    },
+    "sp" : "sp_base_196_",
+    "useBatchNode" : "true",
+    "order" : "0",
+    "f9" : {
+      "start" : {
+        "x" : "-13",
+        "y" : "31.35",
+        "rotation" : "0",
+        "scaleX" : "1.35",
+        "scaleY" : "1.35",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f15",
+      "frames" : "7"
+    },
+    "f15" : {
+      "start" : {
+        "x" : "-13",
+        "y" : "31.35",
+        "rotation" : "0",
+        "scaleX" : "1.35",
+        "scaleY" : "1.35",
+        "opacity" : "0"
+      }
+    },
+    "f16" : {
+      "remove" : "1"
+    }
+  },
+  "events" : {
+    "f17" : "finish"
+  },
+  "scale" : "1",
+  "png" : "sp_base_196.png"
+}

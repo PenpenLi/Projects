@@ -1,0 +1,31 @@
+{
+  "effect_ygh_xx" : {
+    "f1" : {
+      "start" : {
+        "x" : "-15.15",
+        "y" : "-6.75",
+        "rotation" : "0",
+        "scaleX" : "0.63",
+        "scaleY" : "0.63",
+        "opacity" : "255"
+      }
+    },
+    "order" : "1"
+  },
+  "moving_moon_box_1" : {
+    "f1" : {
+      "start" : {
+        "x" : "-6.6",
+        "y" : "1.1",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    },
+    "order" : "0"
+  },
+  "events" : {
+    "f60" : "forever"
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "effect_jxcg_xx" : {
+    "f5" : {
+      "start" : {
+        "x" : "-0.25",
+        "y" : "-2.7",
+        "rotation" : "0",
+        "scaleX" : "1.33",
+        "scaleY" : "1.33",
+        "opacity" : "255"
+      }
+    },
+    "order" : "3",
+    "f15" : {
+      "remove" : "1"
+    }
+  },
+  "star4" : {
+    "f5" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "1.2",
+        "scaleY" : "1.2",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f12",
+      "frames" : "8"
+    },
+    "order" : "2",
+    "f12" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "1.73",
+        "scaleY" : "1.73",
+        "opacity" : "0"
+      }
+    },
+    "f13" : {
+      "remove" : "1"
+    }
+  },
+  "star3" : {
+    "f5" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f10",
+      "frames" : "6"
+    },
+    "order" : "1",
+    "f10" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "1.44",
+        "scaleY" : "1.44",
+        "opacity" : "0"
+      }
+    },
+    "f11" : {
+      "remove" : "1"
+    }
+  },
+  "star1" : {
+    "f1" : {
+      "start" : {
+        "x" : "-32.3",
+        "y" : "27.15",
+        "rotation" : "0",
+        "scaleX" : "18.66",
+        "scaleY" : "18.66",
+        "opacity" : "0"
+      },
+      "nextFrame" : "f5",
+      "frames" : "5"
+    },
+    "order" : "0",
+    "f5" : {
+      "start" : {
+        "x" : "2.6",
+        "y" : "-3.9",
+        "rotation" : "0",
+        "scaleX" : "0.65",
+        "scaleY" : "0.65",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f7",
+      "frames" : "3"
+    },
+    "f7" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    }
+  },
+  "events" : {
+    "f15" : "hit"
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "star_shine" : {
+    "f7" : {
+      "start" : {
+        "x" : "-1.15",
+        "y" : "6.65",
+        "rotation" : "162.56",
+        "scaleX" : "-0.74",
+        "scaleY" : "0.74",
+        "color" : {
+          "alpha_original" : "1",
+          "alpha" : "0",
+          "red_original" : "1",
+          "red" : "255",
+          "green_original" : "0.98",
+          "green" : "255",
+          "blue_original" : "1",
+          "blue" : "-60"
+        }
+      }
+    },
+    "order" : "1",
+    "f22" : {
+      "remove" : "1"
+    }
+  },
+  "star" : {
+    "f1" : {
+      "start" : {
+        "x" : "-39.9",
+        "y" : "167.95",
+        "rotation" : "-26.97",
+        "scaleX" : "9.08",
+        "scaleY" : "9.08",
+        "opacity" : "0"
+      },
+      "nextFrame" : "f5",
+      "frames" : "5"
+    },
+    "order" : "0",
+    "f5" : {
+      "start" : {
+        "x" : "0",
+        "y" : "-4",
+        "rotation" : "0",
+        "scaleX" : "0.65",
+        "scaleY" : "0.65",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f7",
+      "frames" : "3"
+    },
+    "f7" : {
+      "start" : {
+        "x" : "0",
+        "y" : "-0.05",
+        "rotation" : "-14.25",
+        "scaleX" : "1.1",
+        "scaleY" : "1.1",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f9",
+      "frames" : "3"
+    },
+    "f9" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    }
+  },
+  "events" : {
+    "f86" : "finish"
+  }
+}

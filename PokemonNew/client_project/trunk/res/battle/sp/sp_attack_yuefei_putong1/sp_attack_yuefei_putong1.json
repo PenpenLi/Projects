@@ -1,0 +1,182 @@
+{
+  "图层 2_0" : {
+    "f1" : {
+      "start" : {
+        "x" : "-5.35",
+        "y" : "130.8",
+        "rotation" : "-124.52",
+        "scaleX" : "-1.89",
+        "scaleY" : "2.09",
+        "opacity" : "0"
+      }
+    },
+    "sp" : "sp_base_063",
+    "useBatchNode" : "true",
+    "order" : "2",
+    "f3" : {
+      "start" : {
+        "x" : "-101.3",
+        "y" : "83.45",
+        "rotation" : "-124.52",
+        "scaleX" : "-1.61",
+        "scaleY" : "1.63",
+        "opacity" : "255"
+      }
+    },
+    "first_frame" : "4",
+    "loop" : "play once",
+    "f4" : {
+      "start" : {
+        "x" : "-5.35",
+        "y" : "130.8",
+        "rotation" : "-124.52",
+        "scaleX" : "-1.89",
+        "scaleY" : "2.09",
+        "opacity" : "255"
+      }
+    }
+  },
+  "图层 3_1" : {
+    "f2" : {
+      "start" : {
+        "x" : "-128.1",
+        "y" : "50.1",
+        "rotation" : "-32.94",
+        "scaleX" : "0.56",
+        "scaleY" : "0.23",
+        "color" : {
+          "alpha_original" : "1",
+          "alpha" : "0",
+          "red_original" : "1",
+          "red" : "255",
+          "green_original" : "1",
+          "green" : "255",
+          "blue_original" : "1",
+          "blue" : "255"
+        }
+      },
+      "nextFrame" : "f4",
+      "frames" : "3"
+    },
+    "sp" : "sp_base_219",
+    "useBatchNode" : "false",
+    "order" : "1",
+    "f4" : {
+      "start" : {
+        "x" : "84.55",
+        "y" : "160.7",
+        "rotation" : "-32.94",
+        "scaleX" : "1.76",
+        "scaleY" : "0.39",
+        "color" : {
+          "alpha_original" : "1",
+          "alpha" : "0",
+          "red_original" : "1",
+          "red" : "255",
+          "green_original" : "1",
+          "green" : "255",
+          "blue_original" : "1",
+          "blue" : "255"
+        }
+      },
+      "nextFrame" : "f6",
+      "frames" : "3"
+    },
+    "f6" : {
+      "start" : {
+        "x" : "124.85",
+        "y" : "189.3",
+        "rotation" : "-32.94",
+        "scaleX" : "1.22",
+        "scaleY" : "0.15",
+        "color" : {
+          "alpha_original" : "1",
+          "alpha" : "0",
+          "red_original" : "1",
+          "red" : "255",
+          "green_original" : "1",
+          "green" : "255",
+          "blue_original" : "1",
+          "blue" : "255"
+        }
+      }
+    },
+    "f7" : {
+      "remove" : "1"
+    }
+  },
+  "图层 4_2" : {
+    "f2" : {
+      "start" : {
+        "x" : "-128.1",
+        "y" : "50.1",
+        "rotation" : "-32.94",
+        "scaleX" : "0.76",
+        "scaleY" : "0.74",
+        "color" : {
+          "alpha_original" : "1",
+          "alpha" : "0",
+          "red_original" : "1",
+          "red" : "202",
+          "green_original" : "1",
+          "green" : "53",
+          "blue_original" : "1",
+          "blue" : "-255"
+        }
+      },
+      "nextFrame" : "f4",
+      "frames" : "3"
+    },
+    "sp" : "sp_base_219",
+    "useBatchNode" : "false",
+    "order" : "0",
+    "f4" : {
+      "start" : {
+        "x" : "84.55",
+        "y" : "160.7",
+        "rotation" : "-32.94",
+        "scaleX" : "2.05",
+        "scaleY" : "1.6",
+        "color" : {
+          "alpha_original" : "1",
+          "alpha" : "0",
+          "red_original" : "1",
+          "red" : "202",
+          "green_original" : "1",
+          "green" : "53",
+          "blue_original" : "1",
+          "blue" : "-255"
+        }
+      },
+      "nextFrame" : "f6",
+      "frames" : "3"
+    },
+    "f6" : {
+      "start" : {
+        "x" : "124.85",
+        "y" : "189.3",
+        "rotation" : "-32.94",
+        "scaleX" : "1.45",
+        "scaleY" : "0.6",
+        "color" : {
+          "alpha_original" : "1",
+          "alpha" : "0",
+          "red_original" : "1",
+          "red" : "202",
+          "green_original" : "1",
+          "green" : "53",
+          "blue_original" : "1",
+          "blue" : "-255"
+        }
+      }
+    },
+    "f7" : {
+      "remove" : "1"
+    }
+  },
+  "events" : {
+    "f14" : "finish"
+  },
+  "scale" : "1",
+  "png" : ""
+}

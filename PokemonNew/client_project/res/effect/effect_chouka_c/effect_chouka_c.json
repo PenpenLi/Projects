@@ -1,0 +1,37 @@
+{
+  "effect_2_1" : {
+    "f1" : {
+      "start" : {
+        "x" : "-8.25",
+        "y" : "59.4",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    },
+    "effect" : "effect_chouka_6",
+    "useBatchNode" : "true",
+    "order" : "1"
+  },
+  "effect_5_2" : {
+    "f1" : {
+      "start" : {
+        "x" : "-8.25",
+        "y" : "59.4",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    },
+    "effect" : "effect_chouka_4",
+    "useBatchNode" : "true",
+    "order" : "0"
+  },
+  "events" : {
+    "f300" : "forever"
+  },
+  "scale" : "1",
+  "png" : ""
+}

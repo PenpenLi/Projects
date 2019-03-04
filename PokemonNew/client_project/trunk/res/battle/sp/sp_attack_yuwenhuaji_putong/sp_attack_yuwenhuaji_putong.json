@@ -1,0 +1,121 @@
+{
+  "图层 2_0" : {
+    "f40" : {
+      "start" : {
+        "x" : "-88.5",
+        "y" : "76.65",
+        "rotation" : "45",
+        "scaleX" : "2.35",
+        "scaleY" : "2.35",
+        "color" : {
+          "alpha_original" : "1",
+          "alpha" : "0",
+          "red_original" : "1",
+          "red" : "252",
+          "green_original" : "1",
+          "green" : "52",
+          "blue_original" : "1",
+          "blue" : "-49"
+        }
+      }
+    },
+    "sp" : "sp_base_299",
+    "useBatchNode" : "false",
+    "order" : "2"
+  },
+  "图层 3_1" : {
+    "f40" : {
+      "start" : {
+        "x" : "-82.75",
+        "y" : "73.05",
+        "rotation" : "0",
+        "scaleX" : "2.35",
+        "scaleY" : "2.35",
+        "color" : {
+          "alpha_original" : "1",
+          "alpha" : "0",
+          "red_original" : "1",
+          "red" : "0",
+          "green_original" : "1",
+          "green" : "255",
+          "blue_original" : "1",
+          "blue" : "-126"
+        }
+      }
+    },
+    "sp" : "sp_base_299",
+    "useBatchNode" : "false",
+    "order" : "1"
+  },
+  "图层 4_2" : {
+    "f1" : {
+      "start" : {
+        "x" : "137.15",
+        "y" : "-94.55",
+        "rotation" : "0",
+        "scaleX" : "0.82",
+        "scaleY" : "0.82",
+        "color" : {
+          "alpha_original" : "1",
+          "alpha" : "0",
+          "red_original" : "1",
+          "red" : "47",
+          "green_original" : "1",
+          "green" : "255",
+          "blue_original" : "1",
+          "blue" : "-181"
+        }
+      }
+    },
+    "sp" : "sp_base_279",
+    "useBatchNode" : "false",
+    "order" : "0",
+    "f40" : {
+      "start" : {
+        "x" : "137.15",
+        "y" : "-94.55",
+        "rotation" : "0",
+        "scaleX" : "0.82",
+        "scaleY" : "0.82",
+        "color" : {
+          "alpha_original" : "1",
+          "alpha" : "0",
+          "red_original" : "1",
+          "red" : "47",
+          "green_original" : "1",
+          "green" : "255",
+          "blue_original" : "1",
+          "blue" : "-181"
+        }
+      },
+      "nextFrame" : "f43",
+      "frames" : "4"
+    },
+    "first_frame" : "2",
+    "loop" : "loop",
+    "f43" : {
+      "start" : {
+        "x" : "137.15",
+        "y" : "-94.55",
+        "rotation" : "0",
+        "scaleX" : "0.82",
+        "scaleY" : "0.82",
+        "color" : {
+          "alpha_original" : "0",
+          "alpha" : "0",
+          "red_original" : "0",
+          "red" : "255",
+          "green_original" : "0",
+          "green" : "255",
+          "blue_original" : "0",
+          "blue" : "255"
+        }
+      }
+    }
+  },
+  "events" : {
+    "f61" : "finish"
+  },
+  "scale" : "1",
+  "png" : ""
+}

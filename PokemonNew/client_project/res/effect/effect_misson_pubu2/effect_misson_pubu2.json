@@ -1,0 +1,46 @@
+{
+  "图层 1_1" : {
+    "f1" : {
+      "start" : {
+        "x" : "28.15",
+        "y" : "52.35",
+        "rotation" : "9.51",
+        "scaleX" : "0.46",
+        "scaleY" : "0.37",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f4",
+      "frames" : "4"
+    },
+    "effect" : "effect_misson_water1",
+    "useBatchNode" : "true",
+    "order" : "0",
+    "f4" : {
+      "start" : {
+        "x" : "0",
+        "y" : "1.85",
+        "rotation" : "9.51",
+        "scaleX" : "0.46",
+        "scaleY" : "0.37",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f10",
+      "frames" : "7"
+    },
+    "f10" : {
+      "start" : {
+        "x" : "-26.95",
+        "y" : "-132.45",
+        "rotation" : "11.48",
+        "scaleX" : "0.6",
+        "scaleY" : "0.57",
+        "opacity" : "255"
+      }
+    }
+  },
+  "events" : {
+    "f10" : "forever"
+  },
+  "scale" : "1",
+  "png" : ""
+}

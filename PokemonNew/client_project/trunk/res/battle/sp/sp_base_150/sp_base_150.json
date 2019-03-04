@@ -1,0 +1,92 @@
+{
+  "effect_zbsx_over_0" : {
+    "f2" : {
+      "start" : {
+        "x" : "41.3",
+        "y" : "92.9",
+        "rotation" : "0",
+        "scaleX" : "-0.71",
+        "scaleY" : "0.9",
+        "color" : {
+          "alpha_original" : "1",
+          "alpha" : "0",
+          "red_original" : "1",
+          "red" : "137",
+          "green_original" : "1",
+          "green" : "109",
+          "blue_original" : "0.69",
+          "blue" : "-39"
+        }
+      }
+    },
+    "sp" : "sp_150p2",
+    "useBatchNode" : "false",
+    "first_frame" : "3",
+    "loop" : "loop",
+    "order" : "3",
+    "f26" : {
+      "remove" : "1"
+    }
+  },
+  "effect_zbsx_over_1" : {
+    "f3" : {
+      "start" : {
+        "x" : "41.8",
+        "y" : "8.15",
+        "rotation" : "0",
+        "scaleX" : "0.71",
+        "scaleY" : "0.9",
+        "opacity" : "255"
+      }
+    },
+    "sp" : "sp_150p2",
+    "useBatchNode" : "true",
+    "first_frame" : "3",
+    "loop" : "loop",
+    "order" : "2",
+    "f27" : {
+      "remove" : "1"
+    }
+  },
+  "effect_zbsx_over_2" : {
+    "f1" : {
+      "start" : {
+        "x" : "-69.2",
+        "y" : "9.15",
+        "rotation" : "0",
+        "scaleX" : "0.92",
+        "scaleY" : "1.56",
+        "opacity" : "255"
+      }
+    },
+    "sp" : "sp_150p2",
+    "useBatchNode" : "true",
+    "order" : "1",
+    "f25" : {
+      "remove" : "1"
+    }
+  },
+  "sp_agr_3" : {
+    "f1" : {
+      "start" : {
+        "x" : "51.25",
+        "y" : "27",
+        "rotation" : "0",
+        "scaleX" : "-2.37",
+        "scaleY" : "2.37",
+        "opacity" : "255"
+      }
+    },
+    "sp" : "sp_150p1",
+    "useBatchNode" : "true",
+    "order" : "0",
+    "f35" : {
+      "remove" : "1"
+    }
+  },
+  "events" : {
+    "f36" : "finish"
+  },
+  "scale" : "1",
+  "png" : ""
+}

@@ -1,0 +1,43 @@
+{
+  "图层 1_0" : {
+    "f1" : {
+      "start" : {
+        "x" : "7",
+        "y" : "39.1",
+        "rotation" : "0",
+        "scaleX" : "-1.01",
+        "scaleY" : "0.92",
+        "opacity" : "255"
+      }
+    },
+    "effect" : "effect_daoguan_yan",
+    "useBatchNode" : "true",
+    "order" : "1",
+    "f18" : {
+      "remove" : "1"
+    }
+  },
+  "yun_1" : {
+    "f1" : {
+      "start" : {
+        "x" : "5.2",
+        "y" : "21.3",
+        "rotation" : "2.99",
+        "scaleX" : "0.86",
+        "scaleY" : "0.86",
+        "opacity" : "255"
+      }
+    },
+    "effect" : "effect_tongyong_yun",
+    "useBatchNode" : "true",
+    "order" : "0",
+    "f19" : {
+      "remove" : "1"
+    }
+  },
+  "events" : {
+    "f20" : "finish"
+  },
+  "scale" : "1",
+  "png" : ""
+}

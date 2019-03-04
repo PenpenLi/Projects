@@ -1,0 +1,35 @@
+{
+  "base_layer" : {
+
+  },
+  "card_layer" : {
+
+  },
+  "sp_stage_center_layer" : {
+
+  },
+  "sp_up_layer" : {
+    "f1" : {
+      "start" : {
+        "x" : "-8.15",
+        "y" : "8.75",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    },
+    "useBatchNode" : "true",
+    "spId" : "sp_taotie_dangong_r"
+  },
+  "sp_down_layer" : {
+
+  },
+  "events" : {
+    "f1" : "flicker_tween_cont_taotie_dangong",
+    "f16" : "hit",
+    "f18" : "hurt",
+    "f29" : "hurt",
+    "f55" : "finish"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "fabao_bg" : {
+    "f1" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f120",
+      "frames" : "120"
+    },
+    "order" : "0",
+    "f120" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "90.29",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f240",
+      "frames" : "121"
+    },
+    "f240" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "179.61",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f350",
+      "frames" : "111"
+    },
+    "f350" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "270",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f480",
+      "frames" : "131"
+    },
+    "f480" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "360",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    }
+  },
+  "events" : {
+    "f480" : "forever"
+  }
+}

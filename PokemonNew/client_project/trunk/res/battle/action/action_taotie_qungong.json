@@ -1,0 +1,38 @@
+{
+  "base_layer" : {
+
+  },
+  "card_layer" : {
+
+  },
+  "sp_stage_center_layer" : {
+
+  },
+  "sp_up_layer" : {
+    "f1" : {
+      "start" : {
+        "x" : "-0.1",
+        "y" : "-0.25",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    },
+    "useBatchNode" : "true",
+    "spId" : "sp_taotie_qungong"
+  },
+  "sp_down_layer" : {
+
+  },
+  "events" : {
+    "f1" : "flicker_tween_cont_taotie_qungong",
+    "f51" : "hit",
+    "f52" : "hurt",
+    "f64" : "hurt",
+    "f73" : "hurt",
+    "f82" : "hurt",
+    "f91" : "hurt",
+    "f136" : "finish"
+  }
+}

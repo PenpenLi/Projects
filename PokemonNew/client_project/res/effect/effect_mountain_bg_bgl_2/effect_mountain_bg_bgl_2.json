@@ -1,0 +1,125 @@
+{
+  "图层 1_1" : {
+    "f1" : {
+      "start" : {
+        "x" : "-60.95",
+        "y" : "16.05",
+        "rotation" : "-6.5",
+        "scaleX" : "-0.49",
+        "scaleY" : "0.49",
+        "opacity" : "0",
+        "png" : "effect_mountain_bg_bgl_2_1.png"
+      },
+      "nextFrame" : "f17",
+      "frames" : "17"
+    },
+    "order" : "0",
+    "f17" : {
+      "start" : {
+        "x" : "-46.5",
+        "y" : "26.35",
+        "rotation" : "-6.5",
+        "scaleX" : "-0.44",
+        "scaleY" : "0.44",
+        "opacity" : "204",
+        "png" : "effect_mountain_bg_bgl_2_1.png"
+      },
+      "nextFrame" : "f31",
+      "frames" : "15"
+    },
+    "f31" : {
+      "start" : {
+        "x" : "-31.1",
+        "y" : "37.45",
+        "rotation" : "-6.5",
+        "scaleX" : "-0.49",
+        "scaleY" : "0.49",
+        "opacity" : "76",
+        "png" : "effect_mountain_bg_bgl_2_1.png"
+      },
+      "nextFrame" : "f46",
+      "frames" : "16"
+    },
+    "f46" : {
+      "start" : {
+        "x" : "-15.65",
+        "y" : "48.5",
+        "rotation" : "-6.5",
+        "scaleX" : "-0.44",
+        "scaleY" : "0.44",
+        "opacity" : "255",
+        "png" : "effect_mountain_bg_bgl_2_1.png"
+      },
+      "nextFrame" : "f61",
+      "frames" : "16"
+    },
+    "f61" : {
+      "start" : {
+        "x" : "-0.25",
+        "y" : "59.55",
+        "rotation" : "-6.5",
+        "scaleX" : "-0.49",
+        "scaleY" : "0.49",
+        "opacity" : "76",
+        "png" : "effect_mountain_bg_bgl_2_1.png"
+      },
+      "nextFrame" : "f75",
+      "frames" : "15"
+    },
+    "f75" : {
+      "start" : {
+        "x" : "15.2",
+        "y" : "70.65",
+        "rotation" : "-6.5",
+        "scaleX" : "-0.44",
+        "scaleY" : "0.44",
+        "opacity" : "255",
+        "png" : "effect_mountain_bg_bgl_2_1.png"
+      },
+      "nextFrame" : "f89",
+      "frames" : "15"
+    },
+    "f89" : {
+      "start" : {
+        "x" : "30.55",
+        "y" : "81.7",
+        "rotation" : "-6.5",
+        "scaleX" : "-0.49",
+        "scaleY" : "0.49",
+        "opacity" : "127",
+        "png" : "effect_mountain_bg_bgl_2_1.png"
+      },
+      "nextFrame" : "f104",
+      "frames" : "16"
+    },
+    "f104" : {
+      "start" : {
+        "x" : "46",
+        "y" : "92.8",
+        "rotation" : "-6.5",
+        "scaleX" : "-0.44",
+        "scaleY" : "0.44",
+        "opacity" : "204",
+        "png" : "effect_mountain_bg_bgl_2_1.png"
+      },
+      "nextFrame" : "f120",
+      "frames" : "17"
+    },
+    "f120" : {
+      "start" : {
+        "x" : "61.4",
+        "y" : "103.8",
+        "rotation" : "-6.5",
+        "scaleX" : "-0.49",
+        "scaleY" : "0.49",
+        "opacity" : "0",
+        "png" : "effect_mountain_bg_bgl_2_1.png"
+      }
+    }
+  },
+  "events" : {
+    "f120" : "forever"
+  },
+  "scale" : "2",
+  "png" : "effect_mountain_bg_bgl_2.png"
+}

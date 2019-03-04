@@ -1,0 +1,107 @@
+{
+  "图层 3_0" : {
+    "f4" : {
+      "start" : {
+        "x" : "28.15",
+        "y" : "21.9",
+        "rotation" : "0",
+        "scaleX" : "0.14",
+        "scaleY" : "1.75",
+        "opacity" : "0"
+      },
+      "nextFrame" : "f8",
+      "frames" : "5"
+    },
+    "effect" : "effect_ui_houdi1",
+    "useBatchNode" : "true",
+    "order" : "1",
+    "f8" : {
+      "start" : {
+        "x" : "25.5",
+        "y" : "33.35",
+        "rotation" : "0",
+        "scaleX" : "0.47",
+        "scaleY" : "2.04",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f11",
+      "frames" : "4"
+    },
+    "f11" : {
+      "start" : {
+        "x" : "25.15",
+        "y" : "45.15",
+        "rotation" : "0",
+        "scaleX" : "0.47",
+        "scaleY" : "2.14",
+        "opacity" : "160"
+      },
+      "nextFrame" : "f16",
+      "frames" : "6"
+    },
+    "f16" : {
+      "start" : {
+        "x" : "24.5",
+        "y" : "64.85",
+        "rotation" : "0",
+        "scaleX" : "0.47",
+        "scaleY" : "2.32",
+        "opacity" : "0"
+      },
+      "nextFrame" : "f17",
+      "frames" : "2"
+    },
+    "f17" : {
+      "remove" : "1"
+    }
+  },
+  "图层 2_1" : {
+    "f2" : {
+      "start" : {
+        "x" : "25.45",
+        "y" : "-22.55",
+        "rotation" : "0",
+        "scaleX" : "0.42",
+        "scaleY" : "0.64",
+        "opacity" : "0"
+      },
+      "nextFrame" : "f8",
+      "frames" : "7"
+    },
+    "effect" : "effect_ui_houdi1",
+    "useBatchNode" : "true",
+    "order" : "0",
+    "f8" : {
+      "start" : {
+        "x" : "25.7",
+        "y" : "0.8",
+        "rotation" : "0",
+        "scaleX" : "0.67",
+        "scaleY" : "1.23",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f24",
+      "frames" : "17"
+    },
+    "f24" : {
+      "start" : {
+        "x" : "25.5",
+        "y" : "24.15",
+        "rotation" : "0",
+        "scaleX" : "0.5",
+        "scaleY" : "1.81",
+        "opacity" : "0"
+      },
+      "nextFrame" : "f25",
+      "frames" : "2"
+    },
+    "f25" : {
+      "remove" : "1"
+    }
+  },
+  "events" : {
+    "f26" : "finish"
+  },
+  "scale" : "1",
+  "png" : ""
+}

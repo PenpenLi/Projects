@@ -1,0 +1,70 @@
+{
+  "Layer 1_0" : {
+    "f1" : {
+      "start" : {
+        "x" : "72",
+        "y" : "-20",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "sp_base_267_1.png"
+      }
+    },
+    "order" : "0",
+    "f2" : {
+      "start" : {
+        "x" : "105",
+        "y" : "-16",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "sp_base_267_2.png"
+      }
+    },
+    "f4" : {
+      "start" : {
+        "x" : "110",
+        "y" : "-10.5",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "sp_base_267_3.png"
+      }
+    },
+    "f6" : {
+      "start" : {
+        "x" : "116",
+        "y" : "-9.5",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "sp_base_267_4.png"
+      },
+      "nextFrame" : "f8",
+      "frames" : "3"
+    },
+    "f8" : {
+      "start" : {
+        "x" : "116",
+        "y" : "-9.5",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "51",
+        "png" : "sp_base_267_4.png"
+      }
+    },
+    "f9" : {
+      "remove" : "1"
+    }
+  },
+  "events" : {
+    "f10" : "finish"
+  },
+  "scale" : "1",
+  "png" : "sp_base_267.png"
+}

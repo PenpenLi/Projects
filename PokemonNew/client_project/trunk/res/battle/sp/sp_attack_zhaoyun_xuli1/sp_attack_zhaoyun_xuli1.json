@@ -1,0 +1,124 @@
+{
+  "图层 2_0" : {
+    "f1" : {
+      "start" : {
+        "x" : "44.05",
+        "y" : "165.4",
+        "rotation" : "133.41",
+        "scaleX" : "3.81",
+        "scaleY" : "0.83",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f2",
+      "frames" : "2"
+    },
+    "sp" : "sp_base_207",
+    "useBatchNode" : "true",
+    "order" : "2",
+    "f2" : {
+      "start" : {
+        "x" : "59.8",
+        "y" : "159",
+        "rotation" : "147.38",
+        "scaleX" : "6.14",
+        "scaleY" : "1.08",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f3",
+      "frames" : "2"
+    },
+    "first_frame" : "3",
+    "loop" : "play once",
+    "f3" : {
+      "start" : {
+        "x" : "172.6",
+        "y" : "182.55",
+        "rotation" : "157.88",
+        "scaleX" : "4.68",
+        "scaleY" : "0.91",
+        "opacity" : "255"
+      }
+    }
+  },
+  "图层 4_1" : {
+    "f1" : {
+      "start" : {
+        "x" : "-645.45",
+        "y" : "16.8",
+        "rotation" : "-61.95",
+        "scaleX" : "1.56",
+        "scaleY" : "1.8",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f4",
+      "frames" : "4"
+    },
+    "sp" : "sp_base_055",
+    "useBatchNode" : "true",
+    "order" : "1",
+    "f4" : {
+      "start" : {
+        "x" : "-577.25",
+        "y" : "122.6",
+        "rotation" : "-51.77",
+        "scaleX" : "1.56",
+        "scaleY" : "1.8",
+        "opacity" : "255"
+      }
+    },
+    "first_frame" : "4",
+    "loop" : "play once"
+  },
+  "图层 3_2" : {
+    "f1" : {
+      "start" : {
+        "x" : "29.75",
+        "y" : "129.5",
+        "rotation" : "-2.79",
+        "scaleX" : "1.63",
+        "scaleY" : "1.63",
+        "color" : {
+          "alpha_original" : "1",
+          "alpha" : "0",
+          "red_original" : "1",
+          "red" : "-255",
+          "green_original" : "1",
+          "green" : "120",
+          "blue_original" : "1",
+          "blue" : "240"
+        }
+      },
+      "nextFrame" : "f3",
+      "frames" : "3"
+    },
+    "sp" : "sp_base_437",
+    "useBatchNode" : "false",
+    "order" : "0",
+    "f3" : {
+      "start" : {
+        "x" : "165.6",
+        "y" : "94.15",
+        "rotation" : "69.2",
+        "scaleX" : "1.41",
+        "scaleY" : "1.41",
+        "color" : {
+          "alpha_original" : "1",
+          "alpha" : "0",
+          "red_original" : "1",
+          "red" : "-255",
+          "green_original" : "1",
+          "green" : "120",
+          "blue_original" : "1",
+          "blue" : "240"
+        }
+      }
+    },
+    "first_frame" : "3",
+    "loop" : "play once"
+  },
+  "events" : {
+    "f18" : "finish"
+  },
+  "scale" : "1",
+  "png" : ""
+}

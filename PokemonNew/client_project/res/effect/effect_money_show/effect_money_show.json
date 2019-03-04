@@ -1,0 +1,195 @@
+{
+  "g  12_1" : {
+    "f1" : {
+      "start" : {
+        "x" : "-31.65",
+        "y" : "26.1",
+        "rotation" : "46.2",
+        "scaleX" : "0.44",
+        "scaleY" : "0.44",
+        "opacity" : "0",
+        "png" : "effect_money_show_1.png"
+      }
+    },
+    "order" : "3",
+    "f4" : {
+      "start" : {
+        "x" : "-31.65",
+        "y" : "26.1",
+        "rotation" : "46.2",
+        "scaleX" : "0.44",
+        "scaleY" : "0.44",
+        "opacity" : "25",
+        "png" : "effect_money_show_1.png"
+      },
+      "nextFrame" : "f13",
+      "frames" : "10"
+    },
+    "f13" : {
+      "start" : {
+        "x" : "-31.65",
+        "y" : "26.1",
+        "rotation" : "46.2",
+        "scaleX" : "0.73",
+        "scaleY" : "0.73",
+        "opacity" : "255",
+        "png" : "effect_money_show_1.png"
+      },
+      "nextFrame" : "f24",
+      "frames" : "12"
+    },
+    "f24" : {
+      "start" : {
+        "x" : "-31.65",
+        "y" : "26.1",
+        "rotation" : "46.2",
+        "scaleX" : "0.44",
+        "scaleY" : "0.44",
+        "opacity" : "25",
+        "png" : "effect_money_show_1.png"
+      }
+    },
+    "f25" : {
+      "remove" : "1"
+    }
+  },
+  "g  12_2" : {
+    "f1" : {
+      "start" : {
+        "x" : "30.3",
+        "y" : "27.15",
+        "rotation" : "147.48",
+        "scaleX" : "0.48",
+        "scaleY" : "0.48",
+        "opacity" : "0",
+        "png" : "effect_money_show_1.png"
+      }
+    },
+    "order" : "2",
+    "f8" : {
+      "start" : {
+        "x" : "30.3",
+        "y" : "27.15",
+        "rotation" : "147.48",
+        "scaleX" : "0.48",
+        "scaleY" : "0.48",
+        "opacity" : "25",
+        "png" : "effect_money_show_1.png"
+      },
+      "nextFrame" : "f17",
+      "frames" : "10"
+    },
+    "f17" : {
+      "start" : {
+        "x" : "30.3",
+        "y" : "27.15",
+        "rotation" : "147.49",
+        "scaleX" : "0.81",
+        "scaleY" : "0.81",
+        "opacity" : "255",
+        "png" : "effect_money_show_1.png"
+      },
+      "nextFrame" : "f28",
+      "frames" : "12"
+    },
+    "f28" : {
+      "start" : {
+        "x" : "30.3",
+        "y" : "27.15",
+        "rotation" : "147.48",
+        "scaleX" : "0.48",
+        "scaleY" : "0.48",
+        "opacity" : "25",
+        "png" : "effect_money_show_1.png"
+      }
+    },
+    "f29" : {
+      "remove" : "1"
+    }
+  },
+  "图层 9_3" : {
+    "f1" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0.35",
+        "rotation" : "0",
+        "scaleX" : "0.98",
+        "scaleY" : "0.98",
+        "opacity" : "76",
+        "png" : "effect_money_show_2.png"
+      },
+      "nextFrame" : "f15",
+      "frames" : "15"
+    },
+    "order" : "1",
+    "f15" : {
+      "start" : {
+        "x" : "0",
+        "y" : "-1.45",
+        "rotation" : "0",
+        "scaleX" : "1.04",
+        "scaleY" : "1.04",
+        "opacity" : "255",
+        "png" : "effect_money_show_2.png"
+      },
+      "nextFrame" : "f30",
+      "frames" : "16"
+    },
+    "f30" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0.35",
+        "rotation" : "0",
+        "scaleX" : "0.98",
+        "scaleY" : "0.98",
+        "opacity" : "76",
+        "png" : "effect_money_show_2.png"
+      }
+    }
+  },
+  "图层 1_4" : {
+    "f1" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0.1",
+        "rotation" : "0",
+        "scaleX" : "1.12",
+        "scaleY" : "1.12",
+        "opacity" : "255",
+        "png" : "effect_money_show_3.png"
+      },
+      "nextFrame" : "f15",
+      "frames" : "15"
+    },
+    "order" : "0",
+    "f15" : {
+      "start" : {
+        "x" : "0",
+        "y" : "-1.45",
+        "rotation" : "0",
+        "scaleX" : "1.17",
+        "scaleY" : "1.17",
+        "opacity" : "255",
+        "png" : "effect_money_show_3.png"
+      },
+      "nextFrame" : "f30",
+      "frames" : "16"
+    },
+    "f30" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0.1",
+        "rotation" : "0",
+        "scaleX" : "1.12",
+        "scaleY" : "1.12",
+        "opacity" : "255",
+        "png" : "effect_money_show_3.png"
+      }
+    }
+  },
+  "events" : {
+    "f30" : "forever"
+  },
+  "scale" : "1",
+  "png" : "effect_money_show.png"
+}

@@ -1,0 +1,124 @@
+{
+  "图层 8_0" : {
+    "f1" : {
+      "start" : {
+        "x" : "-30.45",
+        "y" : "155.1",
+        "rotation" : "0",
+        "scaleX" : "2.77",
+        "scaleY" : "3.95",
+        "opacity" : "255"
+      }
+    },
+    "effect" : "effect_ui_star_group",
+    "useBatchNode" : "true",
+    "order" : "5",
+    "f25" : {
+      "start" : {
+        "x" : "-30.45",
+        "y" : "155.1",
+        "rotation" : "0",
+        "scaleX" : "2.77",
+        "scaleY" : "3.95",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f30",
+      "frames" : "6"
+    },
+    "first_frame" : "30",
+    "loop" : "loop",
+    "f30" : {
+      "start" : {
+        "x" : "-30.45",
+        "y" : "155.1",
+        "rotation" : "0",
+        "scaleX" : "2.77",
+        "scaleY" : "3.95",
+        "opacity" : "0"
+      }
+    },
+    "f31" : {
+      "remove" : "1"
+    }
+  },
+  "图层 2_1" : {
+    "f12" : {
+      "start" : {
+        "x" : "38.8",
+        "y" : "-4.15",
+        "rotation" : "45",
+        "scaleX" : "-0.61",
+        "scaleY" : "0.61",
+        "opacity" : "255"
+      }
+    },
+    "effect" : "effect_base_307",
+    "useBatchNode" : "true",
+    "order" : "4"
+  },
+  "图层 3_2" : {
+    "f8" : {
+      "start" : {
+        "x" : "-45.8",
+        "y" : "-5.15",
+        "rotation" : "-45",
+        "scaleX" : "0.61",
+        "scaleY" : "0.61",
+        "opacity" : "255"
+      }
+    },
+    "effect" : "effect_base_307",
+    "useBatchNode" : "true",
+    "order" : "3"
+  },
+  "图层 4_3" : {
+    "f9" : {
+      "start" : {
+        "x" : "72.1",
+        "y" : "58.8",
+        "rotation" : "0",
+        "scaleX" : "-1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    },
+    "effect" : "effect_base_307",
+    "useBatchNode" : "true",
+    "order" : "2"
+  },
+  "图层 5_4" : {
+    "f5" : {
+      "start" : {
+        "x" : "-59.3",
+        "y" : "48.8",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    },
+    "effect" : "effect_base_307",
+    "useBatchNode" : "true",
+    "order" : "1"
+  },
+  "图层 7_5" : {
+    "f1" : {
+      "start" : {
+        "x" : "55.1",
+        "y" : "158.85",
+        "rotation" : "0",
+        "scaleX" : "1.91",
+        "scaleY" : "1.13",
+        "opacity" : "255"
+      }
+    },
+    "effect" : "effect_ui_shot1",
+    "useBatchNode" : "true",
+    "order" : "0"
+  },
+  "events" : {
+    "f36" : "finish"
+  },
+  "scale" : "1",
+  "png" : ""
+}

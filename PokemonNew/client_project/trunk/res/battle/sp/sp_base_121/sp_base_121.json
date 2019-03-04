@@ -1,0 +1,173 @@
+{
+  "01-铃铛落-喷烟-绿烟 复制_0" : {
+    "f1" : {
+      "start" : {
+        "x" : "-8.6",
+        "y" : "-312.6",
+        "rotation" : "0",
+        "scaleX" : "0.75",
+        "scaleY" : "0.39",
+        "opacity" : "255",
+        "png" : "sp_base_121_1.png"
+      },
+      "nextFrame" : "f3",
+      "frames" : "3"
+    },
+    "order" : "0",
+    "f3" : {
+      "start" : {
+        "x" : "-30.6",
+        "y" : "-106.55",
+        "rotation" : "0",
+        "scaleX" : "1.67",
+        "scaleY" : "1.67",
+        "opacity" : "255",
+        "png" : "sp_base_121_1.png"
+      }
+    },
+    "f5" : {
+      "start" : {
+        "x" : "-30.1",
+        "y" : "-93.65",
+        "rotation" : "0",
+        "scaleX" : "1.67",
+        "scaleY" : "1.67",
+        "opacity" : "255",
+        "png" : "sp_base_121_2.png"
+      }
+    },
+    "f7" : {
+      "start" : {
+        "x" : "-28.95",
+        "y" : "-80.2",
+        "rotation" : "0",
+        "scaleX" : "1.67",
+        "scaleY" : "1.67",
+        "opacity" : "255",
+        "png" : "sp_base_121_3.png"
+      }
+    },
+    "f9" : {
+      "start" : {
+        "x" : "-15.45",
+        "y" : "-68.15",
+        "rotation" : "0",
+        "scaleX" : "1.67",
+        "scaleY" : "1.67",
+        "opacity" : "255",
+        "png" : "sp_base_121_4.png"
+      }
+    },
+    "f11" : {
+      "start" : {
+        "x" : "-25.35",
+        "y" : "-61.65",
+        "rotation" : "0",
+        "scaleX" : "1.67",
+        "scaleY" : "1.67",
+        "opacity" : "255",
+        "png" : "sp_base_121_5.png"
+      }
+    },
+    "f13" : {
+      "start" : {
+        "x" : "-15.05",
+        "y" : "-54.9",
+        "rotation" : "0",
+        "scaleX" : "1.67",
+        "scaleY" : "1.67",
+        "opacity" : "255",
+        "png" : "sp_base_121_6.png"
+      }
+    },
+    "f15" : {
+      "start" : {
+        "x" : "-15.2",
+        "y" : "-51.4",
+        "rotation" : "0",
+        "scaleX" : "1.67",
+        "scaleY" : "1.67",
+        "opacity" : "255",
+        "png" : "sp_base_121_7.png"
+      }
+    },
+    "f17" : {
+      "start" : {
+        "x" : "-35.7",
+        "y" : "-39.4",
+        "rotation" : "0",
+        "scaleX" : "1.67",
+        "scaleY" : "1.67",
+        "opacity" : "255",
+        "png" : "sp_base_121_8.png"
+      }
+    },
+    "f19" : {
+      "start" : {
+        "x" : "-5.85",
+        "y" : "-5.3",
+        "rotation" : "0",
+        "scaleX" : "2.1",
+        "scaleY" : "2.1",
+        "opacity" : "255",
+        "png" : "sp_base_121_9.png"
+      }
+    },
+    "f21" : {
+      "start" : {
+        "x" : "-6.8",
+        "y" : "7",
+        "rotation" : "0",
+        "scaleX" : "2.1",
+        "scaleY" : "2.1",
+        "opacity" : "255",
+        "png" : "sp_base_121_10.png"
+      }
+    },
+    "f23" : {
+      "start" : {
+        "x" : "1.2",
+        "y" : "23.7",
+        "rotation" : "0",
+        "scaleX" : "1.85",
+        "scaleY" : "1.85",
+        "opacity" : "255",
+        "png" : "sp_base_121_11.png"
+      },
+      "nextFrame" : "f27",
+      "frames" : "5"
+    },
+    "f27" : {
+      "start" : {
+        "x" : "1.2",
+        "y" : "51.7",
+        "rotation" : "0",
+        "scaleX" : "1.94",
+        "scaleY" : "1.79",
+        "opacity" : "91",
+        "png" : "sp_base_121_11.png"
+      },
+      "nextFrame" : "f33",
+      "frames" : "7"
+    },
+    "f33" : {
+      "start" : {
+        "x" : "1.2",
+        "y" : "63.7",
+        "rotation" : "0",
+        "scaleX" : "1.98",
+        "scaleY" : "1.77",
+        "opacity" : "20",
+        "png" : "sp_base_121_11.png"
+      }
+    },
+    "f34" : {
+      "remove" : "1"
+    }
+  },
+  "events" : {
+    "f35" : "finish"
+  },
+  "scale" : "1",
+  "png" : "sp_base_121.png"
+}

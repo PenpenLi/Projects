@@ -1,0 +1,154 @@
+{
+  "name_board" : {
+    "f16" : {
+      "start" : {
+        "x" : "9",
+        "y" : "61.5",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "0"
+      },
+      "nextFrame" : "f21",
+      "frames" : "6"
+    },
+    "order" : "4",
+    "f21" : {
+      "start" : {
+        "x" : "9",
+        "y" : "61.5",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    }
+  },
+  "card_rt" : {
+    "f12" : {
+      "start" : {
+        "x" : "-1.6",
+        "y" : "132",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "102"
+      },
+      "nextFrame" : "f15",
+      "frames" : "4"
+    },
+    "order" : "3",
+    "f15" : {
+      "start" : {
+        "x" : "198.15",
+        "y" : "132",
+        "rotation" : "0",
+        "scaleX" : "1.33",
+        "scaleY" : "1",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f18",
+      "frames" : "4"
+    },
+    "f18" : {
+      "start" : {
+        "x" : "132.4",
+        "y" : "132",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    }
+  },
+  "light_effect" : {
+    "f17" : {
+      "start" : {
+        "x" : "141.65",
+        "y" : "134.95",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    },
+    "order" : "2"
+  },
+  "arrow" : {
+    "f9" : {
+      "start" : {
+        "x" : "-139",
+        "y" : "131.5",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "0"
+      },
+      "nextFrame" : "f12",
+      "frames" : "4"
+    },
+    "order" : "1",
+    "f12" : {
+      "start" : {
+        "x" : "-26.75",
+        "y" : "131.5",
+        "rotation" : "0",
+        "scaleX" : "1.94",
+        "scaleY" : "0.55",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f15",
+      "frames" : "4"
+    },
+    "f15" : {
+      "start" : {
+        "x" : "8",
+        "y" : "131.5",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    }
+  },
+  "card_lf" : {
+    "f5" : {
+      "start" : {
+        "x" : "-438.05",
+        "y" : "132",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "0"
+      },
+      "nextFrame" : "f8",
+      "frames" : "4"
+    },
+    "order" : "0",
+    "f8" : {
+      "start" : {
+        "x" : "-59.05",
+        "y" : "132",
+        "rotation" : "0",
+        "scaleX" : "1.34",
+        "scaleY" : "1",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f11",
+      "frames" : "4"
+    },
+    "f11" : {
+      "start" : {
+        "x" : "-123.55",
+        "y" : "132",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    }
+  },
+  "events" : {
+    "f21" : "hit"
+  }
+}

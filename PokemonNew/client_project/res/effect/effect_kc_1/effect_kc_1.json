@@ -1,0 +1,294 @@
+{
+  "光_0" : {
+    "f341" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "19.84",
+        "scaleY" : "25.33",
+        "opacity" : "0"
+      },
+      "nextFrame" : "f346",
+      "frames" : "6"
+    },
+    "effect" : "effect_1_fuben",
+    "useBatchNode" : "true",
+    "order" : "8",
+    "f346" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "19.84",
+        "scaleY" : "25.33",
+        "opacity" : "255"
+      }
+    }
+  },
+  "光_1" : {
+    "f272" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "19.84",
+        "scaleY" : "25.33",
+        "opacity" : "0"
+      },
+      "nextFrame" : "f274",
+      "frames" : "3"
+    },
+    "effect" : "effect_1",
+    "useBatchNode" : "true",
+    "order" : "7",
+    "f274" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "19.84",
+        "scaleY" : "25.33",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f276",
+      "frames" : "3"
+    },
+    "f276" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "19.84",
+        "scaleY" : "25.33",
+        "opacity" : "0"
+      }
+    },
+    "f334" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "19.84",
+        "scaleY" : "25.33",
+        "opacity" : "0"
+      },
+      "nextFrame" : "f340",
+      "frames" : "7"
+    },
+    "f340" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "19.84",
+        "scaleY" : "25.33",
+        "opacity" : "255"
+      }
+    },
+    "f346" : {
+      "remove" : "1"
+    }
+  },
+  "sdx_2" : {
+    "f276" : {
+      "start" : {
+        "x" : "0",
+        "y" : "-0.25",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    },
+    "effect" : "effect_3",
+    "useBatchNode" : "true",
+    "order" : "6",
+    "f346" : {
+      "remove" : "1"
+    }
+  },
+  "字幕出_3" : {
+    "f161" : {
+      "start" : {
+        "x" : "-2.25",
+        "y" : "121.75",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    },
+    "effect" : "effect_4",
+    "useBatchNode" : "true",
+    "order" : "5",
+    "f274" : {
+      "remove" : "1"
+    }
+  },
+  "人物2_4" : {
+    "f333" : {
+      "start" : {
+        "x" : "-13.95",
+        "y" : "-267.55",
+        "rotation" : "14.03",
+        "scaleX" : "0.98",
+        "scaleY" : "0.98",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f344",
+      "frames" : "12"
+    },
+    "effect" : "effect_8_1",
+    "useBatchNode" : "true",
+    "order" : "4",
+    "f344" : {
+      "start" : {
+        "x" : "11.15",
+        "y" : "247.2",
+        "rotation" : "169.01",
+        "scaleX" : "0.13",
+        "scaleY" : "0.13",
+        "opacity" : "255"
+      }
+    },
+    "f345" : {
+      "remove" : "1"
+    }
+  },
+  "人物2_5" : {
+    "f274" : {
+      "start" : {
+        "x" : "-16.25",
+        "y" : "-298.4",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    },
+    "effect" : "effect_8",
+    "useBatchNode" : "true",
+    "order" : "3",
+    "f328" : {
+      "start" : {
+        "x" : "-16.25",
+        "y" : "-298.4",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f332",
+      "frames" : "5"
+    },
+    "first_frame" : "3",
+    "loop" : "single frame",
+    "f332" : {
+      "start" : {
+        "x" : "-16.25",
+        "y" : "-314.4",
+        "rotation" : "0",
+        "scaleX" : "1.06",
+        "scaleY" : "1.06",
+        "opacity" : "255"
+      }
+    },
+    "f333" : {
+      "remove" : "1"
+    }
+  },
+  "人物_6" : {
+    "f1" : {
+      "start" : {
+        "x" : "-10.1",
+        "y" : "-278.65",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f108",
+      "frames" : "108"
+    },
+    "effect" : "effect_7",
+    "useBatchNode" : "true",
+    "order" : "2",
+    "f108" : {
+      "start" : {
+        "x" : "-26.05",
+        "y" : "-282.9",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    },
+    "f109" : {
+      "start" : {
+        "x" : "-26.05",
+        "y" : "-282.9",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    },
+    "f274" : {
+      "remove" : "1"
+    }
+  },
+  "背景_7" : {
+    "f109" : {
+      "start" : {
+        "x" : "8.3",
+        "y" : "-26.85",
+        "rotation" : "0",
+        "scaleX" : "0.92",
+        "scaleY" : "0.92",
+        "opacity" : "255"
+      }
+    },
+    "effect" : "effect_11",
+    "useBatchNode" : "true",
+    "order" : "1",
+    "f346" : {
+      "remove" : "1"
+    }
+  },
+  "背景_8" : {
+    "f1" : {
+      "start" : {
+        "x" : "-6.2",
+        "y" : "-26.85",
+        "rotation" : "0",
+        "scaleX" : "0.92",
+        "scaleY" : "0.92",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f108",
+      "frames" : "108"
+    },
+    "effect" : "effect_11 _",
+    "useBatchNode" : "true",
+    "order" : "0",
+    "f108" : {
+      "start" : {
+        "x" : "8.3",
+        "y" : "-26.85",
+        "rotation" : "0",
+        "scaleX" : "0.92",
+        "scaleY" : "0.92",
+        "opacity" : "255"
+      }
+    },
+    "f109" : {
+      "remove" : "1"
+    }
+  },
+  "events" : {
+    "f385" : "finish"
+  },
+  "scale" : "1",
+  "png" : ""
+}

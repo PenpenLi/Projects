@@ -1,0 +1,89 @@
+{
+  "upgradeText" : {
+    "f1" : {
+      "start" : {
+        "x" : "-0.15",
+        "y" : "1.5",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    },
+    "order" : "5",
+    "useBatchNode" : "true"
+  },
+  "effect" : {
+    "f6" : {
+      "start" : {
+        "x" : "-121.15",
+        "y" : "-25.65",
+        "rotation" : "74.01",
+        "scaleX" : "-0.95",
+        "scaleY" : "0.68",
+        "opacity" : "224"
+      }
+    },
+    "order" : "4",
+    "useBatchNode" : "true"
+  },
+  "effect1" : {
+    "f5" : {
+      "start" : {
+        "x" : "119.8",
+        "y" : "-16.25",
+        "rotation" : "-74.01",
+        "scaleX" : "0.95",
+        "scaleY" : "0.68",
+        "opacity" : "201"
+      }
+    },
+    "order" : "3",
+    "useBatchNode" : "true"
+  },
+  "shine" : {
+    "f9" : {
+      "start" : {
+        "x" : "-5.05",
+        "y" : "-17.5",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    },
+    "order" : "2",
+    "useBatchNode" : "true"
+  },
+  "effect2" : {
+    "f4" : {
+      "start" : {
+        "x" : "2.05",
+        "y" : "0.45",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    },
+    "order" : "1",
+    "useBatchNode" : "true"
+  },
+  "effect3" : {
+    "f3" : {
+      "start" : {
+        "x" : "13.15",
+        "y" : "6.25",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1.07",
+        "opacity" : "255"
+      }
+    },
+    "order" : "0",
+    "useBatchNode" : "true"
+  },
+  "events" : {
+    "f136" : "finish"
+  }
+}

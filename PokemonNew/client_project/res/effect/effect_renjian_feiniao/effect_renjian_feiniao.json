@@ -1,0 +1,60 @@
+{
+  "图层 9_1" : {
+    "f1" : {
+      "start" : {
+        "x" : "207.55",
+        "y" : "-81.75",
+        "rotation" : "0",
+        "scaleX" : "-0.09",
+        "scaleY" : "0.14",
+        "opacity" : "0"
+      },
+      "nextFrame" : "f5",
+      "frames" : "5"
+    },
+    "effect" : "effect_bg_chechiguo_feiniao_1",
+    "useBatchNode" : "true",
+    "order" : "0",
+    "f5" : {
+      "start" : {
+        "x" : "191.55",
+        "y" : "-77.75",
+        "rotation" : "0",
+        "scaleX" : "-0.09",
+        "scaleY" : "0.14",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f221",
+      "frames" : "217"
+    },
+    "first_frame" : "23",
+    "loop" : "loop",
+    "f221" : {
+      "start" : {
+        "x" : "-224.75",
+        "y" : "-114.1",
+        "rotation" : "0",
+        "scaleX" : "-0.05",
+        "scaleY" : "0.08",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f225",
+      "frames" : "5"
+    },
+    "f225" : {
+      "start" : {
+        "x" : "-232.45",
+        "y" : "-114.75",
+        "rotation" : "0",
+        "scaleX" : "-0.05",
+        "scaleY" : "0.08",
+        "opacity" : "0"
+      }
+    }
+  },
+  "events" : {
+    "f225" : "forever"
+  },
+  "scale" : "2",
+  "png" : ""
+}

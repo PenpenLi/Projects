@@ -1,0 +1,102 @@
+{
+  "图层 18_0" : {
+    "f25" : {
+      "start" : {
+        "x" : "35.35",
+        "y" : "45.35",
+        "rotation" : "0",
+        "scaleX" : "1.09",
+        "scaleY" : "1.09",
+        "opacity" : "255"
+      }
+    },
+    "sp" : "sp_base_004zz",
+    "useBatchNode" : "true",
+    "order" : "3"
+  },
+  "图层 17_1" : {
+    "f20" : {
+      "start" : {
+        "x" : "35.35",
+        "y" : "45.35",
+        "rotation" : "0",
+        "scaleX" : "1.09",
+        "scaleY" : "1.09",
+        "opacity" : "255"
+      }
+    },
+    "sp" : "sp_base_004zz",
+    "useBatchNode" : "true",
+    "order" : "2"
+  },
+  "图层 15_2" : {
+    "f15" : {
+      "start" : {
+        "x" : "35.35",
+        "y" : "45.35",
+        "rotation" : "0",
+        "scaleX" : "1.09",
+        "scaleY" : "1.09",
+        "opacity" : "255"
+      }
+    },
+    "sp" : "sp_base_004zz",
+    "useBatchNode" : "true",
+    "order" : "1"
+  },
+  "图层 16_3" : {
+    "f1" : {
+      "start" : {
+        "x" : "37.65",
+        "y" : "45.5",
+        "rotation" : "0",
+        "scaleX" : "0.7",
+        "scaleY" : "0.7",
+        "color" : {
+          "alpha_original" : "1",
+          "alpha" : "0",
+          "red_original" : "1",
+          "red" : "252",
+          "green_original" : "1",
+          "green" : "63",
+          "blue_original" : "1",
+          "blue" : "-22"
+        }
+      },
+      "nextFrame" : "f15",
+      "frames" : "15"
+    },
+    "sp" : "sp_base_376",
+    "useBatchNode" : "false",
+    "order" : "0",
+    "f15" : {
+      "start" : {
+        "x" : "36.3",
+        "y" : "46.25",
+        "rotation" : "-27.71",
+        "scaleX" : "2.05",
+        "scaleY" : "2.05",
+        "color" : {
+          "alpha_original" : "1",
+          "alpha" : "0",
+          "red_original" : "1",
+          "red" : "252",
+          "green_original" : "1",
+          "green" : "63",
+          "blue_original" : "1",
+          "blue" : "-22"
+        }
+      }
+    },
+    "first_frame" : "5",
+    "loop" : "loop",
+    "f16" : {
+      "remove" : "1"
+    }
+  },
+  "events" : {
+    "f36" : "finish"
+  },
+  "scale" : "1",
+  "png" : ""
+}

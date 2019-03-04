@@ -1,0 +1,125 @@
+{
+  "图层 2_0" : {
+    "f8" : {
+      "start" : {
+        "x" : "60.55",
+        "y" : "168.3",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "color" : {
+          "alpha_original" : "1",
+          "alpha" : "0",
+          "red_original" : "0",
+          "red" : "255",
+          "green_original" : "0",
+          "green" : "255",
+          "blue_original" : "0",
+          "blue" : "255"
+        }
+      },
+      "nextFrame" : "f11",
+      "frames" : "4"
+    },
+    "sp" : "sp_base_330",
+    "useBatchNode" : "false",
+    "order" : "1",
+    "f11" : {
+      "start" : {
+        "x" : "60.55",
+        "y" : "168.3",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "color" : {
+          "alpha_original" : "1",
+          "alpha" : "0",
+          "red_original" : "1",
+          "red" : "255",
+          "green_original" : "1",
+          "green" : "20",
+          "blue_original" : "1",
+          "blue" : "40"
+        }
+      }
+    },
+    "first_frame" : "4",
+    "loop" : "play once"
+  },
+  "图层 3_1" : {
+    "f1" : {
+      "start" : {
+        "x" : "58.7",
+        "y" : "170.1",
+        "rotation" : "0",
+        "scaleX" : "0.36",
+        "scaleY" : "0.95",
+        "color" : {
+          "alpha_original" : "1",
+          "alpha" : "0",
+          "red_original" : "1",
+          "red" : "255",
+          "green_original" : "1",
+          "green" : "40",
+          "blue_original" : "1",
+          "blue" : "136"
+        }
+      },
+      "nextFrame" : "f11",
+      "frames" : "11"
+    },
+    "sp" : "sp_base_372",
+    "useBatchNode" : "false",
+    "order" : "0",
+    "f11" : {
+      "start" : {
+        "x" : "58.55",
+        "y" : "170.15",
+        "rotation" : "0",
+        "scaleX" : "0.62",
+        "scaleY" : "1.66",
+        "color" : {
+          "alpha_original" : "1",
+          "alpha" : "0",
+          "red_original" : "1",
+          "red" : "255",
+          "green_original" : "1",
+          "green" : "40",
+          "blue_original" : "1",
+          "blue" : "136"
+        }
+      },
+      "nextFrame" : "f14",
+      "frames" : "4"
+    },
+    "first_frame" : "2",
+    "loop" : "loop",
+    "f14" : {
+      "start" : {
+        "x" : "58.5",
+        "y" : "170.15",
+        "rotation" : "0",
+        "scaleX" : "0.74",
+        "scaleY" : "1.97",
+        "color" : {
+          "alpha_original" : "0",
+          "alpha" : "0",
+          "red_original" : "1",
+          "red" : "255",
+          "green_original" : "1",
+          "green" : "40",
+          "blue_original" : "1",
+          "blue" : "136"
+        }
+      }
+    },
+    "f15" : {
+      "remove" : "1"
+    }
+  },
+  "events" : {
+    "f25" : "finish"
+  },
+  "scale" : "1",
+  "png" : ""
+}

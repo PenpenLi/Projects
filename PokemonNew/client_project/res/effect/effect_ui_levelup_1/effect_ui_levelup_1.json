@@ -1,0 +1,64 @@
+{
+  "图层 8_0" : {
+    "f1" : {
+      "start" : {
+        "x" : "-14.15",
+        "y" : "120.4",
+        "rotation" : "0",
+        "scaleX" : "2.96",
+        "scaleY" : "4.21",
+        "opacity" : "255"
+      }
+    },
+    "effect" : "effect_ui_star_group",
+    "useBatchNode" : "true",
+    "order" : "1",
+    "f25" : {
+      "start" : {
+        "x" : "-14.15",
+        "y" : "120.4",
+        "rotation" : "0",
+        "scaleX" : "2.96",
+        "scaleY" : "4.21",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f30",
+      "frames" : "6"
+    },
+    "first_frame" : "30",
+    "loop" : "loop",
+    "f30" : {
+      "start" : {
+        "x" : "-14.15",
+        "y" : "120.4",
+        "rotation" : "0",
+        "scaleX" : "2.96",
+        "scaleY" : "4.21",
+        "opacity" : "0"
+      }
+    },
+    "f31" : {
+      "remove" : "1"
+    }
+  },
+  "图层 7_1" : {
+    "f1" : {
+      "start" : {
+        "x" : "75.45",
+        "y" : "118.85",
+        "rotation" : "0",
+        "scaleX" : "1.91",
+        "scaleY" : "1.13",
+        "opacity" : "255"
+      }
+    },
+    "effect" : "effect_ui_shot1",
+    "useBatchNode" : "true",
+    "order" : "0"
+  },
+  "events" : {
+    "f36" : "finish"
+  },
+  "scale" : "1",
+  "png" : ""
+}

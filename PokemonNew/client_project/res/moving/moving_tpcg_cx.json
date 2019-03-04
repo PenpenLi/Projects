@@ -1,0 +1,120 @@
+{
+  "effect_tpcg_xing_1" : {
+    "f1" : {
+      "start" : {
+        "x" : "-29.25",
+        "y" : "-212",
+        "rotation" : "-177.95",
+        "scaleX" : "-1.17",
+        "scaleY" : "1.13",
+        "opacity" : "255"
+      }
+    },
+    "order" : "6"
+  },
+  "effect_tpcg_xing_2" : {
+    "f1" : {
+      "start" : {
+        "x" : "-238.7",
+        "y" : "131.55",
+        "rotation" : "-49.99",
+        "scaleX" : "-1.15",
+        "scaleY" : "1.15",
+        "opacity" : "255"
+      }
+    },
+    "order" : "5"
+  },
+  "effect_tpcg_xing_3" : {
+    "f1" : {
+      "start" : {
+        "x" : "-230.9",
+        "y" : "-124.35",
+        "rotation" : "-118.23",
+        "scaleX" : "-1.15",
+        "scaleY" : "1.15",
+        "opacity" : "255"
+      }
+    },
+    "order" : "4"
+  },
+  "effect_tpcg_xing_4" : {
+    "f1" : {
+      "start" : {
+        "x" : "64",
+        "y" : "225",
+        "rotation" : "15.04",
+        "scaleX" : "-1.15",
+        "scaleY" : "1.15",
+        "opacity" : "255"
+      }
+    },
+    "order" : "3"
+  },
+  "effect_tpcg_xing_5" : {
+    "f1" : {
+      "start" : {
+        "x" : "222.4",
+        "y" : "-138.15",
+        "rotation" : "130.01",
+        "scaleX" : "-1.15",
+        "scaleY" : "1.15",
+        "opacity" : "255"
+      }
+    },
+    "order" : "2"
+  },
+  "effect_tpcg_xing_6" : {
+    "f1" : {
+      "start" : {
+        "x" : "213.45",
+        "y" : "114.25",
+        "rotation" : "61.77",
+        "scaleX" : "-1.15",
+        "scaleY" : "1.15",
+        "opacity" : "255"
+      }
+    },
+    "order" : "1"
+  },
+  "node_circle" : {
+    "f1" : {
+      "start" : {
+        "x" : "0.65",
+        "y" : "-1.05",
+        "rotation" : "0",
+        "scaleX" : "1.98",
+        "scaleY" : "1.98",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f60",
+      "frames" : "60"
+    },
+    "order" : "0",
+    "f60" : {
+      "start" : {
+        "x" : "-0.15",
+        "y" : "-1.65",
+        "rotation" : "90",
+        "scaleX" : "1.98",
+        "scaleY" : "1.98",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f120",
+      "frames" : "61"
+    },
+    "f120" : {
+      "start" : {
+        "x" : "-0.7",
+        "y" : "-0.95",
+        "rotation" : "178.69",
+        "scaleX" : "1.98",
+        "scaleY" : "1.98",
+        "opacity" : "255"
+      }
+    }
+  },
+  "events" : {
+    "f120" : "forever"
+  }
+}

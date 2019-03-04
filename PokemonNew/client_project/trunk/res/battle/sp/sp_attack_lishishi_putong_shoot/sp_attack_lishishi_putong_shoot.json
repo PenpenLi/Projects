@@ -1,0 +1,136 @@
+{
+  "图层 5_1" : {
+    "f1" : {
+      "start" : {
+        "x" : "-74.6",
+        "y" : "-14.15",
+        "rotation" : "0",
+        "scaleX" : "0.52",
+        "scaleY" : "0.52",
+        "opacity" : "255",
+        "png" : "sp_attack_lishishi_putong_shoot_1.png"
+      },
+      "nextFrame" : "f20",
+      "frames" : "20"
+    },
+    "order" : "4",
+    "f20" : {
+      "start" : {
+        "x" : "-74.6",
+        "y" : "-14.15",
+        "rotation" : "0",
+        "scaleX" : "0.52",
+        "scaleY" : "0.52",
+        "opacity" : "255",
+        "png" : "sp_attack_lishishi_putong_shoot_1.png"
+      }
+    }
+  },
+  "图层 4_2" : {
+    "f1" : {
+      "start" : {
+        "x" : "-48.7",
+        "y" : "24",
+        "rotation" : "0",
+        "scaleX" : "0.78",
+        "scaleY" : "0.78",
+        "opacity" : "255",
+        "png" : "sp_attack_lishishi_putong_shoot_1.png"
+      },
+      "nextFrame" : "f20",
+      "frames" : "20"
+    },
+    "order" : "3",
+    "f20" : {
+      "start" : {
+        "x" : "-48.7",
+        "y" : "24",
+        "rotation" : "0",
+        "scaleX" : "0.78",
+        "scaleY" : "0.78",
+        "opacity" : "255",
+        "png" : "sp_attack_lishishi_putong_shoot_1.png"
+      }
+    }
+  },
+  "图层 3_3" : {
+    "f1" : {
+      "start" : {
+        "x" : "2.95",
+        "y" : "0.3",
+        "rotation" : "0",
+        "scaleX" : "1.16",
+        "scaleY" : "1.16",
+        "opacity" : "255",
+        "png" : "sp_attack_lishishi_putong_shoot_1.png"
+      },
+      "nextFrame" : "f20",
+      "frames" : "20"
+    },
+    "order" : "2",
+    "f20" : {
+      "start" : {
+        "x" : "2.95",
+        "y" : "0.3",
+        "rotation" : "0",
+        "scaleX" : "1.16",
+        "scaleY" : "1.16",
+        "opacity" : "255",
+        "png" : "sp_attack_lishishi_putong_shoot_1.png"
+      }
+    }
+  },
+  "图层 2_4" : {
+    "f1" : {
+      "start" : {
+        "x" : "-50.95",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "-1.45",
+        "scaleY" : "-1.45",
+        "color" : {
+          "alpha_original" : "1",
+          "alpha" : "0",
+          "red_original" : "1",
+          "red" : "255",
+          "green_original" : "1",
+          "green" : "62",
+          "blue_original" : "1",
+          "blue" : "65"
+        }
+      }
+    },
+    "sp" : "sp_base_252",
+    "useBatchNode" : "false",
+    "order" : "1"
+  },
+  "图层 1_5" : {
+    "f1" : {
+      "start" : {
+        "x" : "-58.05",
+        "y" : "0.85",
+        "rotation" : "0",
+        "scaleX" : "2.15",
+        "scaleY" : "1.17",
+        "color" : {
+          "alpha_original" : "1",
+          "alpha" : "0",
+          "red_original" : "1",
+          "red" : "255",
+          "green_original" : "1",
+          "green" : "-255",
+          "blue_original" : "1",
+          "blue" : "-255"
+        }
+      }
+    },
+    "sp" : "sp_base_284",
+    "useBatchNode" : "false",
+    "order" : "0"
+  },
+  "events" : {
+    "f20" : "forever"
+  },
+  "scale" : "1",
+  "png" : "sp_attack_lishishi_putong_shoot.png"
+}

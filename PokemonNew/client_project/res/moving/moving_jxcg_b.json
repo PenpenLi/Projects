@@ -1,0 +1,116 @@
+{
+  "图层 1" : {
+    "f2" : {
+      "start" : {
+        "x" : "-3.6",
+        "y" : "-31.35",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "0"
+      },
+      "nextFrame" : "f6",
+      "frames" : "5"
+    },
+    "order" : "7",
+    "f6" : {
+      "start" : {
+        "x" : "-3.6",
+        "y" : "-31.35",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    }
+  },
+  "图片" : {
+    "f2" : {
+      "start" : {
+        "x" : "-319.65",
+        "y" : "-163",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "0"
+      },
+      "nextFrame" : "f6",
+      "frames" : "5"
+    },
+    "order" : "1",
+    "f6" : {
+      "start" : {
+        "x" : "-106.1",
+        "y" : "-163",
+        "rotation" : "0",
+        "scaleX" : "1.02",
+        "scaleY" : "1",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f9",
+      "frames" : "4"
+    },
+    "f9" : {
+      "start" : {
+        "x" : "-116.15",
+        "y" : "-163",
+        "rotation" : "0",
+        "scaleX" : "0.95",
+        "scaleY" : "1",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f13",
+      "frames" : "5"
+    },
+    "f13" : {
+      "start" : {
+        "x" : "-111.15",
+        "y" : "-163",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    }
+  },
+  "图层 8" : {
+    "f1" : {
+      "start" : {
+        "x" : "-428.65",
+        "y" : "-72.3",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "0"
+      },
+      "nextFrame" : "f5",
+      "frames" : "5"
+    },
+    "order" : "0",
+    "f5" : {
+      "start" : {
+        "x" : "18.85",
+        "y" : "-72.3",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f9",
+      "frames" : "5"
+    },
+    "f9" : {
+      "start" : {
+        "x" : "-1.15",
+        "y" : "-72.3",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    }
+  },
+  "events" : {
+    "f86" : "finish"
+  }
+}

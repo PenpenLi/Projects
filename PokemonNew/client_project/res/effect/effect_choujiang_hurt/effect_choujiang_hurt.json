@@ -1,0 +1,75 @@
+{
+  "图层 1_1" : {
+    "f1" : {
+      "start" : {
+        "x" : "-0.35",
+        "y" : "0.35",
+        "rotation" : "0",
+        "scaleX" : "1.2",
+        "scaleY" : "1.2",
+        "opacity" : "178",
+        "png" : "effect_choujiang_hurt_1.png"
+      },
+      "nextFrame" : "f3",
+      "frames" : "3"
+    },
+    "order" : "1",
+    "f3" : {
+      "start" : {
+        "x" : "-0.35",
+        "y" : "0.35",
+        "rotation" : "0",
+        "scaleX" : "1.2",
+        "scaleY" : "1.2",
+        "opacity" : "255",
+        "png" : "effect_choujiang_hurt_1.png"
+      },
+      "nextFrame" : "f6",
+      "frames" : "4"
+    },
+    "f6" : {
+      "start" : {
+        "x" : "-0.35",
+        "y" : "0.35",
+        "rotation" : "0",
+        "scaleX" : "1.2",
+        "scaleY" : "1.2",
+        "opacity" : "0",
+        "png" : "effect_choujiang_hurt_1.png"
+      },
+      "nextFrame" : "f7",
+      "frames" : "2"
+    },
+    "f7" : {
+      "remove" : "1"
+    }
+  },
+  "图层 2_2" : {
+    "f3" : {
+      "start" : {
+        "x" : "3.1",
+        "y" : "-2.85",
+        "rotation" : "0",
+        "scaleX" : "1.03",
+        "scaleY" : "1.03",
+        "opacity" : "255"
+      }
+    },
+    "effect" : "effect_choujiang_hurt_1",
+    "useBatchNode" : "true",
+    "first_frame" : "7",
+    "loop" : "loop",
+    "order" : "0",
+    "f17" : {
+      "remove" : "1"
+    }
+  },
+  "events" : {
+    "f4" : "single_card_out",
+    "f12" : "card_out",
+    "f16" : "card_in",
+    "f17" : "finish"
+  },
+  "scale" : "1",
+  "png" : "effect_choujiang_hurt.png"
+}

@@ -1,0 +1,199 @@
+{
+  "图层 10_1" : {
+    "f1" : {
+      "start" : {
+        "x" : "0",
+        "y" : "-445",
+        "rotation" : "0",
+        "scaleX" : "-1",
+        "scaleY" : "-1",
+        "opacity" : "255"
+      }
+    },
+    "effect" : "effect_1005",
+    "useBatchNode" : "true",
+    "order" : "9"
+  },
+  "图层 9_2" : {
+    "f1" : {
+      "start" : {
+        "x" : "0",
+        "y" : "445",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    },
+    "effect" : "effect_1005",
+    "useBatchNode" : "true",
+    "order" : "8"
+  },
+  "图层 8_3" : {
+    "f2715" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    },
+    "effect" : "effect_kc_8",
+    "useBatchNode" : "true",
+    "order" : "7"
+  },
+  "图层 7_4" : {
+    "f2453" : {
+      "start" : {
+        "x" : "0",
+        "y" : "26",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    },
+    "effect" : "effect_kc_7",
+    "useBatchNode" : "true",
+    "order" : "6"
+  },
+  "图层 6_5" : {
+    "f2012" : {
+      "start" : {
+        "x" : "0",
+        "y" : "-40",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    },
+    "effect" : "effect_kc_6",
+    "useBatchNode" : "true",
+    "order" : "5"
+  },
+  "图层 5_6" : {
+    "f1449" : {
+      "start" : {
+        "x" : "-13",
+        "y" : "7",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    },
+    "effect" : "effect_kc_5",
+    "useBatchNode" : "true",
+    "order" : "4"
+  },
+  "图层 4_7" : {
+    "f1313" : {
+      "start" : {
+        "x" : "0",
+        "y" : "-34",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    },
+    "effect" : "effect_kc_4",
+    "useBatchNode" : "true",
+    "order" : "3"
+  },
+  "图层 3_8" : {
+    "f630" : {
+      "start" : {
+        "x" : "0",
+        "y" : "23",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    },
+    "effect" : "effect_kc_3",
+    "useBatchNode" : "true",
+    "order" : "2"
+  },
+  "图层 2_9" : {
+    "f350" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    },
+    "effect" : "effect_kc_2",
+    "useBatchNode" : "true",
+    "order" : "1"
+  },
+  "图层 1_10" : {
+    "f1" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    },
+    "effect" : "effect_kc_1",
+    "useBatchNode" : "true",
+    "order" : "0"
+  },
+  "events" : {
+    "f158" : "shake_start",
+    "f165" : "sound_kaichang_pangbai1.mp3",
+    "f319" : "shake_end",
+    "f391" : "sound_kaichang_pangbai9.mp3",
+    "f481" : "sound_kaichang_pangbai10.mp3",
+    "f541" : "sound_kaichang_pangbai2.mp3",
+    "f619" : "touch",
+    "f693" : "sound_kaichang_xiangyu1.mp3",
+    "f827" : "talk1",
+    "f836" : "sound_kaichang_lvbu1.mp3",
+    "f917" : "sound_kaichang_lvbu2.mp3",
+    "f929" : "talk2",
+    "f1000" : "talk3",
+    "f1011" : "sound_kaichang_liyuanba1.mp3",
+    "f1121" : "talk4",
+    "f1129" : "sound_kaichang_chiyou1.mp3",
+    "f1249" : "talk5",
+    "f1380" : "sound_kaichang_taotie1.mp3",
+    "f1448" : "talk6",
+    "f1461" : "sound_kaichang_xiangyu2.mp3",
+    "f1552" : "talk7",
+    "f1558" : "sound_kaichang_xiangyu3.mp3",
+    "f1656" : "talk8",
+    "f1667" : "sound_kaichang_lvbu3.mp3",
+    "f1823" : "talk9",
+    "f1834" : "sound_kaichang_chili2.mp3",
+    "f1920" : "talk10",
+    "f1924" : "sound_kaichang_taotie2.mp3",
+    "f2011" : "pause",
+    "f2016" : "sound_kaichang_taotie5.mp3",
+    "f2112" : "talk11",
+    "f2114" : "sound_kaichang_pangbai3.mp3",
+    "f2265" : "talk12",
+    "f2268" : "sound_kaichang_pangbai4.mp3",
+    "f2351" : "talk13",
+    "f2363" : "sound_kaichang_pangbai5.mp3",
+    "f2420" : "talk14",
+    "f2522" : "sound_kaichang_pangbai6.mp3",
+    "f2637" : "talk15",
+    "f2641" : "sound_kaichang_pangbai7.mp3",
+    "f2788" : "talk16",
+    "f2798" : "sound_kaichang_pangbai8.mp3",
+    "f2933" : "finish"
+  },
+  "scale" : "1",
+  "png" : ""
+}

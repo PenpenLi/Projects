@@ -1,0 +1,343 @@
+{
+  "图层 7_1" : {
+    "f12" : {
+      "start" : {
+        "x" : "-1.75",
+        "y" : "46.75",
+        "rotation" : "0",
+        "scaleX" : "1.15",
+        "scaleY" : "1.15",
+        "color" : {
+          "alpha_original" : "1",
+          "alpha" : "0",
+          "red_original" : "1",
+          "red" : "50",
+          "green_original" : "1",
+          "green" : "20",
+          "blue_original" : "1",
+          "blue" : "20"
+        },
+        "png" : "effect_knife_1.png"
+      }
+    },
+    "order" : "2",
+    "f13" : {
+      "start" : {
+        "x" : "4.35",
+        "y" : "57",
+        "rotation" : "0",
+        "scaleX" : "1.15",
+        "scaleY" : "1.15",
+        "color" : {
+          "alpha_original" : "1",
+          "alpha" : "0",
+          "red_original" : "1",
+          "red" : "50",
+          "green_original" : "1",
+          "green" : "20",
+          "blue_original" : "1",
+          "blue" : "20"
+        },
+        "png" : "effect_knife_2.png"
+      }
+    },
+    "f14" : {
+      "start" : {
+        "x" : "4.75",
+        "y" : "64.6",
+        "rotation" : "0",
+        "scaleX" : "1.15",
+        "scaleY" : "1.15",
+        "color" : {
+          "alpha_original" : "1",
+          "alpha" : "0",
+          "red_original" : "1",
+          "red" : "50",
+          "green_original" : "1",
+          "green" : "20",
+          "blue_original" : "1",
+          "blue" : "20"
+        },
+        "png" : "effect_knife_3.png"
+      }
+    },
+    "f15" : {
+      "start" : {
+        "x" : "4.9",
+        "y" : "68.4",
+        "rotation" : "0",
+        "scaleX" : "1.15",
+        "scaleY" : "1.15",
+        "color" : {
+          "alpha_original" : "1",
+          "alpha" : "0",
+          "red_original" : "1",
+          "red" : "50",
+          "green_original" : "1",
+          "green" : "20",
+          "blue_original" : "1",
+          "blue" : "20"
+        },
+        "png" : "effect_knife_4.png"
+      }
+    },
+    "f17" : {
+      "start" : {
+        "x" : "2.3",
+        "y" : "69.25",
+        "rotation" : "0",
+        "scaleX" : "1.15",
+        "scaleY" : "1.15",
+        "color" : {
+          "alpha_original" : "1",
+          "alpha" : "0",
+          "red_original" : "1",
+          "red" : "50",
+          "green_original" : "1",
+          "green" : "20",
+          "blue_original" : "1",
+          "blue" : "20"
+        },
+        "png" : "effect_knife_5.png"
+      }
+    },
+    "f19" : {
+      "start" : {
+        "x" : "-1.5",
+        "y" : "85.05",
+        "rotation" : "0",
+        "scaleX" : "1.15",
+        "scaleY" : "1.15",
+        "color" : {
+          "alpha_original" : "1",
+          "alpha" : "0",
+          "red_original" : "1",
+          "red" : "50",
+          "green_original" : "1",
+          "green" : "20",
+          "blue_original" : "1",
+          "blue" : "20"
+        },
+        "png" : "effect_knife_6.png"
+      }
+    },
+    "f21" : {
+      "remove" : "1"
+    }
+  },
+  "图层 5  复制 2_2" : {
+    "f1" : {
+      "start" : {
+        "x" : "7.95",
+        "y" : "-11.3",
+        "rotation" : "39.13",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "effect_knife_7.png"
+      },
+      "nextFrame" : "f2",
+      "frames" : "2"
+    },
+    "order" : "1",
+    "f2" : {
+      "start" : {
+        "x" : "10.4",
+        "y" : "-15.95",
+        "rotation" : "30.05",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "effect_knife_7.png"
+      },
+      "nextFrame" : "f11",
+      "frames" : "10"
+    },
+    "f11" : {
+      "start" : {
+        "x" : "57.8",
+        "y" : "9.75",
+        "rotation" : "103.32",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "effect_knife_7.png"
+      },
+      "nextFrame" : "f12",
+      "frames" : "2"
+    },
+    "f12" : {
+      "start" : {
+        "x" : "29.95",
+        "y" : "5.5",
+        "rotation" : "62.44",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "effect_knife_7.png"
+      },
+      "nextFrame" : "f14",
+      "frames" : "3"
+    },
+    "f14" : {
+      "start" : {
+        "x" : "6.4",
+        "y" : "-14.5",
+        "rotation" : "34.21",
+        "scaleX" : "0.24",
+        "scaleY" : "0.24",
+        "opacity" : "255",
+        "png" : "effect_knife_7.png"
+      },
+      "nextFrame" : "f15",
+      "frames" : "2"
+    },
+    "f15" : {
+      "start" : {
+        "x" : "11.8",
+        "y" : "3.25",
+        "rotation" : "47.4",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "effect_knife_7.png"
+      },
+      "nextFrame" : "f16",
+      "frames" : "2"
+    },
+    "f16" : {
+      "start" : {
+        "x" : "27.45",
+        "y" : "13.3",
+        "rotation" : "56.4",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "effect_knife_7.png"
+      },
+      "nextFrame" : "f24",
+      "frames" : "9"
+    },
+    "f24" : {
+      "start" : {
+        "x" : "7.95",
+        "y" : "-11.95",
+        "rotation" : "39.13",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "effect_knife_7.png"
+      }
+    }
+  },
+  "图层 5 复制_3" : {
+    "f1" : {
+      "start" : {
+        "x" : "-0.55",
+        "y" : "-11.3",
+        "rotation" : "-39.13",
+        "scaleX" : "-1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "effect_knife_7.png"
+      },
+      "nextFrame" : "f2",
+      "frames" : "2"
+    },
+    "order" : "0",
+    "f2" : {
+      "start" : {
+        "x" : "-3",
+        "y" : "-15.95",
+        "rotation" : "-30.05",
+        "scaleX" : "-1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "effect_knife_7.png"
+      },
+      "nextFrame" : "f11",
+      "frames" : "10"
+    },
+    "f11" : {
+      "start" : {
+        "x" : "-50.4",
+        "y" : "9.75",
+        "rotation" : "-103.32",
+        "scaleX" : "-1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "effect_knife_7.png"
+      },
+      "nextFrame" : "f12",
+      "frames" : "2"
+    },
+    "f12" : {
+      "start" : {
+        "x" : "-22.55",
+        "y" : "5.5",
+        "rotation" : "-62.44",
+        "scaleX" : "-1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "effect_knife_7.png"
+      },
+      "nextFrame" : "f14",
+      "frames" : "3"
+    },
+    "f14" : {
+      "start" : {
+        "x" : "1",
+        "y" : "-14.5",
+        "rotation" : "-34.21",
+        "scaleX" : "-0.24",
+        "scaleY" : "0.24",
+        "opacity" : "255",
+        "png" : "effect_knife_7.png"
+      },
+      "nextFrame" : "f15",
+      "frames" : "2"
+    },
+    "f15" : {
+      "start" : {
+        "x" : "-4.4",
+        "y" : "3.25",
+        "rotation" : "-47.4",
+        "scaleX" : "-1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "effect_knife_7.png"
+      },
+      "nextFrame" : "f16",
+      "frames" : "2"
+    },
+    "f16" : {
+      "start" : {
+        "x" : "-20.05",
+        "y" : "13.3",
+        "rotation" : "-56.4",
+        "scaleX" : "-1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "effect_knife_7.png"
+      },
+      "nextFrame" : "f24",
+      "frames" : "9"
+    },
+    "f24" : {
+      "start" : {
+        "x" : "-0.55",
+        "y" : "-11.95",
+        "rotation" : "-39.13",
+        "scaleX" : "-1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "effect_knife_7.png"
+      }
+    }
+  },
+  "events" : {
+    "f27" : "forever"
+  },
+  "scale" : "1",
+  "png" : "effect_knife.png"
+}

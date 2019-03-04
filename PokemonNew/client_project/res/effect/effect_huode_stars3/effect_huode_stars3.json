@@ -1,0 +1,46 @@
+{
+  "图层 1_1" : {
+    "f1" : {
+      "start" : {
+        "x" : "-0.5",
+        "y" : "-1",
+        "rotation" : "0",
+        "scaleX" : "0.22",
+        "scaleY" : "0.22",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f27",
+      "frames" : "27"
+    },
+    "effect" : "effect_huode_star",
+    "useBatchNode" : "true",
+    "order" : "0",
+    "f27" : {
+      "start" : {
+        "x" : "237.8",
+        "y" : "78.05",
+        "rotation" : "0",
+        "scaleX" : "0.3",
+        "scaleY" : "0.3",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f30",
+      "frames" : "4"
+    },
+    "f30" : {
+      "start" : {
+        "x" : "248.6",
+        "y" : "75.75",
+        "rotation" : "45",
+        "scaleX" : "0.3",
+        "scaleY" : "0.3",
+        "opacity" : "0"
+      }
+    }
+  },
+  "events" : {
+    "f30" : "forever"
+  },
+  "scale" : "1",
+  "png" : ""
+}

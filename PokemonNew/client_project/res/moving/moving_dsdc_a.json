@@ -1,0 +1,131 @@
+{
+  "image_title" : {
+    "f1" : {
+      "start" : {
+        "x" : "0",
+        "y" : "-93",
+        "rotation" : "0",
+        "scaleX" : "3",
+        "scaleY" : "3",
+        "opacity" : "0"
+      },
+      "nextFrame" : "f5",
+      "frames" : "5"
+    },
+    "order" : "5",
+    "f5" : {
+      "start" : {
+        "x" : "0",
+        "y" : "-117.75",
+        "rotation" : "0",
+        "scaleX" : "0.68",
+        "scaleY" : "0.68",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f8",
+      "frames" : "4"
+    },
+    "f8" : {
+      "start" : {
+        "x" : "0",
+        "y" : "-93",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    }
+  },
+  "effect_star" : {
+    "f8" : {
+      "start" : {
+        "x" : "0.6",
+        "y" : "-2.2",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    },
+    "order" : "4"
+  },
+  "effect_shine" : {
+    "f5" : {
+      "start" : {
+        "x" : "-5.95",
+        "y" : "-97.65",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "0"
+      },
+      "nextFrame" : "f8",
+      "frames" : "4"
+    },
+    "order" : "3",
+    "f8" : {
+      "start" : {
+        "x" : "-5.95",
+        "y" : "-97.65",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    }
+  },
+  "frame_line" : {
+    "f1" : {
+      "start" : {
+        "x" : "5.85",
+        "y" : "-141.2",
+        "rotation" : "0",
+        "scaleX" : "1.06",
+        "scaleY" : "-1.74",
+        "opacity" : "255"
+      }
+    },
+    "order" : "2"
+  },
+  "effect_shine2" : {
+    "f5" : {
+      "start" : {
+        "x" : "-5.95",
+        "y" : "-82.15",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "0"
+      },
+      "nextFrame" : "f8",
+      "frames" : "4"
+    },
+    "order" : "1",
+    "f8" : {
+      "start" : {
+        "x" : "-5.95",
+        "y" : "-62.15",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1.6",
+        "opacity" : "255"
+      }
+    }
+  },
+  "txt_shine" : {
+    "f5" : {
+      "start" : {
+        "x" : "12.2",
+        "y" : "-32.75",
+        "rotation" : "0",
+        "scaleX" : "1.49",
+        "scaleY" : "0.57",
+        "opacity" : "255"
+      }
+    },
+    "order" : "0"
+  },
+  "events" : {
+    "f96" : "finish"
+  }
+}

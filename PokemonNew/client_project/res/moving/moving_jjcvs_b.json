@@ -1,0 +1,123 @@
+{
+  "node_first" : {
+    "f24" : {
+      "start" : {
+        "x" : "-90",
+        "y" : "-126.5",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    },
+    "order" : "3",
+    "f58" : {
+      "start" : {
+        "x" : "-90",
+        "y" : "-126.5",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f60",
+      "frames" : "3"
+    },
+    "f60" : {
+      "start" : {
+        "x" : "-128",
+        "y" : "-126.5",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "0"
+      }
+    }
+  },
+  "node_vs" : {
+    "f1" : {
+      "start" : {
+        "x" : "5",
+        "y" : "-22.5",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    },
+    "order" : "2"
+  },
+  "node_lf" : {
+    "f9" : {
+      "start" : {
+        "x" : "-62.5",
+        "y" : "-122",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    },
+    "order" : "1",
+    "f59" : {
+      "start" : {
+        "x" : "-62.5",
+        "y" : "-122",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f62",
+      "frames" : "4"
+    },
+    "f62" : {
+      "start" : {
+        "x" : "-192.5",
+        "y" : "-122",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "0"
+      }
+    }
+  },
+  "node_rt" : {
+    "f9" : {
+      "start" : {
+        "x" : "-468",
+        "y" : "82.5",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    },
+    "order" : "0",
+    "f59" : {
+      "start" : {
+        "x" : "-468",
+        "y" : "82.5",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f62",
+      "frames" : "4"
+    },
+    "f62" : {
+      "start" : {
+        "x" : "-388",
+        "y" : "82.5",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "0"
+      }
+    }
+  },
+  "events" : {
+    "f67" : "finish"
+  }
+}

@@ -1,0 +1,136 @@
+{
+  "03法宝-小受鸡1-3 复制_0" : {
+    "f1" : {
+      "start" : {
+        "x" : "-4.95",
+        "y" : "-44.6",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "sp_base_083_1.png"
+      }
+    },
+    "order" : "0",
+    "f2" : {
+      "start" : {
+        "x" : "-3.75",
+        "y" : "-21.5",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "sp_base_083_2.png"
+      }
+    },
+    "f3" : {
+      "start" : {
+        "x" : "-6.4",
+        "y" : "-17.75",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "sp_base_083_3.png"
+      }
+    },
+    "f5" : {
+      "start" : {
+        "x" : "-7",
+        "y" : "-9.9",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "sp_base_083_4.png"
+      }
+    },
+    "f7" : {
+      "start" : {
+        "x" : "-8",
+        "y" : "-1.5",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "sp_base_083_5.png"
+      }
+    },
+    "f9" : {
+      "start" : {
+        "x" : "-0.75",
+        "y" : "0.15",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "sp_base_083_6.png"
+      }
+    },
+    "f11" : {
+      "start" : {
+        "x" : "-10.4",
+        "y" : "-27.05",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "sp_base_083_7.png"
+      }
+    },
+    "f13" : {
+      "start" : {
+        "x" : "-3.8",
+        "y" : "-28.15",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "sp_base_083_8.png"
+      }
+    },
+    "f15" : {
+      "start" : {
+        "x" : "-0.7",
+        "y" : "-27",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "sp_base_083_9.png"
+      }
+    },
+    "f17" : {
+      "start" : {
+        "x" : "-4",
+        "y" : "-27",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "sp_base_083_10.png"
+      },
+      "nextFrame" : "f20",
+      "frames" : "4"
+    },
+    "f20" : {
+      "start" : {
+        "x" : "-4",
+        "y" : "-27",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "0",
+        "png" : "sp_base_083_10.png"
+      }
+    },
+    "f21" : {
+      "remove" : "1"
+    }
+  },
+  "events" : {
+    "f22" : "finish"
+  },
+  "scale" : "1",
+  "png" : "sp_base_083.png"
+}

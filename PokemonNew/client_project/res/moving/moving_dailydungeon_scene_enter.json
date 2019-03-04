@@ -1,0 +1,80 @@
+{
+  "pantao_bj2" : {
+    "f5" : {
+      "start" : {
+        "x" : "-275",
+        "y" : "127",
+        "rotation" : "0",
+        "scaleX" : "1.1",
+        "scaleY" : "1.1",
+        "opacity" : "0"
+      },
+      "nextFrame" : "f13",
+      "frames" : "9"
+    },
+    "order" : "2",
+    "f13" : {
+      "start" : {
+        "x" : "-202",
+        "y" : "124",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    }
+  },
+  "pantao_bj1" : {
+    "f3" : {
+      "start" : {
+        "x" : "366",
+        "y" : "166.8",
+        "rotation" : "0",
+        "scaleX" : "1.1",
+        "scaleY" : "1.1",
+        "opacity" : "0"
+      },
+      "nextFrame" : "f11",
+      "frames" : "9"
+    },
+    "order" : "1",
+    "f11" : {
+      "start" : {
+        "x" : "198",
+        "y" : "181",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    }
+  },
+  "pantaobj" : {
+    "f1" : {
+      "start" : {
+        "x" : "-2.3",
+        "y" : "25",
+        "rotation" : "0",
+        "scaleX" : "1.2",
+        "scaleY" : "1.2",
+        "opacity" : "0"
+      },
+      "nextFrame" : "f11",
+      "frames" : "11"
+    },
+    "order" : "0",
+    "f11" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    }
+  },
+  "events" : {
+    "f63" : "finish"
+  }
+}

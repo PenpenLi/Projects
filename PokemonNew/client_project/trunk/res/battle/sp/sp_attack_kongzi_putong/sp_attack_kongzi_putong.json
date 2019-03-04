@@ -1,0 +1,115 @@
+{
+  "图层 2_0" : {
+    "f1" : {
+      "start" : {
+        "x" : "-1.85",
+        "y" : "-3.15",
+        "rotation" : "0",
+        "scaleX" : "0.61",
+        "scaleY" : "0.3",
+        "color" : {
+          "alpha_original" : "1",
+          "alpha" : "0",
+          "red_original" : "1",
+          "red" : "0",
+          "green_original" : "1",
+          "green" : "255",
+          "blue_original" : "1",
+          "blue" : "-149"
+        }
+      },
+      "nextFrame" : "f3",
+      "frames" : "3"
+    },
+    "sp" : "sp_base_168",
+    "useBatchNode" : "false",
+    "first_frame" : "25",
+    "loop" : "play once",
+    "order" : "0",
+    "f3" : {
+      "start" : {
+        "x" : "-1.85",
+        "y" : "-3.15",
+        "rotation" : "0",
+        "scaleX" : "1.09",
+        "scaleY" : "0.53",
+        "color" : {
+          "alpha_original" : "1",
+          "alpha" : "0",
+          "red_original" : "1",
+          "red" : "0",
+          "green_original" : "1",
+          "green" : "255",
+          "blue_original" : "1",
+          "blue" : "-149"
+        }
+      },
+      "nextFrame" : "f5",
+      "frames" : "3"
+    },
+    "f5" : {
+      "start" : {
+        "x" : "-1.85",
+        "y" : "-3.15",
+        "rotation" : "0",
+        "scaleX" : "1.03",
+        "scaleY" : "0.5",
+        "color" : {
+          "alpha_original" : "1",
+          "alpha" : "0",
+          "red_original" : "1",
+          "red" : "0",
+          "green_original" : "1",
+          "green" : "255",
+          "blue_original" : "1",
+          "blue" : "-149"
+        }
+      }
+    },
+    "f20" : {
+      "start" : {
+        "x" : "-1.85",
+        "y" : "-3.15",
+        "rotation" : "0",
+        "scaleX" : "1.03",
+        "scaleY" : "0.5",
+        "color" : {
+          "alpha_original" : "1",
+          "alpha" : "0",
+          "red_original" : "1",
+          "red" : "0",
+          "green_original" : "1",
+          "green" : "255",
+          "blue_original" : "1",
+          "blue" : "-149"
+        }
+      },
+      "nextFrame" : "f23",
+      "frames" : "4"
+    },
+    "f23" : {
+      "start" : {
+        "x" : "-1.85",
+        "y" : "-3.15",
+        "rotation" : "0",
+        "scaleX" : "0.76",
+        "scaleY" : "0.37",
+        "color" : {
+          "alpha_original" : "0",
+          "alpha" : "0",
+          "red_original" : "1",
+          "red" : "0",
+          "green_original" : "1",
+          "green" : "255",
+          "blue_original" : "1",
+          "blue" : "-149"
+        }
+      }
+    }
+  },
+  "events" : {
+    "f24" : "finish"
+  },
+  "scale" : "1",
+  "png" : ""
+}

@@ -1,0 +1,54 @@
+{
+  "图层 3_0" : {
+    "f1" : {
+      "start" : {
+        "x" : "39.15",
+        "y" : "96.2",
+        "rotation" : "-35.49",
+        "scaleX" : "1.72",
+        "scaleY" : "1.72",
+        "color" : {
+          "alpha_original" : "1",
+          "alpha" : "0",
+          "red_original" : "0",
+          "red" : "255",
+          "green_original" : "0",
+          "green" : "255",
+          "blue_original" : "0",
+          "blue" : "255"
+        }
+      },
+      "nextFrame" : "f4",
+      "frames" : "4"
+    },
+    "sp" : "sp_base_365",
+    "useBatchNode" : "false",
+    "order" : "0",
+    "f4" : {
+      "start" : {
+        "x" : "39.15",
+        "y" : "96.2",
+        "rotation" : "-35.49",
+        "scaleX" : "1.72",
+        "scaleY" : "1.72",
+        "color" : {
+          "alpha_original" : "1",
+          "alpha" : "0",
+          "red_original" : "1",
+          "red" : "0",
+          "green_original" : "1",
+          "green" : "0",
+          "blue_original" : "1",
+          "blue" : "233"
+        }
+      }
+    },
+    "first_frame" : "4",
+    "loop" : "play once"
+  },
+  "events" : {
+    "f21" : "finish"
+  },
+  "scale" : "1",
+  "png" : ""
+}

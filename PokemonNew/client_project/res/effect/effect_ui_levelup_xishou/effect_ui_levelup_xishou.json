@@ -1,0 +1,46 @@
+{
+  "图层 1_0" : {
+    "f1" : {
+      "start" : {
+        "x" : "19.4",
+        "y" : "-1.85",
+        "rotation" : "25.48",
+        "scaleX" : "1.35",
+        "scaleY" : "1.1",
+        "opacity" : "255"
+      }
+    },
+    "effect" : "effect_ui_level_zhakaiquan",
+    "useBatchNode" : "true",
+    "order" : "0",
+    "f4" : {
+      "start" : {
+        "x" : "19.4",
+        "y" : "-1.85",
+        "rotation" : "25.48",
+        "scaleX" : "1.35",
+        "scaleY" : "1.1",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f8",
+      "frames" : "5"
+    },
+    "first_frame" : "8",
+    "loop" : "play once",
+    "f8" : {
+      "start" : {
+        "x" : "19.4",
+        "y" : "-1.85",
+        "rotation" : "25.48",
+        "scaleX" : "1.35",
+        "scaleY" : "1.1",
+        "opacity" : "99"
+      }
+    }
+  },
+  "events" : {
+    "f18" : "finish"
+  },
+  "scale" : "1",
+  "png" : ""
+}

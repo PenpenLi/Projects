@@ -1,0 +1,79 @@
+{
+  "base_layer" : {
+    "f1" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    }
+  },
+  "card_layer" : {
+    "f1" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    }
+  },
+  "sp_stage_center_layer" : {
+
+  },
+  "sp_up_layer" : {
+    "f1" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "0.9",
+        "scaleY" : "0.9",
+        "opacity" : "255"
+      }
+    },
+    "useBatchNode" : "true",
+    "spId" : "sp_attack_caocao_xuli1"
+  },
+  "sp_down_layer" : {
+    "f24" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "0.9",
+        "scaleY" : "0.9",
+        "opacity" : "255"
+      }
+    },
+    "useBatchNode" : "true",
+    "spId" : "sp_attack_caocao_xuli_2"
+  },
+  "events" : {
+    "f1" : "flicker_tween_cont_caocao_xuli",
+    "f26" : "shake",
+    "f32" : "shake",
+    "f38" : "shake",
+    "f44" : "shake",
+    "f51" : "shake",
+    "f69" : "shake",
+    "f73" : "shake",
+    "f76" : "hit",
+    "f77" : "hurt",
+    "f78" : "shake",
+    "f84" : "hurt",
+    "f85" : "shake",
+    "f91" : "hurt",
+    "f92" : "shake",
+    "f98" : "hurt",
+    "f99" : "shake",
+    "f105" : "hurt",
+    "f106" : "shake",
+    "f123" : "finish"
+  }
+}

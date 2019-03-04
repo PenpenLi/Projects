@@ -1,0 +1,76 @@
+{
+  "words_0" : {
+    "f351" : {
+      "start" : {
+        "x" : "22.85",
+        "y" : "-230",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    },
+    "effect" : "effect_84",
+    "useBatchNode" : "true",
+    "order" : "3"
+  },
+  "words_1" : {
+    "f254" : {
+      "start" : {
+        "x" : "22.85",
+        "y" : "-230",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    },
+    "effect" : "effect_83",
+    "useBatchNode" : "true",
+    "order" : "2",
+    "f342" : {
+      "remove" : "1"
+    }
+  },
+  "words_2" : {
+    "f102" : {
+      "start" : {
+        "x" : "22.85",
+        "y" : "-230",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    },
+    "effect" : "effect_82",
+    "useBatchNode" : "true",
+    "order" : "1",
+    "f254" : {
+      "remove" : "1"
+    }
+  },
+  "words_3" : {
+    "f1" : {
+      "start" : {
+        "x" : "5.05",
+        "y" : "324",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    },
+    "effect" : "effect_80",
+    "useBatchNode" : "true",
+    "order" : "0",
+    "f102" : {
+      "remove" : "1"
+    }
+  },
+  "events" : {
+    "f442" : "finish"
+  },
+  "scale" : "1",
+  "png" : ""
+}

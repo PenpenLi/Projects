@@ -1,0 +1,34 @@
+{
+  "图层 1_1" : {
+    "f1" : {
+      "start" : {
+        "x" : "-676.9",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f2400",
+      "frames" : "2400"
+    },
+    "effect" : "effect_mainctiy_yungroup3",
+    "useBatchNode" : "true",
+    "order" : "0",
+    "f2400" : {
+      "start" : {
+        "x" : "-2636.9",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    }
+  },
+  "events" : {
+    "f2400" : "forever"
+  },
+  "scale" : "1",
+  "png" : ""
+}

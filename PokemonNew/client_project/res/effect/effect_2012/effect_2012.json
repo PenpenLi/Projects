@@ -1,0 +1,100 @@
+{
+  "图层 5_1" : {
+    "f1" : {
+      "start" : {
+        "x" : "-4.3",
+        "y" : "-389.3",
+        "rotation" : "0",
+        "scaleX" : "9.65",
+        "scaleY" : "9.65",
+        "opacity" : "232",
+        "png" : "effect_2012_1.png"
+      },
+      "nextFrame" : "f10",
+      "frames" : "10"
+    },
+    "order" : "1",
+    "f10" : {
+      "start" : {
+        "x" : "-3.4",
+        "y" : "-306.5",
+        "rotation" : "0",
+        "scaleX" : "8.5",
+        "scaleY" : "8.5",
+        "opacity" : "38",
+        "png" : "effect_2012_1.png"
+      },
+      "nextFrame" : "f11",
+      "frames" : "2"
+    },
+    "f11" : {
+      "start" : {
+        "x" : "-5.85",
+        "y" : "-530.45",
+        "rotation" : "0",
+        "scaleX" : "11.61",
+        "scaleY" : "11.61",
+        "opacity" : "25",
+        "png" : "effect_2012_1.png"
+      },
+      "nextFrame" : "f20",
+      "frames" : "10"
+    },
+    "f20" : {
+      "start" : {
+        "x" : "-4.4",
+        "y" : "-398.6",
+        "rotation" : "0",
+        "scaleX" : "9.78",
+        "scaleY" : "9.78",
+        "opacity" : "255",
+        "png" : "effect_2012_1.png"
+      }
+    }
+  },
+  "图层 1_2" : {
+    "f1" : {
+      "start" : {
+        "x" : "-5.85",
+        "y" : "-530.4",
+        "rotation" : "0",
+        "scaleX" : "11.61",
+        "scaleY" : "11.61",
+        "opacity" : "25",
+        "png" : "effect_2012_1.png"
+      },
+      "nextFrame" : "f10",
+      "frames" : "10"
+    },
+    "order" : "0",
+    "f10" : {
+      "start" : {
+        "x" : "-4.4",
+        "y" : "-398.6",
+        "rotation" : "0",
+        "scaleX" : "9.78",
+        "scaleY" : "9.78",
+        "opacity" : "255",
+        "png" : "effect_2012_1.png"
+      },
+      "nextFrame" : "f20",
+      "frames" : "11"
+    },
+    "f20" : {
+      "start" : {
+        "x" : "-3.4",
+        "y" : "-306.5",
+        "rotation" : "0",
+        "scaleX" : "8.5",
+        "scaleY" : "8.5",
+        "opacity" : "38",
+        "png" : "effect_2012_1.png"
+      }
+    }
+  },
+  "events" : {
+    "f20" : "forever"
+  },
+  "scale" : "1",
+  "png" : "effect_2012.png"
+}

@@ -1,0 +1,677 @@
+{
+  "图层 2_0" : {
+    "f63" : {
+      "start" : {
+        "x" : "13.4",
+        "y" : "322.05",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    },
+    "effect" : "effect_62",
+    "useBatchNode" : "true",
+    "order" : "10"
+  },
+  "图层 7_1" : {
+    "f1" : {
+      "start" : {
+        "x" : "-77.6",
+        "y" : "506.4",
+        "rotation" : "0",
+        "scaleX" : "4.55",
+        "scaleY" : "5.53",
+        "opacity" : "255"
+      }
+    },
+    "effect" : "effect_2003",
+    "useBatchNode" : "true",
+    "order" : "9"
+  },
+  "图层 6_2" : {
+    "f1" : {
+      "start" : {
+        "x" : "-581.55",
+        "y" : "576.9",
+        "rotation" : "0",
+        "scaleX" : "4.51",
+        "scaleY" : "5.53",
+        "opacity" : "255"
+      }
+    },
+    "effect" : "effect_2003",
+    "useBatchNode" : "true",
+    "order" : "8"
+  },
+  "图层 3_3" : {
+    "f54" : {
+      "start" : {
+        "x" : "-308.05",
+        "y" : "-609.2",
+        "rotation" : "-12.89",
+        "scaleX" : "1.54",
+        "scaleY" : "1.62",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f63",
+      "frames" : "10"
+    },
+    "effect" : "effect_63",
+    "useBatchNode" : "true",
+    "order" : "7",
+    "f63" : {
+      "start" : {
+        "x" : "-112.05",
+        "y" : "-324.6",
+        "rotation" : "-12.89",
+        "scaleX" : "1.24",
+        "scaleY" : "1.3",
+        "opacity" : "255"
+      }
+    }
+  },
+  "图层 4_4" : {
+    "f54" : {
+      "start" : {
+        "x" : "301",
+        "y" : "-640.65",
+        "rotation" : "11.55",
+        "scaleX" : "1.21",
+        "scaleY" : "1.21",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f63",
+      "frames" : "10"
+    },
+    "effect" : "effect_65",
+    "useBatchNode" : "true",
+    "order" : "6",
+    "f63" : {
+      "start" : {
+        "x" : "165.75",
+        "y" : "-370.65",
+        "rotation" : "11.54",
+        "scaleX" : "0.83",
+        "scaleY" : "0.83",
+        "opacity" : "255"
+      }
+    }
+  },
+  "name_5" : {
+    "f1" : {
+      "start" : {
+        "x" : "-215.7",
+        "y" : "201.9",
+        "rotation" : "0",
+        "scaleX" : "1.1",
+        "scaleY" : "1.1",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f2",
+      "frames" : "2"
+    },
+    "effect" : "effect_67",
+    "useBatchNode" : "true",
+    "order" : "5",
+    "f2" : {
+      "start" : {
+        "x" : "-215.7",
+        "y" : "211.15",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f3",
+      "frames" : "2"
+    },
+    "f3" : {
+      "start" : {
+        "x" : "-215.7",
+        "y" : "220.4",
+        "rotation" : "0",
+        "scaleX" : "0.9",
+        "scaleY" : "0.9",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f5",
+      "frames" : "3"
+    },
+    "f5" : {
+      "start" : {
+        "x" : "-215.7",
+        "y" : "220.4",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    },
+    "f63" : {
+      "remove" : "1"
+    }
+  },
+  "sdx_6" : {
+    "f1" : {
+      "start" : {
+        "x" : "0",
+        "y" : "-0.25",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    },
+    "effect" : "effect_3",
+    "useBatchNode" : "true",
+    "order" : "4"
+  },
+  "饕餮_7" : {
+    "f1" : {
+      "start" : {
+        "x" : "-425.15",
+        "y" : "336.4",
+        "rotation" : "0",
+        "scaleX" : "1.39",
+        "scaleY" : "1.39",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f5",
+      "frames" : "5"
+    },
+    "effect" : "effect_68",
+    "useBatchNode" : "true",
+    "order" : "3",
+    "f5" : {
+      "start" : {
+        "x" : "-536.5",
+        "y" : "336.6",
+        "rotation" : "0",
+        "scaleX" : "1.74",
+        "scaleY" : "1.74",
+        "opacity" : "255"
+      }
+    },
+    "f54" : {
+      "start" : {
+        "x" : "-536.5",
+        "y" : "336.6",
+        "rotation" : "0",
+        "scaleX" : "1.74",
+        "scaleY" : "1.74",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f63",
+      "frames" : "10"
+    },
+    "f63" : {
+      "start" : {
+        "x" : "-337.3",
+        "y" : "240.5",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f135",
+      "frames" : "73"
+    },
+    "f135" : {
+      "start" : {
+        "x" : "-338.3",
+        "y" : "256.3",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    }
+  },
+  "光柱_8" : {
+    "f1" : {
+      "start" : {
+        "x" : "8.5",
+        "y" : "16.05",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    },
+    "effect" : "effect_61",
+    "useBatchNode" : "true",
+    "order" : "2"
+  },
+  "图层 5_9" : {
+    "f1" : {
+      "start" : {
+        "x" : "-30.1",
+        "y" : "86.15",
+        "rotation" : "0",
+        "scaleX" : "20.58",
+        "scaleY" : "27.55",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f5",
+      "frames" : "5"
+    },
+    "effect" : "effect_8887",
+    "useBatchNode" : "true",
+    "order" : "1",
+    "f5" : {
+      "start" : {
+        "x" : "-30.1",
+        "y" : "86.15",
+        "rotation" : "0",
+        "scaleX" : "20.58",
+        "scaleY" : "27.55",
+        "opacity" : "150"
+      },
+      "nextFrame" : "f9",
+      "frames" : "5"
+    },
+    "f9" : {
+      "start" : {
+        "x" : "-30.1",
+        "y" : "86.15",
+        "rotation" : "0",
+        "scaleX" : "20.58",
+        "scaleY" : "27.55",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f13",
+      "frames" : "5"
+    },
+    "f13" : {
+      "start" : {
+        "x" : "-30.1",
+        "y" : "86.15",
+        "rotation" : "0",
+        "scaleX" : "20.58",
+        "scaleY" : "27.55",
+        "opacity" : "150"
+      },
+      "nextFrame" : "f17",
+      "frames" : "5"
+    },
+    "f17" : {
+      "start" : {
+        "x" : "-30.1",
+        "y" : "86.15",
+        "rotation" : "0",
+        "scaleX" : "20.58",
+        "scaleY" : "27.55",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f21",
+      "frames" : "5"
+    },
+    "f21" : {
+      "start" : {
+        "x" : "-30.1",
+        "y" : "86.15",
+        "rotation" : "0",
+        "scaleX" : "20.58",
+        "scaleY" : "27.55",
+        "opacity" : "150"
+      },
+      "nextFrame" : "f25",
+      "frames" : "5"
+    },
+    "f25" : {
+      "start" : {
+        "x" : "-30.1",
+        "y" : "86.15",
+        "rotation" : "0",
+        "scaleX" : "20.58",
+        "scaleY" : "27.55",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f29",
+      "frames" : "5"
+    },
+    "f29" : {
+      "start" : {
+        "x" : "-30.1",
+        "y" : "86.15",
+        "rotation" : "0",
+        "scaleX" : "20.58",
+        "scaleY" : "27.55",
+        "opacity" : "150"
+      },
+      "nextFrame" : "f33",
+      "frames" : "5"
+    },
+    "f33" : {
+      "start" : {
+        "x" : "-30.1",
+        "y" : "86.15",
+        "rotation" : "0",
+        "scaleX" : "20.58",
+        "scaleY" : "27.55",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f37",
+      "frames" : "5"
+    },
+    "f37" : {
+      "start" : {
+        "x" : "-30.1",
+        "y" : "86.15",
+        "rotation" : "0",
+        "scaleX" : "20.58",
+        "scaleY" : "27.55",
+        "opacity" : "150"
+      },
+      "nextFrame" : "f41",
+      "frames" : "5"
+    },
+    "f41" : {
+      "start" : {
+        "x" : "-30.1",
+        "y" : "86.15",
+        "rotation" : "0",
+        "scaleX" : "20.58",
+        "scaleY" : "27.55",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f45",
+      "frames" : "5"
+    },
+    "f45" : {
+      "start" : {
+        "x" : "-30.1",
+        "y" : "86.15",
+        "rotation" : "0",
+        "scaleX" : "20.58",
+        "scaleY" : "27.55",
+        "opacity" : "150"
+      },
+      "nextFrame" : "f49",
+      "frames" : "5"
+    },
+    "f49" : {
+      "start" : {
+        "x" : "-30.1",
+        "y" : "86.15",
+        "rotation" : "0",
+        "scaleX" : "20.58",
+        "scaleY" : "27.55",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f53",
+      "frames" : "5"
+    },
+    "f53" : {
+      "start" : {
+        "x" : "-30.1",
+        "y" : "86.15",
+        "rotation" : "0",
+        "scaleX" : "20.58",
+        "scaleY" : "27.55",
+        "opacity" : "150"
+      },
+      "nextFrame" : "f57",
+      "frames" : "5"
+    },
+    "f57" : {
+      "start" : {
+        "x" : "-30.1",
+        "y" : "86.15",
+        "rotation" : "0",
+        "scaleX" : "20.58",
+        "scaleY" : "27.55",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f61",
+      "frames" : "5"
+    },
+    "f61" : {
+      "start" : {
+        "x" : "-30.1",
+        "y" : "86.15",
+        "rotation" : "0",
+        "scaleX" : "20.58",
+        "scaleY" : "27.55",
+        "opacity" : "150"
+      },
+      "nextFrame" : "f65",
+      "frames" : "5"
+    },
+    "f65" : {
+      "start" : {
+        "x" : "-30.1",
+        "y" : "86.15",
+        "rotation" : "0",
+        "scaleX" : "20.58",
+        "scaleY" : "27.55",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f69",
+      "frames" : "5"
+    },
+    "f69" : {
+      "start" : {
+        "x" : "-30.1",
+        "y" : "86.15",
+        "rotation" : "0",
+        "scaleX" : "20.58",
+        "scaleY" : "27.55",
+        "opacity" : "150"
+      },
+      "nextFrame" : "f73",
+      "frames" : "5"
+    },
+    "f73" : {
+      "start" : {
+        "x" : "-30.1",
+        "y" : "86.15",
+        "rotation" : "0",
+        "scaleX" : "20.58",
+        "scaleY" : "27.55",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f77",
+      "frames" : "5"
+    },
+    "f77" : {
+      "start" : {
+        "x" : "-30.1",
+        "y" : "86.15",
+        "rotation" : "0",
+        "scaleX" : "20.58",
+        "scaleY" : "27.55",
+        "opacity" : "150"
+      },
+      "nextFrame" : "f81",
+      "frames" : "5"
+    },
+    "f81" : {
+      "start" : {
+        "x" : "-30.1",
+        "y" : "86.15",
+        "rotation" : "0",
+        "scaleX" : "20.58",
+        "scaleY" : "27.55",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f85",
+      "frames" : "5"
+    },
+    "f85" : {
+      "start" : {
+        "x" : "-30.1",
+        "y" : "86.15",
+        "rotation" : "0",
+        "scaleX" : "20.58",
+        "scaleY" : "27.55",
+        "opacity" : "150"
+      },
+      "nextFrame" : "f89",
+      "frames" : "5"
+    },
+    "f89" : {
+      "start" : {
+        "x" : "-30.1",
+        "y" : "86.15",
+        "rotation" : "0",
+        "scaleX" : "20.58",
+        "scaleY" : "27.55",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f93",
+      "frames" : "5"
+    },
+    "f93" : {
+      "start" : {
+        "x" : "-30.1",
+        "y" : "86.15",
+        "rotation" : "0",
+        "scaleX" : "20.58",
+        "scaleY" : "27.55",
+        "opacity" : "150"
+      },
+      "nextFrame" : "f97",
+      "frames" : "5"
+    },
+    "f97" : {
+      "start" : {
+        "x" : "-30.1",
+        "y" : "86.15",
+        "rotation" : "0",
+        "scaleX" : "20.58",
+        "scaleY" : "27.55",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f101",
+      "frames" : "5"
+    },
+    "f101" : {
+      "start" : {
+        "x" : "-30.1",
+        "y" : "86.15",
+        "rotation" : "0",
+        "scaleX" : "20.58",
+        "scaleY" : "27.55",
+        "opacity" : "150"
+      },
+      "nextFrame" : "f105",
+      "frames" : "5"
+    },
+    "f105" : {
+      "start" : {
+        "x" : "-30.1",
+        "y" : "86.15",
+        "rotation" : "0",
+        "scaleX" : "20.58",
+        "scaleY" : "27.55",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f109",
+      "frames" : "5"
+    },
+    "f109" : {
+      "start" : {
+        "x" : "-30.1",
+        "y" : "86.15",
+        "rotation" : "0",
+        "scaleX" : "20.58",
+        "scaleY" : "27.55",
+        "opacity" : "150"
+      },
+      "nextFrame" : "f113",
+      "frames" : "5"
+    },
+    "f113" : {
+      "start" : {
+        "x" : "-30.1",
+        "y" : "86.15",
+        "rotation" : "0",
+        "scaleX" : "20.58",
+        "scaleY" : "27.55",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f117",
+      "frames" : "5"
+    },
+    "f117" : {
+      "start" : {
+        "x" : "-30.1",
+        "y" : "86.15",
+        "rotation" : "0",
+        "scaleX" : "20.58",
+        "scaleY" : "27.55",
+        "opacity" : "150"
+      },
+      "nextFrame" : "f121",
+      "frames" : "5"
+    },
+    "f121" : {
+      "start" : {
+        "x" : "-30.1",
+        "y" : "86.15",
+        "rotation" : "0",
+        "scaleX" : "20.58",
+        "scaleY" : "27.55",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f125",
+      "frames" : "5"
+    },
+    "f125" : {
+      "start" : {
+        "x" : "-30.1",
+        "y" : "86.15",
+        "rotation" : "0",
+        "scaleX" : "20.58",
+        "scaleY" : "27.55",
+        "opacity" : "150"
+      },
+      "nextFrame" : "f129",
+      "frames" : "5"
+    },
+    "f129" : {
+      "start" : {
+        "x" : "-30.1",
+        "y" : "86.15",
+        "rotation" : "0",
+        "scaleX" : "20.58",
+        "scaleY" : "27.55",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f133",
+      "frames" : "5"
+    },
+    "f133" : {
+      "start" : {
+        "x" : "-30.1",
+        "y" : "86.15",
+        "rotation" : "0",
+        "scaleX" : "20.58",
+        "scaleY" : "27.55",
+        "opacity" : "150"
+      }
+    }
+  },
+  "bg_10" : {
+    "f1" : {
+      "start" : {
+        "x" : "-143.75",
+        "y" : "100.7",
+        "rotation" : "0",
+        "scaleX" : "1.12",
+        "scaleY" : "1.12",
+        "opacity" : "255"
+      }
+    },
+    "effect" : "effect_39",
+    "useBatchNode" : "true",
+    "order" : "0"
+  },
+  "events" : {
+    "f136" : "finish"
+  },
+  "scale" : "1",
+  "png" : ""
+}

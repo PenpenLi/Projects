@@ -1,0 +1,103 @@
+{
+  "card" : {
+    "f1" : {
+      "start" : {
+        "x" : "1",
+        "y" : "8.5",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f40",
+      "frames" : "40"
+    },
+    "order" : "1",
+    "f40" : {
+      "start" : {
+        "x" : "1",
+        "y" : "18.5",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f82",
+      "frames" : "43"
+    },
+    "f82" : {
+      "start" : {
+        "x" : "1",
+        "y" : "8.5",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f131",
+      "frames" : "50"
+    },
+    "f131" : {
+      "start" : {
+        "x" : "1",
+        "y" : "18.5",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f188",
+      "frames" : "58"
+    },
+    "f188" : {
+      "start" : {
+        "x" : "1",
+        "y" : "8.5",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f244",
+      "frames" : "57"
+    },
+    "f244" : {
+      "start" : {
+        "x" : "1",
+        "y" : "18.5",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f300",
+      "frames" : "57"
+    },
+    "f300" : {
+      "start" : {
+        "x" : "1",
+        "y" : "8.5",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    }
+  },
+  "buffEffect" : {
+    "f1" : {
+      "start" : {
+        "x" : "-1",
+        "y" : "-3.5",
+        "rotation" : "0",
+        "scaleX" : "1.73",
+        "scaleY" : "1.73",
+        "opacity" : "255"
+      }
+    },
+    "order" : "0"
+  },
+  "events" : {
+    "f300" : "forever"
+  }
+}

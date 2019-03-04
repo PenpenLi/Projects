@@ -1,0 +1,88 @@
+{
+  "图层 2_1" : {
+    "f1" : {
+      "start" : {
+        "x" : "10.3",
+        "y" : "170.25",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f25",
+      "frames" : "25"
+    },
+    "effect" : "effect_chouka_5",
+    "useBatchNode" : "true",
+    "order" : "1",
+    "f25" : {
+      "start" : {
+        "x" : "10.3",
+        "y" : "162.25",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f60",
+      "frames" : "36"
+    },
+    "first_frame" : "20",
+    "loop" : "loop",
+    "f60" : {
+      "start" : {
+        "x" : "10.3",
+        "y" : "170.25",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    }
+  },
+  "b.png_2" : {
+    "f1" : {
+      "start" : {
+        "x" : "-8.2",
+        "y" : "63.05",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "effect_chouka_4_1.png"
+      },
+      "nextFrame" : "f25",
+      "frames" : "25"
+    },
+    "order" : "0",
+    "f25" : {
+      "start" : {
+        "x" : "-8.2",
+        "y" : "55.05",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "effect_chouka_4_1.png"
+      },
+      "nextFrame" : "f60",
+      "frames" : "36"
+    },
+    "f60" : {
+      "start" : {
+        "x" : "-8.2",
+        "y" : "63.05",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "effect_chouka_4_1.png"
+      }
+    }
+  },
+  "events" : {
+    "f60" : "forever"
+  },
+  "scale" : "1",
+  "png" : "effect_chouka_4.png"
+}

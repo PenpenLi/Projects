@@ -1,0 +1,192 @@
+{
+  "图层 2_0" : {
+    "f21" : {
+      "start" : {
+        "x" : "32.3",
+        "y" : "215.6",
+        "rotation" : "-51.15",
+        "scaleX" : "0.95",
+        "scaleY" : "0.95",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f24",
+      "frames" : "4"
+    },
+    "sp" : "sp_base_141",
+    "useBatchNode" : "true",
+    "order" : "1",
+    "f24" : {
+      "start" : {
+        "x" : "250.75",
+        "y" : "90.35",
+        "rotation" : "-52.33",
+        "scaleX" : "0.95",
+        "scaleY" : "1.82",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f30",
+      "frames" : "7"
+    },
+    "first_frame" : "13",
+    "loop" : "loop",
+    "f30" : {
+      "start" : {
+        "x" : "348.45",
+        "y" : "46.55",
+        "rotation" : "-54.6",
+        "scaleX" : "1.18",
+        "scaleY" : "1.44",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f33",
+      "frames" : "4"
+    },
+    "f33" : {
+      "start" : {
+        "x" : "348.45",
+        "y" : "46.55",
+        "rotation" : "-54.6",
+        "scaleX" : "1.18",
+        "scaleY" : "1.44",
+        "opacity" : "99"
+      }
+    },
+    "f34" : {
+      "remove" : "1"
+    }
+  },
+  "图层 3_1" : {
+    "f6" : {
+      "start" : {
+        "x" : "-2.65",
+        "y" : "79.15",
+        "rotation" : "0",
+        "scaleX" : "1.64",
+        "scaleY" : "1.4",
+        "color" : {
+          "alpha_original" : "0",
+          "alpha" : "0",
+          "red_original" : "1",
+          "red" : "0",
+          "green_original" : "1",
+          "green" : "0",
+          "blue_original" : "1",
+          "blue" : "255"
+        }
+      },
+      "nextFrame" : "f8",
+      "frames" : "3"
+    },
+    "sp" : "sp_base_332",
+    "useBatchNode" : "false",
+    "order" : "0",
+    "f8" : {
+      "start" : {
+        "x" : "-42.95",
+        "y" : "291.6",
+        "rotation" : "0",
+        "scaleX" : "2.31",
+        "scaleY" : "1.98",
+        "color" : {
+          "alpha_original" : "1",
+          "alpha" : "0",
+          "red_original" : "1",
+          "red" : "0",
+          "green_original" : "1",
+          "green" : "0",
+          "blue_original" : "1",
+          "blue" : "255"
+        }
+      }
+    },
+    "first_frame" : "4",
+    "loop" : "loop",
+    "f21" : {
+      "start" : {
+        "x" : "-42.95",
+        "y" : "291.6",
+        "rotation" : "0",
+        "scaleX" : "2.31",
+        "scaleY" : "1.98",
+        "color" : {
+          "alpha_original" : "1",
+          "alpha" : "0",
+          "red_original" : "1",
+          "red" : "0",
+          "green_original" : "1",
+          "green" : "0",
+          "blue_original" : "1",
+          "blue" : "255"
+        }
+      },
+      "nextFrame" : "f24",
+      "frames" : "4"
+    },
+    "f24" : {
+      "start" : {
+        "x" : "289.95",
+        "y" : "82.15",
+        "rotation" : "0",
+        "scaleX" : "2.31",
+        "scaleY" : "1.98",
+        "color" : {
+          "alpha_original" : "1",
+          "alpha" : "0",
+          "red_original" : "1",
+          "red" : "0",
+          "green_original" : "1",
+          "green" : "0",
+          "blue_original" : "1",
+          "blue" : "255"
+        }
+      },
+      "nextFrame" : "f30",
+      "frames" : "7"
+    },
+    "f30" : {
+      "start" : {
+        "x" : "316.25",
+        "y" : "73.35",
+        "rotation" : "0",
+        "scaleX" : "2.31",
+        "scaleY" : "1.98",
+        "color" : {
+          "alpha_original" : "1",
+          "alpha" : "0",
+          "red_original" : "1",
+          "red" : "0",
+          "green_original" : "1",
+          "green" : "0",
+          "blue_original" : "1",
+          "blue" : "255"
+        }
+      },
+      "nextFrame" : "f33",
+      "frames" : "4"
+    },
+    "f33" : {
+      "start" : {
+        "x" : "316.25",
+        "y" : "73.35",
+        "rotation" : "0",
+        "scaleX" : "2.31",
+        "scaleY" : "1.98",
+        "color" : {
+          "alpha_original" : "0",
+          "alpha" : "0",
+          "red_original" : "1",
+          "red" : "0",
+          "green_original" : "1",
+          "green" : "0",
+          "blue_original" : "1",
+          "blue" : "255"
+        }
+      }
+    }
+  },
+  "events" : {
+    "f38" : "finish"
+  },
+  "scale" : "1",
+  "png" : ""
+}

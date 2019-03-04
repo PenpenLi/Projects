@@ -1,0 +1,184 @@
+{
+  "图层 4_1" : {
+    "f14" : {
+      "start" : {
+        "x" : "-106.85",
+        "y" : "48.1",
+        "rotation" : "-45.714111328125",
+        "scaleX" : "1.8164418666076259",
+        "scaleY" : "1.8164418666076259",
+        "opacity" : "255"
+      }
+    },
+    "effect" : "effect_compose_lizi",
+    "useBatchNode" : "true",
+    "order" : "8"
+  },
+  "图层 5_2" : {
+    "f10" : {
+      "start" : {
+        "x" : "-123.6",
+        "y" : "-3.45",
+        "rotation" : "-45.71321105957031",
+        "scaleX" : "1.6229270762323953",
+        "scaleY" : "1.6229270762323953",
+        "opacity" : "255"
+      }
+    },
+    "effect" : "effect_compose_lizi",
+    "useBatchNode" : "true",
+    "order" : "7",
+    "f26" : {
+      "remove" : "1"
+    }
+  },
+  "图层 6_3" : {
+    "f1" : {
+      "start" : {
+        "x" : "-160.95",
+        "y" : "31.65",
+        "rotation" : "-45.713653564453125",
+        "scaleX" : "2.585895355137033",
+        "scaleY" : "2.585895355137033",
+        "opacity" : "255"
+      }
+    },
+    "effect" : "effect_compose_lizi",
+    "useBatchNode" : "true",
+    "order" : "6",
+    "f16" : {
+      "remove" : "1"
+    }
+  },
+  "图层 7_4" : {
+    "f7" : {
+      "start" : {
+        "x" : "-35.25",
+        "y" : "56.75",
+        "rotation" : "-45.71321105957031",
+        "scaleX" : "1.1619839687677422",
+        "scaleY" : "1.1619839687677422",
+        "opacity" : "255"
+      }
+    },
+    "effect" : "effect_compose_lizi",
+    "useBatchNode" : "true",
+    "order" : "5",
+    "f22" : {
+      "remove" : "1"
+    }
+  },
+  "图层 8_5" : {
+    "f12" : {
+      "start" : {
+        "x" : "-54.5",
+        "y" : "-32.8",
+        "rotation" : "-45.71275329589844",
+        "scaleX" : "1.9402152149147993",
+        "scaleY" : "1.9402152149147993",
+        "opacity" : "255"
+      }
+    },
+    "effect" : "effect_compose_lizi",
+    "useBatchNode" : "true",
+    "order" : "4",
+    "f28" : {
+      "remove" : "1"
+    }
+  },
+  "图层 9_6" : {
+    "f5" : {
+      "start" : {
+        "x" : "-23.25",
+        "y" : "15.6",
+        "rotation" : "-45.71321105957031",
+        "scaleX" : "1.7925492447309794",
+        "scaleY" : "1.7925492447309794",
+        "opacity" : "255"
+      }
+    },
+    "effect" : "effect_compose_lizi",
+    "useBatchNode" : "true",
+    "order" : "3",
+    "f21" : {
+      "remove" : "1"
+    }
+  },
+  "图层 10_7" : {
+    "f1" : {
+      "start" : {
+        "x" : "-48.9",
+        "y" : "9.85",
+        "rotation" : "0",
+        "scaleX" : "1.647796630859375",
+        "scaleY" : "1.647796630859375",
+        "opacity" : "255"
+      }
+    },
+    "effect" : "effect_compose_lizi",
+    "useBatchNode" : "true",
+    "order" : "2",
+    "f17" : {
+      "remove" : "1"
+    }
+  },
+  "图层 1 复制_8" : {
+    "f1" : {
+      "start" : {
+        "x" : "-3.75",
+        "y" : "-2.3",
+        "rotation" : "0",
+        "scaleX" : "1.79998779296875",
+        "scaleY" : "1.79998779296875",
+        "opacity" : "255",
+        "png" : "effect_db_xx_1.png"
+      },
+      "nextFrame" : "f30",
+      "frames" : "30"
+    },
+    "order" : "1",
+    "f30" : {
+      "start" : {
+        "x" : "-3.75",
+        "y" : "-2.3",
+        "rotation" : "0",
+        "scaleX" : "2.15997314453125",
+        "scaleY" : "2.15997314453125",
+        "opacity" : "0",
+        "png" : "effect_db_xx_1.png"
+      }
+    }
+  },
+  "图层 1_9" : {
+    "f1" : {
+      "start" : {
+        "x" : "-3.75",
+        "y" : "-2.3",
+        "rotation" : "0",
+        "scaleX" : "1.439971923828125",
+        "scaleY" : "1.439971923828125",
+        "opacity" : "0",
+        "png" : "effect_db_xx_1.png"
+      },
+      "nextFrame" : "f30",
+      "frames" : "30"
+    },
+    "order" : "0",
+    "f30" : {
+      "start" : {
+        "x" : "-3.75",
+        "y" : "-2.3",
+        "rotation" : "0",
+        "scaleX" : "1.79998779296875",
+        "scaleY" : "1.79998779296875",
+        "opacity" : "255",
+        "png" : "effect_db_xx_1.png"
+      }
+    }
+  },
+  "events" : {
+    "f30" : "forever"
+  },
+  "scale" : "2",
+  "png" : "effect_db_xx.png"
+}

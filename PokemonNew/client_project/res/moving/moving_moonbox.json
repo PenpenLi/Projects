@@ -1,0 +1,84 @@
+{
+  "effect_ygbh_a" : {
+    "f1" : {
+      "start" : {
+        "x" : "-1.9",
+        "y" : "-135.8",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    },
+    "order" : "2",
+    "f23" : {
+      "remove" : "1"
+    }
+  },
+  "effect_ygbh_b" : {
+    "f9" : {
+      "start" : {
+        "x" : "-1.65",
+        "y" : "-140",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    },
+    "order" : "1"
+  },
+  "moving_moonbox_box" : {
+    "f5" : {
+      "start" : {
+        "x" : "-15.15",
+        "y" : "-132.05",
+        "rotation" : "0",
+        "scaleX" : "0.25",
+        "scaleY" : "0.25",
+        "opacity" : "0"
+      },
+      "nextFrame" : "f9",
+      "frames" : "5"
+    },
+    "order" : "0",
+    "f9" : {
+      "start" : {
+        "x" : "10.85",
+        "y" : "-38.9",
+        "rotation" : "0",
+        "scaleX" : "1.44",
+        "scaleY" : "1.44",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f12",
+      "frames" : "4"
+    },
+    "f12" : {
+      "start" : {
+        "x" : "14.15",
+        "y" : "-47.55",
+        "rotation" : "0",
+        "scaleX" : "0.96",
+        "scaleY" : "0.96",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f20",
+      "frames" : "9"
+    },
+    "f20" : {
+      "start" : {
+        "x" : "14.15",
+        "y" : "-47.55",
+        "rotation" : "0",
+        "scaleX" : "0.96",
+        "scaleY" : "0.96",
+        "opacity" : "255"
+      }
+    }
+  },
+  "events" : {
+    "f23" : "over",
+    "f120" : "finish"
+  }
+}

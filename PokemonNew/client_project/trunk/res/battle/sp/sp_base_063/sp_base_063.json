@@ -1,0 +1,81 @@
+{
+  "02-棒缩小-小棒子受鸡1 复制_0" : {
+    "f1" : {
+      "start" : {
+        "x" : "0.65",
+        "y" : "-40.8",
+        "rotation" : "0",
+        "scaleX" : "1.43",
+        "scaleY" : "1.43",
+        "opacity" : "255",
+        "png" : "sp_base_063_1.png"
+      }
+    },
+    "order" : "0",
+    "f2" : {
+      "start" : {
+        "x" : "14.6",
+        "y" : "-35.55",
+        "rotation" : "0",
+        "scaleX" : "1.43",
+        "scaleY" : "1.43",
+        "opacity" : "255",
+        "png" : "sp_base_063_2.png"
+      }
+    },
+    "f3" : {
+      "start" : {
+        "x" : "13.8",
+        "y" : "-15.35",
+        "rotation" : "0",
+        "scaleX" : "1.43",
+        "scaleY" : "1.43",
+        "opacity" : "255",
+        "png" : "sp_base_063_3.png"
+      }
+    },
+    "f5" : {
+      "start" : {
+        "x" : "6.3",
+        "y" : "-5.2",
+        "rotation" : "0",
+        "scaleX" : "1.43",
+        "scaleY" : "1.43",
+        "opacity" : "255",
+        "png" : "sp_base_063_4.png"
+      }
+    },
+    "f7" : {
+      "start" : {
+        "x" : "0.75",
+        "y" : "-0.7",
+        "rotation" : "0",
+        "scaleX" : "1.43",
+        "scaleY" : "1.43",
+        "opacity" : "255",
+        "png" : "sp_base_063_5.png"
+      },
+      "nextFrame" : "f12",
+      "frames" : "6"
+    },
+    "f12" : {
+      "start" : {
+        "x" : "0.75",
+        "y" : "7.3",
+        "rotation" : "0",
+        "scaleX" : "1.5",
+        "scaleY" : "1.5",
+        "opacity" : "40",
+        "png" : "sp_base_063_5.png"
+      }
+    },
+    "f13" : {
+      "remove" : "1"
+    }
+  },
+  "events" : {
+    "f14" : "finish"
+  },
+  "scale" : "1",
+  "png" : "sp_base_063.png"
+}

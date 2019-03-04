@@ -1,0 +1,407 @@
+{
+  "武器_1" : {
+    "f1" : {
+      "start" : {
+        "x" : "-43.35",
+        "y" : "18",
+        "rotation" : "25",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "effect_mxcj_rw_1.png"
+      },
+      "nextFrame" : "f30",
+      "frames" : "30"
+    },
+    "order" : "9",
+    "f30" : {
+      "start" : {
+        "x" : "-41.15",
+        "y" : "19.45",
+        "rotation" : "25",
+        "scaleX" : "0.98",
+        "scaleY" : "0.98",
+        "opacity" : "255",
+        "png" : "effect_mxcj_rw_1.png"
+      },
+      "nextFrame" : "f60",
+      "frames" : "31"
+    },
+    "f60" : {
+      "start" : {
+        "x" : "-43.35",
+        "y" : "18",
+        "rotation" : "25",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "effect_mxcj_rw_1.png"
+      }
+    }
+  },
+  "二爷_2" : {
+    "f1" : {
+      "start" : {
+        "x" : "-55.5",
+        "y" : "28.9",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "effect_mxcj_rw_2.png"
+      },
+      "nextFrame" : "f30",
+      "frames" : "30"
+    },
+    "order" : "8",
+    "f30" : {
+      "start" : {
+        "x" : "-53.4",
+        "y" : "30.3",
+        "rotation" : "0",
+        "scaleX" : "0.98",
+        "scaleY" : "0.98",
+        "opacity" : "255",
+        "png" : "effect_mxcj_rw_2.png"
+      },
+      "nextFrame" : "f60",
+      "frames" : "31"
+    },
+    "f60" : {
+      "start" : {
+        "x" : "-55.5",
+        "y" : "28.9",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "effect_mxcj_rw_2.png"
+      }
+    }
+  },
+  "飘带_3" : {
+    "f1" : {
+      "start" : {
+        "x" : "-85.25",
+        "y" : "5.4",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "effect_mxcj_rw_3.png"
+      },
+      "nextFrame" : "f30",
+      "frames" : "30"
+    },
+    "order" : "7",
+    "f30" : {
+      "start" : {
+        "x" : "-87.75",
+        "y" : "13.05",
+        "rotation" : "16.17",
+        "scaleX" : "0.99",
+        "scaleY" : "0.91",
+        "opacity" : "255",
+        "png" : "effect_mxcj_rw_3.png"
+      },
+      "nextFrame" : "f60",
+      "frames" : "31"
+    },
+    "f60" : {
+      "start" : {
+        "x" : "-85.25",
+        "y" : "5.4",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "effect_mxcj_rw_3.png"
+      }
+    }
+  },
+  "地面影子_4" : {
+    "f1" : {
+      "start" : {
+        "x" : "-64.95",
+        "y" : "-67.05",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "effect_mxcj_rw_4.png"
+      },
+      "nextFrame" : "f30",
+      "frames" : "30"
+    },
+    "order" : "6",
+    "f30" : {
+      "start" : {
+        "x" : "-65.3",
+        "y" : "-66.35",
+        "rotation" : "0",
+        "scaleX" : "0.94",
+        "scaleY" : "0.94",
+        "opacity" : "255",
+        "png" : "effect_mxcj_rw_4.png"
+      },
+      "nextFrame" : "f60",
+      "frames" : "31"
+    },
+    "f60" : {
+      "start" : {
+        "x" : "-64.95",
+        "y" : "-67.05",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "effect_mxcj_rw_4.png"
+      }
+    }
+  },
+  "斗篷_5" : {
+    "f1" : {
+      "start" : {
+        "x" : "75.6",
+        "y" : "-44",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "effect_mxcj_rw_5.png"
+      },
+      "nextFrame" : "f30",
+      "frames" : "30"
+    },
+    "order" : "5",
+    "f30" : {
+      "start" : {
+        "x" : "77.9",
+        "y" : "-41.7",
+        "rotation" : "-5.25",
+        "scaleX" : "0.97",
+        "scaleY" : "0.99",
+        "opacity" : "255",
+        "png" : "effect_mxcj_rw_5.png"
+      },
+      "nextFrame" : "f60",
+      "frames" : "31"
+    },
+    "f60" : {
+      "start" : {
+        "x" : "75.6",
+        "y" : "-44",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "effect_mxcj_rw_5.png"
+      }
+    }
+  },
+  "sun 副本 2_6" : {
+    "f1" : {
+      "start" : {
+        "x" : "76.7",
+        "y" : "13.1",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "effect_mxcj_rw_6.png"
+      },
+      "nextFrame" : "f30",
+      "frames" : "30"
+    },
+    "order" : "4",
+    "f30" : {
+      "start" : {
+        "x" : "75.5",
+        "y" : "17.75",
+        "rotation" : "-19.16",
+        "scaleX" : "1.07",
+        "scaleY" : "1.11",
+        "opacity" : "255",
+        "png" : "effect_mxcj_rw_6.png"
+      },
+      "nextFrame" : "f60",
+      "frames" : "31"
+    },
+    "f60" : {
+      "start" : {
+        "x" : "76.7",
+        "y" : "13.1",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "effect_mxcj_rw_6.png"
+      }
+    }
+  },
+  "sun 副本_7" : {
+    "f1" : {
+      "start" : {
+        "x" : "79.45",
+        "y" : "11.3",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "effect_mxcj_rw_7.png"
+      },
+      "nextFrame" : "f30",
+      "frames" : "30"
+    },
+    "order" : "3",
+    "f30" : {
+      "start" : {
+        "x" : "77.25",
+        "y" : "14",
+        "rotation" : "-4.18",
+        "scaleX" : "1.02",
+        "scaleY" : "1.03",
+        "opacity" : "255",
+        "png" : "effect_mxcj_rw_7.png"
+      },
+      "nextFrame" : "f60",
+      "frames" : "31"
+    },
+    "f60" : {
+      "start" : {
+        "x" : "79.45",
+        "y" : "11.3",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "effect_mxcj_rw_7.png"
+      }
+    }
+  },
+  "孙悟空_8" : {
+    "f1" : {
+      "start" : {
+        "x" : "42.7",
+        "y" : "-34.55",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "effect_mxcj_rw_8.png"
+      },
+      "nextFrame" : "f30",
+      "frames" : "30"
+    },
+    "order" : "2",
+    "f30" : {
+      "start" : {
+        "x" : "41",
+        "y" : "-35.1",
+        "rotation" : "0",
+        "scaleX" : "1.03",
+        "scaleY" : "1.03",
+        "opacity" : "255",
+        "png" : "effect_mxcj_rw_8.png"
+      },
+      "nextFrame" : "f60",
+      "frames" : "31"
+    },
+    "f60" : {
+      "start" : {
+        "x" : "42.7",
+        "y" : "-34.55",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "effect_mxcj_rw_8.png"
+      }
+    }
+  },
+  "金箍棒_9" : {
+    "f1" : {
+      "start" : {
+        "x" : "44.4",
+        "y" : "-28.75",
+        "rotation" : "-29",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "effect_mxcj_rw_9.png"
+      },
+      "nextFrame" : "f30",
+      "frames" : "30"
+    },
+    "order" : "1",
+    "f30" : {
+      "start" : {
+        "x" : "43.1",
+        "y" : "-30.9",
+        "rotation" : "-29",
+        "scaleX" : "1.03",
+        "scaleY" : "1.03",
+        "opacity" : "255",
+        "png" : "effect_mxcj_rw_9.png"
+      },
+      "nextFrame" : "f60",
+      "frames" : "31"
+    },
+    "f60" : {
+      "start" : {
+        "x" : "44.4",
+        "y" : "-28.75",
+        "rotation" : "-29",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "effect_mxcj_rw_9.png"
+      }
+    }
+  },
+  "图层 10_10" : {
+    "f1" : {
+      "start" : {
+        "x" : "73.6",
+        "y" : "-85.55",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "effect_mxcj_rw_10.png"
+      },
+      "nextFrame" : "f30",
+      "frames" : "30"
+    },
+    "order" : "0",
+    "f30" : {
+      "start" : {
+        "x" : "72.7",
+        "y" : "-86.95",
+        "rotation" : "0",
+        "scaleX" : "1.03",
+        "scaleY" : "1.03",
+        "opacity" : "255",
+        "png" : "effect_mxcj_rw_10.png"
+      },
+      "nextFrame" : "f60",
+      "frames" : "31"
+    },
+    "f60" : {
+      "start" : {
+        "x" : "73.6",
+        "y" : "-85.55",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "effect_mxcj_rw_10.png"
+      }
+    }
+  },
+  "events" : {
+    "f60" : "forever"
+  },
+  "scale" : "1",
+  "png" : "effect_mxcj_rw.png"
+}

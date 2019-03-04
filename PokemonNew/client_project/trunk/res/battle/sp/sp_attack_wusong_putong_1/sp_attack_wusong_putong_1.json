@@ -1,0 +1,119 @@
+{
+  "图层 2_0" : {
+    "f1" : {
+      "start" : {
+        "x" : "3.65",
+        "y" : "149.45",
+        "rotation" : "-121.33",
+        "scaleX" : "2.36",
+        "scaleY" : "2.36",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f4",
+      "frames" : "4"
+    },
+    "sp" : "sp_base_425",
+    "useBatchNode" : "true",
+    "order" : "1",
+    "f4" : {
+      "start" : {
+        "x" : "70.5",
+        "y" : "190.75",
+        "rotation" : "-121.33",
+        "scaleX" : "2.36",
+        "scaleY" : "2.36",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f17",
+      "frames" : "14"
+    },
+    "first_frame" : "2",
+    "loop" : "loop",
+    "f17" : {
+      "start" : {
+        "x" : "102.1",
+        "y" : "197.5",
+        "rotation" : "-121.33",
+        "scaleX" : "2.36",
+        "scaleY" : "2.36",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f21",
+      "frames" : "5"
+    },
+    "f21" : {
+      "start" : {
+        "x" : "127.65",
+        "y" : "210.3",
+        "rotation" : "-121.33",
+        "scaleX" : "2.36",
+        "scaleY" : "2.36",
+        "opacity" : "38"
+      }
+    },
+    "f22" : {
+      "remove" : "1"
+    }
+  },
+  "图层 3_1" : {
+    "f1" : {
+      "start" : {
+        "x" : "-7.8",
+        "y" : "104.45",
+        "rotation" : "-32.71",
+        "scaleX" : "1.31",
+        "scaleY" : "1.31",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f4",
+      "frames" : "4"
+    },
+    "sp" : "sp_wusong_laohu",
+    "useBatchNode" : "true",
+    "order" : "0",
+    "f4" : {
+      "start" : {
+        "x" : "93",
+        "y" : "184.65",
+        "rotation" : "-18.24",
+        "scaleX" : "1.31",
+        "scaleY" : "1.31",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f17",
+      "frames" : "14"
+    },
+    "f17" : {
+      "start" : {
+        "x" : "117.3",
+        "y" : "193.15",
+        "rotation" : "-18.24",
+        "scaleX" : "1.31",
+        "scaleY" : "1.31",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f21",
+      "frames" : "5"
+    },
+    "first_frame" : "2",
+    "loop" : "loop",
+    "f21" : {
+      "start" : {
+        "x" : "144.05",
+        "y" : "201.65",
+        "rotation" : "-18.24",
+        "scaleX" : "1.31",
+        "scaleY" : "1.31",
+        "opacity" : "43"
+      }
+    },
+    "f22" : {
+      "remove" : "1"
+    }
+  },
+  "events" : {
+    "f23" : "finish"
+  },
+  "scale" : "1",
+  "png" : ""
+}

@@ -1,0 +1,66 @@
+{
+  "circle4" : {
+    "f1" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f750",
+      "frames" : "750"
+    },
+    "order" : "0",
+    "f750" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "89.99",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f1500",
+      "frames" : "751"
+    },
+    "f1500" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "180",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f2250",
+      "frames" : "751"
+    },
+    "f2250" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "270",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f3000",
+      "frames" : "751"
+    },
+    "f3000" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "360",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    }
+  },
+  "events" : {
+    "f3000" : "forever"
+  }
+}

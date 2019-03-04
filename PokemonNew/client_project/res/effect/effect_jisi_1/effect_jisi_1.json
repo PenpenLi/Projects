@@ -1,0 +1,445 @@
+{
+  "图层 7_0" : {
+    "f1" : {
+      "start" : {
+        "x" : "-27.4",
+        "y" : "-10.8",
+        "rotation" : "0",
+        "scaleX" : "2.66",
+        "scaleY" : "2.75",
+        "opacity" : "255"
+      }
+    },
+    "effect" : "effect_jisi_stargroup",
+    "useBatchNode" : "true",
+    "order" : "4",
+    "f18" : {
+      "start" : {
+        "x" : "-27.4",
+        "y" : "-10.8",
+        "rotation" : "0",
+        "scaleX" : "2.66",
+        "scaleY" : "2.75",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f20",
+      "frames" : "3"
+    },
+    "first_frame" : "20",
+    "loop" : "loop",
+    "f20" : {
+      "start" : {
+        "x" : "-27.4",
+        "y" : "-10.8",
+        "rotation" : "0",
+        "scaleX" : "2.66",
+        "scaleY" : "2.75",
+        "opacity" : "40"
+      }
+    },
+    "f21" : {
+      "remove" : "1"
+    }
+  },
+  "图层 6_1" : {
+    "f1" : {
+      "start" : {
+        "x" : "-86.1",
+        "y" : "-83.05",
+        "rotation" : "-53.08",
+        "scaleX" : "-0.27",
+        "scaleY" : "1.44",
+        "opacity" : "0"
+      },
+      "nextFrame" : "f3",
+      "frames" : "3"
+    },
+    "effect" : "effect_jisi_light1",
+    "useBatchNode" : "true",
+    "order" : "3",
+    "f3" : {
+      "start" : {
+        "x" : "-86.1",
+        "y" : "-83.05",
+        "rotation" : "-53.08",
+        "scaleX" : "-0.27",
+        "scaleY" : "1.44",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f6",
+      "frames" : "4"
+    },
+    "f6" : {
+      "start" : {
+        "x" : "-88.25",
+        "y" : "-72.45",
+        "rotation" : "-53.08",
+        "scaleX" : "-0.23",
+        "scaleY" : "1.7",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f9",
+      "frames" : "4"
+    },
+    "f9" : {
+      "start" : {
+        "x" : "-86.1",
+        "y" : "-83.05",
+        "rotation" : "-53.08",
+        "scaleX" : "-0.27",
+        "scaleY" : "1.44",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f12",
+      "frames" : "4"
+    },
+    "f12" : {
+      "start" : {
+        "x" : "-88.25",
+        "y" : "-72.45",
+        "rotation" : "-53.08",
+        "scaleX" : "-0.23",
+        "scaleY" : "1.7",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f15",
+      "frames" : "4"
+    },
+    "f15" : {
+      "start" : {
+        "x" : "-86.1",
+        "y" : "-83.05",
+        "rotation" : "-53.08",
+        "scaleX" : "-0.27",
+        "scaleY" : "1.44",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f18",
+      "frames" : "4"
+    },
+    "f18" : {
+      "start" : {
+        "x" : "-88.25",
+        "y" : "-72.45",
+        "rotation" : "-53.08",
+        "scaleX" : "-0.23",
+        "scaleY" : "1.7",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f20",
+      "frames" : "3"
+    },
+    "f20" : {
+      "start" : {
+        "x" : "-86.1",
+        "y" : "-83.05",
+        "rotation" : "-53.08",
+        "scaleX" : "-0.27",
+        "scaleY" : "1.44",
+        "opacity" : "0"
+      }
+    }
+  },
+  "图层 5_2" : {
+    "f1" : {
+      "start" : {
+        "x" : "82.9",
+        "y" : "-83.05",
+        "rotation" : "53.08",
+        "scaleX" : "0.27",
+        "scaleY" : "1.44",
+        "opacity" : "0"
+      },
+      "nextFrame" : "f3",
+      "frames" : "3"
+    },
+    "effect" : "effect_jisi_light1",
+    "useBatchNode" : "true",
+    "order" : "2",
+    "f3" : {
+      "start" : {
+        "x" : "82.9",
+        "y" : "-83.05",
+        "rotation" : "53.08",
+        "scaleX" : "0.27",
+        "scaleY" : "1.44",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f6",
+      "frames" : "4"
+    },
+    "f6" : {
+      "start" : {
+        "x" : "84.05",
+        "y" : "-74.3",
+        "rotation" : "53.08",
+        "scaleX" : "0.24",
+        "scaleY" : "1.66",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f9",
+      "frames" : "4"
+    },
+    "f9" : {
+      "start" : {
+        "x" : "82.9",
+        "y" : "-83.05",
+        "rotation" : "53.08",
+        "scaleX" : "0.27",
+        "scaleY" : "1.44",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f12",
+      "frames" : "4"
+    },
+    "f12" : {
+      "start" : {
+        "x" : "84.05",
+        "y" : "-74.3",
+        "rotation" : "53.08",
+        "scaleX" : "0.24",
+        "scaleY" : "1.66",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f15",
+      "frames" : "4"
+    },
+    "f15" : {
+      "start" : {
+        "x" : "82.9",
+        "y" : "-83.05",
+        "rotation" : "53.08",
+        "scaleX" : "0.27",
+        "scaleY" : "1.44",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f18",
+      "frames" : "4"
+    },
+    "f18" : {
+      "start" : {
+        "x" : "84.05",
+        "y" : "-74.3",
+        "rotation" : "53.08",
+        "scaleX" : "0.24",
+        "scaleY" : "1.66",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f20",
+      "frames" : "3"
+    },
+    "f20" : {
+      "start" : {
+        "x" : "82.9",
+        "y" : "-83.05",
+        "rotation" : "53.08",
+        "scaleX" : "0.27",
+        "scaleY" : "1.44",
+        "opacity" : "0"
+      }
+    }
+  },
+  "图层 4_3" : {
+    "f1" : {
+      "start" : {
+        "x" : "-71.95",
+        "y" : "-17.95",
+        "rotation" : "-16.43",
+        "scaleX" : "-0.28",
+        "scaleY" : "2.87",
+        "opacity" : "0"
+      },
+      "nextFrame" : "f3",
+      "frames" : "3"
+    },
+    "effect" : "effect_jisi_light1",
+    "useBatchNode" : "true",
+    "order" : "1",
+    "f3" : {
+      "start" : {
+        "x" : "-71.95",
+        "y" : "-17.95",
+        "rotation" : "-16.43",
+        "scaleX" : "-0.28",
+        "scaleY" : "2.87",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f6",
+      "frames" : "4"
+    },
+    "f6" : {
+      "start" : {
+        "x" : "-64.15",
+        "y" : "-5.75",
+        "rotation" : "-16.43",
+        "scaleX" : "-0.22",
+        "scaleY" : "3.1",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f9",
+      "frames" : "4"
+    },
+    "f9" : {
+      "start" : {
+        "x" : "-71.95",
+        "y" : "-17.95",
+        "rotation" : "-16.43",
+        "scaleX" : "-0.28",
+        "scaleY" : "2.87",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f12",
+      "frames" : "4"
+    },
+    "f12" : {
+      "start" : {
+        "x" : "-64.15",
+        "y" : "-5.75",
+        "rotation" : "-16.43",
+        "scaleX" : "-0.22",
+        "scaleY" : "3.1",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f15",
+      "frames" : "4"
+    },
+    "f15" : {
+      "start" : {
+        "x" : "-71.95",
+        "y" : "-17.95",
+        "rotation" : "-16.43",
+        "scaleX" : "-0.28",
+        "scaleY" : "2.87",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f18",
+      "frames" : "4"
+    },
+    "f18" : {
+      "start" : {
+        "x" : "-64.15",
+        "y" : "-5.75",
+        "rotation" : "-16.43",
+        "scaleX" : "-0.22",
+        "scaleY" : "3.1",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f20",
+      "frames" : "3"
+    },
+    "f20" : {
+      "start" : {
+        "x" : "-71.95",
+        "y" : "-17.95",
+        "rotation" : "-16.43",
+        "scaleX" : "-0.28",
+        "scaleY" : "2.87",
+        "opacity" : "0"
+      }
+    }
+  },
+  "图层 3_4" : {
+    "f1" : {
+      "start" : {
+        "x" : "68.7",
+        "y" : "-12.55",
+        "rotation" : "16.43",
+        "scaleX" : "0.27",
+        "scaleY" : "2.99",
+        "opacity" : "0"
+      },
+      "nextFrame" : "f3",
+      "frames" : "3"
+    },
+    "effect" : "effect_jisi_light1",
+    "useBatchNode" : "true",
+    "order" : "0",
+    "f3" : {
+      "start" : {
+        "x" : "68.7",
+        "y" : "-12.55",
+        "rotation" : "16.43",
+        "scaleX" : "0.27",
+        "scaleY" : "2.99",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f6",
+      "frames" : "4"
+    },
+    "f6" : {
+      "start" : {
+        "x" : "60.9",
+        "y" : "1.05",
+        "rotation" : "16.43",
+        "scaleX" : "0.21",
+        "scaleY" : "3.25",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f9",
+      "frames" : "4"
+    },
+    "f9" : {
+      "start" : {
+        "x" : "68.7",
+        "y" : "-12.55",
+        "rotation" : "16.43",
+        "scaleX" : "0.27",
+        "scaleY" : "2.99",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f12",
+      "frames" : "4"
+    },
+    "f12" : {
+      "start" : {
+        "x" : "60.9",
+        "y" : "1.05",
+        "rotation" : "16.43",
+        "scaleX" : "0.21",
+        "scaleY" : "3.25",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f15",
+      "frames" : "4"
+    },
+    "f15" : {
+      "start" : {
+        "x" : "68.7",
+        "y" : "-12.55",
+        "rotation" : "16.43",
+        "scaleX" : "0.27",
+        "scaleY" : "2.99",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f18",
+      "frames" : "4"
+    },
+    "f18" : {
+      "start" : {
+        "x" : "60.9",
+        "y" : "1.05",
+        "rotation" : "16.43",
+        "scaleX" : "0.21",
+        "scaleY" : "3.25",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f20",
+      "frames" : "3"
+    },
+    "f20" : {
+      "start" : {
+        "x" : "68.7",
+        "y" : "-12.55",
+        "rotation" : "16.43",
+        "scaleX" : "0.27",
+        "scaleY" : "2.99",
+        "opacity" : "0"
+      }
+    }
+  },
+  "events" : {
+    "f22" : "finish"
+  },
+  "scale" : "1",
+  "png" : ""
+}

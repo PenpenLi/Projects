@@ -1,0 +1,94 @@
+{
+  "字幕_0" : {
+    "f291" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    },
+    "effect" : "effect_zm_5",
+    "useBatchNode" : "true",
+    "order" : "4"
+  },
+  "字幕_1" : {
+    "f185" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    },
+    "effect" : "effect_zm_4",
+    "useBatchNode" : "true",
+    "order" : "3",
+    "f291" : {
+      "remove" : "1"
+    }
+  },
+  "字幕_2" : {
+    "f148" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    },
+    "effect" : "effect_zm_3",
+    "useBatchNode" : "true",
+    "order" : "2",
+    "f185" : {
+      "remove" : "1"
+    }
+  },
+  "字幕_3" : {
+    "f103" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    },
+    "effect" : "effect_zm_2",
+    "useBatchNode" : "true",
+    "order" : "1",
+    "f148" : {
+      "remove" : "1"
+    }
+  },
+  "字幕_4" : {
+    "f1" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    },
+    "effect" : "effect_zm_1",
+    "useBatchNode" : "true",
+    "order" : "0",
+    "f103" : {
+      "remove" : "1"
+    }
+  },
+  "events" : {
+    "f404" : "finish"
+  },
+  "scale" : "1.54",
+  "png" : ""
+}
