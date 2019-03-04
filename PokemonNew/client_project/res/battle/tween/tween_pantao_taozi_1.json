@@ -1,0 +1,102 @@
+{
+  "pantao" : {
+    "f1" : {
+      "start" : {
+        "x" : "-68.3",
+        "y" : "369.05",
+        "rotation" : "-152.6",
+        "scaleX" : "0.76",
+        "scaleY" : "0.76",
+        "opacity" : "0"
+      },
+      "nextFrame" : "f4",
+      "frames" : "4"
+    },
+    "order" : "0",
+    "f4" : {
+      "start" : {
+        "x" : "-68.3",
+        "y" : "178.25",
+        "rotation" : "-152.67",
+        "scaleX" : "0.76",
+        "scaleY" : "0.76",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f6",
+      "frames" : "3"
+    },
+    "f6" : {
+      "start" : {
+        "x" : "-68.3",
+        "y" : "37.05",
+        "rotation" : "-95.9",
+        "scaleX" : "0.76",
+        "scaleY" : "0.76",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f8",
+      "frames" : "3"
+    },
+    "f8" : {
+      "start" : {
+        "x" : "-68.3",
+        "y" : "55.05",
+        "rotation" : "-56.17",
+        "scaleX" : "0.76",
+        "scaleY" : "0.76",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f11",
+      "frames" : "4"
+    },
+    "f11" : {
+      "start" : {
+        "x" : "-10.3",
+        "y" : "-10.9",
+        "rotation" : "-32.94",
+        "scaleX" : "0.76",
+        "scaleY" : "0.76",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f13",
+      "frames" : "3"
+    },
+    "f13" : {
+      "start" : {
+        "x" : "-10.3",
+        "y" : "11.1",
+        "rotation" : "-32.94",
+        "scaleX" : "0.76",
+        "scaleY" : "0.76",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f15",
+      "frames" : "3"
+    },
+    "f15" : {
+      "start" : {
+        "x" : "-6.3",
+        "y" : "9.35",
+        "rotation" : "7.78",
+        "scaleX" : "0.76",
+        "scaleY" : "0.76",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f17",
+      "frames" : "3"
+    },
+    "f17" : {
+      "start" : {
+        "x" : "6.6",
+        "y" : "-0.9",
+        "rotation" : "62.21",
+        "scaleX" : "0.76",
+        "scaleY" : "0.76",
+        "opacity" : "255"
+      }
+    }
+  },
+  "events" : {
+    "f18" : "finish"
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "skill_effect" : {
+    "f1" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "34",
+        "scaleY" : "60",
+        "color" : {
+          "alpha_original" : "1",
+          "alpha" : "0",
+          "red_original" : "0",
+          "red" : "255",
+          "green_original" : "0",
+          "green" : "255",
+          "blue_original" : "0",
+          "blue" : "255"
+        }
+      },
+      "nextFrame" : "f4",
+      "frames" : "4"
+    },
+    "order" : "0",
+    "f4" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "34",
+        "scaleY" : "60",
+        "color" : {
+          "alpha_original" : "1",
+          "alpha" : "0",
+          "red_original" : "0",
+          "red" : "0",
+          "green_original" : "0",
+          "green" : "0",
+          "blue_original" : "0",
+          "blue" : "0"
+        }
+      },
+      "nextFrame" : "f7",
+      "frames" : "4"
+    },
+    "f7" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "34",
+        "scaleY" : "60",
+        "color" : {
+          "alpha_original" : "0.7",
+          "alpha" : "0",
+          "red_original" : "1",
+          "red" : "0",
+          "green_original" : "1",
+          "green" : "0",
+          "blue_original" : "1",
+          "blue" : "0"
+        }
+      }
+    },
+    "useBatchNode" : "false"
+  },
+  "events" : {
+    "f56" : "finish"
+  }
+}

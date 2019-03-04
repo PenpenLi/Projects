@@ -1,0 +1,102 @@
+{
+  "pantao" : {
+    "f1" : {
+      "start" : {
+        "x" : "-8.75",
+        "y" : "332.15",
+        "rotation" : "-26.91",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "0"
+      },
+      "nextFrame" : "f4",
+      "frames" : "4"
+    },
+    "order" : "0",
+    "f4" : {
+      "start" : {
+        "x" : "-8.7",
+        "y" : "210.65",
+        "rotation" : "-126.07",
+        "scaleX" : "1",
+        "scaleY" : "0.96",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f6",
+      "frames" : "3"
+    },
+    "f6" : {
+      "start" : {
+        "x" : "-8.75",
+        "y" : "-1.15",
+        "rotation" : "-97.79",
+        "scaleX" : "1",
+        "scaleY" : "0.94",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f10",
+      "frames" : "5"
+    },
+    "f10" : {
+      "start" : {
+        "x" : "-8.75",
+        "y" : "27.15",
+        "rotation" : "-63.41",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f12",
+      "frames" : "3"
+    },
+    "f12" : {
+      "start" : {
+        "x" : "-8.7",
+        "y" : "1.8",
+        "rotation" : "-84.68",
+        "scaleX" : "1",
+        "scaleY" : "0.97",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f14",
+      "frames" : "3"
+    },
+    "f14" : {
+      "start" : {
+        "x" : "-8.75",
+        "y" : "4.5",
+        "rotation" : "-57.64",
+        "scaleX" : "1",
+        "scaleY" : "0.95",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f15",
+      "frames" : "2"
+    },
+    "f15" : {
+      "start" : {
+        "x" : "-8.75",
+        "y" : "-1.15",
+        "rotation" : "-56.08",
+        "scaleX" : "1",
+        "scaleY" : "0.94",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f21",
+      "frames" : "7"
+    },
+    "f21" : {
+      "start" : {
+        "x" : "11.25",
+        "y" : "-1.15",
+        "rotation" : "-22.64",
+        "scaleX" : "1",
+        "scaleY" : "0.94",
+        "opacity" : "255"
+      }
+    }
+  },
+  "events" : {
+    "f22" : "finish"
+  }
+}

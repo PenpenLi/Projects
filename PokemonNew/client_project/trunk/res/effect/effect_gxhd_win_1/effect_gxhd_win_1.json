@@ -1,0 +1,34 @@
+{
+  "图层 2_0" : {
+    "f4" : {
+      "start" : {
+        "x" : "-1.9",
+        "y" : "-6.6",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "0"
+      },
+      "nextFrame" : "f8",
+      "frames" : "5"
+    },
+    "effect" : "effect_gxhd_line",
+    "useBatchNode" : "true",
+    "order" : "0",
+    "f8" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    }
+  },
+  "events" : {
+    "f179" : "finish"
+  },
+  "scale" : "1",
+  "png" : ""
+}

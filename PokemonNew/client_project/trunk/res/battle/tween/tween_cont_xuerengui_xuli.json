@@ -1,0 +1,57 @@
+{
+  "skill_effect" : {
+    "f1" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "34",
+        "scaleY" : "60",
+        "opacity" : "0",
+        "spId" : "sp_black"
+      },
+      "nextFrame" : "f6",
+      "frames" : "6"
+    },
+    "order" : "0",
+    "f6" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "34",
+        "scaleY" : "60",
+        "opacity" : "178",
+        "spId" : "sp_black"
+      }
+    },
+    "f35" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "34",
+        "scaleY" : "60",
+        "opacity" : "178",
+        "spId" : "sp_black"
+      },
+      "nextFrame" : "f40",
+      "frames" : "6"
+    },
+    "f40" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "34",
+        "scaleY" : "60",
+        "opacity" : "0",
+        "spId" : "sp_black"
+      }
+    },
+    "useBatchNode" : "true"
+  },
+  "events" : {
+    "f41" : "finish"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "图层 1_0" : {
+    "f1" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "0.77",
+        "scaleY" : "0.77",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f9",
+      "frames" : "9"
+    },
+    "sp" : "sp_base_248",
+    "useBatchNode" : "true",
+    "order" : "0",
+    "f9" : {
+      "start" : {
+        "x" : "0",
+        "y" : "861.4",
+        "rotation" : "0",
+        "scaleX" : "0.77",
+        "scaleY" : "0.77",
+        "opacity" : "255"
+      }
+    },
+    "f10" : {
+      "remove" : "1"
+    }
+  },
+  "events" : {
+    "f11" : "finish"
+  },
+  "scale" : "1",
+  "png" : ""
+}

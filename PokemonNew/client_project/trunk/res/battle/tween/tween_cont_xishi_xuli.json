@@ -1,0 +1,117 @@
+{
+  "skill_effect" : {
+    "f1" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "34",
+        "scaleY" : "60",
+        "opacity" : "0",
+        "spId" : "sp_black"
+      },
+      "nextFrame" : "f6",
+      "frames" : "6"
+    },
+    "order" : "0",
+    "f6" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "34",
+        "scaleY" : "60",
+        "opacity" : "178",
+        "spId" : "sp_black"
+      }
+    },
+    "f31" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "34",
+        "scaleY" : "60",
+        "spId" : "sp_black",
+        "color" : {
+          "alpha_original" : "0.7",
+          "alpha" : "0",
+          "red_original" : "1",
+          "red" : "0",
+          "green_original" : "1",
+          "green" : "15",
+          "blue_original" : "1",
+          "blue" : "68"
+        }
+      },
+      "nextFrame" : "f34",
+      "frames" : "4"
+    },
+    "f34" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "34",
+        "scaleY" : "60",
+        "spId" : "sp_black",
+        "color" : {
+          "alpha_original" : "0.7",
+          "alpha" : "0",
+          "red_original" : "1",
+          "red" : "0",
+          "green_original" : "1",
+          "green" : "0",
+          "blue_original" : "1",
+          "blue" : "0"
+        }
+      }
+    },
+    "f45" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "34",
+        "scaleY" : "60",
+        "spId" : "sp_black",
+        "color" : {
+          "alpha_original" : "0.7",
+          "alpha" : "0",
+          "red_original" : "1",
+          "red" : "0",
+          "green_original" : "1",
+          "green" : "0",
+          "blue_original" : "1",
+          "blue" : "0"
+        }
+      },
+      "nextFrame" : "f50",
+      "frames" : "6"
+    },
+    "f50" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "34",
+        "scaleY" : "60",
+        "spId" : "sp_black",
+        "color" : {
+          "alpha_original" : "0",
+          "alpha" : "0",
+          "red_original" : "1",
+          "red" : "0",
+          "green_original" : "1",
+          "green" : "0",
+          "blue_original" : "1",
+          "blue" : "0"
+        }
+      }
+    },
+    "useBatchNode" : "false"
+  },
+  "events" : {
+    "f51" : "finish"
+  }
+}

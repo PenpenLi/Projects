@@ -1,0 +1,110 @@
+{
+  "图层 1_0" : {
+    "f1" : {
+      "start" : {
+        "x" : "-5.3",
+        "y" : "-64",
+        "rotation" : "28.6",
+        "scaleX" : "0.34",
+        "scaleY" : "0.34",
+        "opacity" : "0"
+      },
+      "nextFrame" : "f11",
+      "frames" : "11"
+    },
+    "effect" : "effect_86",
+    "useBatchNode" : "false",
+    "order" : "3",
+    "f11" : {
+      "start" : {
+        "x" : "-15",
+        "y" : "-72.05",
+        "rotation" : "28.6",
+        "scaleX" : "0.34",
+        "scaleY" : "0.34",
+        "opacity" : "255"
+      }
+    },
+    "f15" : {
+      "start" : {
+        "x" : "-15",
+        "y" : "-72.05",
+        "rotation" : "28.6",
+        "scaleX" : "0.34",
+        "scaleY" : "0.34",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f19",
+      "frames" : "5"
+    },
+    "f19" : {
+      "start" : {
+        "x" : "36.5",
+        "y" : "50",
+        "rotation" : "28.6",
+        "scaleX" : "1.37",
+        "scaleY" : "1.37",
+        "color" : {
+          "alpha_original" : "1",
+          "alpha" : "0",
+          "red_original" : "0",
+          "red" : "255",
+          "green_original" : "0",
+          "green" : "255",
+          "blue_original" : "0",
+          "blue" : "255"
+        }
+      }
+    }
+  },
+  "图层 5_1" : {
+    "f10" : {
+      "start" : {
+        "x" : "-10.75",
+        "y" : "-67.6",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    },
+    "effect" : "effect_2004",
+    "useBatchNode" : "true",
+    "order" : "2"
+  },
+  "图层 4_2" : {
+    "f6" : {
+      "start" : {
+        "x" : "-10.75",
+        "y" : "-67.6",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    },
+    "effect" : "effect_2004",
+    "useBatchNode" : "true",
+    "order" : "1"
+  },
+  "图层 3_3" : {
+    "f1" : {
+      "start" : {
+        "x" : "-10.75",
+        "y" : "-67.6",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    },
+    "effect" : "effect_2004",
+    "useBatchNode" : "true",
+    "order" : "0"
+  },
+  "events" : {
+    "f20" : "finish"
+  },
+  "scale" : "1",
+  "png" : ""
+}

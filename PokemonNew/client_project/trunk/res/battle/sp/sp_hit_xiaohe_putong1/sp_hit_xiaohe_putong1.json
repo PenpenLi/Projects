@@ -1,0 +1,94 @@
+{
+  "图层 3_0" : {
+    "f1" : {
+      "start" : {
+        "x" : "14.15",
+        "y" : "-1.5",
+        "rotation" : "87.55",
+        "scaleX" : "0.52",
+        "scaleY" : "0.52",
+        "color" : {
+          "alpha_original" : "1",
+          "alpha" : "0",
+          "red_original" : "1",
+          "red" : "255",
+          "green_original" : "1",
+          "green" : "90",
+          "blue_original" : "1",
+          "blue" : "0"
+        }
+      },
+      "nextFrame" : "f3",
+      "frames" : "3"
+    },
+    "sp" : "sp_base_177",
+    "useBatchNode" : "false",
+    "order" : "0",
+    "f3" : {
+      "start" : {
+        "x" : "9.85",
+        "y" : "-46.95",
+        "rotation" : "87.55",
+        "scaleX" : "1.78",
+        "scaleY" : "1.74",
+        "color" : {
+          "alpha_original" : "1",
+          "alpha" : "0",
+          "red_original" : "1",
+          "red" : "255",
+          "green_original" : "1",
+          "green" : "90",
+          "blue_original" : "1",
+          "blue" : "0"
+        }
+      }
+    },
+    "first_frame" : "4",
+    "loop" : "loop",
+    "f12" : {
+      "start" : {
+        "x" : "9.8",
+        "y" : "-45.8",
+        "rotation" : "87.55",
+        "scaleX" : "1.89",
+        "scaleY" : "1.77",
+        "color" : {
+          "alpha_original" : "1",
+          "alpha" : "0",
+          "red_original" : "1",
+          "red" : "255",
+          "green_original" : "1",
+          "green" : "90",
+          "blue_original" : "1",
+          "blue" : "0"
+        }
+      },
+      "nextFrame" : "f14",
+      "frames" : "3"
+    },
+    "f14" : {
+      "start" : {
+        "x" : "9.8",
+        "y" : "-45.3",
+        "rotation" : "87.55",
+        "scaleX" : "1.95",
+        "scaleY" : "1.95",
+        "color" : {
+          "alpha_original" : "0",
+          "alpha" : "0",
+          "red_original" : "1",
+          "red" : "255",
+          "green_original" : "1",
+          "green" : "90",
+          "blue_original" : "1",
+          "blue" : "0"
+        }
+      }
+    }
+  },
+  "events" : {
+    "f15" : "finish"
+  },
+  "scale" : "1",
+  "png" : ""
+}

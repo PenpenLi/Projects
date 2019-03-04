@@ -1,0 +1,55 @@
+{
+  "图层 2  复制 2_0" : {
+
+  },
+  "图层 2 复制_1" : {
+    "f1" : {
+      "start" : {
+        "x" : "1",
+        "y" : "0.7",
+        "rotation" : "0",
+        "scaleX" : "0.77",
+        "scaleY" : "0.77",
+        "opacity" : "255"
+      }
+    },
+    "effect" : "effect_star_single",
+    "useBatchNode" : "true",
+    "order" : "2"
+  },
+  "图层 2_2" : {
+    "f1" : {
+      "start" : {
+        "x" : "-32.3",
+        "y" : "0.7",
+        "rotation" : "0",
+        "scaleX" : "0.77",
+        "scaleY" : "0.77",
+        "opacity" : "255"
+      }
+    },
+    "effect" : "effect_star_single",
+    "useBatchNode" : "true",
+    "order" : "1"
+  },
+  "图层 3_3" : {
+    "f1" : {
+      "start" : {
+        "x" : "-0.2",
+        "y" : "0.45",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    },
+    "effect" : "effect_0star",
+    "useBatchNode" : "true",
+    "order" : "0"
+  },
+  "events" : {
+    "f2" : "finish"
+  },
+  "scale" : "1",
+  "png" : ""
+}

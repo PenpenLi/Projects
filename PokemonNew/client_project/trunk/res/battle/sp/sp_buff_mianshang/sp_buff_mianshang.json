@@ -1,0 +1,47 @@
+{
+  "图层 2_1" : {
+    "f1" : {
+      "start" : {
+        "x" : "1.4",
+        "y" : "73.25",
+        "rotation" : "0",
+        "scaleX" : "1.52",
+        "scaleY" : "1.52",
+        "opacity" : "255",
+        "png" : "sp_buff_mianshang_1.png"
+      },
+      "nextFrame" : "f20",
+      "frames" : "20"
+    },
+    "order" : "0",
+    "f20" : {
+      "start" : {
+        "x" : "1.4",
+        "y" : "73.25",
+        "rotation" : "0",
+        "scaleX" : "1.57",
+        "scaleY" : "1.57",
+        "opacity" : "147",
+        "png" : "sp_buff_mianshang_1.png"
+      },
+      "nextFrame" : "f40",
+      "frames" : "21"
+    },
+    "f40" : {
+      "start" : {
+        "x" : "1.4",
+        "y" : "73.28",
+        "rotation" : "0",
+        "scaleX" : "1.52",
+        "scaleY" : "1.52",
+        "opacity" : "255",
+        "png" : "sp_buff_mianshang_1.png"
+      }
+    }
+  },
+  "events" : {
+    "f40" : "forever"
+  },
+  "scale" : "2",
+  "png" : "sp_buff_mianshang.png"
+}

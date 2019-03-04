@@ -1,0 +1,109 @@
+{
+  "scene_foreground" : {
+    "f26" : {
+      "start" : {
+        "x" : "-642.05",
+        "y" : "4128.55",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "153",
+        "spId" : "sp_paotu_tianjie_up"
+      }
+    },
+    "order" : "3"
+  },
+  "scene_knight" : {
+    "f1" : {
+      "start" : {
+        "x" : "14.2",
+        "y" : "-1794.3",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f26",
+      "frames" : "26"
+    },
+    "order" : "2",
+    "f26" : {
+      "start" : {
+        "x" : "14.2",
+        "y" : "-1794.3",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f47",
+      "frames" : "22"
+    },
+    "f47" : {
+      "start" : {
+        "x" : "-0.2",
+        "y" : "-1266.8",
+        "rotation" : "0",
+        "scaleX" : "0.6",
+        "scaleY" : "0.6",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f136",
+      "frames" : "90"
+    },
+    "f136" : {
+      "start" : {
+        "x" : "-0.2",
+        "y" : "-1266.8",
+        "rotation" : "0",
+        "scaleX" : "0.6",
+        "scaleY" : "0.6",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f165",
+      "frames" : "30"
+    },
+    "f165" : {
+      "start" : {
+        "x" : "14.2",
+        "y" : "-2392.25",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    }
+  },
+  "scene_background" : {
+    "f1" : {
+      "start" : {
+        "x" : "-642.05",
+        "y" : "4128.55",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "spId" : "sp_paotu_tianjie_down"
+      }
+    },
+    "order" : "1"
+  },
+  "blue" : {
+    "f1" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    },
+    "order" : "0"
+  },
+  "events" : {
+    "f1" : "second",
+    "f165" : "second_stop",
+    "f166" : "finish"
+  }
+}

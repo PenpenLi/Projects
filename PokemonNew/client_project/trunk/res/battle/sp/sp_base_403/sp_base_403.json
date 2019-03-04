@@ -1,0 +1,103 @@
+{
+  "图层 1_0" : {
+    "f1" : {
+      "start" : {
+        "x" : "6",
+        "y" : "73.45",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "sp_base_403_1.png"
+      }
+    },
+    "order" : "0",
+    "f2" : {
+      "start" : {
+        "x" : "4.5",
+        "y" : "86.95",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "sp_base_403_2.png"
+      }
+    },
+    "f3" : {
+      "start" : {
+        "x" : "4.5",
+        "y" : "92.45",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1.04",
+        "opacity" : "255",
+        "png" : "sp_base_403_2.png"
+      }
+    },
+    "f4" : {
+      "start" : {
+        "x" : "6",
+        "y" : "89.5",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1.05",
+        "opacity" : "255",
+        "png" : "sp_base_403_3.png"
+      }
+    },
+    "f5" : {
+      "start" : {
+        "x" : "6",
+        "y" : "97.05",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1.11",
+        "opacity" : "255",
+        "png" : "sp_base_403_3.png"
+      }
+    },
+    "f6" : {
+      "start" : {
+        "x" : "12.5",
+        "y" : "115.95",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "sp_base_403_4.png"
+      }
+    },
+    "f7" : {
+      "start" : {
+        "x" : "5",
+        "y" : "116.95",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "sp_base_403_5.png"
+      },
+      "nextFrame" : "f10",
+      "frames" : "4"
+    },
+    "f10" : {
+      "start" : {
+        "x" : "5",
+        "y" : "129.95",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "38",
+        "png" : "sp_base_403_5.png"
+      }
+    },
+    "f11" : {
+      "remove" : "1"
+    }
+  },
+  "events" : {
+    "f12" : "finish"
+  },
+  "scale" : "1",
+  "png" : "sp_base_403.png"
+}

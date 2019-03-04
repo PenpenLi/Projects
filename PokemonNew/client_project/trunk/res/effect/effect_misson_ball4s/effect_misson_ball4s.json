@@ -1,0 +1,46 @@
+{
+  "图层 1_1" : {
+    "f1" : {
+      "start" : {
+        "x" : "45.5",
+        "y" : "15",
+        "rotation" : "0",
+        "scaleX" : "6.48",
+        "scaleY" : "6.48",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f11",
+      "frames" : "11"
+    },
+    "effect" : "effect_misson_ball4",
+    "useBatchNode" : "true",
+    "order" : "0",
+    "f11" : {
+      "start" : {
+        "x" : "45.5",
+        "y" : "15",
+        "rotation" : "0",
+        "scaleX" : "4.7",
+        "scaleY" : "4.7",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f20",
+      "frames" : "10"
+    },
+    "f20" : {
+      "start" : {
+        "x" : "45.5",
+        "y" : "15",
+        "rotation" : "0",
+        "scaleX" : "6.48",
+        "scaleY" : "6.48",
+        "opacity" : "255"
+      }
+    }
+  },
+  "events" : {
+    "f20" : "forever"
+  },
+  "scale" : "1",
+  "png" : ""
+}

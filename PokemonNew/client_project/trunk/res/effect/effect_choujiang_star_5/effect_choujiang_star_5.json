@@ -1,0 +1,34 @@
+{
+  "图层 1_1" : {
+    "f1" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "-12.24",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "effect_choujiang_star_5_1.png"
+      },
+      "nextFrame" : "f2000",
+      "frames" : "2000"
+    },
+    "order" : "0",
+    "f2000" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "-12.24",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "effect_choujiang_star_5_1.png"
+      }
+    }
+  },
+  "events" : {
+    "f2000" : "forever"
+  },
+  "scale" : "1.33",
+  "png" : "effect_choujiang_star_5.png"
+}

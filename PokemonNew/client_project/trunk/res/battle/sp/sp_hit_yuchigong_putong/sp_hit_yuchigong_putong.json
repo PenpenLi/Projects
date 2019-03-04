@@ -1,0 +1,52 @@
+{
+  "图层 4_0" : {
+
+  },
+  "图层 3_1" : {
+    "f1" : {
+      "start" : {
+        "x" : "15.8",
+        "y" : "36.7",
+        "rotation" : "60.65",
+        "scaleX" : "3.15",
+        "scaleY" : "4.07",
+        "opacity" : "255"
+      }
+    },
+    "sp" : "sp_base_343",
+    "useBatchNode" : "true",
+    "order" : "0",
+    "f4" : {
+      "start" : {
+        "x" : "15.8",
+        "y" : "36.7",
+        "rotation" : "60.65",
+        "scaleX" : "3.15",
+        "scaleY" : "4.07",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f6",
+      "frames" : "3"
+    },
+    "first_frame" : "2",
+    "loop" : "loop",
+    "f6" : {
+      "start" : {
+        "x" : "-0.05",
+        "y" : "71.65",
+        "rotation" : "60.65",
+        "scaleX" : "2.78",
+        "scaleY" : "0.73",
+        "opacity" : "255"
+      }
+    },
+    "f7" : {
+      "remove" : "1"
+    }
+  },
+  "events" : {
+    "f11" : "finish"
+  },
+  "scale" : "1",
+  "png" : ""
+}

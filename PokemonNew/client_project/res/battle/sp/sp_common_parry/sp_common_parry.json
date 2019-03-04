@@ -1,0 +1,47 @@
+{
+  "图层 1_0" : {
+    "f1" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "20",
+        "png" : "sp_common_parry_1.png"
+      },
+      "nextFrame" : "f10",
+      "frames" : "10"
+    },
+    "order" : "0",
+    "f10" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "sp_common_parry_1.png"
+      },
+      "nextFrame" : "f20",
+      "frames" : "11"
+    },
+    "f20" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "20",
+        "png" : "sp_common_parry_1.png"
+      }
+    }
+  },
+  "events" : {
+    "f21" : "finish"
+  },
+  "scale" : "1",
+  "png" : "sp_common_parry.png"
+}

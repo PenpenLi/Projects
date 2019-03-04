@@ -1,0 +1,398 @@
+{
+  "图层 4_1" : {
+    "f1" : {
+      "start" : {
+        "x" : "-56.3",
+        "y" : "-21.2",
+        "rotation" : "0",
+        "scaleX" : "0.46",
+        "scaleY" : "0.57",
+        "opacity" : "216"
+      },
+      "nextFrame" : "f5",
+      "frames" : "5"
+    },
+    "effect" : "effect_button_lingqu_dian",
+    "useBatchNode" : "true",
+    "order" : "4",
+    "f5" : {
+      "start" : {
+        "x" : "-56.3",
+        "y" : "-3.7",
+        "rotation" : "0",
+        "scaleX" : "0.49",
+        "scaleY" : "2.27",
+        "opacity" : "216"
+      },
+      "nextFrame" : "f9",
+      "frames" : "5"
+    },
+    "f9" : {
+      "start" : {
+        "x" : "-54.6",
+        "y" : "18",
+        "rotation" : "0",
+        "scaleX" : "0.49",
+        "scaleY" : "0.57",
+        "opacity" : "216"
+      },
+      "nextFrame" : "f16",
+      "frames" : "8"
+    },
+    "f16" : {
+      "start" : {
+        "x" : "10.35",
+        "y" : "19.2",
+        "rotation" : "0",
+        "scaleX" : "4.91",
+        "scaleY" : "0.57",
+        "opacity" : "216"
+      },
+      "nextFrame" : "f19",
+      "frames" : "4"
+    },
+    "f19" : {
+      "start" : {
+        "x" : "45.55",
+        "y" : "18.8",
+        "rotation" : "0",
+        "scaleX" : "1.57",
+        "scaleY" : "0.57",
+        "opacity" : "216"
+      }
+    }
+  },
+  "图层 3_2" : {
+    "f1" : {
+      "start" : {
+        "x" : "58.6",
+        "y" : "18",
+        "rotation" : "0",
+        "scaleX" : "0.51",
+        "scaleY" : "0.57",
+        "opacity" : "216"
+      },
+      "nextFrame" : "f5",
+      "frames" : "5"
+    },
+    "effect" : "effect_button_lingqu_dian",
+    "useBatchNode" : "true",
+    "order" : "3",
+    "f5" : {
+      "start" : {
+        "x" : "58.35",
+        "y" : "-3.7",
+        "rotation" : "0",
+        "scaleX" : "0.46",
+        "scaleY" : "2.27",
+        "opacity" : "216"
+      },
+      "nextFrame" : "f9",
+      "frames" : "5"
+    },
+    "f9" : {
+      "start" : {
+        "x" : "58.85",
+        "y" : "-21.2",
+        "rotation" : "0",
+        "scaleX" : "0.49",
+        "scaleY" : "0.57",
+        "opacity" : "216"
+      },
+      "nextFrame" : "f16",
+      "frames" : "8"
+    },
+    "f16" : {
+      "start" : {
+        "x" : "8.15",
+        "y" : "-21.45",
+        "rotation" : "0",
+        "scaleX" : "4.81",
+        "scaleY" : "0.57",
+        "opacity" : "216"
+      },
+      "nextFrame" : "f19",
+      "frames" : "4"
+    },
+    "f19" : {
+      "start" : {
+        "x" : "-40.4",
+        "y" : "-20.9",
+        "rotation" : "0",
+        "scaleX" : "1.59",
+        "scaleY" : "0.57",
+        "opacity" : "216"
+      }
+    }
+  },
+  "图层 2_3" : {
+    "f1" : {
+      "start" : {
+        "x" : "0.1",
+        "y" : "-0.05",
+        "rotation" : "0",
+        "scaleX" : "0.98",
+        "scaleY" : "0.98",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f10",
+      "frames" : "10"
+    },
+    "effect" : "effect_button_lingqu_kuang",
+    "useBatchNode" : "true",
+    "order" : "2",
+    "f10" : {
+      "start" : {
+        "x" : "0.1",
+        "y" : "-0.05",
+        "rotation" : "0",
+        "scaleX" : "0.98",
+        "scaleY" : "0.98",
+        "opacity" : "0"
+      },
+      "nextFrame" : "f19",
+      "frames" : "10"
+    },
+    "f19" : {
+      "start" : {
+        "x" : "0.1",
+        "y" : "-0.05",
+        "rotation" : "0",
+        "scaleX" : "0.98",
+        "scaleY" : "0.98",
+        "opacity" : "255"
+      }
+    }
+  },
+  "图层 5_4" : {
+    "f1" : {
+      "start" : {
+        "x" : "2.85",
+        "y" : "-3.05",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "png" : "effect_button_lingqu_1.png"
+      }
+    },
+    "order" : "1"
+  },
+  "图层 1_5" : {
+    "f1" : {
+      "start" : {
+        "x" : "1.55",
+        "y" : "-1.5",
+        "rotation" : "0",
+        "scaleX" : "0.98",
+        "scaleY" : "0.98",
+        "opacity" : "255",
+        "png" : "effect_button_lingqu_2.png"
+      }
+    },
+    "order" : "0",
+    "f2" : {
+      "start" : {
+        "x" : "1.55",
+        "y" : "-1.5",
+        "rotation" : "0",
+        "scaleX" : "0.98",
+        "scaleY" : "0.98",
+        "opacity" : "255",
+        "png" : "effect_button_lingqu_3.png"
+      }
+    },
+    "f3" : {
+      "start" : {
+        "x" : "1.55",
+        "y" : "-1.5",
+        "rotation" : "0",
+        "scaleX" : "0.98",
+        "scaleY" : "0.98",
+        "opacity" : "255",
+        "png" : "effect_button_lingqu_4.png"
+      }
+    },
+    "f4" : {
+      "start" : {
+        "x" : "1.55",
+        "y" : "-1.5",
+        "rotation" : "0",
+        "scaleX" : "0.98",
+        "scaleY" : "0.98",
+        "opacity" : "255",
+        "png" : "effect_button_lingqu_5.png"
+      }
+    },
+    "f5" : {
+      "start" : {
+        "x" : "1.55",
+        "y" : "-1.5",
+        "rotation" : "0",
+        "scaleX" : "0.98",
+        "scaleY" : "0.98",
+        "opacity" : "255",
+        "png" : "effect_button_lingqu_6.png"
+      }
+    },
+    "f6" : {
+      "start" : {
+        "x" : "1.55",
+        "y" : "-1.5",
+        "rotation" : "0",
+        "scaleX" : "0.98",
+        "scaleY" : "0.98",
+        "opacity" : "255",
+        "png" : "effect_button_lingqu_7.png"
+      }
+    },
+    "f7" : {
+      "start" : {
+        "x" : "1.55",
+        "y" : "-1.5",
+        "rotation" : "0",
+        "scaleX" : "0.98",
+        "scaleY" : "0.98",
+        "opacity" : "255",
+        "png" : "effect_button_lingqu_8.png"
+      }
+    },
+    "f8" : {
+      "start" : {
+        "x" : "1.55",
+        "y" : "-1.5",
+        "rotation" : "0",
+        "scaleX" : "0.98",
+        "scaleY" : "0.98",
+        "opacity" : "255",
+        "png" : "effect_button_lingqu_9.png"
+      }
+    },
+    "f9" : {
+      "start" : {
+        "x" : "1.55",
+        "y" : "-1.5",
+        "rotation" : "0",
+        "scaleX" : "0.98",
+        "scaleY" : "0.98",
+        "opacity" : "255",
+        "png" : "effect_button_lingqu_10.png"
+      }
+    },
+    "f10" : {
+      "start" : {
+        "x" : "1.55",
+        "y" : "-1.5",
+        "rotation" : "0",
+        "scaleX" : "0.98",
+        "scaleY" : "0.98",
+        "opacity" : "255",
+        "png" : "effect_button_lingqu_11.png"
+      }
+    },
+    "f11" : {
+      "start" : {
+        "x" : "1.55",
+        "y" : "-1.5",
+        "rotation" : "0",
+        "scaleX" : "0.98",
+        "scaleY" : "0.98",
+        "opacity" : "255",
+        "png" : "effect_button_lingqu_10.png"
+      }
+    },
+    "f12" : {
+      "start" : {
+        "x" : "1.55",
+        "y" : "-1.5",
+        "rotation" : "0",
+        "scaleX" : "0.98",
+        "scaleY" : "0.98",
+        "opacity" : "255",
+        "png" : "effect_button_lingqu_9.png"
+      }
+    },
+    "f13" : {
+      "start" : {
+        "x" : "1.55",
+        "y" : "-1.5",
+        "rotation" : "0",
+        "scaleX" : "0.98",
+        "scaleY" : "0.98",
+        "opacity" : "255",
+        "png" : "effect_button_lingqu_8.png"
+      }
+    },
+    "f14" : {
+      "start" : {
+        "x" : "1.55",
+        "y" : "-1.5",
+        "rotation" : "0",
+        "scaleX" : "0.98",
+        "scaleY" : "0.98",
+        "opacity" : "255",
+        "png" : "effect_button_lingqu_7.png"
+      }
+    },
+    "f15" : {
+      "start" : {
+        "x" : "1.55",
+        "y" : "-1.5",
+        "rotation" : "0",
+        "scaleX" : "0.98",
+        "scaleY" : "0.98",
+        "opacity" : "255",
+        "png" : "effect_button_lingqu_6.png"
+      }
+    },
+    "f16" : {
+      "start" : {
+        "x" : "1.55",
+        "y" : "-1.5",
+        "rotation" : "0",
+        "scaleX" : "0.98",
+        "scaleY" : "0.98",
+        "opacity" : "255",
+        "png" : "effect_button_lingqu_5.png"
+      }
+    },
+    "f17" : {
+      "start" : {
+        "x" : "1.55",
+        "y" : "-1.5",
+        "rotation" : "0",
+        "scaleX" : "0.98",
+        "scaleY" : "0.98",
+        "opacity" : "255",
+        "png" : "effect_button_lingqu_4.png"
+      }
+    },
+    "f18" : {
+      "start" : {
+        "x" : "1.55",
+        "y" : "-1.5",
+        "rotation" : "0",
+        "scaleX" : "0.98",
+        "scaleY" : "0.98",
+        "opacity" : "255",
+        "png" : "effect_button_lingqu_3.png"
+      }
+    },
+    "f19" : {
+      "start" : {
+        "x" : "1.55",
+        "y" : "-1.5",
+        "rotation" : "0",
+        "scaleX" : "0.98",
+        "scaleY" : "0.98",
+        "opacity" : "255",
+        "png" : "effect_button_lingqu_2.png"
+      }
+    }
+  },
+  "events" : {
+    "f19" : "forever"
+  },
+  "scale" : "1",
+  "png" : "effect_button_lingqu.png"
+}

@@ -1,0 +1,102 @@
+{
+  "图层 2_0" : {
+    "f4" : {
+      "start" : {
+        "x" : "6.7",
+        "y" : "4.45",
+        "rotation" : "0",
+        "scaleX" : "1.72",
+        "scaleY" : "1.72",
+        "opacity" : "255",
+        "png" : "effect_2004_1.png"
+      },
+      "nextFrame" : "f7",
+      "frames" : "4"
+    },
+    "order" : "1",
+    "f7" : {
+      "start" : {
+        "x" : "6.7",
+        "y" : "4.45",
+        "rotation" : "0",
+        "scaleX" : "1.72",
+        "scaleY" : "1.72",
+        "opacity" : "38",
+        "png" : "effect_2004_1.png"
+      }
+    },
+    "f8" : {
+      "remove" : "1"
+    }
+  },
+  "单个生bo1_1" : {
+    "f1" : {
+      "start" : {
+        "x" : "0.95",
+        "y" : "-4.4",
+        "rotation" : "0",
+        "scaleX" : "0.93",
+        "scaleY" : "0.93",
+        "opacity" : "38",
+        "png" : "effect_2004_2.png"
+      },
+      "nextFrame" : "f3",
+      "frames" : "3"
+    },
+    "order" : "0",
+    "f3" : {
+      "start" : {
+        "x" : "2.45",
+        "y" : "-9.25",
+        "rotation" : "0",
+        "scaleX" : "2.59",
+        "scaleY" : "2.59",
+        "opacity" : "255",
+        "png" : "effect_2004_2.png"
+      }
+    },
+    "f4" : {
+      "start" : {
+        "x" : "6.7",
+        "y" : "4.45",
+        "rotation" : "0",
+        "scaleX" : "1.72",
+        "scaleY" : "1.72",
+        "opacity" : "255",
+        "png" : "effect_2004_1.png"
+      }
+    },
+    "f5" : {
+      "start" : {
+        "x" : "0.45",
+        "y" : "-4.45",
+        "rotation" : "0",
+        "scaleX" : "1.01",
+        "scaleY" : "1.01",
+        "opacity" : "255",
+        "png" : "effect_2004_3.png"
+      },
+      "nextFrame" : "f12",
+      "frames" : "8"
+    },
+    "f12" : {
+      "start" : {
+        "x" : "0.6",
+        "y" : "-5.95",
+        "rotation" : "0",
+        "scaleX" : "1.52",
+        "scaleY" : "1.52",
+        "opacity" : "35",
+        "png" : "effect_2004_3.png"
+      }
+    },
+    "f13" : {
+      "remove" : "1"
+    }
+  },
+  "events" : {
+    "f14" : "finish"
+  },
+  "scale" : "1",
+  "png" : "effect_2004.png"
+}

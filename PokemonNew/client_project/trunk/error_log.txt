@@ -1,0 +1,12 @@
+请将截图发送至游戏管理员！
+LUA ERROR: ModuleDirector:popModule :sceneSum - popSceneNum <= 0 MainCityScene times:1 stack:#|1551190791|#|MainCityScene|1551190791|#|MainCityScene|ActivityLoginRewardScene|1551190793|#|MainCityScene|1551190796|#|1551190811|#
+----------------------------------------
+
+stack traceback:
+	[string ".\app/MyApp.lua"]:139: in function 'buglyReportLuaException'
+	[string ".\app/control/ModuleDirector.lua"]:478: in function 'popModule'
+	[string ".\app/control/ModuleDirector.lua"]:99: in function <[string ".\app/control/ModuleDirector.lua"]:95>
+	[string ".\app/common/extend/NodeExtend.lua"]:543: in function 'onCleanupCallback_'
+	[string ".\cocos/framework/extends/NodeEx.lua"]:228: in function 'onCleanup_'
+	[string ".\cocos/framework/extends/NodeEx.lua"]:161: in function <[string ".\cocos/framework/extends/NodeEx.lua"]:151>
+----------------------------------------

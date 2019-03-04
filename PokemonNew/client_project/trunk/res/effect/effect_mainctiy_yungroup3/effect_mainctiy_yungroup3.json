@@ -1,0 +1,97 @@
+{
+  "effect_maincity_yun3_0" : {
+    "f1" : {
+      "start" : {
+        "x" : "988.7",
+        "y" : "-50.4",
+        "rotation" : "4.98",
+        "scaleX" : "1.74",
+        "scaleY" : "1.74",
+        "opacity" : "255"
+      }
+    },
+    "effect" : "effect_maincity_yun3",
+    "useBatchNode" : "true",
+    "order" : "5"
+  },
+  "effect_maincity_yun6_1" : {
+    "f1" : {
+      "start" : {
+        "x" : "691.15",
+        "y" : "-22.55",
+        "rotation" : "0",
+        "scaleX" : "1.77",
+        "scaleY" : "1.36",
+        "opacity" : "255"
+      }
+    },
+    "effect" : "effect_maincity_yun6",
+    "useBatchNode" : "true",
+    "order" : "4"
+  },
+  "effect_maincity_yun3_2" : {
+    "f1" : {
+      "start" : {
+        "x" : "1716.9",
+        "y" : "-50.4",
+        "rotation" : "4.98",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    },
+    "effect" : "effect_maincity_yun3",
+    "useBatchNode" : "true",
+    "order" : "3"
+  },
+  "effect_maincity_yun2_3" : {
+    "f1" : {
+      "start" : {
+        "x" : "131.55",
+        "y" : "0",
+        "rotation" : "7.73",
+        "scaleX" : "1.65",
+        "scaleY" : "1.65",
+        "opacity" : "255"
+      }
+    },
+    "effect" : "effect_maincity_yun2",
+    "useBatchNode" : "true",
+    "order" : "2"
+  },
+  "effect_maincity_yun2_4" : {
+    "f1" : {
+      "start" : {
+        "x" : "1.6",
+        "y" : "12",
+        "rotation" : "4.5",
+        "scaleX" : "1.26",
+        "scaleY" : "1.26",
+        "opacity" : "255"
+      }
+    },
+    "effect" : "effect_maincity_yun2",
+    "useBatchNode" : "true",
+    "order" : "1"
+  },
+  "effect_maincity_yun3_5" : {
+    "f1" : {
+      "start" : {
+        "x" : "-243.1",
+        "y" : "-50.4",
+        "rotation" : "4.98",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    },
+    "effect" : "effect_maincity_yun3",
+    "useBatchNode" : "true",
+    "order" : "0"
+  },
+  "events" : {
+    "f2" : "finish"
+  },
+  "scale" : "1",
+  "png" : ""
+}

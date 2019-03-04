@@ -1,0 +1,90 @@
+{
+  "图层 4_1" : {
+    "f1" : {
+      "start" : {
+        "x" : "-8.5",
+        "y" : "25.2",
+        "rotation" : "0",
+        "scaleX" : "0.73",
+        "scaleY" : "0.73",
+        "opacity" : "255"
+      }
+    },
+    "sp" : "sp_base_166",
+    "useBatchNode" : "true",
+    "order" : "2"
+  },
+  "图层 3_2" : {
+    "f1" : {
+      "start" : {
+        "x" : "-8.5",
+        "y" : "25.2",
+        "rotation" : "0",
+        "scaleX" : "0.73",
+        "scaleY" : "0.73",
+        "opacity" : "255"
+      }
+    },
+    "sp" : "sp_base_166",
+    "useBatchNode" : "true",
+    "order" : "1"
+  },
+  "图层 1_3" : {
+    "f1" : {
+      "start" : {
+        "x" : "1.5",
+        "y" : "80.25",
+        "rotation" : "0",
+        "scaleX" : "0.24",
+        "scaleY" : "0.24",
+        "opacity" : "178"
+      },
+      "nextFrame" : "f5",
+      "frames" : "5"
+    },
+    "sp" : "sp_dunpai_shan2",
+    "useBatchNode" : "true",
+    "order" : "0",
+    "f5" : {
+      "start" : {
+        "x" : "1.5",
+        "y" : "80.25",
+        "rotation" : "0",
+        "scaleX" : "0.24",
+        "scaleY" : "0.24",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f14",
+      "frames" : "10"
+    },
+    "first_frame" : "20",
+    "loop" : "play once",
+    "f14" : {
+      "start" : {
+        "x" : "1.5",
+        "y" : "80.25",
+        "rotation" : "0",
+        "scaleX" : "0.24",
+        "scaleY" : "0.24",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f20",
+      "frames" : "7"
+    },
+    "f20" : {
+      "start" : {
+        "x" : "1.5",
+        "y" : "80.25",
+        "rotation" : "0",
+        "scaleX" : "0.24",
+        "scaleY" : "0.24",
+        "opacity" : "178"
+      }
+    }
+  },
+  "events" : {
+    "f20" : "forever"
+  },
+  "scale" : "1",
+  "png" : ""
+}

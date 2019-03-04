@@ -1,0 +1,47 @@
+{
+  "图层 1_1" : {
+    "f1" : {
+      "start" : {
+        "x" : "-5.45",
+        "y" : "-0.3",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "178",
+        "png" : "effect_mxcj_maoxian_1_1.png"
+      },
+      "nextFrame" : "f30",
+      "frames" : "30"
+    },
+    "order" : "0",
+    "f30" : {
+      "start" : {
+        "x" : "-5.45",
+        "y" : "-0.3",
+        "rotation" : "0",
+        "scaleX" : "1.02",
+        "scaleY" : "1.02",
+        "opacity" : "255",
+        "png" : "effect_mxcj_maoxian_1_1.png"
+      },
+      "nextFrame" : "f60",
+      "frames" : "31"
+    },
+    "f60" : {
+      "start" : {
+        "x" : "-5.45",
+        "y" : "-0.3",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "178",
+        "png" : "effect_mxcj_maoxian_1_1.png"
+      }
+    }
+  },
+  "events" : {
+    "f60" : "forever"
+  },
+  "scale" : "1",
+  "png" : "effect_mxcj_maoxian_1.png"
+}

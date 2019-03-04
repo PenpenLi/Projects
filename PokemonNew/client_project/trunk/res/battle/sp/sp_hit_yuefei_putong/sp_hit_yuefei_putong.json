@@ -1,0 +1,120 @@
+{
+  "图层 2_0" : {
+    "f1" : {
+      "start" : {
+        "x" : "-26.05",
+        "y" : "156.85",
+        "rotation" : "-151.03",
+        "scaleX" : "-1.76",
+        "scaleY" : "0.39",
+        "color" : {
+          "alpha_original" : "1",
+          "alpha" : "0",
+          "red_original" : "1",
+          "red" : "255",
+          "green_original" : "1",
+          "green" : "255",
+          "blue_original" : "1",
+          "blue" : "255"
+        }
+      },
+      "nextFrame" : "f3",
+      "frames" : "3"
+    },
+    "sp" : "sp_base_219",
+    "useBatchNode" : "false",
+    "order" : "2",
+    "f3" : {
+      "start" : {
+        "x" : "16.15",
+        "y" : "131.1",
+        "rotation" : "-151.03",
+        "scaleX" : "-1.22",
+        "scaleY" : "0.15",
+        "color" : {
+          "alpha_original" : "1",
+          "alpha" : "0",
+          "red_original" : "1",
+          "red" : "255",
+          "green_original" : "1",
+          "green" : "255",
+          "blue_original" : "1",
+          "blue" : "255"
+        }
+      }
+    },
+    "f4" : {
+      "remove" : "1"
+    }
+  },
+  "图层 4_1" : {
+    "f1" : {
+      "start" : {
+        "x" : "-26.05",
+        "y" : "156.85",
+        "rotation" : "-151.03",
+        "scaleX" : "-2.05",
+        "scaleY" : "1.6",
+        "color" : {
+          "alpha_original" : "1",
+          "alpha" : "0",
+          "red_original" : "1",
+          "red" : "202",
+          "green_original" : "1",
+          "green" : "53",
+          "blue_original" : "1",
+          "blue" : "-255"
+        }
+      },
+      "nextFrame" : "f3",
+      "frames" : "3"
+    },
+    "sp" : "sp_base_219",
+    "useBatchNode" : "false",
+    "order" : "1",
+    "f3" : {
+      "start" : {
+        "x" : "16.15",
+        "y" : "131.1",
+        "rotation" : "-151.03",
+        "scaleX" : "-1.45",
+        "scaleY" : "0.6",
+        "color" : {
+          "alpha_original" : "1",
+          "alpha" : "0",
+          "red_original" : "1",
+          "red" : "202",
+          "green_original" : "1",
+          "green" : "53",
+          "blue_original" : "1",
+          "blue" : "-255"
+        }
+      }
+    },
+    "f4" : {
+      "remove" : "1"
+    }
+  },
+  "图层 3_2" : {
+    "f1" : {
+      "start" : {
+        "x" : "34.3",
+        "y" : "113.75",
+        "rotation" : "18.73",
+        "scaleX" : "1.33",
+        "scaleY" : "1.33",
+        "opacity" : "255"
+      }
+    },
+    "sp" : "sp_base_142",
+    "useBatchNode" : "true",
+    "first_frame" : "7",
+    "loop" : "play once",
+    "order" : "0"
+  },
+  "events" : {
+    "f13" : "finish"
+  },
+  "scale" : "1",
+  "png" : ""
+}

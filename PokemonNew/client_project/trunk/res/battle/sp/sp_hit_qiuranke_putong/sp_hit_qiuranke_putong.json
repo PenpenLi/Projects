@@ -1,0 +1,93 @@
+{
+  "图层 6_0" : {
+    "f1" : {
+      "start" : {
+        "x" : "10.05",
+        "y" : "83.5",
+        "rotation" : "21.49",
+        "scaleX" : "0.62",
+        "scaleY" : "0.14",
+        "color" : {
+          "alpha_original" : "1",
+          "alpha" : "0",
+          "red_original" : "1",
+          "red" : "0",
+          "green_original" : "1",
+          "green" : "51",
+          "blue_original" : "1",
+          "blue" : "0"
+        }
+      },
+      "nextFrame" : "f3",
+      "frames" : "3"
+    },
+    "sp" : "sp_base_219",
+    "useBatchNode" : "false",
+    "order" : "1",
+    "f3" : {
+      "start" : {
+        "x" : "32.15",
+        "y" : "74.8",
+        "rotation" : "21.48",
+        "scaleX" : "1.45",
+        "scaleY" : "0.55",
+        "color" : {
+          "alpha_original" : "1",
+          "alpha" : "0",
+          "red_original" : "1",
+          "red" : "0",
+          "green_original" : "1",
+          "green" : "51",
+          "blue_original" : "1",
+          "blue" : "0"
+        }
+      },
+      "nextFrame" : "f5",
+      "frames" : "3"
+    },
+    "f5" : {
+      "start" : {
+        "x" : "31.5",
+        "y" : "76.35",
+        "rotation" : "21.48",
+        "scaleX" : "0.87",
+        "scaleY" : "0.1",
+        "color" : {
+          "alpha_original" : "1",
+          "alpha" : "0",
+          "red_original" : "1",
+          "red" : "0",
+          "green_original" : "1",
+          "green" : "51",
+          "blue_original" : "1",
+          "blue" : "0"
+        }
+      }
+    },
+    "f6" : {
+      "remove" : "1"
+    }
+  },
+  "图层 2_1" : {
+    "f1" : {
+      "start" : {
+        "x" : "-10.45",
+        "y" : "89.25",
+        "rotation" : "-52.46",
+        "scaleX" : "1.12",
+        "scaleY" : "0.82",
+        "opacity" : "255"
+      }
+    },
+    "sp" : "sp_base_063_b",
+    "useBatchNode" : "true",
+    "first_frame" : "2",
+    "loop" : "play once",
+    "order" : "0"
+  },
+  "events" : {
+    "f13" : "finish"
+  },
+  "scale" : "1",
+  "png" : ""
+}

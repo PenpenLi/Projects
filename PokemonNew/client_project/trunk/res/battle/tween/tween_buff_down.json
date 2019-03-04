@@ -1,0 +1,69 @@
+{
+  "sp" : {
+    "f1" : {
+      "start" : {
+        "x" : "0",
+        "y" : "-127",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "spId" : "sp_buff_zisj_jian"
+      }
+    },
+    "order" : "1",
+    "f19" : {
+      "remove" : "1"
+    }
+  },
+  "txt" : {
+    "f1" : {
+      "start" : {
+        "x" : "0",
+        "y" : "100",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "0"
+      },
+      "nextFrame" : "f16",
+      "frames" : "16"
+    },
+    "order" : "0",
+    "f16" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    },
+    "f36" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f50",
+      "frames" : "15"
+    },
+    "f50" : {
+      "start" : {
+        "x" : "0",
+        "y" : "0",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "0"
+      }
+    }
+  },
+  "events" : {
+    "f51" : "finish"
+  }
+}

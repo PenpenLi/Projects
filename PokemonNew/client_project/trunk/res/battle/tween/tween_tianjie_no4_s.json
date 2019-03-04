@@ -1,0 +1,135 @@
+{
+  "sp" : {
+    "f26" : {
+      "start" : {
+        "x" : "-185.2",
+        "y" : "1437.25",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255",
+        "spId" : "sp_jiaodi_wuqi"
+      }
+    },
+    "order" : "2"
+  },
+  "action" : {
+    "f1" : {
+      "start" : {
+        "x" : "-188.1",
+        "y" : "1424.5",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    },
+    "order" : "1",
+    "f26" : {
+      "start" : {
+        "x" : "-188.1",
+        "y" : "1428.85",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f31",
+      "frames" : "6"
+    },
+    "f31" : {
+      "start" : {
+        "x" : "-188.1",
+        "y" : "1401.65",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f47",
+      "frames" : "17"
+    },
+    "f47" : {
+      "start" : {
+        "x" : "-188.1",
+        "y" : "2022.45",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    }
+  },
+  "base" : {
+    "f1" : {
+      "start" : {
+        "x" : "-188.1",
+        "y" : "1424.5",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    },
+    "order" : "0",
+    "f26" : {
+      "start" : {
+        "x" : "-188.1",
+        "y" : "1428.85",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f31",
+      "frames" : "6"
+    },
+    "f31" : {
+      "start" : {
+        "x" : "-188.1",
+        "y" : "1401.65",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "0"
+      },
+      "nextFrame" : "f47",
+      "frames" : "17"
+    },
+    "f47" : {
+      "start" : {
+        "x" : "-188.1",
+        "y" : "2022.45",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "0"
+      }
+    },
+    "f135" : {
+      "start" : {
+        "x" : "-188.1",
+        "y" : "2022.45",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "0"
+      },
+      "nextFrame" : "f149",
+      "frames" : "15"
+    },
+    "f149" : {
+      "start" : {
+        "x" : "-188.1",
+        "y" : "2022.45",
+        "rotation" : "0",
+        "scaleX" : "1",
+        "scaleY" : "1",
+        "opacity" : "255"
+      }
+    }
+  },
+  "events" : {
+    "f197" : "finish"
+  }
+}

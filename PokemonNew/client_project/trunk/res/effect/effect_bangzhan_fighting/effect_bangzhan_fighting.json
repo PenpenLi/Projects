@@ -1,0 +1,124 @@
+{
+  "图层 2_1" : {
+    "f1" : {
+      "start" : {
+        "x" : "0",
+        "y" : "1.45",
+        "rotation" : "-43.65",
+        "scaleX" : "-0.92",
+        "scaleY" : "0.92",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f4",
+      "frames" : "4"
+    },
+    "effect" : "effect_bangzhan_sword",
+    "useBatchNode" : "true",
+    "order" : "2",
+    "f4" : {
+      "start" : {
+        "x" : "0",
+        "y" : "1.6",
+        "rotation" : "-43.65",
+        "scaleX" : "-1.01",
+        "scaleY" : "1.01",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f9",
+      "frames" : "6"
+    },
+    "f9" : {
+      "start" : {
+        "x" : "0",
+        "y" : "1.45",
+        "rotation" : "-43.65",
+        "scaleX" : "-0.92",
+        "scaleY" : "0.92",
+        "opacity" : "255"
+      }
+    }
+  },
+  "图层 1_2" : {
+    "f1" : {
+      "start" : {
+        "x" : "0",
+        "y" : "1.45",
+        "rotation" : "43.65",
+        "scaleX" : "0.92",
+        "scaleY" : "0.92",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f4",
+      "frames" : "4"
+    },
+    "effect" : "effect_bangzhan_sword",
+    "useBatchNode" : "true",
+    "order" : "1",
+    "f4" : {
+      "start" : {
+        "x" : "0",
+        "y" : "1.6",
+        "rotation" : "43.65",
+        "scaleX" : "1.01",
+        "scaleY" : "1.01",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f9",
+      "frames" : "6"
+    },
+    "f9" : {
+      "start" : {
+        "x" : "0",
+        "y" : "1.45",
+        "rotation" : "43.65",
+        "scaleX" : "0.92",
+        "scaleY" : "0.92",
+        "opacity" : "255"
+      }
+    }
+  },
+  "图层 4_3" : {
+    "f1" : {
+      "start" : {
+        "x" : "-1",
+        "y" : "1",
+        "rotation" : "0",
+        "scaleX" : "0.23",
+        "scaleY" : "0.23",
+        "opacity" : "0"
+      },
+      "nextFrame" : "f4",
+      "frames" : "4"
+    },
+    "effect" : "effect_shexianguangshu",
+    "useBatchNode" : "true",
+    "order" : "0",
+    "f4" : {
+      "start" : {
+        "x" : "-1",
+        "y" : "1",
+        "rotation" : "0",
+        "scaleX" : "0.33",
+        "scaleY" : "0.33",
+        "opacity" : "255"
+      },
+      "nextFrame" : "f9",
+      "frames" : "6"
+    },
+    "f9" : {
+      "start" : {
+        "x" : "-1",
+        "y" : "1",
+        "rotation" : "0",
+        "scaleX" : "0.23",
+        "scaleY" : "0.23",
+        "opacity" : "0"
+      }
+    }
+  },
+  "events" : {
+    "f9" : "forever"
+  },
+  "scale" : "1",
+  "png" : ""
+}
